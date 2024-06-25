@@ -1,0 +1,2738 @@
+{
+    "annotations": [
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "7. Project Cost Management",
+                            "node-1": [
+                                {
+                                    "text": "7.1 Cost Estimating",
+                                    "node-2": [
+                                        {
+                                            "text": "7.1.1 Inputs",
+                                            "node-3": [
+                                                {
+                                                    "text": "7.1.1.1 Enterprise environ. factors"
+                                                },
+                                                {
+                                                    "text": "7.1.1.2 Organizational process assets"
+                                                },
+                                                {
+                                                    "text": "7.1.1.3 Project Scope Statement"
+                                                },
+                                                {
+                                                    "text": "7.1.1.4 Work Breakdown Structure"
+                                                },
+                                                {
+                                                    "text": "7.1.1.5 WBS Dictionary"
+                                                },
+                                                {
+                                                    "text": "7.1.1.6 Project Management Plan",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Schedule Management Plan"
+                                                        },
+                                                        {
+                                                            "text": "Staffing Management Plan"
+                                                        },
+                                                        {
+                                                            "text": "Risk Register"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "7.1.2 Tools & Techniques",
+                                            "node-3": [
+                                                {
+                                                    "text": "7.1.2.1 Analoguos Estimating"
+                                                },
+                                                {
+                                                    "text": "7.1.2.2 Determine Resource Cost Rates"
+                                                },
+                                                {
+                                                    "text": "7.1.2.3 Bottom-up Estimating"
+                                                },
+                                                {
+                                                    "text": "7.1.2.4 Parametric Estimating"
+                                                },
+                                                {
+                                                    "text": "7.1.2.5 Project Management Software"
+                                                },
+                                                {
+                                                    "text": "7.1.2.6 Vendor Bid Analysis"
+                                                },
+                                                {
+                                                    "text": "7.1.2.7 Reserve Analysis"
+                                                },
+                                                {
+                                                    "text": "7.1.2.8 Cost of Quality"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "7.1.3 Output",
+                                            "node-3": [
+                                                {
+                                                    "text": "7.1.3.1 Activity Cost Estimates",
+                                                    "relation": [
+                                                        "7.2.1.4 Activity Cost Estimates ()"
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "7.1.3.2 Activity Cost Estimate Supporting Details",
+                                                    "relation": [
+                                                        "7.2.1.5 Activity Cost Estimate Supporting Details ()"
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "7.1.3.3 Requested Changes"
+                                                },
+                                                {
+                                                    "text": "7.1.3.4 Cost Management Plan (update)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "7.2 Cost Budgeting",
+                                    "node-2": [
+                                        {
+                                            "text": "7.2.1 Inputs",
+                                            "node-3": [
+                                                {
+                                                    "text": "7.2.1.1 Project Scope Statement"
+                                                },
+                                                {
+                                                    "text": "7.2.1.2 Work Breakdown Structure"
+                                                },
+                                                {
+                                                    "text": "7.2.1.3 WBS Dictionary"
+                                                },
+                                                {
+                                                    "text": "7.2.1.4 Activity Cost Estimates",
+                                                    "relation": [
+                                                        "7.1.3.1 Activity Cost Estimates ()"
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "7.2.1.5 Activity Cost Estimate Supporting Details",
+                                                    "relation": [
+                                                        "7.1.3.2 Activity Cost Estimate Supporting Details ()"
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "7.2.1.6 Project Schedule"
+                                                },
+                                                {
+                                                    "text": "7.2.1.7 Resource Calendars"
+                                                },
+                                                {
+                                                    "text": "7.2.1.8 Contracts"
+                                                },
+                                                {
+                                                    "text": "7.2.1.9 Cost Management Plan"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "7.2.2 Tools & Techniques",
+                                            "node-3": [
+                                                {
+                                                    "text": "7.2.2.1 Cost Aggregation"
+                                                },
+                                                {
+                                                    "text": "7.2.2.2 Reserve Analysis"
+                                                },
+                                                {
+                                                    "text": "7.2.2.3 Parametic Estimation"
+                                                },
+                                                {
+                                                    "text": "7.2.2.4 Funding Limit Reconciliation"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "7.2.3 Output",
+                                            "node-3": [
+                                                {
+                                                    "text": "7.2.3.1 Cost Baseline",
+                                                    "relation": [
+                                                        "7.3.1.1 Cost Baseline ()"
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "7.2.3.2 Project Funding Requirements",
+                                                    "relation": [
+                                                        "7.3.1.2 Project Funding Requirements ()"
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "7.2.3.3 Cost Management Plan (update)"
+                                                },
+                                                {
+                                                    "text": "7.2.3.4 Requested Changes"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "7.3 Cost Control",
+                                    "node-2": [
+                                        {
+                                            "text": "7.3.1 Inputs",
+                                            "node-3": [
+                                                {
+                                                    "text": "7.3.1.1 Cost Baseline",
+                                                    "relation": [
+                                                        "7.2.3.1 Cost Baseline ()"
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "7.3.1.2 Project Funding Requirements",
+                                                    "relation": [
+                                                        "7.2.3.2 Project Funding Requirements ()"
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "7.3.1.3 Performance Reports"
+                                                },
+                                                {
+                                                    "text": "7.3.1.4 Work Performance Information"
+                                                },
+                                                {
+                                                    "text": "7.3.1.5 Approved Change Requests"
+                                                },
+                                                {
+                                                    "text": "7.3.1.6 Project Management Plan"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "7.3.2 Tools & Techniques",
+                                            "node-3": [
+                                                {
+                                                    "text": "7.3.2.1 Cost Change Control System"
+                                                },
+                                                {
+                                                    "text": "7.3.2.2 Performance Measurement Analysis"
+                                                },
+                                                {
+                                                    "text": "7.3.2.3 Forecasting"
+                                                },
+                                                {
+                                                    "text": "7.3.2.4 Project Performance Reviews"
+                                                },
+                                                {
+                                                    "text": "7.3.2.5 Project Management Software"
+                                                },
+                                                {
+                                                    "text": "7.3.2.6 Variance Management"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "7.3.3 Output",
+                                            "node-3": [
+                                                {
+                                                    "text": "7.3.3.1 Cost Estimate (update)"
+                                                },
+                                                {
+                                                    "text": "7.3.3.2 Cost Baseline (update)"
+                                                },
+                                                {
+                                                    "text": "7.3.3.3 Performance measurement"
+                                                },
+                                                {
+                                                    "text": "7.3.3.4 Forecasting completion"
+                                                },
+                                                {
+                                                    "text": "7.3.3.5 Requested Changes"
+                                                },
+                                                {
+                                                    "text": "7.3.3.6 Recommended Corrective Actions"
+                                                },
+                                                {
+                                                    "text": "7.3.3.7 Organizational Process Assets (update)"
+                                                },
+                                                {
+                                                    "text": "7.3.3.8 Project Management Plan (update)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "The purpose of this map is to help you to learn for a PMP certificate using visualization of the material. If you find it usefull anyhow please let me know "
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{65060_PMBOK_3rd_edition__7_Project_Cost_Management.png"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "BELGIUM",
+                            "node-1": [
+                                {
+                                    "text": "Antwerp"
+                                },
+                                {
+                                    "text": "Limburg"
+                                },
+                                {
+                                    "text": "Flemish Brabant"
+                                },
+                                {
+                                    "text": "East Flanders"
+                                },
+                                {
+                                    "text": "West Flanders"
+                                },
+                                {
+                                    "text": "Hainaut"
+                                },
+                                {
+                                    "text": "Walloon Brabant"
+                                },
+                                {
+                                    "text": "Namur"
+                                },
+                                {
+                                    "text": "Liège"
+                                },
+                                {
+                                    "text": "Luxembourg"
+                                },
+                                {
+                                    "text": "Bruxelles-Brussel"
+                                },
+                                {
+                                    "text": "mapped by\nWojciech Korsak"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{63748_Belgium.png"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "Paolo 3.0\nWhat's next?",
+                            "node-1": [
+                                {
+                                    "text": "Professional career",
+                                    "node-2": [
+                                        {
+                                            "text": "Corporation",
+                                            "node-3": [
+                                                {
+                                                    "text": "Pros",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Stability"
+                                                        },
+                                                        {
+                                                            "text": "Benefits"
+                                                        },
+                                                        {
+                                                            "text": "Relocation / internal opportunities"
+                                                        },
+                                                        {
+                                                            "text": "Resources"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Cons",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Politics"
+                                                        },
+                                                        {
+                                                            "text": "Working for somebody else"
+                                                        },
+                                                        {
+                                                            "text": "Not all positions are interesting"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Candidates",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "YouTube"
+                                                        },
+                                                        {
+                                                            "text": "Facebook"
+                                                        },
+                                                        {
+                                                            "text": "Google"
+                                                        },
+                                                        {
+                                                            "text": "Microsoft"
+                                                        },
+                                                        {
+                                                            "text": "Amazon"
+                                                        },
+                                                        {
+                                                            "text": "Apple"
+                                                        },
+                                                        {
+                                                            "text": "Twitter"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Startup",
+                                            "node-3": [
+                                                {
+                                                    "text": "Pros",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Exciting environment"
+                                                        },
+                                                        {
+                                                            "text": "Cool products"
+                                                        },
+                                                        {
+                                                            "text": "Stretching horizontal skills"
+                                                        },
+                                                        {
+                                                            "text": "Financial potential"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Cons",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Difficult work / life balance"
+                                                        },
+                                                        {
+                                                            "text": "Limited resources"
+                                                        },
+                                                        {
+                                                            "text": "Focus restricted to few products / services"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Candidates (see separate list)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Exploratory ideas",
+                                    "node-2": [
+                                        {
+                                            "text": "Relocate ",
+                                            "node-3": [
+                                                {
+                                                    "text": "Places of interest",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "APAC: Singapore"
+                                                        },
+                                                        {
+                                                            "text": "Europe: Munich"
+                                                        },
+                                                        {
+                                                            "text": "US: California / East Coast"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Length: ~2 years"
+                                                },
+                                                {
+                                                    "text": "Work for multi-national or sizable / reputable local company"
+                                                },
+                                                {
+                                                    "text": "Priority is on quality of life,family, cultural enrichment and travel opportunities"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Change industry",
+                                            "node-3": [
+                                                {
+                                                    "text": "Travel",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Global role in a leading edge company"
+                                                        },
+                                                        {
+                                                            "text": "Must have travel perks"
+                                                        },
+                                                        {
+                                                            "text": "Alternative: work in attractive location"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Back to school",
+                                            "node-3": [
+                                                {
+                                                    "text": "Enhance practical skills"
+                                                },
+                                                {
+                                                    "text": "Filmography, Final Cut, photography"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Sabbatical",
+                                            "node-3": [
+                                                {
+                                                    "text": "Requirements",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "2-3 months experience in unpaid \"advisory volunteer role\""
+                                                        },
+                                                        {
+                                                            "text": "Extremely strong learning experience"
+                                                        },
+                                                        {
+                                                            "text": "Visibility and networking opportunity"
+                                                        },
+                                                        {
+                                                            "text": "Potential opportunity to continue working there"
+                                                        },
+                                                        {
+                                                            "text": "High coolness factor"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "High Tech",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Online news site",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Robert Scoble"
+                                                                },
+                                                                {
+                                                                    "text": "Mashable"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "Startup",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Social Media",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "(see separate list)"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Online video",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "LiveStream"
+                                                                        },
+                                                                        {
+                                                                            "text": "UStream"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Mobile",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "(see separate list)"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Geo-location",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "GroundSpeak"
+                                                                        },
+                                                                        {
+                                                                            "text": "Foursquare"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Augmented Reality",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "Metaio"
+                                                                        },
+                                                                        {
+                                                                            "text": "Layar"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "Corporations",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Apple"
+                                                                },
+                                                                {
+                                                                    "text": "Facebook"
+                                                                },
+                                                                {
+                                                                    "text": "Google"
+                                                                },
+                                                                {
+                                                                    "text": "YouTube"
+                                                                },
+                                                                {
+                                                                    "text": "Twitter"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Others",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Education",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Small, agile and well funded organization "
+                                                                },
+                                                                {
+                                                                    "text": "Experience the field"
+                                                                },
+                                                                {
+                                                                    "text": "Social media / videographer role"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "Environment",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Leading startup in alternative energy"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "Government",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Obama's social campaign team"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Entrepreneurial path",
+                                    "node-2": [
+                                        {
+                                            "text": "External Consultant",
+                                            "node-3": [
+                                                {
+                                                    "text": "Pros",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Freedom"
+                                                        },
+                                                        {
+                                                            "text": "Low overhead"
+                                                        },
+                                                        {
+                                                            "text": "Diversified experiences"
+                                                        },
+                                                        {
+                                                            "text": "Virtual partnerships with best complementary consultants on the market"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Cons",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Scalability limited by personal time and resources"
+                                                        },
+                                                        {
+                                                            "text": "Great partners hard to find"
+                                                        },
+                                                        {
+                                                            "text": "Requires high energy to stay competitive"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Microsoft Vendor",
+                                            "node-3": [
+                                                {
+                                                    "text": "Pros",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Vast personal network"
+                                                        },
+                                                        {
+                                                            "text": "High reputation"
+                                                        },
+                                                        {
+                                                            "text": "Local"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Cons",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Too long with same company"
+                                                        },
+                                                        {
+                                                            "text": "Requires high energy to stay competitive"
+                                                        },
+                                                        {
+                                                            "text": "Cool and remunerative projects are hard to find"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Small Business",
+                                            "node-3": [
+                                                {
+                                                    "text": "Pro",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Scalable"
+                                                        },
+                                                        {
+                                                            "text": "Can take on bigger projects"
+                                                        },
+                                                        {
+                                                            "text": "Ability to delegate tasks"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Cons",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Overhead"
+                                                        },
+                                                        {
+                                                            "text": "May take long time for business to take off"
+                                                        },
+                                                        {
+                                                            "text": "May have to accept many un-fun projects just to sustain business"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "About me",
+                                    "node-2": [
+                                        {
+                                            "text": "Like",
+                                            "node-3": [
+                                                {
+                                                    "text": "Family / Social / People"
+                                                },
+                                                {
+                                                    "text": "Learn / Explore / Discover"
+                                                },
+                                                {
+                                                    "text": "Technology / Innovation"
+                                                },
+                                                {
+                                                    "text": "Travel"
+                                                },
+                                                {
+                                                    "text": "Sun"
+                                                },
+                                                {
+                                                    "text": "Autonomy / Ownership"
+                                                },
+                                                {
+                                                    "text": "Positive purpose"
+                                                },
+                                                {
+                                                    "text": "Recognition"
+                                                },
+                                                {
+                                                    "text": "Feeling healthy"
+                                                },
+                                                {
+                                                    "text": "Creativity / Curiosity"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Don't like",
+                                            "node-3": [
+                                                {
+                                                    "text": "Process"
+                                                },
+                                                {
+                                                    "text": "Unchallenging tasks"
+                                                },
+                                                {
+                                                    "text": "Be too comfortable"
+                                                },
+                                                {
+                                                    "text": "Micro-management"
+                                                },
+                                                {
+                                                    "text": "No growth / learning / discovery opportunities"
+                                                },
+                                                {
+                                                    "text": "Social confinement"
+                                                },
+                                                {
+                                                    "text": "Feeling sick"
+                                                },
+                                                {
+                                                    "text": "Negativity"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "My sentence",
+                                            "node-3": [
+                                                {
+                                                    "text": "I use my skills, creativity and passion to make the world a better place and live a purposeful life"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Values",
+                                            "node-3": [
+                                                {
+                                                    "text": "Trust"
+                                                },
+                                                {
+                                                    "text": "Transparency"
+                                                },
+                                                {
+                                                    "text": "Commitment"
+                                                },
+                                                {
+                                                    "text": "Honesty"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Strenghts",
+                                            "node-3": [
+                                                {
+                                                    "text": "Passion"
+                                                },
+                                                {
+                                                    "text": "Outgoing personality"
+                                                },
+                                                {
+                                                    "text": "Global / digital marketing experience"
+                                                },
+                                                {
+                                                    "text": "Motivated lifelong learner"
+                                                },
+                                                {
+                                                    "text": "Risk taker"
+                                                },
+                                                {
+                                                    "text": "Team player"
+                                                },
+                                                {
+                                                    "text": "Highly creative"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{75482_Career-brainstorming-what-s-my-next-job.png"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "Week Two: Marketing environment & Market Research",
+                            "node-1": [
+                                {
+                                    "text": "Marketing Environment",
+                                    "node-2": [
+                                        {
+                                            "text": "Micro",
+                                            "node-3": [
+                                                {
+                                                    "text": "Stakeholders",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "A stakeholder can be any group or individual who can affect or are affected by the achievement of organisational goals."
+                                                        },
+                                                        {
+                                                            "text": "3 types",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "External stakeholders",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "e.g. government, pressure groups, community, professional bodies"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Connected stakeholders",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "e.g. shareholders customers, suppliers, bankers"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Internal stakeholders",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "e.g. Staff, managers"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "Four different reactions to stakeholders",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Proactive",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "address problem before it becomes a problem"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Reactive",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "Ignore until forced"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Defensive",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "block and fight... PR wars, lobbying, courts"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Accommodate",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "accept responsibility and tackle issues"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "Stakeholder communications",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "What are their information needs?",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "Information required/needed"
+                                                                        },
+                                                                        {
+                                                                            "text": "Level of detail and timing"
+                                                                        },
+                                                                        {
+                                                                            "text": "What do/don't we want them to know?"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "What are the best channels?",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "Meetings, consultations, questionnaires"
+                                                                        },
+                                                                        {
+                                                                            "text": "Direct- leaflets, newsletters, exhibitions etc"
+                                                                        },
+                                                                        {
+                                                                            "text": "Indirect... PR, conferences, sponsorships"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Definition of the environment",
+                                            "node-3": [
+                                                {
+                                                    "text": "\"The forces external to the marketing management function of the firm that impinge on the marketing managements ability to develop and maintain successful transactions with its customers\""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Macro",
+                                            "node-3": [
+                                                {
+                                                    "text": "Macro Marketing",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "\"The area of study of the nations exchange process, within its own borders, in which political, cultural, social, and economic interactions are examined\""
+                                                        },
+                                                        {
+                                                            "text": "\"To manage a business well is to manage its future and to manage a future is to manage information\""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "The Macro Environment",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "P.E.S.T.L.E",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Political",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "\"Laws, government agencies, regulations and pressure groups that influence and limit various organisations in a given society\""
+                                                                        },
+                                                                        {
+                                                                            "text": "Positive impacts of governmental/ legal factors...",
+                                                                            "node-7": [
+                                                                                {
+                                                                                    "text": "Facilitates desirable social change e.g. equal pay, equal opportunities"
+                                                                                },
+                                                                                {
+                                                                                    "text": "Corrects markets i.e. makes sure they are fair and competitive"
+                                                                                },
+                                                                                {
+                                                                                    "text": "Encourages further knowledge e.g. research"
+                                                                                },
+                                                                                {
+                                                                                    "text": "Reassurance to the public"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Economic",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "The economic environment consists of factors that affect consumer purchasing power and spending patterns\""
+                                                                        },
+                                                                        {
+                                                                            "text": "The money cycle",
+                                                                            "node-7": [
+                                                                                {
+                                                                                    "text": "There are injections and leakages to and from the money cycle",
+                                                                                    "node-8": [
+                                                                                        {
+                                                                                            "text": "Injections",
+                                                                                            "node-9": [
+                                                                                                {
+                                                                                                    "text": "Investments"
+                                                                                                },
+                                                                                                {
+                                                                                                    "text": "Government spending"
+                                                                                                },
+                                                                                                {
+                                                                                                    "text": "Exports"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "text": "Leakages",
+                                                                                            "node-9": [
+                                                                                                {
+                                                                                                    "text": "Savings"
+                                                                                                },
+                                                                                                {
+                                                                                                    "text": "Taxation"
+                                                                                                },
+                                                                                                {
+                                                                                                    "text": "Imports"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "text": "These injections and leakages affect expenditure and income, and hence the movement of resources and goods for companies."
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "text": "International trade",
+                                                                            "node-7": [
+                                                                                {
+                                                                                    "text": "Why is international trade so attractive to domestic firms?",
+                                                                                    "node-8": [
+                                                                                        {
+                                                                                            "text": "A global market allows for comparative marketing studies"
+                                                                                        },
+                                                                                        {
+                                                                                            "text": "International trade allows for more competition and choice for consumers"
+                                                                                        },
+                                                                                        {
+                                                                                            "text": "World markets allow for economies of scale and cost advantage"
+                                                                                        },
+                                                                                        {
+                                                                                            "text": "Trade brings contact, cultural understanding and cooperation"
+                                                                                        },
+                                                                                        {
+                                                                                            "text": "Opening of the tiger economies. Emerging markets in asia."
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Social",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "Segmentation & Assessment of market potential is related to the analysis of studying human populations in terms of size, density, location, age, sex, race and occupation."
+                                                                        },
+                                                                        {
+                                                                            "text": "Implications of population trends to the marketer",
+                                                                            "node-7": [
+                                                                                {
+                                                                                    "text": "The aggregate demand for goods and services"
+                                                                                },
+                                                                                {
+                                                                                    "text": "The demand in different market segments/regions"
+                                                                                },
+                                                                                {
+                                                                                    "text": "The availability of labour"
+                                                                                },
+                                                                                {
+                                                                                    "text": "The level of dependents in the population"
+                                                                                },
+                                                                                {
+                                                                                    "text": "The living standards"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Technical",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "Consists of the forces that create new technologies, creating new products and market opportunities."
+                                                                        },
+                                                                        {
+                                                                            "text": "Technological diffusion process (adoption: slow or fast)",
+                                                                            "node-7": [
+                                                                                {
+                                                                                    "text": "Profitability",
+                                                                                    "node-8": [
+                                                                                        {
+                                                                                            "text": "is the new technology worth it?"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "text": "Consequences",
+                                                                                    "node-8": [
+                                                                                        {
+                                                                                            "text": "of not adopting- impact on business"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "text": "Scale of investment",
+                                                                                    "node-8": [
+                                                                                        {
+                                                                                            "text": "In both soft and hardware"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "text": "Environmental impact",
+                                                                                    "node-8": [
+                                                                                        {
+                                                                                            "text": "How green is the technology"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "text": "Acceptance of change",
+                                                                                    "node-8": [
+                                                                                        {
+                                                                                            "text": "Effect 'how we do things'- to what degree"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Legal"
+                                                                },
+                                                                {
+                                                                    "text": "Environmental"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Market Research",
+                                    "node-2": [
+                                        {
+                                            "text": "Definition",
+                                            "node-3": [
+                                                {
+                                                    "text": "The objective gathering and recording and analysing of all facts about problems relating to the transfer and sales of goods and services from producer to consumer"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Qualitative Research",
+                                            "node-3": [
+                                                {
+                                                    "text": "Exploratory research used to uncover consumer motives, attitudes and behaviour"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Quantitative Research",
+                                            "node-3": [
+                                                {
+                                                    "text": "Research that involves data collection from a sufficient volume of customers to allow for statistical analysis"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Primary Data",
+                                            "node-3": [
+                                                {
+                                                    "text": "Information collected for a specific purpose or issue to be addressed"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Secondary Data",
+                                            "node-3": [
+                                                {
+                                                    "text": "Information that already exists somewhere, having been collected for another purpose"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Research Methodology",
+                                            "node-3": [
+                                                {
+                                                    "text": "Research: Primary or Secondary?",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "1. Diagnose the problem (be specific)"
+                                                        },
+                                                        {
+                                                            "text": "2. Initial investigation",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Secondary data sufficient?",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "Yes"
+                                                                        },
+                                                                        {
+                                                                            "text": "No",
+                                                                            "node-7": [
+                                                                                {
+                                                                                    "text": "Use primary data research to fill the gaps"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "3. Report: conclusions and recommendations"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Types of information",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Quantitative Research",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Sales history by product, customer, location, order size, distribution, season"
+                                                                },
+                                                                {
+                                                                    "text": "£ Market growth, % Growth"
+                                                                },
+                                                                {
+                                                                    "text": "Competitor products, prices, advertising spend"
+                                                                },
+                                                                {
+                                                                    "text": "Customer number, location, demographics, segment"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "Qualitative Research",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Customer perceptions"
+                                                                },
+                                                                {
+                                                                    "text": "Buying behaviour"
+                                                                },
+                                                                {
+                                                                    "text": "Attitudes and motivations"
+                                                                },
+                                                                {
+                                                                    "text": "Packaging"
+                                                                },
+                                                                {
+                                                                    "text": "Brand image/ preferences"
+                                                                },
+                                                                {
+                                                                    "text": "Reaction to adverts"
+                                                                },
+                                                                {
+                                                                    "text": "External factors"
+                                                                },
+                                                                {
+                                                                    "text": "Power of stakeholders"
+                                                                },
+                                                                {
+                                                                    "text": "DMU's"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Secondary Research",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Internal Desk Research",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Sales and marketing data"
+                                                                },
+                                                                {
+                                                                    "text": "customer databases, EPOS/loyalty"
+                                                                },
+                                                                {
+                                                                    "text": "Production and distribution data"
+                                                                },
+                                                                {
+                                                                    "text": "General market intelligence"
+                                                                },
+                                                                {
+                                                                    "text": "Previous market reports/data"
+                                                                },
+                                                                {
+                                                                    "text": "Free, quick and easy"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "External Desk Research",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Govt stats"
+                                                                },
+                                                                {
+                                                                    "text": "Trade/industry reports and media"
+                                                                },
+                                                                {
+                                                                    "text": "Competitors- ads, catalogues, exhibitions"
+                                                                },
+                                                                {
+                                                                    "text": "Directories/journals"
+                                                                },
+                                                                {
+                                                                    "text": "off the shelf reports (mintel, BRAD)"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "Problems with secondary research",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Currency",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "often out of date"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Accuracy",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "may be uncertain/doubtful"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Relevance",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "May not quite suit purpose"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Sufficiency",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "often only part of the solution"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "Availability",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "may be limited"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Primary Research",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Experimental/Observation",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Lab tests... tastes, colour etc"
+                                                                },
+                                                                {
+                                                                    "text": "Product trials... in homes"
+                                                                },
+                                                                {
+                                                                    "text": "Product sampling... in store"
+                                                                },
+                                                                {
+                                                                    "text": "Test market... new product, advert etc"
+                                                                },
+                                                                {
+                                                                    "text": "Hidden cameras... in store cctv"
+                                                                },
+                                                                {
+                                                                    "text": "may be time consuming and expensive"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "Sampling and surveys",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Statistical sample of population"
+                                                                },
+                                                                {
+                                                                    "text": "may use structured questionnaire"
+                                                                },
+                                                                {
+                                                                    "text": "may use semi structured talk guides"
+                                                                },
+                                                                {
+                                                                    "text": "Face to face, street, interview, doorstep"
+                                                                },
+                                                                {
+                                                                    "text": "Distance...mail, phone, e-mail, fax etc"
+                                                                },
+                                                                {
+                                                                    "text": "Good for lots of quantitative data"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "qualitative methods for primary research",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Non statistical methods"
+                                                                },
+                                                                {
+                                                                    "text": "Aim for depth not breadth"
+                                                                },
+                                                                {
+                                                                    "text": "In depth interviews. One to one."
+                                                                },
+                                                                {
+                                                                    "text": "Focus/discussion groups 7-12 people"
+                                                                },
+                                                                {
+                                                                    "text": "Projective... \"my mate\""
+                                                                },
+                                                                {
+                                                                    "text": "Can be used to add depth to quantitative data"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{69638_Marketing_Environment_and_Market_Research.png"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "ITALY",
+                            "node-1": [
+                                {
+                                    "text": "Abruzzo",
+                                    "node-2": [
+                                        {
+                                            "text": "Chieti"
+                                        },
+                                        {
+                                            "text": "L'Aquila"
+                                        },
+                                        {
+                                            "text": "Pescara"
+                                        },
+                                        {
+                                            "text": "Teramo"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Aosta Valley"
+                                },
+                                {
+                                    "text": "Apulia",
+                                    "node-2": [
+                                        {
+                                            "text": "Bari"
+                                        },
+                                        {
+                                            "text": "Barletta-Andria-Trani"
+                                        },
+                                        {
+                                            "text": "Brindisi"
+                                        },
+                                        {
+                                            "text": "Foggia"
+                                        },
+                                        {
+                                            "text": "Lecce"
+                                        },
+                                        {
+                                            "text": "Taranto"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Basilicata",
+                                    "node-2": [
+                                        {
+                                            "text": "Matera"
+                                        },
+                                        {
+                                            "text": "Potenza"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Calabria",
+                                    "node-2": [
+                                        {
+                                            "text": "Catanzaro"
+                                        },
+                                        {
+                                            "text": "Cosenza"
+                                        },
+                                        {
+                                            "text": "Crotone"
+                                        },
+                                        {
+                                            "text": "Reggio Calabria"
+                                        },
+                                        {
+                                            "text": "Vibo Valentia"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Campania",
+                                    "node-2": [
+                                        {
+                                            "text": "Avellino"
+                                        },
+                                        {
+                                            "text": "Benevento"
+                                        },
+                                        {
+                                            "text": "Caserta"
+                                        },
+                                        {
+                                            "text": "Naples (Napoli)"
+                                        },
+                                        {
+                                            "text": "Salerno"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Emilia-Romagna",
+                                    "node-2": [
+                                        {
+                                            "text": "Bologna"
+                                        },
+                                        {
+                                            "text": "Ferrara"
+                                        },
+                                        {
+                                            "text": "Forlì-Cesena"
+                                        },
+                                        {
+                                            "text": "Modena"
+                                        },
+                                        {
+                                            "text": "Parma"
+                                        },
+                                        {
+                                            "text": "Piacenza"
+                                        },
+                                        {
+                                            "text": "Ravenn"
+                                        },
+                                        {
+                                            "text": "Reggio Emilia"
+                                        },
+                                        {
+                                            "text": "Rimini"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Friuli-Venezia Giulia",
+                                    "node-2": [
+                                        {
+                                            "text": "Gorizia"
+                                        },
+                                        {
+                                            "text": "Pordenone"
+                                        },
+                                        {
+                                            "text": "Trieste"
+                                        },
+                                        {
+                                            "text": "Udine"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Lazio",
+                                    "node-2": [
+                                        {
+                                            "text": "Frosinone"
+                                        },
+                                        {
+                                            "text": "Latina"
+                                        },
+                                        {
+                                            "text": "Rieti"
+                                        },
+                                        {
+                                            "text": "Rome"
+                                        },
+                                        {
+                                            "text": "Viterbo"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Liguria",
+                                    "node-2": [
+                                        {
+                                            "text": "Genoa (Genova)"
+                                        },
+                                        {
+                                            "text": "Imperia"
+                                        },
+                                        {
+                                            "text": "La Spezia"
+                                        },
+                                        {
+                                            "text": "Savona"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Lombardy",
+                                    "node-2": [
+                                        {
+                                            "text": "Bergamo"
+                                        },
+                                        {
+                                            "text": "Brescia"
+                                        },
+                                        {
+                                            "text": "Como"
+                                        },
+                                        {
+                                            "text": "Cremona"
+                                        },
+                                        {
+                                            "text": "Lecco"
+                                        },
+                                        {
+                                            "text": "Lodi"
+                                        },
+                                        {
+                                            "text": "Mantua (Mantova)"
+                                        },
+                                        {
+                                            "text": "Milan (Milano)"
+                                        },
+                                        {
+                                            "text": "Monza and Brianza"
+                                        },
+                                        {
+                                            "text": "Pavia"
+                                        },
+                                        {
+                                            "text": "Sondrio"
+                                        },
+                                        {
+                                            "text": "Varese"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Marche",
+                                    "node-2": [
+                                        {
+                                            "text": "Ancona"
+                                        },
+                                        {
+                                            "text": "Ascoli Piceno"
+                                        },
+                                        {
+                                            "text": "Fermo"
+                                        },
+                                        {
+                                            "text": "Macerata"
+                                        },
+                                        {
+                                            "text": "Pesaro and Urbino"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Molise",
+                                    "node-2": [
+                                        {
+                                            "text": "Campobasso"
+                                        },
+                                        {
+                                            "text": "Isernia"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Piedmont",
+                                    "node-2": [
+                                        {
+                                            "text": "Alessandria"
+                                        },
+                                        {
+                                            "text": "Asti"
+                                        },
+                                        {
+                                            "text": "Biella"
+                                        },
+                                        {
+                                            "text": "Cuneo"
+                                        },
+                                        {
+                                            "text": "Novara"
+                                        },
+                                        {
+                                            "text": "Turin (Torino)"
+                                        },
+                                        {
+                                            "text": "Verbano-Cusio-Ossola"
+                                        },
+                                        {
+                                            "text": "Vercelli"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Sardinia",
+                                    "node-2": [
+                                        {
+                                            "text": "Cagliari"
+                                        },
+                                        {
+                                            "text": "Carbonia-Iglesias"
+                                        },
+                                        {
+                                            "text": "Medio Campidano"
+                                        },
+                                        {
+                                            "text": "Nuoro"
+                                        },
+                                        {
+                                            "text": "Ogliastra"
+                                        },
+                                        {
+                                            "text": "Olbia-Tempio"
+                                        },
+                                        {
+                                            "text": "Oristano"
+                                        },
+                                        {
+                                            "text": "Sassari"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Sicily",
+                                    "node-2": [
+                                        {
+                                            "text": "Agrigento"
+                                        },
+                                        {
+                                            "text": "Caltanissetta"
+                                        },
+                                        {
+                                            "text": "Catania"
+                                        },
+                                        {
+                                            "text": "Enna"
+                                        },
+                                        {
+                                            "text": "Messina"
+                                        },
+                                        {
+                                            "text": "Palermo"
+                                        },
+                                        {
+                                            "text": "Ragusa"
+                                        },
+                                        {
+                                            "text": "Syracuse (Siracusa)"
+                                        },
+                                        {
+                                            "text": "Trapani"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Trentino-Alto Adige",
+                                    "node-2": [
+                                        {
+                                            "text": "Bolzano-Bozen (Alto Adige/Südtirol)"
+                                        },
+                                        {
+                                            "text": "Trento (Trentino)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Tuscany",
+                                    "node-2": [
+                                        {
+                                            "text": "Arezzo"
+                                        },
+                                        {
+                                            "text": "Florence (Firenze)"
+                                        },
+                                        {
+                                            "text": "Grosseto"
+                                        },
+                                        {
+                                            "text": "Leghorn (Livorno)"
+                                        },
+                                        {
+                                            "text": "Lucca"
+                                        },
+                                        {
+                                            "text": "Massa-Carrara"
+                                        },
+                                        {
+                                            "text": "Pisa"
+                                        },
+                                        {
+                                            "text": "Pistoia"
+                                        },
+                                        {
+                                            "text": "Prato"
+                                        },
+                                        {
+                                            "text": "Siena"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Umbria",
+                                    "node-2": [
+                                        {
+                                            "text": "Perugia"
+                                        },
+                                        {
+                                            "text": "Terni"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Veneto",
+                                    "node-2": [
+                                        {
+                                            "text": "Belluno"
+                                        },
+                                        {
+                                            "text": "Padua (Padova)"
+                                        },
+                                        {
+                                            "text": "Rovigo"
+                                        },
+                                        {
+                                            "text": "Treviso"
+                                        },
+                                        {
+                                            "text": "Venice (Venezia)"
+                                        },
+                                        {
+                                            "text": "Verona"
+                                        },
+                                        {
+                                            "text": "Vicenza"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "mapped by\nWojciech Korsak"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{75436_Italy.png"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "Austin Non Profit Camp\na free technology camp for non profits\nSaturday, 11/04/2009, 10 AM - 5 PM\nACC Eastview Campus\n3401 Webberville Road",
+                            "node-1": [
+                                {
+                                    "text": "Issues/Questions",
+                                    "node-2": [
+                                        {
+                                            "text": "What is the structure for the day?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Bar Camp aka Open Source Technology"
+                                                },
+                                                {
+                                                    "text": "Select some core issues/topics that will be presented multiple times during the day.",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "No longer than 15 or 30 mins in length,"
+                                                        },
+                                                        {
+                                                            "text": "Allows people multiple opportunities to learn of and about a broad array of resources, tools, and skills with which they may not be familiar with."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "What resources are available onsite?",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Break out rooms"
+                                                        },
+                                                        {
+                                                            "text": "WiFi"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "When and how will the day's results be reported?",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Follow thru online?"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Will there be breaks other than lunch to provide networking opportunities?",
+                                            "node-3": [
+                                                {
+                                                    "text": "What about structured games/activities that enable and support fun and valuable networking?"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "What subjects need Subject Matter Experts (SME) available as resources?"
+                                        },
+                                        {
+                                            "text": "How will it be determined if SME's content overlaps or duplicates other SME's content?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Are there key content guidelines that need to be followed by SMEs?",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Emphasis is on providing free, open source resources and tools."
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "What about SME handouts?",
+                                            "node-3": [
+                                                {
+                                                    "text": "How will content be made available?",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "Hard copy?"
+                                                        },
+                                                        {
+                                                            "text": "Soft copy?",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "Placed on NPO Camp website?"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Schedule ?\n10 AM - 5 PM",
+                                    "node-2": [
+                                        {
+                                            "text": "9:30",
+                                            "node-3": [
+                                                {
+                                                    "text": "Registration"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "10:00"
+                                        },
+                                        {
+                                            "text": "10:15"
+                                        },
+                                        {
+                                            "text": "10:30"
+                                        },
+                                        {
+                                            "text": "10:45"
+                                        },
+                                        {
+                                            "text": "11:00"
+                                        },
+                                        {
+                                            "text": "11:15"
+                                        },
+                                        {
+                                            "text": "11:30"
+                                        },
+                                        {
+                                            "text": "11:45"
+                                        },
+                                        {
+                                            "text": "12:00"
+                                        },
+                                        {
+                                            "text": "12:15"
+                                        },
+                                        {
+                                            "text": "12:30"
+                                        },
+                                        {
+                                            "text": "12:45"
+                                        },
+                                        {
+                                            "text": "13:00"
+                                        },
+                                        {
+                                            "text": "13:15"
+                                        },
+                                        {
+                                            "text": "13:30"
+                                        },
+                                        {
+                                            "text": "13:45"
+                                        },
+                                        {
+                                            "text": "14:00"
+                                        },
+                                        {
+                                            "text": "14:15"
+                                        },
+                                        {
+                                            "text": "14:30"
+                                        },
+                                        {
+                                            "text": "14:45"
+                                        },
+                                        {
+                                            "text": "15:00"
+                                        },
+                                        {
+                                            "text": "15:15"
+                                        },
+                                        {
+                                            "text": "15:30"
+                                        },
+                                        {
+                                            "text": "15:45"
+                                        },
+                                        {
+                                            "text": "16:00"
+                                        },
+                                        {
+                                            "text": "16:15"
+                                        },
+                                        {
+                                            "text": "16:30"
+                                        },
+                                        {
+                                            "text": "16:45"
+                                        },
+                                        {
+                                            "text": "17:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Topics",
+                                    "node-2": [
+                                        {
+                                            "text": "Cloud Computing"
+                                        },
+                                        {
+                                            "text": "Data Exchange/Salesforce"
+                                        },
+                                        {
+                                            "text": "Email Marketing"
+                                        },
+                                        {
+                                            "text": "Fundraising in Social Media"
+                                        },
+                                        {
+                                            "text": "Google Apps"
+                                        },
+                                        {
+                                            "text": "Google Grants"
+                                        },
+                                        {
+                                            "text": "Marketing/PR"
+                                        },
+                                        {
+                                            "text": "ROI of The Cloud"
+                                        },
+                                        {
+                                            "text": "Social Media"
+                                        },
+                                        {
+                                            "text": "ZERO COST Infrastructure"
+                                        },
+                                        {
+                                            "text": "and much more!"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Austin NPO Camp is sponsored by:",
+                                    "node-2": [
+                                        {
+                                            "text": "EFF-Austin"
+                                        },
+                                        {
+                                            "text": "NTEN"
+                                        },
+                                        {
+                                            "text": "501 Tech Club"
+                                        },
+                                        {
+                                            "text": "Plutopia Productions"
+                                        },
+                                        {
+                                            "text": "Austin Social Media Club"
+                                        },
+                                        {
+                                            "text": "501derful.org"
+                                        },
+                                        {
+                                            "text": "Social Web Strategies"
+                                        },
+                                        {
+                                            "text": "GNI Strategies"
+                                        },
+                                        {
+                                            "text": "Lights.Camera.Help"
+                                        },
+                                        {
+                                            "text": "Soma Vida"
+                                        },
+                                        {
+                                            "text": "Center for Community Based & Nonprofit Organizations at Austin Community College"
+                                        },
+                                        {
+                                            "text": "A Free lunch is provided by Pictoric and the fine folks at Carinos Italian"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Organizers",
+                                    "node-2": [
+                                        {
+                                            "text": "David J. Neff"
+                                        },
+                                        {
+                                            "text": "Jon Lebkowsky"
+                                        },
+                                        {
+                                            "text": "Maggie Duval"
+                                        },
+                                        {
+                                            "text": "Matt Glazer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "EventBrite Invite"
+                                },
+                                {
+                                    "text": "Draft Agenda for Online Meeting"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{75772_Draft_Online_Meeting_Agenda__NPO_Camp.png"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "Phrases = Group of related words that do not include a subject and verb",
+                            "node-1": [
+                                {
+                                    "text": "Noun Phrase = noun + modifier/s",
+                                    "node-2": [
+                                        {
+                                            "text": "The long and winding road"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Prepositional Phrase = a preposition + noun or pronoun",
+                                    "node-2": [
+                                        {
+                                            "text": "outside the building"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Appositive Phrase = renaming or amplifying a word immediately preceeding",
+                                    "node-2": [
+                                        {
+                                            "text": "My favourite music, Gregorian chant, is playing."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Particple Phrase = verbals ending in -ing or -ed + complements or modifiers, and acting as an ADJECTIVE.",
+                                    "node-2": [
+                                        {
+                                            "text": "Working around the clock, the firefighters put out the fire"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Gerund Phrase = verbals that end in -ing and that act as nouns",
+                                    "node-2": [
+                                        {
+                                            "text": "Cramming for tests is not a good strategy"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Infinitive Phrase = an infinitive + modifiers or complements. Functions as a noun/adjective/adverb",
+                                    "node-2": [
+                                        {
+                                            "text": "To subsidize child care is very expensive"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Absolute Phrase = Noun or Pronoun + a participle",
+                                    "node-2": [
+                                        {
+                                            "text": "Their faces beaming, they collected the prize."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{65961_Phrase.png"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "How did I do today?",
+                            "node-1": [
+                                {
+                                    "text": "Business",
+                                    "node-2": [
+                                        {
+                                            "text": "Good employee?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Did I work smart?"
+                                                },
+                                                {
+                                                    "text": "Did I earn my pay?"
+                                                },
+                                                {
+                                                    "text": "Did I use my resources effectively?"
+                                                },
+                                                {
+                                                    "text": "Did I complain/gossip?"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Good leader?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Was I fair?"
+                                                },
+                                                {
+                                                    "text": "Did I make a difference to someone?"
+                                                },
+                                                {
+                                                    "text": "Did I control my temper?"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Customer satisfaction?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Did I meet anyone new?"
+                                                },
+                                                {
+                                                    "text": "Did I reach out to anyone?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Career",
+                                    "node-2": [
+                                        {
+                                            "text": "Did I learn anything?",
+                                            "node-3": [
+                                                {
+                                                    "text": "It is MY development"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "What is my next step?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Move up or out"
+                                                },
+                                                {
+                                                    "text": "Have a resume"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Good network?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Did I meet anyone new?"
+                                                },
+                                                {
+                                                    "text": "Did I reach out to anyone?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Family",
+                                    "node-2": [
+                                        {
+                                            "text": "Good Christian?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Did I pray?"
+                                                },
+                                                {
+                                                    "text": "Did I make a difference to anyone?"
+                                                },
+                                                {
+                                                    "text": "How many commandments did I break?"
+                                                },
+                                                {
+                                                    "text": "Did I complain or gossip?"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Good spouse?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Did I express my feelings?"
+                                                },
+                                                {
+                                                    "text": "Did I do anything nice?"
+                                                },
+                                                {
+                                                    "text": "Did I say \"I love you.\"?"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Good parent?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Did I talk with each of my children?"
+                                                },
+                                                {
+                                                    "text": "Did I tell them \"I love you.\"?"
+                                                },
+                                                {
+                                                    "text": "Was I patient?"
+                                                },
+                                                {
+                                                    "text": "Did I learn or teach anything?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Health",
+                                    "node-2": [
+                                        {
+                                            "text": "Did I workout?",
+                                            "node-3": [
+                                                {
+                                                    "text": "3 days per week"
+                                                },
+                                                {
+                                                    "text": "Cardio, strength"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Did I eat right?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Vegetables!"
+                                                },
+                                                {
+                                                    "text": "Fruit!"
+                                                },
+                                                {
+                                                    "text": "Avoid \"bad\" foods"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Am I stressed?",
+                                            "node-3": [
+                                                {
+                                                    "text": "Relax - sauna? Hot tub?"
+                                                },
+                                                {
+                                                    "text": "Swim"
+                                                },
+                                                {
+                                                    "text": "Meditate"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{71912_How_did_I_do_today.png"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "Fifty Years of systems thinking for management\n\n",
+                            "node-1": [
+                                {
+                                    "text": "about",
+                                    "node-2": [
+                                        {
+                                            "text": "article",
+                                            "node-3": [
+                                                {
+                                                    "text": "MC Jackson"
+                                                },
+                                                {
+                                                    "text": "information"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "mind map",
+                                            "node-3": [
+                                                {
+                                                    "text": "Ton van Rheenen"
+                                                },
+                                                {
+                                                    "text": "20102011"
+                                                },
+                                                {
+                                                    "text": "summary of the artcle"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": " Toolbox",
+                                    "node-2": [
+                                        {
+                                            "text": "Boulding"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Recent developments",
+                                    "node-2": [
+                                        {
+                                            "text": "softer reworks of established methods "
+                                        },
+                                        {
+                                            "text": "critical systems thinking"
+                                        },
+                                        {
+                                            "text": "consultancy led"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "3. Interpretive AST"
+                                },
+                                {
+                                    "text": "2 Structuralistic\n AST ",
+                                    "node-2": [
+                                        {
+                                            "text": "system dynamics"
+                                        },
+                                        {
+                                            "text": "cybernetics"
+                                        },
+                                        {
+                                            "text": "complexity theory"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "1. Functionalistic \n AST"
+                                },
+                                {
+                                    "text": "Boulding "
+                                },
+                                {
+                                    "text": "Intro"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{68707_50_year_of_systems_thinking_for_management.png"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "Be Mindful of the Questions You Ask Yourself",
+                            "node-1": [
+                                {
+                                    "text": "The Importance of Questions: The questions you ask yourself directly impact your perspective in overcoming challenges.",
+                                    "node-2": [
+                                        {
+                                            "text": "There is a BIG difference between strong questions and weak questions."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Strong Questions: They drive you to find a solution. They help you to grow.",
+                                    "node-2": [
+                                        {
+                                            "text": "How Questions",
+                                            "node-3": [
+                                                {
+                                                    "text": "How must I think outside the box here? "
+                                                },
+                                                {
+                                                    "text": "How can I successfully overcome this?"
+                                                },
+                                                {
+                                                    "text": "How can I make this better?"
+                                                },
+                                                {
+                                                    "text": "How can I do this smarter?"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "What Questions",
+                                            "node-3": [
+                                                {
+                                                    "text": "What can I do to turn this around?"
+                                                },
+                                                {
+                                                    "text": "What is the hidden opportunity here that I am not seeing?"
+                                                },
+                                                {
+                                                    "text": "What is great about this situation that I hadn't noticed?"
+                                                },
+                                                {
+                                                    "text": "What is the best solution here?"
+                                                },
+                                                {
+                                                    "text": "What is it about this that can make me stronger?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Weak Questions: They keep you where you are. They limit your possibilities and potential.",
+                                    "node-2": [
+                                        {
+                                            "text": "Why Questions",
+                                            "node-3": [
+                                                {
+                                                    "text": "Why does life seem to be working against me?"
+                                                },
+                                                {
+                                                    "text": "Why do I have such rotten luck?"
+                                                },
+                                                {
+                                                    "text": "Why should I even try?"
+                                                },
+                                                {
+                                                    "text": "Why am I so inadequate and incapable?"
+                                                },
+                                                {
+                                                    "text": "Why does this always happen to me?"
+                                                },
+                                                {
+                                                    "text": "Why do I always do dumb things?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{71698_The-Questioning-Mindmap-How-Do-You-Frame-Your-Challenges-.png"
+        }
+    ]
+}

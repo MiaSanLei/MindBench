@@ -1,0 +1,73 @@
+{
+    "annotations": [
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "How to choose a carpet cleaning method",
+                            "node-1": [
+                                {
+                                    "text": "1. Know the specifics of the carpet/rug ",
+                                    "node-2": [
+                                        {
+                                            "text": "Type"
+                                        },
+                                        {
+                                            "text": "Fibre"
+                                        },
+                                        {
+                                            "text": "Coloring"
+                                        },
+                                        {
+                                            "text": "Instructions from the manufacturer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "2. Know the main methods",
+                                    "node-2": [
+                                        {
+                                            "text": "Dry Carpet Cleaning",
+                                            "node-3": [
+                                                {
+                                                    "text": "No water is used, suitable for delicate and natural fibers"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Hot Water Extraction",
+                                            "node-3": [
+                                                {
+                                                    "text": "very efficient, warm or hot water, good results with stain removal"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "3. Research, Compare, Choose",
+                                    "node-2": [
+                                        {
+                                            "text": "Professional carpet cleaning service "
+                                        },
+                                        {
+                                            "text": "Prices, offers, special deals and discounts"
+                                        },
+                                        {
+                                            "text": "Quality of the service (online reviews)"
+                                        },
+                                        {
+                                            "text": "Services and cleaning methods offered"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bxmind_png/0asp8f8F_How-to-choose-a-carpet-cleaning-method.png"
+        }
+    ]
+}

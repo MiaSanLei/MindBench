@@ -1,0 +1,96 @@
+{
+    "annotations": [
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "Be Mindful of the Questions You Ask Yourself",
+                            "node-1": [
+                                {
+                                    "text": "The Importance of Questions: The questions you ask yourself directly impact your perspective in overcoming challenges.",
+                                    "node-2": [
+                                        {
+                                            "text": "There is a BIG difference between strong questions and weak questions."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Strong Questions: They drive you to find a solution. They help you to grow.",
+                                    "node-2": [
+                                        {
+                                            "text": "How Questions",
+                                            "node-3": [
+                                                {
+                                                    "text": "How must I think outside the box here? "
+                                                },
+                                                {
+                                                    "text": "How can I successfully overcome this?"
+                                                },
+                                                {
+                                                    "text": "How can I make this better?"
+                                                },
+                                                {
+                                                    "text": "How can I do this smarter?"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "What Questions",
+                                            "node-3": [
+                                                {
+                                                    "text": "What can I do to turn this around?"
+                                                },
+                                                {
+                                                    "text": "What is the hidden opportunity here that I am not seeing?"
+                                                },
+                                                {
+                                                    "text": "What is great about this situation that I hadn't noticed?"
+                                                },
+                                                {
+                                                    "text": "What is the best solution here?"
+                                                },
+                                                {
+                                                    "text": "What is it about this that can make me stronger?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Weak Questions: They keep you where you are. They limit your possibilities and potential.",
+                                    "node-2": [
+                                        {
+                                            "text": "Why Questions",
+                                            "node-3": [
+                                                {
+                                                    "text": "Why does life seem to be working against me?"
+                                                },
+                                                {
+                                                    "text": "Why do I have such rotten luck?"
+                                                },
+                                                {
+                                                    "text": "Why should I even try?"
+                                                },
+                                                {
+                                                    "text": "Why am I so inadequate and incapable?"
+                                                },
+                                                {
+                                                    "text": "Why does this always happen to me?"
+                                                },
+                                                {
+                                                    "text": "Why do I always do dumb things?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "bmmanger_png/{71698_The-Questioning-Mindmap-How-Do-You-Frame-Your-Challenges-.png"
+        }
+    ]
+}
