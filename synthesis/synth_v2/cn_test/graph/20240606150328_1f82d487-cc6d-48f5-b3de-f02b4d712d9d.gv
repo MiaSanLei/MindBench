@@ -1,0 +1,302 @@
+strict digraph "" {
+	graph [bb="0,0,6631.3,8564.8",
+		bgcolor=transparent,
+		labeljust=l,
+		overlap=false,
+		sep="+25,25"
+	];
+	node [fontname="Noto Serif TC",
+		label="\N"
+	];
+	"的戰爭，中國古代運動至今多已失傳
+，
+然而如拔河、"	[color=darkgoldenrod,
+		fillcolor=lightyellow,
+		fontcolor="#FF8C00",
+		fontsize=60,
+		height=4.1573,
+		label="的戰爭，中國古代運動至今多已失傳
+，
+然而如拔河、",
+		penwidth=5,
+		peripheries=2,
+		pos="3403.2,4120.2",
+		shape=ellipse,
+		style=filled,
+		width=19.301];
+	"及祖先崇拜等原始宗教信仰祭
+神祀祖自商朝为中国的国
+家宗教祖"	[color=dimgray,
+		fillcolor=lightcoral,
+		fontcolor="#008B8B",
+		fontsize=40,
+		height=2.861,
+		label="及祖先崇拜等原始宗教信仰祭
+神祀祖自商朝为中国的国
+家宗教祖",
+		penwidth=7,
+		peripheries=2,
+		pos="6250.4,4120.2",
+		shape=ellipse,
+		style=filled,
+		width=10.58];
+	"的戰爭，中國古代運動至今多已失傳
+，
+然而如拔河、" -> "及祖先崇拜等原始宗教信仰祭
+神祀祖自商朝为中国的国
+家宗教祖"	[arrowhead=inv,
+		arrowsize=2,
+		color=azure,
+		penwidth=9,
+		pos="e,5869.5,4120.2 4098.3,4120.2 4647.8,4120.2 5395.5,4120.2 5849.4,4120.2",
+		style=solid];
+	"運動時有人受傷而
+下令禁絕。明清之際中
+国體育活動仍有發展
+。然而，部分活動經過清末至民"	[color=darkgoldenrod,
+		fillcolor=lightskyblue,
+		fontcolor="#000080",
+		fontsize=52,
+		height=9.271,
+		label="運動時有人受傷而
+下令禁絕。明清之際中
+国體育活動仍有發展
+。然而，部分活動經過清末至民",
+		penwidth=6,
+		pos="3497.3,6965.8",
+		shape=triangle,
+		style=filled,
+		width=29.109];
+	"的戰爭，中國古代運動至今多已失傳
+，
+然而如拔河、" -> "運動時有人受傷而
+下令禁絕。明清之際中
+国體育活動仍有發展
+。然而，部分活動經過清末至民"	[arrowhead=diamond,
+		arrowsize=1.75,
+		color=chartreuse,
+		penwidth=9,
+		pos="e,3491.8,6798.7 3408.2,4270.2 3424,4750.1 3473.6,6247.7 3491.1,6777.6",
+		style=bold];
+	"把武術作為打
+鬥技巧同時也作為一種健體"	[color=chartreuse,
+		fillcolor=lightsalmon,
+		fontcolor="#8B008B",
+		fontsize=45,
+		height=3,
+		label="把武術作為打
+鬥技巧同時也作為一種健體",
+		penwidth=2,
+		pos="557,4196",
+		shape=invtrapezium,
+		style=filled,
+		width=15.472];
+	"的戰爭，中國古代運動至今多已失傳
+，
+然而如拔河、" -> "把武術作為打
+鬥技巧同時也作為一種健體"	[arrowhead=ediamond,
+		arrowsize=2,
+		color=darkred,
+		penwidth=8,
+		pos="e,986.09,4184.6 2713.3,4138.6 2184.1,4152.7 1468.8,4171.7 1010.1,4184",
+		style=solid];
+	"球這兩種，此兩者在唐代傳到日
+本。宋真宗時，曾因相撲運"	[color=chocolate,
+		fillcolor=lightyellow,
+		fontcolor="#FF8C00",
+		fontsize=60,
+		height=1.9444,
+		label="球這兩種，此兩者在唐代傳到日
+本。宋真宗時，曾因相撲運",
+		penwidth=8,
+		pos="3421.5,1273",
+		shape=box,
+		style=filled,
+		width=11.903];
+	"的戰爭，中國古代運動至今多已失傳
+，
+然而如拔河、" -> "球這兩種，此兩者在唐代傳到日
+本。宋真宗時，曾因相撲運"	[arrowhead=invdot,
+		arrowsize=1.75,
+		color=darkolivegreen,
+		penwidth=8,
+		pos="e,3421,1343.1 3404.2,3970.1 3407.4,3460.4 3418.1,1803.2 3420.8,1374.9",
+		style=solid];
+	中國武術俗稱中國功夫意	[color=darkviolet,
+		fillcolor=lightcyan,
+		fontcolor="#B8860B",
+		fontsize=56,
+		height=1.3749,
+		label=中國武術俗稱中國功夫意,
+		penwidth=0,
+		peripheries=1,
+		pos="4779.3,6190.1",
+		shape=ellipse,
+		style=filled,
+		width=12.473];
+	"運動時有人受傷而
+下令禁絕。明清之際中
+国體育活動仍有發展
+。然而，部分活動經過清末至民" -> 中國武術俗稱中國功夫意	[arrowhead=inv,
+		arrowsize=1.75,
+		color=bisque,
+		penwidth=7,
+		pos="e,4698.6,6239 3773.2,6798.9 4059.8,6625.5 4492.6,6363.6 4683.3,6248.2",
+		style=bold];
+	"用刀劍等的技巧也有
+中
+國人不單把武術作為打鬥技巧同時也作為一種健體強身和養
+生"	[color=azure,
+		fillcolor=lightgrey,
+		fontcolor="#808000",
+		fontsize=57,
+		height=3.6111,
+		label="用刀劍等的技巧也有
+中
+國人不單把武術作為打鬥技巧同時也作為一種健體強身和養
+生",
+		penwidth=4,
+		pos="3793.1,8434.8",
+		shape=box,
+		style=filled,
+		width=20.819];
+	"運動時有人受傷而
+下令禁絕。明清之際中
+国體育活動仍有發展
+。然而，部分活動經過清末至民" -> "用刀劍等的技巧也有
+中
+國人不單把武術作為打鬥技巧同時也作為一種健體強身和養
+生"	[arrowhead=normal,
+		arrowsize=2,
+		color=cyan,
+		penwidth=8,
+		pos="e,3766.9,8304.3 3558.6,7270.2 3621,7579.8 3715,8046.9 3762.9,8284.5",
+		style=solid];
+	"。中
+國人的信仰以
+儒教祖先信仰道教佛教和各種中華民間信
+仰為主。由於道"	[color=lightgreen,
+		fillcolor=lightseagreen,
+		fontcolor="#8B0000",
+		fontsize=47,
+		height=8.4853,
+		label="。中
+國人的信仰以
+儒教祖先信仰道教佛教和各種中華民間信
+仰為主。由於道",
+		penwidth=8,
+		pos="2166.9,6276.5",
+		shape=invtriangle,
+		style=filled,
+		width=34.059];
+	"運動時有人受傷而
+下令禁絕。明清之際中
+国體育活動仍有發展
+。然而，部分活動經過清末至民" -> "。中
+國人的信仰以
+儒教祖先信仰道教佛教和各種中華民間信
+仰為主。由於道"	[arrowhead=halfopen,
+		arrowsize=1,
+		color=firebrick,
+		penwidth=7,
+		pos="e,2461.8,6429.3 3175.3,6799 2961,6688 2681.3,6543.1 2470.9,6434",
+		style=bold];
+	分活動經過清末至民初一連串的戰爭	[color=blanchedalmond,
+		fillcolor=lightpink,
+		fontcolor="#00008B",
+		fontsize=46,
+		height=0.81944,
+		label=分活動經過清末至民初一連串的戰爭,
+		penwidth=3,
+		pos="2335.9,2056.1",
+		shape=box,
+		style=filled,
+		width=10.403];
+	"球這兩種，此兩者在唐代傳到日
+本。宋真宗時，曾因相撲運" -> 分活動經過清末至民初一連串的戰爭	[arrowhead=tee,
+		arrowsize=1,
+		color=azure,
+		penwidth=7,
+		pos="e,2377,2026.4 3324.2,1343.2 3098,1506.4 2543.6,1906.3 2381.3,2023.4",
+		style=bold];
+	"原始宗
+教信仰祭神祀祖自商朝
+为中国的国家宗教祖先神是人们祈
+求上帝的媒介。尧
+舜禹的臣
+子皋陶兴
+\
+“五"	[color=darksalmon,
+		fillcolor=lightseagreen,
+		fontcolor="#008080",
+		fontsize=52,
+		height=5.6528,
+		label="原始宗
+教信仰祭神祀祖自商朝
+为中国的国家宗教祖先神是人们祈
+求上帝的媒介。尧
+舜禹的臣
+子皋陶兴
+\
+“五",
+		penwidth=6,
+		pos="2382.5,429.18",
+		shape=box,
+		width=11.014];
+	"球這兩種，此兩者在唐代傳到日
+本。宋真宗時，曾因相撲運" -> "原始宗
+教信仰祭神祀祖自商朝
+为中国的国家宗教祖先神是人们祈
+求上帝的媒介。尧
+舜禹的臣
+子皋陶兴
+\
+“五"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=chartreuse,
+		penwidth=8,
+		pos="e,2633.3,632.87 3335.1,1202.9 3185.3,1081.2 2871.6,826.43 2645,642.41",
+		style=solid];
+	九德”亲“九族”。《尚書皋陶謨	[color=lightcoral,
+		fillcolor=lightblue,
+		fontcolor="#008080",
+		fontsize=42,
+		height=0.75,
+		label=九德”亲“九族”。《尚書皋陶謨,
+		penwidth=7,
+		pos="3910.4,27",
+		shape=box,
+		style=filled,
+		width=7.8194];
+	"球這兩種，此兩者在唐代傳到日
+本。宋真宗時，曾因相撲運" -> 九德”亲“九族”。《尚書皋陶謨	[arrowhead=box,
+		arrowsize=1,
+		color=darkcyan,
+		penwidth=6,
+		pos="e,3899.8,54.111 3449,1202.9 3539.9,971.4 3828.4,236.13 3896.1,63.52",
+		style=dashed];
+	"和養生的方法現在中國武術也作為電影的主題。
+中国
+上古存在上帝及祖先崇拜等原始宗教信仰祭神祀祖自商朝为"	[color=lightseagreen,
+		fillcolor=lightskyblue,
+		fontcolor="#E9967A",
+		fontsize=43,
+		height=5.8533,
+		label="和養生的方法現在中國武術也作為電影的主題。
+中国
+上古存在上帝及祖先崇拜等原始宗教信仰祭神祀祖自商朝为",
+		penwidth=4,
+		pos="4496.9,2070",
+		shape=triangle,
+		style=filled,
+		width=44.312];
+	"球這兩種，此兩者在唐代傳到日
+本。宋真宗時，曾因相撲運" -> "和養生的方法現在中國武術也作為電影的主題。
+中国
+上古存在上帝及祖先崇拜等原始宗教信仰祭神祀祖自商朝为"	[arrowhead=invodot,
+		arrowsize=1.25,
+		color=fuchsia,
+		penwidth=7,
+		pos="e,4354.4,1964.3 3516,1343.1 3700,1479.5 4108.4,1782.1 4336,1950.7",
+		style=solid];
+}

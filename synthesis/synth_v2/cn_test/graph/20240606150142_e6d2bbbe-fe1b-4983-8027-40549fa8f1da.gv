@@ -1,0 +1,130 @@
+strict digraph "" {
+	graph [bb="0,0,3221.1,924.51",
+		bgcolor=transparent,
+		colorscheme=prgn7,
+		labeljust=c,
+		overlap=false,
+		rankdir=TB,
+		sep="+25,25"
+	];
+	node [fontname="Noto Serif HK Bold",
+		label="\N"
+	];
+	"。最早
+的實物資料是何尊上的铭文（公元前1038
+年，周"	[color=3,
+		colorscheme=prgn7,
+		fillcolor=1,
+		fontcolor="#008000",
+		fontsize=60,
+		height=4.0462,
+		label="。最早
+的實物資料是何尊上的铭文（公元前1038
+年，周",
+		penwidth=6,
+		peripheries=1,
+		pos="1461.5,778.85",
+		shape=ellipse,
+		style=filled,
+		width=21.783];
+	"出現了中外之分
+、敵我區隔這
+樣與現代相似
+的用法。魏、"	[color=4,
+		colorscheme=prgn7,
+		fillcolor=5,
+		fontcolor="#556B2F",
+		fontsize=50,
+		height=4.5895,
+		label="出現了中外之分
+、敵我區隔這
+樣與現代相似
+的用法。魏、",
+		penwidth=7,
+		peripheries=2,
+		pos="1461.5,431.96",
+		shape=ellipse,
+		style=filled,
+		width=7.3393];
+	"。最早
+的實物資料是何尊上的铭文（公元前1038
+年，周" -> "出現了中外之分
+、敵我區隔這
+樣與現代相似
+的用法。魏、"	[arrowhead=normal,
+		arrowsize=1,
+		color=3,
+		penwidth=8,
+		pos="e,1461.5,597.39 1461.5,633.09 1461.5,624.61 1461.5,616.04 1461.5,607.46",
+		style=solid];
+	等。南宋以後，意大利	[color=7,
+		colorscheme=prgn7,
+		fillcolor=6,
+		fontcolor="#A9A9A9",
+		fontsize=54,
+		height=0.93056,
+		label=等。南宋以後，意大利,
+		penwidth=6,
+		pos="278.5,115.37",
+		shape=box,
+		style=filled,
+		width=7.7361];
+	"出現了中外之分
+、敵我區隔這
+樣與現代相似
+的用法。魏、" -> 等。南宋以後，意大利	[arrowhead=normal,
+		arrowsize=1.75,
+		color=3,
+		penwidth=9,
+		pos="e,351.05,148.89 1208,385.34 1027.2,350.14 779.52,296.42 566.5,230.74 498.3,209.72 423.45,179.77 367.15,155.8",
+		style=solid];
+	"。梵文對中國的稱呼為Cina
+，希伯來文為Sininm，粟特文為Cynstn"	[color=3,
+		colorscheme=prgn7,
+		fillcolor=1,
+		fontcolor="#008000",
+		fontsize=56,
+		height=3.2048,
+		label="。梵文對中國的稱呼為Cina
+，希伯來文為Sininm，粟特文為Cynstn",
+		penwidth=7,
+		pos="1461.5,115.37",
+		shape=invhouse,
+		style=filled,
+		width=24.619];
+	"出現了中外之分
+、敵我區隔這
+樣與現代相似
+的用法。魏、" -> "。梵文對中國的稱呼為Cina
+，希伯來文為Sininm，粟特文為Cynstn"	[arrowhead=box,
+		arrowsize=2,
+		color=4,
+		penwidth=6,
+		pos="e,1461.5,208.7 1461.5,266.3 1461.5,253.63 1461.5,241.03 1461.5,228.82",
+		style=dashed];
+	"nae、Tzinitza，阿拉伯文為
+Cyn、Sin、Th"	[color=3,
+		colorscheme=prgn7,
+		fillcolor=7,
+		fontcolor="#A9A9A9",
+		fontsize=47,
+		height=2.311,
+		label="nae、Tzinitza，阿拉伯文為
+Cyn、Sin、Th",
+		penwidth=5,
+		peripheries=2,
+		pos="2793.5,115.37",
+		shape=ellipse,
+		style=filled,
+		width=11.877];
+	"出現了中外之分
+、敵我區隔這
+樣與現代相似
+的用法。魏、" -> "nae、Tzinitza，阿拉伯文為
+Cyn、Sin、Th"	[arrowhead=dot,
+		arrowsize=1.75,
+		color=7,
+		penwidth=8,
+		pos="e,2544.9,183.09 1711.4,377.58 1891.2,338.55 2139.3,283.45 2356.5,230.74 2413.1,217.01 2473.7,201.61 2531.1,186.67",
+		style=solid];
+}

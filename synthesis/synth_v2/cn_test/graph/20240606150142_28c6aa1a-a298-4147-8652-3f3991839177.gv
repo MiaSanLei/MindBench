@@ -1,0 +1,421 @@
+strict digraph "" {
+	graph [bb="0,0,10357,2028.8",
+		bgcolor=transparent,
+		colorscheme=puor6,
+		labeljust=r,
+		overlap=false,
+		rankdir=RL,
+		sep="+25,25"
+	];
+	node [fontname="Noto Sans SC",
+		label="\N"
+	];
+	"也為
+孫謁見李鴻
+章之事寫推薦信。王韜
+有一朋友在李鴻章幕下當文案，王韜就寫信介紹
+孫到天津，孫就到天
+\
+津去"	[color=5,
+		colorscheme=puor6,
+		fillcolor=4,
+		fontcolor="#006400",
+		fontsize=60,
+		height=8.0464,
+		label="也為
+孫謁見李鴻
+章之事寫推薦信。王韜
+有一朋友在李鴻章幕下當文案，王韜就寫信介紹
+孫到天津，孫就到天
+\
+津去",
+		penwidth=1,
+		peripheries=2,
+		pos="9450.4,779",
+		shape=ellipse,
+		style=filled,
+		width=25.194];
+	"自上海經日
+本赴檀香山，在華僑中宣傳革命。
+1894年11月24日孫
+在
+檀香山成立
+中國"	[color=5,
+		colorscheme=puor6,
+		fillcolor=5,
+		fontcolor="#006400",
+		fontsize=57,
+		height=15.164,
+		label="自上海經日
+本赴檀香山，在華僑中宣傳革命。
+1894年11月24日孫
+在
+檀香山成立
+中國",
+		penwidth=2,
+		pos="7274.3,1110",
+		shape=invtriangle,
+		style=filled,
+		width=34.255];
+	"也為
+孫謁見李鴻
+章之事寫推薦信。王韜
+有一朋友在李鴻章幕下當文案，王韜就寫信介紹
+孫到天津，孫就到天
+\
+津去" -> "自上海經日
+本赴檀香山，在華僑中宣傳革命。
+1894年11月24日孫
+在
+檀香山成立
+中國"	[arrowhead=open,
+		arrowsize=2,
+		color=5,
+		penwidth=8,
+		pos="e,7943.5,1008.3 8631.4,903.55 8411.3,937.05 8175.5,972.95 7963.3,1005.3",
+		style=bold];
+	"爆發。李鴻章拒絕與
+孫面談，請
+願書後來刊載於在189
+4"	[color=4,
+		colorscheme=puor6,
+		fillcolor=3,
+		fontcolor="#000000",
+		fontsize=43,
+		height=2.7222,
+		label="爆發。李鴻章拒絕與
+孫面談，請
+願書後來刊載於在189
+4",
+		penwidth=0,
+		pos="7274.3,448",
+		shape=box,
+		style=filled,
+		width=5.9861];
+	"也為
+孫謁見李鴻
+章之事寫推薦信。王韜
+有一朋友在李鴻章幕下當文案，王韜就寫信介紹
+孫到天津，孫就到天
+\
+津去" -> "爆發。李鴻章拒絕與
+孫面談，請
+願書後來刊載於在189
+4"	[arrowhead=vee,
+		arrowsize=1.75,
+		color=4,
+		penwidth=11,
+		pos="e,7489.9,457.07 8740.3,598.64 8662,582.24 8583.3,567.24 8507.5,555 8161.6,499.17 7756.1,471.05 7507.5,457.99",
+		style=solid];
+	"10月，孫自上海經日本赴檀香山，在華僑中
+宣傳革命。1894年11月24
+日孫在檀
+香"	[color=5,
+		colorscheme=puor6,
+		fillcolor=6,
+		fontcolor="#808000",
+		fontsize=57,
+		height=7.2222,
+		label="10月，孫自上海經日本赴檀香山，在華僑中
+宣傳革命。1894年11月24
+日孫在檀
+香",
+		penwidth=3,
+		pos="4899.1,1437",
+		shape=diamond,
+		style=filled,
+		width=30.722];
+	"自上海經日
+本赴檀香山，在華僑中宣傳革命。
+1894年11月24日孫
+在
+檀香山成立
+中國" -> "10月，孫自上海經日本赴檀香山，在華僑中
+宣傳革命。1894年11月24
+日孫在檀
+香"	[arrowhead=normal,
+		arrowsize=2,
+		color=5,
+		penwidth=7,
+		pos="e,5596.8,1341 6236.7,1252.8 6027.5,1281.6 5812.1,1311.3 5616.9,1338.2",
+		style=solid];
+	在香港短暫逗留後	[color=3,
+		colorscheme=puor6,
+		fillcolor=3,
+		fontcolor="#006400",
+		fontsize=55,
+		height=1.3553,
+		label=在香港短暫逗留後,
+		penwidth=3,
+		peripheries=1,
+		pos="4899.1,1110",
+		shape=ellipse,
+		width=8.937];
+	"自上海經日
+本赴檀香山，在華僑中宣傳革命。
+1894年11月24日孫
+在
+檀香山成立
+中國" -> 在香港短暫逗留後	[arrowhead=open,
+		arrowsize=1,
+		color=4,
+		penwidth=10,
+		pos="e,5221,1110 6452,1110 6032.8,1110 5546.2,1110 5231.2,1110",
+		style=solid];
+	"觀應，結果鄭觀
+應也為孫謁見李鴻章之事寫推薦信。王
+韜
+有一朋友在李鴻章幕下當文案，王韜就"	[color=3,
+		colorscheme=puor6,
+		fillcolor=4,
+		fontcolor="#E9967A",
+		fontsize=44,
+		height=4.0395,
+		label="觀應，結果鄭觀
+應也為孫謁見李鴻章之事寫推薦信。王
+韜
+有一朋友在李鴻章幕下當文案，王韜就",
+		penwidth=8,
+		peripheries=2,
+		pos="4899.1,898",
+		shape=ellipse,
+		style=filled,
+		width=15.216];
+	"自上海經日
+本赴檀香山，在華僑中宣傳革命。
+1894年11月24日孫
+在
+檀香山成立
+中國" -> "觀應，結果鄭觀
+應也為孫謁見李鴻章之事寫推薦信。王
+韜
+有一朋友在李鴻章幕下當文案，王韜就"	[arrowhead=normal,
+		arrowsize=2,
+		color=4,
+		penwidth=6,
+		pos="e,5418.7,944.33 6549.2,1045.3 6191.4,1013.4 5767.3,975.47 5438.7,946.12",
+		style=solid];
+	"李鴻章
+幕下當文案，王韜就寫信介紹孫到"	[color=4,
+		colorscheme=puor6,
+		fillcolor=3,
+		fontcolor="#008080",
+		fontsize=43,
+		height=1.4167,
+		label="李鴻章
+幕下當文案，王韜就寫信介紹孫到",
+		penwidth=2,
+		pos="4899.1,448",
+		shape=box,
+		style=filled,
+		width=9.1389];
+	"爆發。李鴻章拒絕與
+孫面談，請
+願書後來刊載於在189
+4" -> "李鴻章
+幕下當文案，王韜就寫信介紹孫到"	[arrowhead=normal,
+		arrowsize=2,
+		color=5,
+		penwidth=8,
+		pos="e,5228.3,448 7058.7,448 6647.9,448 5746.6,448 5248.4,448",
+		style=dotted];
+	"與同窗
+在香港
+成立興中會總機關並修訂旋又偕同
+陸皓東"	[color=3,
+		colorscheme=puor6,
+		fillcolor=6,
+		fontcolor="#800080",
+		fontsize=49,
+		height=8.7996,
+		label="與同窗
+在香港
+成立興中會總機關並修訂旋又偕同
+陸皓東",
+		penwidth=2,
+		pos="1878.5,1712",
+		shape=invtriangle,
+		width=29.384];
+	"10月，孫自上海經日本赴檀香山，在華僑中
+宣傳革命。1894年11月24
+日孫在檀
+香" -> "與同窗
+在香港
+成立興中會總機關並修訂旋又偕同
+陸皓東"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=5,
+		penwidth=6,
+		pos="e,2465.1,1658.7 4101.5,1509.6 3593.3,1555.9 2945.1,1614.9 2480.2,1657.3",
+		style=solid];
+	"團體興中會。提出政綱
+。1895年1月孫"	[color=3,
+		colorscheme=puor6,
+		fillcolor=5,
+		fontcolor="#008080",
+		fontsize=47,
+		height=2.1999,
+		label="團體興中會。提出政綱
+。1895年1月孫",
+		penwidth=6,
+		peripheries=1,
+		pos="1878.5,1298",
+		shape=ellipse,
+		style=filled,
+		width=9.6049];
+	"10月，孫自上海經日本赴檀香山，在華僑中
+宣傳革命。1894年11月24
+日孫在檀
+香" -> "團體興中會。提出政綱
+。1895年1月孫"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=5,
+		penwidth=6,
+		pos="e,2217.8,1313.6 3974,1394.4 3386.9,1367.4 2660.1,1333.9 2235.2,1314.4",
+		style=solid];
+	案，王韜就寫信介紹孫到天	[color=5,
+		colorscheme=puor6,
+		fillcolor=6,
+		fontcolor="#006400",
+		fontsize=40,
+		height=1.3278,
+		label=案，王韜就寫信介紹孫到天,
+		penwidth=4,
+		peripheries=3,
+		pos="1878.5,1005",
+		shape=polygon,
+		sides=8,
+		style=filled,
+		width=10.725];
+	"觀應，結果鄭觀
+應也為孫謁見李鴻章之事寫推薦信。王
+韜
+有一朋友在李鴻章幕下當文案，王韜就" -> 案，王韜就寫信介紹孫到天	[arrowhead=normal,
+		arrowsize=1,
+		color=6,
+		penwidth=12,
+		pos="e,2264.8,994.82 4359.4,923.09 4169.1,931.56 3953.6,940.71 3757.1,948 3245.3,966.98 2654.8,984.13 2274.9,994.54",
+		style=solid];
+	"電報局領班生陸
+皓東結伴同行。"	[color=3,
+		colorscheme=puor6,
+		fillcolor=2,
+		fontcolor="#800000",
+		fontsize=41,
+		height=1.3611,
+		label="電報局領班生陸
+皓東結伴同行。",
+		penwidth=8,
+		pos="1878.5,890",
+		shape=box,
+		style=filled,
+		width=4.2361];
+	"觀應，結果鄭觀
+應也為孫謁見李鴻章之事寫推薦信。王
+韜
+有一朋友在李鴻章幕下當文案，王韜就" -> "電報局領班生陸
+皓東結伴同行。"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=6,
+		penwidth=10,
+		pos="e,2031.2,890.4 4351,896.55 3651.4,894.7 2478.7,891.59 2046.2,890.44",
+		style=dotted];
+	"推薦信。王韜有一朋友在李鴻章
+幕下當文案"	[color=3,
+		colorscheme=puor6,
+		fillcolor=1,
+		fontcolor="#B8860B",
+		fontsize=48,
+		height=3.1667,
+		label="推薦信。王韜有一朋友在李鴻章
+幕下當文案",
+		penwidth=1,
+		pos="1878.5,694",
+		shape=invtrapezium,
+		style=filled,
+		width=19.139];
+	"李鴻章
+幕下當文案，王韜就寫信介紹孫到" -> "推薦信。王韜有一朋友在李鴻章
+幕下當文案"	[arrowhead=dot,
+		arrowsize=1,
+		color=5,
+		penwidth=10,
+		pos="e,2390,666.36 4569.8,487.08 4342,513.29 4031.4,547.24 3757.1,571 3298.2,610.74 2775.3,644.02 2398,665.9",
+		style=solid];
+	"同行。6月
+13日，盛宙懷鑒於
+魏恆
+情面而接見孫，並致函其堂兄盛"	[color=4,
+		colorscheme=puor6,
+		fillcolor=6,
+		fontcolor="#008080",
+		fontsize=46,
+		height=2.9444,
+		label="同行。6月
+13日，盛宙懷鑒於
+魏恆
+情面而接見孫，並致函其堂兄盛",
+		penwidth=5,
+		pos="1878.5,456",
+		shape=box,
+		style=filled,
+		width=9.125];
+	"李鴻章
+幕下當文案，王韜就寫信介紹孫到" -> "同行。6月
+13日，盛宙懷鑒於
+魏恆
+情面而接見孫，並致函其堂兄盛"	[arrowhead=none,
+		arrowsize=2,
+		color=3,
+		penwidth=9,
+		pos="4570,448.87 3989.4,450.41 2787.6,453.59 2207.2,455.13",
+		style=solid];
+	萬國公報》。孫和陸皓東離開天津，在香港短暫逗留後，孫於夏末乘船前往夏威夷。10月，孫自上海經日本赴	[color=3,
+		colorscheme=puor6,
+		fillcolor=1,
+		fontcolor="#556B2F",
+		fontsize=55,
+		height=1.4664,
+		label=萬國公報》。孫和陸皓東離開天津，在香港短暫逗留後，孫於夏末乘船前往夏威夷。10月，孫自上海經日本赴,
+		penwidth=8,
+		peripheries=2,
+		pos="1878.5,279",
+		shape=ellipse,
+		style=filled,
+		width=52.182];
+	"李鴻章
+幕下當文案，王韜就寫信介紹孫到" -> 萬國公報》。孫和陸皓東離開天津，在香港短暫逗留後，孫於夏末乘船前往夏威夷。10月，孫自上海經日本赴	[arrowhead=empty,
+		arrowsize=1,
+		color=5,
+		penwidth=12,
+		pos="e,3256.3,314.9 4569.9,411.92 4342.1,388.17 4031.5,358.38 3757.1,341 3598.4,330.95 3432,322.47 3266.7,315.34",
+		style=dotted];
+	"10月，孫自上海經日
+本赴檀香山，在華僑中宣傳革命。1894
+年11月24日孫在檀香
+山成立中"	[color=3,
+		colorscheme=puor6,
+		fillcolor=5,
+		fontcolor="#000080",
+		fontsize=45,
+		height=2.8889,
+		label="10月，孫自上海經日
+本赴檀香山，在華僑中宣傳革命。1894
+年11月24日孫在檀香
+山成立中",
+		penwidth=1,
+		pos="1878.5,104",
+		shape=box,
+		style=filled,
+		width=10.986];
+	"李鴻章
+幕下當文案，王韜就寫信介紹孫到" -> "10月，孫自上海經日
+本赴檀香山，在華僑中宣傳革命。1894
+年11月24日孫在檀香
+山成立中"	[arrowhead=diamond,
+		arrowsize=2,
+		color=4,
+		penwidth=6,
+		pos="e,2274.4,111.76 4690.8,396.95 4463.3,343.05 4086.5,260.04 3757.1,217 3258.3,151.82 2679.9,124.17 2298.4,112.48",
+		style=solid];
+}

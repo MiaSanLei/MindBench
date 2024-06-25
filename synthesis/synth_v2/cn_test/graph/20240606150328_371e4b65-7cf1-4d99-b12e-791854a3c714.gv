@@ -1,0 +1,882 @@
+strict digraph "" {
+	graph [bb="0,0,13705,2667.7",
+		bgcolor=transparent,
+		colorscheme=dark25,
+		labeljust=l,
+		overlap=false,
+		rankdir=LR,
+		sep="+25,25"
+	];
+	node [fontname="ZCOOL XiaoWei Bold",
+		label="\N"
+	];
+	"辜會談後江澤民
+發表八點對台工作指"	[color=3,
+		colorscheme=dark25,
+		fillcolor=5,
+		fontcolor="#E9967A",
+		fontsize=60,
+		height=1.9444,
+		label="辜會談後江澤民
+發表八點對台工作指",
+		penwidth=8,
+		pos="278.5,1251.9",
+		shape=box,
+		style=filled,
+		width=7.7361];
+	"將
+中華民國總統李登輝稱作，"	[color=5,
+		colorscheme=dark25,
+		fillcolor=3,
+		fontcolor="#556B2F",
+		fontsize=48,
+		height=1.5833,
+		label="將
+中華民國總統李登輝稱作，",
+		penwidth=7,
+		pos="1130.5,1597.9",
+		shape=box,
+		style=filled,
+		width=8.2361];
+	"辜會談後江澤民
+發表八點對台工作指" -> "將
+中華民國總統李登輝稱作，"	[arrowhead=vee,
+		arrowsize=2,
+		color=3,
+		penwidth=6,
+		pos="e,833.75,1580.5 341.77,1322 400.27,1383.1 493.52,1468.7 593,1513.9 661.38,1544.9 739.13,1564.7 813.81,1577.3",
+		style=bold];
+	"李登輝的兩國
+論不
+僅破壞汪道涵
+的原定訪台規劃，更進一步惡化
+兩岸局勢 。
+北京方面將中華民國總統李"	[color=4,
+		colorscheme=dark25,
+		fillcolor=5,
+		fontcolor="#8B0000",
+		fontsize=43,
+		height=7.0408,
+		label="李登輝的兩國
+論不
+僅破壞汪道涵
+的原定訪台規劃，更進一步惡化
+兩岸局勢 。
+北京方面將中華民國總統李",
+		penwidth=6,
+		pos="1130.5,1251.9",
+		shape=invhouse,
+		style=filled,
+		width=14.931];
+	"辜會談後江澤民
+發表八點對台工作指" -> "李登輝的兩國
+論不
+僅破壞汪道涵
+的原定訪台規劃，更進一步惡化
+兩岸局勢 。
+北京方面將中華民國總統李"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=4,
+		penwidth=10,
+		pos="e,592.95,1251.9 557.24,1251.9 563.21,1251.9 569.22,1251.9 575.26,1251.9",
+		style=tapered];
+	"8年中
+華民國總統李
+登輝的兩國論不僅破壞
+汪道涵的原定訪台規劃，更進一
+步惡化兩岸局勢 。北京"	[color=4,
+		colorscheme=dark25,
+		fillcolor=2,
+		fontcolor="#B8860B",
+		fontsize=47,
+		height=5.264,
+		label="8年中
+華民國總統李
+登輝的兩國論不僅破壞
+汪道涵的原定訪台規劃，更進一
+步惡化兩岸局勢 。北京",
+		penwidth=3,
+		peripheries=1,
+		pos="1130.5,754.85",
+		shape=ellipse,
+		style=filled,
+		width=13.317];
+	"辜會談後江澤民
+發表八點對台工作指" -> "8年中
+華民國總統李
+登輝的兩國論不僅破壞
+汪道涵的原定訪台規劃，更進一
+步惡化兩岸局勢 。北京"	[arrowhead=normal,
+		arrowsize=1,
+		color=4,
+		penwidth=9,
+		pos="e,787.25,887.4 351.24,1181.7 411.99,1124.9 503.3,1045.4 593,989.85 650.68,954.13 714.74,921.07 777.93,891.7",
+		style=solid];
+	"事演習，事態曾一度升級至迫使
+美國兩個航空母艦群進駐海峽，引发台海飛彈危"	[color=3,
+		colorscheme=dark25,
+		fillcolor=4,
+		fontcolor="#B8860B",
+		fontsize=53,
+		height=2.6578,
+		label="事演習，事態曾一度升級至迫使
+美國兩個航空母艦群進駐海峽，引发台海飛彈危",
+		penwidth=0,
+		peripheries=3,
+		pos="2514.6,1742.9",
+		shape=ellipse,
+		style=filled,
+		width=22.516];
+	"將
+中華民國總統李登輝稱作，" -> "事演習，事態曾一度升級至迫使
+美國兩個航空母艦群進駐海峽，引发台海飛彈危"	[arrowhead=inv,
+		arrowsize=1.25,
+		color=5,
+		penwidth=12,
+		pos="e,1908.3,1679.3 1427.2,1628.9 1564.3,1643.3 1732.6,1660.9 1895.5,1678",
+		style=solid];
+	"使美國兩
+個航空母艦群進駐海峽，引发台
+海飛
+彈危機。1998"	[color=5,
+		colorscheme=dark25,
+		fillcolor=1,
+		fontcolor="#556B2F",
+		fontsize=53,
+		height=4.9363,
+		label="使美國兩
+個航空母艦群進駐海峽，引发台
+海飛
+彈危機。1998",
+		penwidth=7,
+		peripheries=3,
+		pos="2514.6,1112.9",
+		shape=ellipse,
+		style=filled,
+		width=15.189];
+	"8年中
+華民國總統李
+登輝的兩國論不僅破壞
+汪道涵的原定訪台規劃，更進一
+步惡化兩岸局勢 。北京" -> "使美國兩
+個航空母艦群進駐海峽，引发台
+海飛
+彈危機。1998"	[arrowhead=normal,
+		arrowsize=2,
+		color=4,
+		penwidth=12,
+		pos="e,2086.4,1002.2 1532.2,858.64 1699.6,902.01 1894.8,952.57 2066.8,997.12",
+		style=tapered];
+	"工作指示，作為具體落實兩岸政策的指導。然而
+199
+4年千島
+湖事件對兩岸關係造成衝擊，1996年
+中"	[color=3,
+		colorscheme=dark25,
+		fillcolor=1,
+		fontcolor="#9932CC",
+		fontsize=50,
+		height=5.7809,
+		label="工作指示，作為具體落實兩岸政策的指導。然而
+199
+4年千島
+湖事件對兩岸關係造成衝擊，1996年
+中",
+		penwidth=2,
+		peripheries=3,
+		pos="2514.6,681.85",
+		shape=ellipse,
+		width=21.278];
+	"8年中
+華民國總統李
+登輝的兩國論不僅破壞
+汪道涵的原定訪台規劃，更進一
+步惡化兩岸局勢 。北京" -> "工作指示，作為具體落實兩岸政策的指導。然而
+199
+4年千島
+湖事件對兩岸關係造成衝擊，1996年
+中"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=4,
+		penwidth=10,
+		pos="e,1762.5,721.53 1606.2,729.78 1652.9,727.31 1701.1,724.77 1749.7,722.2",
+		style=solid];
+	"場與利
+益。2001年，江泽民
+與俄罗斯总统普京簽訂
+有效20年的，確定了中俄兩國合作"	[color=3,
+		colorscheme=dark25,
+		fillcolor=3,
+		fontcolor="#E9967A",
+		fontsize=44,
+		height=4.0395,
+		label="場與利
+益。2001年，江泽民
+與俄罗斯总统普京簽訂
+有效20年的，確定了中俄兩國合作",
+		penwidth=4,
+		peripheries=2,
+		pos="2514.6,274.85",
+		shape=ellipse,
+		style=filled,
+		width=13.585];
+	"8年中
+華民國總統李
+登輝的兩國論不僅破壞
+汪道涵的原定訪台規劃，更進一
+步惡化兩岸局勢 。北京" -> "場與利
+益。2001年，江泽民
+與俄罗斯总统普京簽訂
+有效20年的，確定了中俄兩國合作"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=5,
+		penwidth=8,
+		pos="e,2099.8,352.02 1405.5,599.37 1498.2,551.31 1603.7,501.45 1704.1,464.85 1824.4,420.98 1958.5,384.7 2082.4,356.02",
+		style=dashed];
+	"俄罗斯总统
+普京簽訂有效20年的，確定了
+中俄
+兩"	[color=3,
+		colorscheme=dark25,
+		fillcolor=1,
+		fontcolor="#006400",
+		fontsize=60,
+		height=5.8939,
+		label="俄罗斯总统
+普京簽訂有效20年的，確定了
+中俄
+兩",
+		penwidth=3,
+		peripheries=2,
+		pos="5515.2,1761.9",
+		shape=polygon,
+		sides=8,
+		style=filled,
+		width=17.183];
+	"事演習，事態曾一度升級至迫使
+美國兩個航空母艦群進駐海峽，引发台海飛彈危" -> "俄罗斯总统
+普京簽訂有效20年的，確定了
+中俄
+兩"	[arrowhead=normal,
+		arrowsize=2,
+		color=3,
+		penwidth=10,
+		pos="e,4896.6,1757.9 3324.1,1748 3811.4,1751.1 4423.4,1754.9 4876.5,1757.8",
+		style=solid];
+	"001
+年底經過長期的艱苦談判中國終於加入世界貿易
+組織。1991
+年蘇聯解體之後，
+中國
+與俄羅"	[color=4,
+		colorscheme=dark25,
+		fillcolor=1,
+		fontcolor="#000080",
+		fontsize=58,
+		height=10.889,
+		label="001
+年底經過長期的艱苦談判中國終於加入世界貿易
+組織。1991
+年蘇聯解體之後，
+中國
+與俄羅",
+		penwidth=1,
+		pos="5515.2,1139.9",
+		shape=invtrapezium,
+		style=filled,
+		width=34.139];
+	"使美國兩
+個航空母艦群進駐海峽，引发台
+海飛
+彈危機。1998" -> "001
+年底經過長期的艱苦談判中國終於加入世界貿易
+組織。1991
+年蘇聯解體之後，
+中國
+與俄羅"	[arrowhead=normal,
+		arrowsize=1,
+		color=5,
+		penwidth=6,
+		pos="e,4547.4,1131.1 3061.3,1117.8 3472.5,1121.5 4047.4,1126.6 4537.3,1131.1",
+		style=solid];
+	"與利益。2001年，江泽民與俄罗斯总统普京簽訂
+有效20年的"	[color=3,
+		colorscheme=dark25,
+		fillcolor=1,
+		fontcolor="#006400",
+		fontsize=40,
+		height=1.3333,
+		label="與利益。2001年，江泽民與俄罗斯总统普京簽訂
+有效20年的",
+		penwidth=1,
+		pos="5515.2,681.85",
+		shape=box,
+		width=11.972];
+	"工作指示，作為具體落實兩岸政策的指導。然而
+199
+4年千島
+湖事件對兩岸關係造成衝擊，1996年
+中" -> "與利益。2001年，江泽民與俄罗斯总统普京簽訂
+有效20年的"	[arrowhead=normal,
+		arrowsize=2,
+		color=5,
+		penwidth=12,
+		pos="e,5084,681.85 3281,681.85 3845,681.85 4592.8,681.85 5063.9,681.85",
+		style=solid];
+	，中國與俄羅斯的關係顯著改善，兩國彼此間在許多國際問題上有著相近的立場與利益	[color=4,
+		colorscheme=dark25,
+		fillcolor=4,
+		fontcolor="#000080",
+		fontsize=56,
+		height=1.9444,
+		label=，中國與俄羅斯的關係顯著改善，兩國彼此間在許多國際問題上有著相近的立場與利益,
+		penwidth=8,
+		pos="5515.2,443.85",
+		shape=diamond,
+		style=filled,
+		width=59.833];
+	"工作指示，作為具體落實兩岸政策的指導。然而
+199
+4年千島
+湖事件對兩岸關係造成衝擊，1996年
+中" -> ，中國與俄羅斯的關係顯著改善，兩國彼此間在許多國際問題上有著相近的立場與利益	[arrowhead=curve,
+		arrowsize=1.25,
+		color=3,
+		penwidth=11,
+		pos="e,4888.7,493.5 3250.1,623.56 3748.1,584.03 4399.8,532.3 4876.1,494.5",
+		style=solid];
+	"中俄兩國合作的原则。中俄边界谈判取得突破，消
+除了两国之间的障碍。然而由於
+兩國國力所限，不可能在一些"	[color=5,
+		colorscheme=dark25,
+		fillcolor=4,
+		fontcolor="#2F4F4F",
+		fontsize=57,
+		height=2.7361,
+		label="中俄兩國合作的原则。中俄边界谈判取得突破，消
+除了两国之间的障碍。然而由於
+兩國國力所限，不可能在一些",
+		penwidth=4,
+		pos="5515.2,256.85",
+		shape=box,
+		style=filled,
+		width=17.653];
+	"場與利
+益。2001年，江泽民
+與俄罗斯总统普京簽訂
+有效20年的，確定了中俄兩國合作" -> "中俄兩國合作的原则。中俄边界谈判取得突破，消
+除了两国之间的障碍。然而由於
+兩國國力所限，不可能在一些"	[arrowhead=dot,
+		arrowsize=1.5,
+		color=5,
+		penwidth=12,
+		pos="e,4879.5,260.66 3003.7,271.92 3511,268.88 4307.6,264.1 4867.2,260.74",
+		style=dashed];
+	"實兩岸政策的指導
+。然而19"	[color=4,
+		colorscheme=dark25,
+		fillcolor=2,
+		fontcolor="#006400",
+		fontsize=54,
+		height=1.75,
+		label="實兩岸政策的指導
+。然而19",
+		penwidth=5,
+		pos="8295.2,1623.9",
+		shape=box,
+		style=filled,
+		width=6.2361];
+	"001
+年底經過長期的艱苦談判中國終於加入世界貿易
+組織。1991
+年蘇聯解體之後，
+中國
+與俄羅" -> "實兩岸政策的指導
+。然而19"	[arrowhead=open,
+		arrowsize=2,
+		color=4,
+		penwidth=12,
+		pos="e,8070.6,1584.9 6613.6,1331.1 7142,1423.1 7729.3,1525.4 8050.8,1581.4",
+		style=bold];
+	"涵的
+原定訪台規劃，更進一
+步惡化兩岸局勢
+ 。北"	[color=4,
+		colorscheme=dark25,
+		fillcolor=5,
+		fontcolor="#008000",
+		fontsize=59,
+		height=5.3751,
+		label="涵的
+原定訪台規劃，更進一
+步惡化兩岸局勢
+ 。北",
+		penwidth=8,
+		peripheries=2,
+		pos="8295.2,1049.9",
+		shape=ellipse,
+		style=filled,
+		width=12.073];
+	"與利益。2001年，江泽民與俄罗斯总统普京簽訂
+有效20年的" -> "涵的
+原定訪台規劃，更進一
+步惡化兩岸局勢
+ 。北"	[arrowhead=dot,
+		arrowsize=1,
+		color=3,
+		penwidth=8,
+		pos="e,7898.6,970.59 5946.4,636.85 6495.6,588.78 7406.4,543.55 7669.2,738.85 7710.1,769.29 7669.3,811.57 7705.2,847.85 7756.8,900.05 \
+7822.5,938.77 7891.1,967.49",
+		style=solid];
+	"。2001年
+底經過長期的艱苦
+談判中國終於加入世界貿易組織。1991年蘇聯解
+體之後，
+中國與俄"	[color=3,
+		colorscheme=dark25,
+		fillcolor=5,
+		fontcolor="#006400",
+		fontsize=55,
+		height=4.3472,
+		label="。2001年
+底經過長期的艱苦
+談判中國終於加入世界貿易組織。1991年蘇聯解
+體之後，
+中國與俄",
+		penwidth=8,
+		pos="8295.2,681.85",
+		shape=box,
+		style=filled,
+		width=16.389];
+	"與利益。2001年，江泽民與俄罗斯总统普京簽訂
+有效20年的" -> "。2001年
+底經過長期的艱苦
+談判中國終於加入世界貿易組織。1991年蘇聯解
+體之後，
+中國與俄"	[arrowhead=vee,
+		arrowsize=1.75,
+		color=4,
+		penwidth=11,
+		pos="e,7705.2,681.85 5946.4,681.85 6413,681.85 7161.2,681.85 7687.3,681.85",
+		style=solid];
+	"兩岸政策的指導。然而199
+4年千島湖"	[color=3,
+		colorscheme=dark25,
+		fillcolor=1,
+		fontcolor="#BDB76B",
+		fontsize=48,
+		height=2.2392,
+		label="兩岸政策的指導。然而199
+4年千島湖",
+		penwidth=7,
+		peripheries=1,
+		pos="8295.2,426.85",
+		shape=ellipse,
+		width=11.353];
+	，中國與俄羅斯的關係顯著改善，兩國彼此間在許多國際問題上有著相近的立場與利益 -> "兩岸政策的指導。然而199
+4年千島湖"	[arrowhead=box,
+		arrowsize=1.5,
+		color=3,
+		penwidth=7,
+		pos="e,7886.6,429.35 7328.4,432.76 7528.7,431.54 7715.9,430.39 7871.2,429.44",
+		style=dotted];
+	"家都已經預見到中美
+關係將
+是新世紀中最重要的雙邊
+關係。2001年底經過長期的艱"	[color=3,
+		colorscheme=dark25,
+		fillcolor=5,
+		fontcolor="#800000",
+		fontsize=59,
+		height=3.7222,
+		label="家都已經預見到中美
+關係將
+是新世紀中最重要的雙邊
+關係。2001年底經過長期的艱",
+		penwidth=5,
+		pos="8295.2,193.85",
+		shape=box,
+		style=filled,
+		width=11.111];
+	，中國與俄羅斯的關係顯著改善，兩國彼此間在許多國際問題上有著相近的立場與利益 -> "家都已經預見到中美
+關係將
+是新世紀中最重要的雙邊
+關係。2001年底經過長期的艱"	[arrowhead=curve,
+		arrowsize=1.75,
+		color=4,
+		penwidth=12,
+		pos="e,7894.9,267.46 5933.3,500.3 6377.4,544.1 7093.9,567.56 7669.2,363.85 7688,357.18 7687.1,345.39 7705.2,336.85 7759.3,311.31 7818.5,\
+290.05 7877.8,272.45",
+		style=solid];
+	"。北
+京方面將中華民國總統李
+登輝稱作，並將希
+望寄托於他的繼任者：然而2000年中華民國"	[color=5,
+		colorscheme=dark25,
+		fillcolor=4,
+		fontcolor="#9932CC",
+		fontsize=60,
+		height=5.4537,
+		label="。北
+京方面將中華民國總統李
+登輝稱作，並將希
+望寄托於他的繼任者：然而2000年中華民國",
+		penwidth=3,
+		peripheries=2,
+		pos="9751.8,2243.9",
+		shape=ellipse,
+		style=filled,
+		width=23.072];
+	"實兩岸政策的指導
+。然而19" -> "。北
+京方面將中華民國總統李
+登輝稱作，並將希
+望寄托於他的繼任者：然而2000年中華民國"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=5,
+		penwidth=10,
+		pos="e,9348.1,2072.2 8444,1686.9 8651.6,1775.3 9037.4,1939.8 9336.2,2067.1",
+		style=solid];
+	入世界貿易組織。	[color=4,
+		colorscheme=dark25,
+		fillcolor=2,
+		fontcolor="#FF8C00",
+		fontsize=46,
+		height=1.6389,
+		label=入世界貿易組織。,
+		penwidth=1,
+		pos="9751.8,1773.9",
+		shape=diamond,
+		style=filled,
+		width=10.639];
+	"實兩岸政策的指導
+。然而19" -> 入世界貿易組織。	[arrowhead=none,
+		arrowsize=1,
+		color=4,
+		penwidth=8,
+		pos="8519.7,1655.9 8638.7,1672.2 8787.7,1691.6 8921.2,1705.9 9110.2,1726 9323.9,1743.4 9487.1,1755.5",
+		style=dotted];
+	"華民國總統李登輝
+稱作，並將希望寄
+托於他的繼任者：然
+而200
+0年中華
+民國
+實現政黨輪替，民主"	[color=5,
+		colorscheme=dark25,
+		fillcolor=1,
+		fontcolor="#006400",
+		fontsize=60,
+		height=13.056,
+		label="華民國總統李登輝
+稱作，並將希望寄
+托於他的繼任者：然
+而200
+0年中華
+民國
+實現政黨輪替，民主",
+		penwidth=0,
+		pos="9751.8,1226.9",
+		shape=diamond,
+		style=filled,
+		width=15.472];
+	"實兩岸政策的指導
+。然而19" -> "華民國總統李登輝
+稱作，並將希望寄
+托於他的繼任者：然
+而200
+0年中華
+民國
+實現政黨輪替，民主"	[arrowhead=normal,
+		arrowsize=2,
+		color=4,
+		penwidth=12,
+		pos="e,9330.7,1341.5 8519.9,1562.8 8729.9,1505.5 9050.1,1418.1 9311.2,1346.8",
+		style=solid];
+	"引发台海飛彈危機
+。1998年中華民國總
+統李登輝的兩國論不僅破壞汪道涵的原"	[color=3,
+		colorscheme=dark25,
+		fillcolor=5,
+		fontcolor="#808000",
+		fontsize=54,
+		height=3.856,
+		label="引发台海飛彈危機
+。1998年中華民國總
+統李登輝的兩國論不僅破壞汪道涵的原",
+		penwidth=4,
+		peripheries=3,
+		pos="12162,2528.9",
+		shape=ellipse,
+		style=filled,
+		width=18.587];
+	"。北
+京方面將中華民國總統李
+登輝稱作，並將希
+望寄托於他的繼任者：然而2000年中華民國" -> "引发台海飛彈危機
+。1998年中華民國總
+統李登輝的兩國論不僅破壞汪道涵的原"	[arrowhead=none,
+		arrowsize=2,
+		color=3,
+		penwidth=8,
+		pos="10434,2355.7 10497,2364.7 10559,2373.3 10618,2380.9 10921,2419.2 11257,2452.6 11539,2477.9",
+		style=solid];
+	是新世紀中最重要的雙邊	[color=4,
+		colorscheme=dark25,
+		fillcolor=4,
+		fontcolor="#008080",
+		fontsize=49,
+		height=0.86111,
+		label=是新世紀中最重要的雙邊,
+		penwidth=4,
+		pos="12162,2340.9",
+		shape=box,
+		style=filled,
+		width=7.6806];
+	"。北
+京方面將中華民國總統李
+登輝稱作，並將希
+望寄托於他的繼任者：然而2000年中華民國" -> 是新世紀中最重要的雙邊	[arrowhead=curve,
+		arrowsize=1.75,
+		color=4,
+		penwidth=11,
+		pos="e,11885,2337 10551,2297.6 10574,2298.7 10596,2299.8 10618,2300.9 11053,2320.8 11557,2331.5 11867,2336.7",
+		style=solid];
+	"，兩國彼此間
+在許多國
+際問題上有著相近的立場
+與利益。2001年
+，江泽民與俄罗斯总统普京簽訂有效"	[color=4,
+		colorscheme=dark25,
+		fillcolor=1,
+		fontcolor="#BDB76B",
+		fontsize=51,
+		height=4,
+		label="，兩國彼此間
+在許多國
+際問題上有著相近的立場
+與利益。2001年
+，江泽民與俄罗斯总统普京簽訂有效",
+		penwidth=2,
+		pos="12162,2147.9",
+		shape=box,
+		style=filled,
+		width=11.569];
+	"。北
+京方面將中華民國總統李
+登輝稱作，並將希
+望寄托於他的繼任者：然而2000年中華民國" -> "，兩國彼此間
+在許多國
+際問題上有著相近的立場
+與利益。2001年
+，江泽民與俄罗斯总统普京簽訂有效"	[arrowhead=inv,
+		arrowsize=1.75,
+		color=4,
+		penwidth=10,
+		pos="e,11745,2164.4 10571,2211.2 10959,2195.8 11406,2177.9 11727,2165.1",
+		style=solid];
+	"體落
+實兩岸政策的指導。
+然而1994年千島湖事件對兩岸
+關係"	[color=3,
+		colorscheme=dark25,
+		fillcolor=3,
+		fontcolor="#000000",
+		fontsize=46,
+		height=5.8889,
+		label="體落
+實兩岸政策的指導。
+然而1994年千島湖事件對兩岸
+關係",
+		penwidth=7,
+		pos="12162,1773.9",
+		shape=trapezium,
+		style=filled,
+		width=17.278];
+	入世界貿易組織。 -> "體落
+實兩岸政策的指導。
+然而1994年千島湖事件對兩岸
+關係"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=3,
+		penwidth=7,
+		pos="e,11669,1773.9 10135,1773.9 10545,1773.9 11198,1773.9 11651,1773.9",
+		style=solid];
+	"大問題上聯
+手與美國為主導的西方國家正面衝突。19
+93年汪辜會談後江澤民發表八點對台工作指示，作為"	[color=5,
+		colorscheme=dark25,
+		fillcolor=1,
+		fontcolor="#FF8C00",
+		fontsize=42,
+		height=5.7354,
+		label="大問題上聯
+手與美國為主導的西方國家正面衝突。19
+93年汪辜會談後江澤民發表八點對台工作指示，作為",
+		penwidth=3,
+		pos="12162,1337.9",
+		shape=invtriangle,
+		style=filled,
+		width=38.773];
+	"華民國總統李登輝
+稱作，並將希望寄
+托於他的繼任者：然
+而200
+0年中華
+民國
+實現政黨輪替，民主" -> "大問題上聯
+手與美國為主導的西方國家正面衝突。19
+93年汪辜會談後江澤民發表八點對台工作指示，作為"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=5,
+		penwidth=6,
+		pos="e,11391,1302.4 10280,1251.2 10600,1265.9 11015,1285 11373,1301.6",
+		style=tapered];
+	"空母艦群進駐海峽
+，引发
+台海飛彈危機
+。1998年
+中華民國總統李登
+輝的兩國論不僅破壞汪道涵的原定訪台"	[color=5,
+		colorscheme=dark25,
+		fillcolor=2,
+		fontcolor="#008B8B",
+		fontsize=48,
+		height=6.5144,
+		label="空母艦群進駐海峽
+，引发
+台海飛彈危機
+。1998年
+中華民國總統李登
+輝的兩國論不僅破壞汪道涵的原定訪台",
+		penwidth=7,
+		peripheries=2,
+		pos="12162,878.85",
+		shape=ellipse,
+		style=filled,
+		width=16.473];
+	"華民國總統李登輝
+稱作，並將希望寄
+托於他的繼任者：然
+而200
+0年中華
+民國
+實現政黨輪替，民主" -> "空母艦群進駐海峽
+，引发
+台海飛彈危機
+。1998年
+中華民國總統李登
+輝的兩國論不僅破壞汪道涵的原定訪台"	[arrowhead=normal,
+		arrowsize=1,
+		color=3,
+		penwidth=11,
+		pos="e,11604,959.25 10228,1158.2 10620,1101.5 11178,1020.8 11594,960.71",
+		style=solid];
+	"一度升
+級至迫使美國兩個航空母艦群進駐海峽，
+引发台"	[color=4,
+		colorscheme=dark25,
+		fillcolor=5,
+		fontcolor="#800000",
+		fontsize=45,
+		height=2.1944,
+		label="一度升
+級至迫使美國兩個航空母艦群進駐海峽，
+引发台",
+		penwidth=2,
+		pos="9751.8,421.85",
+		shape=box,
+		style=filled,
+		width=11.486];
+	"。2001年
+底經過長期的艱苦
+談判中國終於加入世界貿易組織。1991年蘇聯解
+體之後，
+中國與俄" -> "一度升
+級至迫使美國兩個航空母艦群進駐海峽，
+引发台"	[arrowhead=diamond,
+		arrowsize=1.75,
+		color=4,
+		penwidth=8,
+		pos="e,9338.3,495.59 8885.2,576.57 9029.7,550.74 9181.8,523.55 9317.5,499.3",
+		style=dotted];
+	"民國總統李登輝訪美觸怒中华人民共和国政府，
+之後又在中华民国首次總統直選前夕在台灣海
+峽舉
+\
+行軍"	[color=4,
+		colorscheme=dark25,
+		fillcolor=4,
+		fontcolor="#800080",
+		fontsize=41,
+		height=2.6111,
+		label="民國總統李登輝訪美觸怒中华人民共和国政府，
+之後又在中华民国首次總統直選前夕在台灣海
+峽舉
+\
+行軍",
+		penwidth=4,
+		pos="12162,531.85",
+		shape=box,
+		style=filled,
+		width=12.264];
+	"一度升
+級至迫使美國兩個航空母艦群進駐海峽，
+引发台" -> "民國總統李登輝訪美觸怒中华人民共和国政府，
+之後又在中华民国首次總統直選前夕在台灣海
+峽舉
+\
+行軍"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=4,
+		penwidth=8,
+		pos="e,11720,511.73 10165,440.7 10593,460.22 11259,490.66 11702,510.92",
+		style=dotted];
+	"年蘇聯解體之後，中國與俄羅斯的關
+係顯"	[color=3,
+		colorscheme=dark25,
+		fillcolor=2,
+		fontcolor="#B8860B",
+		fontsize=45,
+		height=3,
+		label="年蘇聯解體之後，中國與俄羅斯的關
+係顯",
+		penwidth=7,
+		pos="12162,311.85",
+		shape=parallelogram,
+		style=filled,
+		width=21.225];
+	"一度升
+級至迫使美國兩個航空母艦群進駐海峽，
+引发台" -> "年蘇聯解體之後，中國與俄羅斯的關
+係顯"	[arrowhead=halfopen,
+		arrowsize=1.25,
+		color=4,
+		penwidth=10,
+		pos="e,11591,337.86 10165,403.01 10555,385.22 11142,358.39 11579,338.43",
+		style=tapered];
+	"國兩個航空
+母艦群進駐海峽，引发台海飛彈危機。1998年中華民國總統李登輝的兩國論不僅破壞汪道涵的原"	[color=5,
+		colorscheme=dark25,
+		fillcolor=4,
+		fontcolor="#800000",
+		fontsize=51,
+		height=2.5792,
+		label="國兩個航空
+母艦群進駐海峽，引发台海飛彈危機。1998年中華民國總統李登輝的兩國論不僅破壞汪道涵的原",
+		penwidth=2,
+		peripheries=3,
+		pos="12162,92.853",
+		shape=ellipse,
+		style=filled,
+		width=42.865];
+	"一度升
+級至迫使美國兩個航空母艦群進駐海峽，
+引发台" -> "國兩個航空
+母艦群進駐海峽，引发台海飛彈危機。1998年中華民國總統李登輝的兩國論不僅破壞汪道涵的原"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=5,
+		penwidth=8,
+		pos="e,10953,150.61 10003,342.73 10174,291.86 10408,229.09 10618,194.85 10722,178.03 10830,163.97 10938,152.21",
+		style=solid];
+}

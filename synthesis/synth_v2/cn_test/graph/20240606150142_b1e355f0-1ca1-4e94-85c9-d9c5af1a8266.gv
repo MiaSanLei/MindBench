@@ -1,0 +1,474 @@
+strict digraph "" {
+	graph [bb="0,0,14757,10571",
+		bgcolor=transparent,
+		labeljust=l,
+		overlap=false
+	];
+	node [fontname="Noto Serif TC Bold italic",
+		label="\N"
+	];
+	"興中會。
+2月21日糾集孫故交與同窗"	[color=darkgreen,
+		fillcolor=lightslategrey,
+		fontcolor="#800000",
+		fontsize=60,
+		height=1.9444,
+		label="興中會。
+2月21日糾集孫故交與同窗",
+		penwidth=0,
+		pos="8673.3,3963.1",
+		shape=box,
+		style=filled,
+		width=9.9444];
+	"李鴻章，
+主張仿效
+西方，
+發展工農業，改革教
+育和選拔人才。提出革新
+政治主張
+，被拒絕。未被李鴻章"	[color=beige,
+		fillcolor=lightyellow,
+		fontcolor="#800000",
+		fontsize=58,
+		height=6.3333,
+		label="李鴻章，
+主張仿效
+西方，
+發展工農業，改革教
+育和選拔人才。提出革新
+政治主張
+，被拒絕。未被李鴻章",
+		penwidth=6,
+		pos="9039.6,2385.7",
+		shape=box,
+		style=filled,
+		width=9.0556];
+	"興中會。
+2月21日糾集孫故交與同窗" -> "李鴻章，
+主張仿效
+西方，
+發展工農業，改革教
+育和選拔人才。提出革新
+政治主張
+，被拒絕。未被李鴻章"	[arrowhead=empty,
+		arrowsize=1,
+		penwidth=7,
+		pos="e,8986.6,2613.8 8689.5,3893 8740.6,3673.2 8899.2,2990.2 8984.3,2623.7",
+		style=solid];
+	"辦法，回到上海。孫上書李鴻章，主張仿
+效西方，發展工農業，改革教
+育和
+選拔人
+才。提出革新政治主張"	[color=lightsalmon,
+		fillcolor=lightslategray,
+		fontcolor="#9932CC",
+		fontsize=54,
+		height=4.2083,
+		label="辦法，回到上海。孫上書李鴻章，主張仿
+效西方，發展工農業，改革教
+育和
+選拔人
+才。提出革新政治主張",
+		penwidth=5,
+		pos="6306,4912.2",
+		shape=box,
+		style=filled,
+		width=13.736];
+	"興中會。
+2月21日糾集孫故交與同窗" -> "辦法，回到上海。孫上書李鴻章，主張仿
+效西方，發展工農業，改革教
+育和
+選拔人
+才。提出革新政治主張"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=11,
+		pos="e,6684,4760.7 8498.2,4033.3 8119.7,4185 7217.3,4546.9 6695.9,4755.9",
+		style=bold];
+	"主張，被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北京、
+武漢，觀察形勢。7月2"	[color=aquamarine,
+		fillcolor=lightsteelblue,
+		fontcolor="#008080",
+		fontsize=52,
+		height=1.6944,
+		label="主張，被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北京、
+武漢，觀察形勢。7月2",
+		penwidth=0,
+		pos="10800,3512.4",
+		shape=box,
+		style=filled,
+		width=24.667];
+	"興中會。
+2月21日糾集孫故交與同窗" -> "主張，被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北京、
+武漢，觀察形勢。7月2"	[arrowhead=normal,
+		arrowsize=2,
+		penwidth=12,
+		pos="e,10512,3573.4 9003.8,3893.1 9410.6,3806.8 10096,3661.6 10492,3577.6",
+		style=solid];
+	"遇鄭觀應，結果鄭觀應也為孫謁
+見李鴻章之事寫推薦信。王
+韜有一朋
+友在李鴻章幕下
+當"	[color=darkseagreen,
+		fillcolor=lightyellow,
+		fontcolor="#008080",
+		fontsize=45,
+		height=3.5833,
+		label="遇鄭觀應，結果鄭觀應也為孫謁
+見李鴻章之事寫推薦信。王
+韜有一朋
+友在李鴻章幕下
+當",
+		penwidth=2,
+		pos="6815.7,7030.6",
+		shape=box,
+		style=filled,
+		width=8.9861];
+	"辦法，回到上海。孫上書李鴻章，主張仿
+效西方，發展工農業，改革教
+育和
+選拔人
+才。提出革新政治主張" -> "遇鄭觀應，結果鄭觀應也為孫謁
+見李鴻章之事寫推薦信。王
+韜有一朋
+友在李鴻章幕下
+當"	[arrowhead=empty,
+		arrowsize=2,
+		penwidth=7,
+		pos="e,6784.6,6901.5 6342.5,5063.7 6436.5,5454.7 6686.5,6493.9 6779.9,6881.8",
+		style=solid];
+	"歷北京、武漢，
+觀察形勢。7月25日"	[color=dodgerblue,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#800080",
+		fontsize=42,
+		height=2.268,
+		label="歷北京、武漢，
+觀察形勢。7月25日",
+		penwidth=0,
+		peripheries=1,
+		pos="6389,3481.3",
+		shape=polygon,
+		sides=6,
+		style=filled,
+		width=8.6186];
+	"辦法，回到上海。孫上書李鴻章，主張仿
+效西方，發展工農業，改革教
+育和
+選拔人
+才。提出革新政治主張" -> "歷北京、武漢，
+觀察形勢。7月25日"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=6,
+		pos="e,6384.2,3563.1 6314.8,4760.4 6331.9,4465.6 6369.2,3822.8 6383.3,3578.3",
+		style=solid];
+	"盛宙懷推薦信後，孫
+在上海巧遇鄭觀應，結果鄭觀應也
+為孫謁見李鴻章之事
+寫推薦信。王韜有一朋友"	[color=aqua,
+		fillcolor=lightpink,
+		fontcolor="#E9967A",
+		fontsize=54,
+		height=6.7778,
+		label="盛宙懷推薦信後，孫
+在上海巧遇鄭觀應，結果鄭觀應也
+為孫謁見李鴻章之事
+寫推薦信。王韜有一朋友",
+		penwidth=6,
+		pos="3643.5,4278.3",
+		shape=trapezium,
+		style=filled,
+		width=22.972];
+	"辦法，回到上海。孫上書李鴻章，主張仿
+效西方，發展工農業，改革教
+育和
+選拔人
+才。提出革新政治主張" -> "盛宙懷推薦信後，孫
+在上海巧遇鄭觀應，結果鄭觀應也
+為孫謁見李鴻章之事
+寫推薦信。王韜有一朋友"	[arrowhead=ediamond,
+		arrowsize=1.75,
+		penwidth=9,
+		pos="e,4204.5,4411.9 5811.5,4794.5 5362.3,4687.6 4699.6,4529.8 4225.2,4416.8",
+		style=solid];
+	訂旋又偕同陸皓東	[color=darkturquoise,
+		fillcolor=lightsalmon,
+		fontcolor="#008B8B",
+		fontsize=40,
+		height=0.72222,
+		label=訂旋又偕同陸皓東,
+		penwidth=6,
+		pos="12480,2655",
+		shape=box,
+		style=filled,
+		width=4.6528];
+	"主張，被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北京、
+武漢，觀察形勢。7月2" -> 訂旋又偕同陸皓東	[arrowhead=halfopen,
+		arrowsize=2,
+		penwidth=11,
+		pos="e,12429,2681.2 10920,3451.3 11248,3283.9 12153,2822.1 12410,2690.5",
+		style=solid];
+	"過，後
+來李鴻章說打仗完以後再
+見，孫知
+道沒有"	[color=azure,
+		fillcolor=lightskyblue,
+		fontcolor="#800080",
+		fontsize=59,
+		height=5.4862,
+		label="過，後
+來李鴻章說打仗完以後再
+見，孫知
+道沒有",
+		penwidth=8,
+		peripheries=3,
+		pos="7230.1,8910.3",
+		shape=ellipse,
+		style=filled,
+		width=13.343];
+	"遇鄭觀應，結果鄭觀應也為孫謁
+見李鴻章之事寫推薦信。王
+韜有一朋
+友在李鴻章幕下
+當" -> "過，後
+來李鴻章說打仗完以後再
+見，孫知
+道沒有"	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=6,
+		pos="e,7186.7,8713.5 6844.2,7159.8 6914.8,7480.2 7098.6,8313.6 7184.5,8703.5",
+		style=solid];
+	"體興中會。提出政
+綱。1895年1月孫與鄧
+蔭南等同志返回香
+港籌謀革命與陸皓東鄭士良陳
+少白等"	[color=darkred,
+		fillcolor=lightgreen,
+		fontcolor="#556B2F",
+		fontsize=55,
+		height=6.3701,
+		label="體興中會。提出政
+綱。1895年1月孫與鄧
+蔭南等同志返回香
+港籌謀革命與陸皓東鄭士良陳
+少白等",
+		penwidth=2,
+		peripheries=3,
+		pos="2038.3,4240.3",
+		shape=ellipse,
+		style=filled,
+		width=14.521];
+	"盛宙懷推薦信後，孫
+在上海巧遇鄭觀應，結果鄭觀應也
+為孫謁見李鴻章之事
+寫推薦信。王韜有一朋友" -> "體興中會。提出政
+綱。1895年1月孫與鄧
+蔭南等同志返回香
+港籌謀革命與陸皓東鄭士良陳
+少白等"	[arrowhead=open,
+		arrowsize=1,
+		penwidth=7,
+		pos="e,2560.6,4252.7 2977.3,4262.6 2841.7,4259.3 2700.9,4256 2570.7,4252.9",
+		style=dashed];
+	"育和選拔人才。提出革新政治主張，
+被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北"	[color=lightblue,
+		fillcolor=lightcyan,
+		fontcolor="#8B008B",
+		fontsize=51,
+		height=3.3333,
+		label="育和選拔人才。提出革新政治主張，
+被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北",
+		penwidth=0,
+		pos="2601.7,1998.1",
+		shape=invtrapezium,
+		width=41.556];
+	"盛宙懷推薦信後，孫
+在上海巧遇鄭觀應，結果鄭觀應也
+為孫謁見李鴻章之事
+寫推薦信。王韜有一朋友" -> "育和選拔人才。提出革新政治主張，
+被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北"	[arrowhead=dot,
+		arrowsize=1.25,
+		penwidth=10,
+		pos="e,2656.6,2118.2 3532,4034.3 3312.1,3552.9 2829.1,2495.7 2660.9,2127.5",
+		style=solid];
+	"朋
+友在李鴻章幕下當文案，王韜就寫信介紹孫到天津，孫
+就
+到天津去見文案；軍書
+旁午，文案把孫"	[color=lightskyblue,
+		fillcolor=lightcyan,
+		fontcolor="#800000",
+		fontsize=48,
+		height=6.8532,
+		label="朋
+友在李鴻章幕下當文案，王韜就寫信介紹孫到天津，孫
+就
+到天津去見文案；軍書
+旁午，文案把孫",
+		penwidth=6,
+		peripheries=3,
+		pos="2319.6,6004.7",
+		shape=polygon,
+		sides=5,
+		style=filled,
+		width=28.967];
+	"盛宙懷推薦信後，孫
+在上海巧遇鄭觀應，結果鄭觀應也
+為孫謁見李鴻章之事
+寫推薦信。王韜有一朋友" -> "朋
+友在李鴻章幕下當文案，王韜就寫信介紹孫到天津，孫
+就
+到天津去見文案；軍書
+旁午，文案把孫"	[arrowhead=inv,
+		arrowsize=1.5,
+		penwidth=11,
+		pos="e,2474,5803.4 3456.3,4522.5 3196.3,4861.4 2730.3,5469.2 2483.4,5791.1",
+		style=solid];
+	應，結果鄭觀應也為孫謁見李鴻章之事寫推薦信。王韜有一朋友在李鴻章幕下當文案，王	[color=crimson,
+		fillcolor=lightcoral,
+		fontcolor="#000000",
+		fontsize=51,
+		height=0.88889,
+		label=應，結果鄭觀應也為孫謁見李鴻章之事寫推薦信。王韜有一朋友在李鴻章幕下當文案，王,
+		penwidth=0,
+		pos="13754,1665.7",
+		shape=box,
+		style=filled,
+		width=27.861];
+	訂旋又偕同陸皓東 -> 應，結果鄭觀應也為孫謁見李鴻章之事寫推薦信。王韜有一朋友在李鴻章幕下當文案，王	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=11,
+		pos="e,13713,1697.8 12514,2628.8 12689,2492.7 13496,1866.1 13705,1704",
+		style=bold];
+	"4日孫在檀香山成立中國有史以來第一個現代革命團體興中會。提出政綱。1895年1月孫與鄧蔭南"	[color=deeppink,
+		fillcolor=lightpink,
+		fontcolor="#FF8C00",
+		fontsize=51,
+		height=1.3682,
+		label="4日孫在檀香山成立中國有史以來第一個現代革命團體興中會。提出政綱。1895年1月孫與鄧蔭南",
+		penwidth=6,
+		peripheries=2,
+		pos="7506.6,10522",
+		shape=ellipse,
+		width=42.871];
+	"過，後
+來李鴻章說打仗完以後再
+見，孫知
+道沒有" -> "4日孫在檀香山成立中國有史以來第一個現代革命團體興中會。提出政綱。1895年1月孫與鄧蔭南"	[arrowhead=dot,
+		arrowsize=1.75,
+		penwidth=11,
+		pos="e,7498.1,10472 7264,9107.5 7326.5,9471.9 7457.2,10234 7495.7,10458",
+		style=dotted];
+	"李鴻章，主張仿
+效西方，發
+展工農業，改革教
+育和選拔人才"	[color=burlywood,
+		fillcolor=lightseagreen,
+		fontcolor="#800000",
+		fontsize=56,
+		height=5.1394,
+		label="李鴻章，主張仿
+效西方，發
+展工農業，改革教
+育和選拔人才",
+		penwidth=0,
+		peripheries=2,
+		pos="2200.2,185.02",
+		shape=ellipse,
+		style=filled,
+		width=9.2839];
+	"育和選拔人才。提出革新政治主張，
+被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北" -> "李鴻章，主張仿
+效西方，發
+展工農業，改革教
+育和選拔人才"	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=6,
+		pos="e,2240.9,368.68 2575.2,1878.1 2507.1,1570.9 2326.2,753.92 2243.1,378.56",
+		style=solid];
+	"上海經日本赴檀香山，在華僑中宣傳革命。18
+94
+年11月
+24日
+孫在檀香山成立
+中國有史以來
+第"	[color=darkred,
+		fillcolor=lightsteelblue,
+		fontcolor="#000080",
+		fontsize=52,
+		height=15.988,
+		label="上海經日本赴檀香山，在華僑中宣傳革命。18
+94
+年11月
+24日
+孫在檀香山成立
+中國有史以來
+第",
+		penwidth=4,
+		pos="3848.4,953.7",
+		shape=invtriangle,
+		style=filled,
+		width=41.562];
+	"育和選拔人才。提出革新政治主張，
+被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北" -> "上海經日本赴檀香山，在華僑中宣傳革命。18
+94
+年11月
+24日
+孫在檀香山成立
+中國有史以來
+第"	[arrowhead=inv,
+		arrowsize=1.75,
+		penwidth=6,
+		pos="e,3504.8,1241.6 2745,1878 2925.9,1726.6 3243.1,1460.8 3491.2,1253",
+		style=solid];
+	"行。6月13日，
+盛宙懷鑒於魏恆情面而接見孫，並致
+函
+其堂兄盛宣懷。在得到盛宙懷推
+薦信後，孫在"	[color=darkred,
+		fillcolor=lightsteelblue,
+		fontcolor="#9932CC",
+		fontsize=42,
+		height=6.6111,
+		label="行。6月13日，
+盛宙懷鑒於魏恆情面而接見孫，並致
+函
+其堂兄盛宣懷。在得到盛宙懷推
+薦信後，孫在",
+		penwidth=2,
+		pos="826.76,1607.9",
+		shape=parallelogram,
+		width=19.842];
+	"育和選拔人才。提出革新政治主張，
+被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北" -> "行。6月13日，
+盛宙懷鑒於魏恆情面而接見孫，並致
+函
+其堂兄盛宣懷。在得到盛宙懷推
+薦信後，孫在"	[arrowhead=vee,
+		arrowsize=1.5,
+		penwidth=8,
+		pos="e,1483.8,1752.3 2055.6,1878 1879.7,1839.3 1682.6,1796 1498.7,1755.6",
+		style=solid];
+	"赴檀香山，在華僑中宣傳革
+命。1894"	[color=brown,
+		fillcolor=lightgray,
+		fontcolor="#006400",
+		fontsize=55,
+		height=5.1069,
+		label="赴檀香山，在華僑中宣傳革
+命。1894",
+		penwidth=5,
+		pos="953.18,7089.5",
+		shape=invtriangle,
+		style=filled,
+		width=26.477];
+	"朋
+友在李鴻章幕下當文案，王韜就寫信介紹孫到天津，孫
+就
+到天津去見文案；軍書
+旁午，文案把孫" -> "赴檀香山，在華僑中宣傳革
+命。1894"	[arrowhead=invempty,
+		arrowsize=1.5,
+		penwidth=8,
+		pos="e,1122.8,6954.8 2061,6210 1790.3,6424.9 1372.3,6756.8 1134.7,6945.4",
+		style=solid];
+}

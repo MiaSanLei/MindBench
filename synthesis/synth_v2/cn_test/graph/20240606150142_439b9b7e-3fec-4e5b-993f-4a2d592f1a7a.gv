@@ -1,0 +1,157 @@
+strict digraph "" {
+	graph [bb="0,0,2916.9,644.72",
+		bgcolor=transparent,
+		labeljust=c,
+		overlap=false,
+		rankdir=BT,
+		sep="+25,25"
+	];
+	node [fontname="Liu Jian Mao Cao",
+		label="\N"
+	];
+	社会学讲师。1909年，德国社会学	[color=lightblue,
+		fillcolor=lightpink,
+		fontcolor="#800000",
+		fontsize=60,
+		height=1.0278,
+		label=社会学讲师。1909年，德国社会学,
+		penwidth=4,
+		pos="1764.4,37",
+		shape=box,
+		style=filled,
+		width=12.903];
+	。1892年，芝	[color=white,
+		fillcolor=lightslategrey,
+		fontcolor="#BDB76B",
+		fontsize=53,
+		height=1.8333,
+		label=。1892年，芝,
+		penwidth=4,
+		pos="1315.4,176",
+		shape=invtrapezium,
+		style=filled,
+		width=9.6389];
+	社会学讲师。1909年，德国社会学 -> 。1892年，芝	[arrowhead=vee,
+		arrowsize=2,
+		color=gainsboro,
+		penwidth=10,
+		pos="e,1520.9,112.3 1646.1,74.085 1613.4,84.076 1576.7,95.263 1540.1,106.45",
+		style=solid];
+	chung）。与此同时，美国在社会学方面	[color=blueviolet,
+		fillcolor=lightyellow,
+		fontcolor="#800000",
+		fontsize=59,
+		height=1.0139,
+		label=chung）。与此同时，美国在社会学方面,
+		penwidth=4,
+		pos="2383.4,176",
+		shape=box,
+		style=filled,
+		width=14.819];
+	社会学讲师。1909年，德国社会学 -> chung）。与此同时，美国在社会学方面	[arrowhead=normal,
+		arrowsize=1,
+		color=darkmagenta,
+		penwidth=7,
+		pos="e,2222.9,139.47 1927.4,74.085 2015.4,93.551 2123.9,117.56 2212.9,137.27",
+		style=solid];
+	"伯共同
+成立，随后，韦伯又"	[color=darkseagreen,
+		fillcolor=lightgrey,
+		fontcolor="#00008B",
+		fontsize=45,
+		height=2.1213,
+		label="伯共同
+成立，随后，韦伯又",
+		penwidth=4,
+		peripheries=1,
+		pos="298.4,461.36",
+		shape=ellipse,
+		style=filled,
+		width=8.2889];
+	。1892年，芝 -> "伯共同
+成立，随后，韦伯又"	[arrowhead=inv,
+		arrowsize=1.5,
+		color=cyan,
+		penwidth=12,
+		pos="e,395.77,388.95 1022.1,192.63 891.64,206.16 737.95,231.31 605.4,278 535.82,302.51 464.59,343.64 408.28,380.64",
+		style=bold];
+	"这里也是英国社会学杂志
+的创刊地
+。1907年起，
+英国第一位社会学教授
+伦纳"	[color=white,
+		fillcolor=lightcoral,
+		fontcolor="#9932CC",
+		fontsize=44,
+		height=5.0934,
+		label="这里也是英国社会学杂志
+的创刊地
+。1907年起，
+英国第一位社会学教授
+伦纳",
+		penwidth=5,
+		peripheries=3,
+		pos="978.4,461.36",
+		shape=ellipse,
+		style=filled,
+		width=10.102];
+	。1892年，芝 -> "这里也是英国社会学杂志
+的创刊地
+。1907年起，
+英国第一位社会学教授
+伦纳"	[arrowhead=normal,
+		arrowsize=2,
+		color=darksalmon,
+		penwidth=9,
+		pos="e,1164.7,303.72 1238.1,242.01 1220.3,256.99 1200.5,273.61 1180.1,290.8",
+		style=solid];
+	"此同时
+，美国在社会学方
+面也有长足的发展。美国社会学家于1
+87
+5"	[color=darkslategrey,
+		fillcolor=lightseagreen,
+		fontcolor="#808000",
+		fontsize=52,
+		height=4.0694,
+		label="此同时
+，美国在社会学方
+面也有长足的发展。美国社会学家于1
+87
+5",
+		penwidth=8,
+		pos="1797.4,461.36",
+		shape=box,
+		style=filled,
+		width=12.139];
+	。1892年，芝 -> "此同时
+，美国在社会学方
+面也有长足的发展。美国社会学家于1
+87
+5"	[arrowhead=normal,
+		arrowsize=1,
+		color=darkslateblue,
+		penwidth=7,
+		pos="e,1549.9,314.85 1426,242.01 1460.7,262.45 1500.7,285.94 1541.2,309.76",
+		style=bold];
+	"元素”（Elements of Socio
+logy）课"	[color=lightgoldenrodyellow,
+		fillcolor=lightcoral,
+		fontcolor="#006400",
+		fontsize=51,
+		height=1.6667,
+		label="元素”（Elements of Socio
+logy）课",
+		penwidth=6,
+		pos="2552.4,461.36",
+		shape=box,
+		style=filled,
+		width=8.3194];
+	chung）。与此同时，美国在社会学方面 -> "元素”（Elements of Socio
+logy）课"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=firebrick,
+		penwidth=9,
+		pos="e,2517.1,401.23 2404.6,212.6 2431.1,256.99 2477,333.87 2510.6,390.25",
+		style=bold];
+}

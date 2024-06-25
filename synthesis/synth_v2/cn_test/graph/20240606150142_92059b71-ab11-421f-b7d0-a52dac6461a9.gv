@@ -1,0 +1,1605 @@
+strict digraph "" {
+	graph [bb="0,0,40982,2267.2",
+		bgcolor=transparent,
+		labeljust=l,
+		overlap=false,
+		rankdir=TB,
+		sep="+25,25"
+	];
+	node [fontname="Long Cang",
+		label="\N"
+	];
+	"论。与笛卡尔不同的是，他认为
+万物的实体是“单子”，且互相"	[color=cornsilk,
+		fillcolor=lightyellow,
+		fontcolor="#008000",
+		fontsize=60,
+		height=1.9444,
+		label="论。与笛卡尔不同的是，他认为
+万物的实体是“单子”，且互相",
+		penwidth=7,
+		pos="21437,2197.2",
+		shape=box,
+		style=filled,
+		width=11.903];
+	"为其既无客观实在也不能存在于人心。大卫休
+谟的理论比贝克莱的更进一步他不仅仅认为物质实体不存在更"	[color=lightblue,
+		fillcolor=lightgreen,
+		fontcolor="#8B008B",
+		fontsize=43,
+		height=2.4764,
+		label="为其既无客观实在也不能存在于人心。大卫休
+谟的理论比贝克莱的更进一步他不仅仅认为物质实体不存在更",
+		penwidth=6,
+		pos="20114,1926.2",
+		shape=invhouse,
+		style=filled,
+		width=28.43];
+	"论。与笛卡尔不同的是，他认为
+万物的实体是“单子”，且互相" -> "为其既无客观实在也不能存在于人心。大卫休
+谟的理论比贝克莱的更进一步他不仅仅认为物质实体不存在更"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=darkorchid,
+		penwidth=12,
+		pos="e,20465,1998.5 21098,2127.2 20909,2088.7 20673,2040.7 20479,2001.4",
+		style=dashed];
+	"贝克莱的更进一步他不仅仅认
+为物质
+实体不存在更认为
+精
+神实体不存在
+。只承认知
+觉的存在。他"	[color=lightblue,
+		fillcolor=lightpink,
+		fontcolor="#000000",
+		fontsize=42,
+		height=4.5833,
+		label="贝克莱的更进一步他不仅仅认
+为物质
+实体不存在更认为
+精
+神实体不存在
+。只承认知
+觉的存在。他",
+		penwidth=5,
+		pos="21437,1926.2",
+		shape=box,
+		style=filled,
+		width=7.8194];
+	"论。与笛卡尔不同的是，他认为
+万物的实体是“单子”，且互相" -> "贝克莱的更进一步他不仅仅认
+为物质
+实体不存在更认为
+精
+神实体不存在
+。只承认知
+觉的存在。他"	[arrowhead=invodot,
+		arrowsize=1.25,
+		color=burlywood,
+		penwidth=9,
+		pos="e,21437,2091.3 21437,2126.9 21437,2122.7 21437,2118.4 21437,2114",
+		style=solid];
+	"科全书派的学者都有涉及政治和伦理
+领"	[color=darkslateblue,
+		fillcolor=lightslategray,
+		fontcolor="#556B2F",
+		fontsize=52,
+		height=1.6944,
+		label="科全书派的学者都有涉及政治和伦理
+领",
+		penwidth=3,
+		pos="30343,1926.2",
+		shape=box,
+		style=filled,
+		width=11.736];
+	"论。与笛卡尔不同的是，他认为
+万物的实体是“单子”，且互相" -> "科全书派的学者都有涉及政治和伦理
+领"	[arrowhead=empty,
+		arrowsize=1.5,
+		color=darkred,
+		penwidth=7,
+		pos="e,29920,1939.9 21866,2183.2 23369,2137.8 28388,1986.2 29905,1940.4",
+		style=solid];
+	"的学说并反驳约翰·
+洛克的理论。与笛"	[color=darkseagreen,
+		fillcolor=lightgrey,
+		fontcolor="#8B008B",
+		fontsize=60,
+		height=3.8889,
+		label="的学说并反驳约翰·
+洛克的理论。与笛",
+		penwidth=0,
+		pos="2851.2,1537.3",
+		shape=parallelogram,
+		style=filled,
+		width=14.774];
+	"贝克莱的更进一步他不仅仅认
+为物质
+实体不存在更认为
+精
+神实体不存在
+。只承认知
+觉的存在。他" -> "的学说并反驳约翰·
+洛克的理论。与笛"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=darkturquoise,
+		penwidth=12,
+		pos="e,3280.6,1545.6 21155,1763.8 21152,1762.9 21149,1762 21146,1761.2 21006,1723.8 16058,1726.7 15912,1725.2 10960,1672.7 4951.7,1573.8 \
+3293.3,1545.8",
+		style=tapered];
+	"论也包含了唯物主义与
+唯心主义的争论。在1
+8世纪时"	[color=lightcyan,
+		fillcolor=lightgray,
+		fontcolor="#8B008B",
+		fontsize=40,
+		height=1.9444,
+		label="论也包含了唯物主义与
+唯心主义的争论。在1
+8世纪时",
+		penwidth=5,
+		pos="16128,1537.3",
+		shape=box,
+		style=filled,
+		width=5.75];
+	"贝克莱的更进一步他不仅仅认
+为物质
+实体不存在更认为
+精
+神实体不存在
+。只承认知
+觉的存在。他" -> "论也包含了唯物主义与
+唯心主义的争论。在1
+8世纪时"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=cornflowerblue,
+		penwidth=8,
+		pos="e,16335,1544.8 21155,1763.9 21152,1763 21149,1762.1 21146,1761.2 20913,1694.5 17299,1575.5 16353,1545.4",
+		style=tapered];
+	"展了经验论他不认同笛卡尔的
+“天赋
+观念”提
+出白板说他强调人们从"	[color=dimgrey,
+		fillcolor=lightcoral,
+		fontcolor="#808000",
+		fontsize=57,
+		height=5.218,
+		label="展了经验论他不认同笛卡尔的
+“天赋
+观念”提
+出白板说他强调人们从",
+		penwidth=3,
+		peripheries=2,
+		pos="21437,1537.3",
+		shape=ellipse,
+		style=filled,
+		width=15];
+	"贝克莱的更进一步他不仅仅认
+为物质
+实体不存在更认为
+精
+神实体不存在
+。只承认知
+觉的存在。他" -> "展了经验论他不认同笛卡尔的
+“天赋
+观念”提
+出白板说他强调人们从"	[arrowhead=invdot,
+		arrowsize=1.5,
+		color=darkslategray,
+		penwidth=12,
+		pos="e,21437,1725.3 21437,1761.1 21437,1758.2 21437,1755.4 21437,1752.5",
+		style=solid];
+	"在18世纪时，法国的拉美特利
+公
+开宣布
+唯物"	[color=darkcyan,
+		fillcolor=lightsteelblue,
+		fontcolor="#8B008B",
+		fontsize=45,
+		height=2.8889,
+		label="在18世纪时，法国的拉美特利
+公
+开宣布
+唯物",
+		penwidth=0,
+		pos="28805,1537.3",
+		shape=box,
+		style=filled,
+		width=8.4167];
+	"贝克莱的更进一步他不仅仅认
+为物质
+实体不存在更认为
+精
+神实体不存在
+。只承认知
+觉的存在。他" -> "在18世纪时，法国的拉美特利
+公
+开宣布
+唯物"	[arrowhead=halfopen,
+		arrowsize=1.5,
+		color=azure,
+		penwidth=7,
+		pos="e,28502,1554.2 21719,1910.4 22876,1849.6 27264,1619.3 28487,1555",
+		style=solid];
+	"不存在更认为精神实体不存
+在。只承认知觉的存在。他还以自己
+的不可知论和怀疑论认为
+不存在"	[color=burlywood,
+		fillcolor=lightblue,
+		fontcolor="#9932CC",
+		fontsize=54,
+		height=4.9037,
+		label="不存在更认为精神实体不存
+在。只承认知觉的存在。他还以自己
+的不可知论和怀疑论认为
+不存在",
+		penwidth=1,
+		peripheries=2,
+		pos="38189,1537.3",
+		shape=ellipse,
+		style=filled,
+		width=17.416];
+	"科全书派的学者都有涉及政治和伦理
+领" -> "不存在更认为精神实体不存
+在。只承认知觉的存在。他还以自己
+的不可知论和怀疑论认为
+不存在"	[arrowhead=normal,
+		arrowsize=2,
+		color=darkgreen,
+		penwidth=12,
+		pos="e,37572,1568.7 30766,1904.3 32064,1840.3 36002,1646.2 37552,1569.7",
+		style=solid];
+	"唯一实体的两种属
+性。莱布尼茨作为唯理
+论者坚定
+地维护笛"	[color=chartreuse,
+		fillcolor=lightskyblue,
+		fontcolor="#FF8C00",
+		fontsize=45,
+		height=5.05,
+		label="唯一实体的两种属
+性。莱布尼茨作为唯理
+论者坚定
+地维护笛",
+		penwidth=8,
+		pos="408.17,1124.5",
+		shape=invhouse,
+		style=filled,
+		width=11.338];
+	"的学说并反驳约翰·
+洛克的理论。与笛" -> "唯一实体的两种属
+性。莱布尼茨作为唯理
+论者坚定
+地维护笛"	[arrowhead=diamond,
+		arrowsize=1.25,
+		color=dimgrey,
+		penwidth=10,
+		pos="e,701.5,1271.4 2421,1527.9 2005.8,1510.8 1362.8,1460.3 825.17,1313.5 789.07,1303.6 752.14,1291 715.89,1277",
+		style=solid];
+	"以自己的不可知论和怀疑论认
+为不存在统一性和普遍性的东西认定多样"	[color=dimgray,
+		fillcolor=white,
+		fontcolor="#008B8B",
+		fontsize=60,
+		height=2.9721,
+		label="以自己的不可知论和怀疑论认
+为不存在统一性和普遍性的东西认定多样",
+		penwidth=5,
+		peripheries=3,
+		pos="1618.2,1124.5",
+		shape=ellipse,
+		style=filled,
+		width=21.769];
+	"的学说并反驳约翰·
+洛克的理论。与笛" -> "以自己的不可知论和怀疑论认
+为不存在统一性和普遍性的东西认定多样"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=deeppink,
+		penwidth=6,
+		pos="e,1913.1,1223.7 2433.7,1397.2 2267.9,1342 2080.6,1279.5 1927.3,1228.5",
+		style=dotted];
+	存在更认为精神实体不	[color=cornsilk,
+		fillcolor=lightyellow,
+		fontcolor="#E9967A",
+		fontsize=42,
+		height=1.1718,
+		label=存在更认为精神实体不,
+		penwidth=1,
+		peripheries=2,
+		pos="2851.2,1124.5",
+		shape=ellipse,
+		style=filled,
+		width=8.6946];
+	"的学说并反驳约翰·
+洛克的理论。与笛" -> 存在更认为精神实体不	[arrowhead=ediamond,
+		arrowsize=2,
+		color=darkcyan,
+		penwidth=12,
+		pos="e,2851.2,1166.8 2851.2,1397.2 2851.2,1327.5 2851.2,1246.3 2851.2,1191",
+		style=solid];
+	"。洛克发展了经验论
+他不认同笛卡尔的“天赋观念”提
+出白板说他强调人们从感觉"	[color=brown,
+		fillcolor=lightsteelblue,
+		fontcolor="#FF8C00",
+		fontsize=47,
+		height=2.2778,
+		label="。洛克发展了经验论
+他不认同笛卡尔的“天赋观念”提
+出白板说他强调人们从感觉",
+		penwidth=7,
+		pos="5271.2,1124.5",
+		shape=box,
+		style=filled,
+		width=9.1944];
+	"的学说并反驳约翰·
+洛克的理论。与笛" -> "。洛克发展了经验论
+他不认同笛卡尔的“天赋观念”提
+出白板说他强调人们从感觉"	[arrowhead=ediamond,
+		arrowsize=1.75,
+		color=chocolate,
+		penwidth=6,
+		pos="e,4939.9,1181.7 3224.3,1473 3686.2,1394.6 4466.9,1262 4918.9,1185.3",
+		style=dotted];
+	"承认神的
+存在
+。另外伏尔泰，孟德斯鸠和其他百科
+全书派的学
+者都有涉及政治和"	[color=dodgerblue,
+		fillcolor=lightpink,
+		fontcolor="#556B2F",
+		fontsize=52,
+		height=4.0694,
+		label="承认神的
+存在
+。另外伏尔泰，孟德斯鸠和其他百科
+全书派的学
+者都有涉及政治和",
+		penwidth=7,
+		pos="8638.2,1124.5",
+		shape=box,
+		style=filled,
+		width=11.736];
+	"论也包含了唯物主义与
+唯心主义的争论。在1
+8世纪时" -> "承认神的
+存在
+。另外伏尔泰，孟德斯鸠和其他百科
+全书派的学
+者都有涉及政治和"	[arrowhead=normal,
+		arrowsize=1,
+		color=gainsboro,
+		penwidth=12,
+		pos="e,9060.7,1148.6 15921,1525 14909,1469.5 10481,1226.5 9070.8,1149.2",
+		style=tapered];
+	"一步
+他不仅仅认为物质实体不存"	[color=darkslategrey,
+		fillcolor=lightpink,
+		fontcolor="#9932CC",
+		fontsize=45,
+		height=1.5,
+		label="一步
+他不仅仅认为物质实体不存",
+		penwidth=8,
+		pos="15194,1124.5",
+		shape=box,
+		style=filled,
+		width=7.7361];
+	"论也包含了唯物主义与
+唯心主义的争论。在1
+8世纪时" -> "一步
+他不仅仅认为物质实体不存"	[arrowhead=normal,
+		arrowsize=2,
+		color=darkslateblue,
+		penwidth=7,
+		pos="e,15264,1178.6 15921,1479.4 15792,1440.3 15623,1382.9 15481,1313.5 15410,1278.8 15336,1229.7 15281,1190.4",
+		style=solid];
+	"们从感觉中抽象出普
+遍的概念认为感觉
+中的个别东西才是第一位的。不过他基
+本认同笛卡尔的二"	[color=burlywood,
+		fillcolor=white,
+		fontcolor="#00008B",
+		fontsize=52,
+		height=4.7466,
+		label="们从感觉中抽象出普
+遍的概念认为感觉
+中的个别东西才是第一位的。不过他基
+本认同笛卡尔的二",
+		penwidth=4,
+		peripheries=2,
+		pos="16128,1124.5",
+		shape=ellipse,
+		style=filled,
+		width=17.71];
+	"论也包含了唯物主义与
+唯心主义的争论。在1
+8世纪时" -> "们从感觉中抽象出普
+遍的概念认为感觉
+中的个别东西才是第一位的。不过他基
+本认同笛卡尔的二"	[arrowhead=curve,
+		arrowsize=1.75,
+		color=crimson,
+		penwidth=11,
+		pos="e,16128,1295.6 16128,1467.1 16128,1424.7 16128,1368.2 16128,1313.4",
+		style=solid];
+	"一
+步他不仅仅
+认为物质实体不
+存在更认为精
+神实体不存在。
+只承认知觉的存在。他还以自己的不可"	[color=lightsteelblue,
+		fillcolor=lightgray,
+		fontcolor="#006400",
+		fontsize=43,
+		height=4.0278,
+		label="一
+步他不仅仅
+认为物质实体不
+存在更认为精
+神实体不存在。
+只承认知觉的存在。他还以自己的不可",
+		penwidth=5,
+		pos="17155,1124.5",
+		shape=box,
+		style=filled,
+		width=10.319];
+	"论也包含了唯物主义与
+唯心主义的争论。在1
+8世纪时" -> "一
+步他不仅仅
+认为物质实体不
+存在更认为精
+神实体不存在。
+只承认知觉的存在。他还以自己的不可"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=darkgoldenrod,
+		penwidth=11,
+		pos="e,16874,1269.5 16335,1472.4 16464,1431.1 16631,1373.8 16775,1313.5 16804,1301.6 16833,1288.5 16862,1274.9",
+		style=bold];
+	"和
+个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主
+义
+的争论。在18世纪时"	[color=darkorange,
+		fillcolor=lightyellow,
+		fontcolor="#A9A9A9",
+		fontsize=56,
+		height=5.2505,
+		label="和
+个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主
+义
+的争论。在18世纪时",
+		penwidth=0,
+		peripheries=3,
+		pos="26504,1124.5",
+		shape=ellipse,
+		style=filled,
+		width=35.911];
+	"在18世纪时，法国的拉美特利
+公
+开宣布
+唯物" -> "和
+个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主
+义
+的争论。在18世纪时"	[arrowhead=normal,
+		arrowsize=1,
+		color=deepskyblue,
+		penwidth=11,
+		pos="e,27320,1271.1 28502,1482.2 28205,1429.1 27738,1345.7 27330,1272.9",
+		style=dashed];
+	"知的知觉之外什么也没有。他非
+常不赞"	[color=bisque,
+		fillcolor=lightgray,
+		fontcolor="#556B2F",
+		fontsize=41,
+		height=2.036,
+		label="知的知觉之外什么也没有。他非
+常不赞",
+		penwidth=6,
+		peripheries=2,
+		pos="31639,1124.5",
+		shape=ellipse,
+		style=filled,
+		width=11.778];
+	"在18世纪时，法国的拉美特利
+公
+开宣布
+唯物" -> "知的知觉之外什么也没有。他非
+常不赞"	[arrowhead=box,
+		arrowsize=1.25,
+		color=blanchedalmond,
+		penwidth=8,
+		pos="e,31317,1172.2 29108,1492.4 29643,1414.9 30748,1254.6 31304,1174",
+		style=solid];
+	们都认为机械主义才	[color=darkslategrey,
+		fillcolor=lightpink,
+		fontcolor="#9932CC",
+		fontsize=60,
+		height=1.4535,
+		label=们都认为机械主义才,
+		penwidth=6,
+		peripheries=1,
+		pos="35069,1124.5",
+		shape=ellipse,
+		style=filled,
+		width=10.941];
+	"在18世纪时，法国的拉美特利
+公
+开宣布
+唯物" -> 们都认为机械主义才	[arrowhead=normal,
+		arrowsize=1,
+		color=dodgerblue,
+		penwidth=11,
+		pos="e,34719,1148.4 29108,1516.4 30150,1448.1 33583,1222.9 34708,1149.1",
+		style=solid];
+	"存
+在就是被感知”。他认为除了感知的主
+题和被感知的知觉之外什"	[color=darkkhaki,
+		fillcolor=lightcyan,
+		fontcolor="#008B8B",
+		fontsize=50,
+		height=2.4028,
+		label="存
+在就是被感知”。他认为除了感知的主
+题和被感知的知觉之外什",
+		penwidth=2,
+		pos="38189,1124.5",
+		shape=box,
+		style=filled,
+		width=11.625];
+	"不存在更认为精神实体不存
+在。只承认知觉的存在。他还以自己
+的不可知论和怀疑论认为
+不存在" -> "存
+在就是被感知”。他认为除了感知的主
+题和被感知的知觉之外什"	[arrowhead=normal,
+		arrowsize=1,
+		color=aliceblue,
+		penwidth=6,
+		pos="e,38189,1211.1 38189,1360.6 38189,1312.8 38189,1262.8 38189,1221.2",
+		style=bold];
+	"驳约翰·洛克
+的理论。与笛卡尔不同的是，他认为万物的实体是“单子”，且互相没有关"	[color=white,
+		fillcolor=lightgray,
+		fontcolor="#2F4F4F",
+		fontsize=43,
+		height=1.4167,
+		label="驳约翰·洛克
+的理论。与笛卡尔不同的是，他认为万物的实体是“单子”，且互相没有关",
+		penwidth=4,
+		pos="39921,1124.5",
+		shape=box,
+		style=filled,
+		width=19.028];
+	"不存在更认为精神实体不存
+在。只承认知觉的存在。他还以自己
+的不可知论和怀疑论认为
+不存在" -> "驳约翰·洛克
+的理论。与笛卡尔不同的是，他认为万物的实体是“单子”，且互相没有关"	[arrowhead=invdot,
+		arrowsize=1.5,
+		color=blueviolet,
+		penwidth=6,
+		pos="e,39710,1175.5 38667,1423 38997,1344.6 39423,1243.7 39684,1181.8",
+		style=solid];
+	"发
+展了洛克的
+哲学理论
+提出了“存在就是被感知”"	[color=firebrick,
+		fillcolor=lightseagreen,
+		fontcolor="#9932CC",
+		fontsize=58,
+		height=3.6667,
+		label="发
+展了洛克的
+哲学理论
+提出了“存在就是被感知”",
+		penwidth=1,
+		pos="841.17,449.72",
+		shape=box,
+		style=filled,
+		width=8.7917];
+	"以自己的不可知论和怀疑论认
+为不存在统一性和普遍性的东西认定多样" -> "发
+展了洛克的
+哲学理论
+提出了“存在就是被感知”"	[arrowhead=invdot,
+		arrowsize=2,
+		color=aliceblue,
+		penwidth=6,
+		pos="e,912.96,581.83 1363.1,1023.2 1295.3,989.78 1225,948.33 1167.2,899.44 1072.1,819.1 989.97,705.53 931.91,612.74",
+		style=solid];
+	"争论。在18世纪
+时，法国的拉美特利"	[color=darkviolet,
+		fillcolor=lightslategrey,
+		fontcolor="#008000",
+		fontsize=58,
+		height=2.7824,
+		label="争论。在18世纪
+时，法国的拉美特利",
+		penwidth=5,
+		peripheries=2,
+		pos="1559.2,449.72",
+		shape=ellipse,
+		style=filled,
+		width=10.639];
+	"以自己的不可知论和怀疑论认
+为不存在统一性和普遍性的东西认定多样" -> "争论。在18世纪
+时，法国的拉美特利"	[arrowhead=box,
+		arrowsize=1,
+		color=darkblue,
+		penwidth=8,
+		pos="e,1567.9,550.09 1608.9,1017.2 1597.9,892.41 1579.8,686.36 1568.8,560.16",
+		style=dotted];
+	"论认为不存在统一性和
+普遍"	[color=darkslateblue,
+		fillcolor=lightskyblue,
+		fontcolor="#E9967A",
+		fontsize=44,
+		height=1.4444,
+		label="论认为不存在统一性和
+普遍",
+		penwidth=3,
+		pos="2190.2,449.72",
+		shape=box,
+		width=6.375];
+	存在更认为精神实体不 -> "论认为不存在统一性和
+普遍"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=aliceblue,
+		penwidth=9,
+		pos="e,2206.1,501.91 2738.1,1085 2645.5,1048.9 2516,987.26 2428.2,899.44 2315.9,787.2 2243.8,610.86 2210.9,516.12",
+		style=dotted];
+	"在统一性和普遍性的东西认定多
+样性
+和个别性
+才是最高原理"	[color=darkgrey,
+		fillcolor=lightsteelblue,
+		fontcolor="#E9967A",
+		fontsize=46,
+		height=4.3863,
+		label="在统一性和普遍性的东西认定多
+样性
+和个别性
+才是最高原理",
+		penwidth=8,
+		peripheries=3,
+		pos="2910.2,449.72",
+		shape=ellipse,
+		width=13.127];
+	存在更认为精神实体不 -> "在统一性和普遍性的东西认定多
+样性
+和个别性
+才是最高原理"	[arrowhead=invodot,
+		arrowsize=1.75,
+		color=fuchsia,
+		penwidth=11,
+		pos="e,2896.4,607.57 2854.8,1082.1 2862.4,995.93 2880.2,792.24 2893.6,639.36",
+		style=dotted];
+	实在也不能存在于人心。大卫休谟的理论	[color=lightblue,
+		fillcolor=lightskyblue,
+		fontcolor="#800080",
+		fontsize=59,
+		height=1.545,
+		label=实在也不能存在于人心。大卫休谟的理论,
+		penwidth=4,
+		peripheries=2,
+		pos="4170.2,449.72",
+		shape=ellipse,
+		style=filled,
+		width=21.383];
+	"。洛克发展了经验论
+他不认同笛卡尔的“天赋观念”提
+出白板说他强调人们从感觉" -> 实在也不能存在于人心。大卫休谟的理论	[arrowhead=inv,
+		arrowsize=1.5,
+		color=cornflowerblue,
+		penwidth=10,
+		pos="e,4259.3,505.18 5138.4,1042.3 4915.8,906.3 4472.1,635.22 4272.1,513.01",
+		style=dotted];
+	之实体双重性。	[color=blueviolet,
+		fillcolor=lightskyblue,
+		fontcolor="#E9967A",
+		fontsize=60,
+		height=1.5646,
+		label=之实体双重性。,
+		penwidth=0,
+		peripheries=2,
+		pos="5271.2,449.72",
+		shape=ellipse,
+		style=filled,
+		width=8.6946];
+	"。洛克发展了经验论
+他不认同笛卡尔的“天赋观念”提
+出白板说他强调人们从感觉" -> 之实体双重性。	[arrowhead=normal,
+		arrowsize=1.5,
+		color=darkorange,
+		penwidth=10,
+		pos="e,5271.2,506.3 5271.2,1042.3 5271.2,909.29 5271.2,647.1 5271.2,521.31",
+		style=solid];
+	"更进一步他
+不仅仅认为物"	[color=crimson,
+		fillcolor=lightpink,
+		fontcolor="#008B8B",
+		fontsize=40,
+		height=1.3333,
+		label="更进一步他
+不仅仅认为物",
+		penwidth=7,
+		pos="5730.2,449.72",
+		shape=box,
+		style=filled,
+		width=3.5417];
+	"。洛克发展了经验论
+他不认同笛卡尔的“天赋观念”提
+出白板说他强调人们从感觉" -> "更进一步他
+不仅仅认为物"	[arrowhead=vee,
+		arrowsize=1.5,
+		color=darkblue,
+		penwidth=6,
+		pos="e,5726,497.81 5430.3,1042.4 5488.7,1005.8 5550.9,957.51 5593.2,899.44 5680,780.26 5712.5,605.26 5724.1,512.97",
+		style=solid];
+	"唯物主义与唯心主义的
+争论。在18世纪
+时，法国的拉美特利
+公开宣布"	[color=cadetblue,
+		fillcolor=lightgrey,
+		fontcolor="#FF8C00",
+		fontsize=59,
+		height=5.264,
+		label="唯物主义与唯心主义的
+争论。在18世纪
+时，法国的拉美特利
+公开宣布",
+		penwidth=1,
+		peripheries=1,
+		pos="6306.2,449.72",
+		shape=ellipse,
+		style=filled,
+		width=11.962];
+	"。洛克发展了经验论
+他不认同笛卡尔的“天赋观念”提
+出白板说他强调人们从感觉" -> "唯物主义与唯心主义的
+争论。在18世纪
+时，法国的拉美特利
+公开宣布"	[arrowhead=normal,
+		arrowsize=2,
+		color=coral,
+		penwidth=11,
+		pos="e,6164.3,628.88 5561.7,1042.4 5662.7,1007.1 5773.7,959.71 5866.2,899.44 5972.5,830.17 6073,731.25 6151,643.91",
+		style=solid];
+	"了洛克的哲学理论提出了“
+存在就是被感知”。他"	[color=lightcoral,
+		fillcolor=lightslategrey,
+		fontcolor="#800000",
+		fontsize=40,
+		height=1.3333,
+		label="了洛克的哲学理论提出了“
+存在就是被感知”。他",
+		penwidth=2,
+		pos="6988.2,449.72",
+		shape=box,
+		style=filled,
+		width=6.4861];
+	"承认神的
+存在
+。另外伏尔泰，孟德斯鸠和其他百科
+全书派的学
+者都有涉及政治和" -> "了洛克的哲学理论提出了“
+存在就是被感知”。他"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=darkorchid,
+		penwidth=10,
+		pos="e,6999,498 8215.3,1097.1 7859.9,1067.7 7385.9,1009 7231.2,899.44 7097.2,804.57 7029.9,611.97 7002.9,512.8",
+		style=solid];
+	念”提出白板说他强调人们从	[color=dodgerblue,
+		fillcolor=lightslategray,
+		fontcolor="#FF8C00",
+		fontsize=53,
+		height=0.91667,
+		label=念”提出白板说他强调人们从,
+		penwidth=6,
+		pos="7577.2,449.72",
+		shape=box,
+		style=filled,
+		width=9.3611];
+	"承认神的
+存在
+。另外伏尔泰，孟德斯鸠和其他百科
+全书派的学
+者都有涉及政治和" -> 念”提出白板说他强调人们从	[arrowhead=invdot,
+		arrowsize=1.25,
+		color=cornsilk,
+		penwidth=8,
+		pos="e,7593,483.02 8215.7,1037.6 8114.2,1004.8 8010.1,960.07 7923.2,899.44 7769.7,792.43 7653.3,596.71 7603.6,503.18",
+		style=solid];
+	在就是被感知	[color=blue,
+		fillcolor=lightsalmon,
+		fontcolor="#008080",
+		fontsize=41,
+		height=1.1521,
+		label=在就是被感知,
+		penwidth=6,
+		peripheries=2,
+		pos="8123.2,449.72",
+		shape=ellipse,
+		style=filled,
+		width=5.2966];
+	"承认神的
+存在
+。另外伏尔泰，孟德斯鸠和其他百科
+全书派的学
+者都有涉及政治和" -> 在就是被感知	[arrowhead=normal,
+		arrowsize=1,
+		color=darksalmon,
+		penwidth=9,
+		pos="e,8133.2,491.17 8401.4,977.63 8372.5,953.76 8345.2,927.54 8322.2,899.44 8220.1,774.65 8160.2,589.2 8135.9,500.93",
+		style=tapered];
+	"笛卡尔不同的是
+，
+他认为万物的实
+体是“单子”，且互相
+没有关系，而是由于"	[color=blueviolet,
+		fillcolor=lightgray,
+		fontcolor="#808000",
+		fontsize=46,
+		height=5.2769,
+		label="笛卡尔不同的是
+，
+他认为万物的实
+体是“单子”，且互相
+没有关系，而是由于",
+		penwidth=4,
+		peripheries=2,
+		pos="8638.2,449.72",
+		shape=ellipse,
+		style=filled,
+		width=8.5178];
+	"承认神的
+存在
+。另外伏尔泰，孟德斯鸠和其他百科
+全书派的学
+者都有涉及政治和" -> "笛卡尔不同的是
+，
+他认为万物的实
+体是“单子”，且互相
+没有关系，而是由于"	[arrowhead=curve,
+		arrowsize=1.75,
+		color=blue,
+		penwidth=6,
+		pos="e,8638.2,639.82 8638.2,977.9 8638.2,884.31 8638.2,761.27 8638.2,657.6",
+		style=solid];
+	"体不
+存在。只承认知觉的存在。他还以自己的不可知
+论和怀疑论认
+为
+不存在统一性和普遍性的东西认定多"	[color=lightslategray,
+		fillcolor=lightpink,
+		fontcolor="#B8860B",
+		fontsize=54,
+		height=4.2083,
+		label="体不
+存在。只承认知觉的存在。他还以自己的不可知
+论和怀疑论认
+为
+不存在统一性和普遍性的东西认定多",
+		penwidth=4,
+		pos="9538.2,449.72",
+		shape=box,
+		width=15.986];
+	"承认神的
+存在
+。另外伏尔泰，孟德斯鸠和其他百科
+全书派的学
+者都有涉及政治和" -> "体不
+存在。只承认知觉的存在。他还以自己的不可知
+论和怀疑论认
+为
+不存在统一性和普遍性的东西认定多"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=darkkhaki,
+		penwidth=6,
+		pos="e,9345.9,601.41 8845.9,977.88 8882.2,951.99 8919.4,925.1 8954.2,899.44 9081.6,805.38 9222.4,697.3 9333.9,610.78",
+		style=dotted];
+	"性和个
+别性才是
+最高原理
+。经验论与唯理论的争论也包含了唯物主义
+与唯心主"	[color=darkblue,
+		fillcolor=lightgreen,
+		fontcolor="#008000",
+		fontsize=57,
+		height=7.842,
+		label="性和个
+别性才是
+最高原理
+。经验论与唯理论的争论也包含了唯物主义
+与唯心主",
+		penwidth=1,
+		pos="11093,449.72",
+		shape=invhouse,
+		width=26.707];
+	"承认神的
+存在
+。另外伏尔泰，孟德斯鸠和其他百科
+全书派的学
+者都有涉及政治和" -> "性和个
+别性才是
+最高原理
+。经验论与唯理论的争论也包含了唯物主义
+与唯心主"	[arrowhead=inv,
+		arrowsize=1,
+		color=darkviolet,
+		penwidth=12,
+		pos="e,10670,678.04 9060.9,1091.7 9361.7,1061.4 9772.8,1004.2 10122,899.44 10304,844.83 10496,762.13 10661,682.55",
+		style=solid];
+	"认神的存在。另外伏
+尔泰，孟德斯鸠和其他百科全书派的学
+者都有涉
+及政治
+和伦理领域"	[color=lightseagreen,
+		fillcolor=lightsteelblue,
+		fontcolor="#2F4F4F",
+		fontsize=56,
+		height=12.492,
+		label="认神的存在。另外伏
+尔泰，孟德斯鸠和其他百科全书派的学
+者都有涉
+及政治
+和伦理领域",
+		penwidth=1,
+		pos="13448,449.72",
+		shape=invtriangle,
+		style=filled,
+		width=38.223];
+	"一
+步他不仅仅
+认为物质实体不
+存在更认为精
+神实体不存在。
+只承认知觉的存在。他还以自己的不可" -> "认神的存在。另外伏
+尔泰，孟德斯鸠和其他百科全书派的学
+者都有涉
+及政治
+和伦理领域"	[arrowhead=open,
+		arrowsize=1.75,
+		color=fuchsia,
+		penwidth=12,
+		pos="e,14011,674.77 16902,979.4 16861,961.45 16818,945.79 16775,935.44 16565,884.35 15046,935.08 14833,899.44 14563,854.12 14272,766.53 \
+14028,680.68",
+		style=solid];
+	"的主编德尼·狄德罗也拒绝承认神的
+存在
+。另外伏
+尔
+泰，孟德斯鸠和其他百科全书派的学者都有涉及政治和伦理"	[color=dimgrey,
+		fillcolor=lightgrey,
+		fontcolor="#008000",
+		fontsize=44,
+		height=5.0934,
+		label="的主编德尼·狄德罗也拒绝承认神的
+存在
+。另外伏
+尔
+泰，孟德斯鸠和其他百科全书派的学者都有涉及政治和伦理",
+		penwidth=3,
+		peripheries=3,
+		pos="15675,449.72",
+		shape=ellipse,
+		style=filled,
+		width=23.144];
+	"一
+步他不仅仅
+认为物质实体不
+存在更认为精
+神实体不存在。
+只承认知觉的存在。他还以自己的不可" -> "的主编德尼·狄德罗也拒绝承认神的
+存在
+。另外伏
+尔
+泰，孟德斯鸠和其他百科全书派的学者都有涉及政治和伦理"	[arrowhead=normal,
+		arrowsize=1,
+		color=dimgrey,
+		penwidth=11,
+		pos="e,15941,623.7 16891,979.46 16853,962.64 16814,947.29 16775,935.44 16665,901.33 16627,935.21 16517,899.44 16318,834.64 16110,724.18 \
+15950,629.08",
+		style=tapered];
+	"“单子”
+，且互相没有关"	[color=cadetblue,
+		fillcolor=lightslategray,
+		fontcolor="#BDB76B",
+		fontsize=55,
+		height=2.7757,
+		label="“单子”
+，且互相没有关",
+		penwidth=5,
+		peripheries=3,
+		pos="16817,449.72",
+		shape=ellipse,
+		style=filled,
+		width=8.079];
+	"一
+步他不仅仅
+认为物质实体不
+存在更认为精
+神实体不存在。
+只承认知觉的存在。他还以自己的不可" -> "“单子”
+，且互相没有关"	[arrowhead=normal,
+		arrowsize=2,
+		color=coral,
+		penwidth=11,
+		pos="e,16866,548.37 17083,979.14 17021,855.86 16933,680.81 16875,566.52",
+		style=tapered];
+	"维护笛卡尔的
+学说
+并
+反驳约翰·洛克的理论。与笛卡尔不同"	[color=lightslategrey,
+		fillcolor=lightblue,
+		fontcolor="#9932CC",
+		fontsize=44,
+		height=2.7778,
+		label="维护笛卡尔的
+学说
+并
+反驳约翰·洛克的理论。与笛卡尔不同",
+		penwidth=6,
+		pos="17494,449.72",
+		shape=box,
+		style=filled,
+		width=10.236];
+	"一
+步他不仅仅
+认为物质实体不
+存在更认为精
+神实体不存在。
+只承认知觉的存在。他还以自己的不可" -> "维护笛卡尔的
+学说
+并
+反驳约翰·洛克的理论。与笛卡尔不同"	[arrowhead=halfopen,
+		arrowsize=1.75,
+		color=dimgray,
+		penwidth=7,
+		pos="e,17444,549.89 17228,979.14 17290,855.52 17379,679.86 17436,565.59",
+		style=solid];
+	"且互相没有关系，而是由于“前定和谐”
+才共存一体，即存在于神之中。“前定和谐”调和
+了笛卡尔之"	[color=darkkhaki,
+		fillcolor=white,
+		fontcolor="#8B008B",
+		fontsize=50,
+		height=2.4028,
+		label="且互相没有关系，而是由于“前定和谐”
+才共存一体，即存在于神之中。“前定和谐”调和
+了笛卡尔之",
+		penwidth=4,
+		pos="18408,449.72",
+		shape=box,
+		style=filled,
+		width=14.653];
+	"一
+步他不仅仅
+认为物质实体不
+存在更认为精
+神实体不存在。
+只承认知觉的存在。他还以自己的不可" -> "且互相没有关系，而是由于“前定和谐”
+才共存一体，即存在于神之中。“前定和谐”调和
+了笛卡尔之"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=darkorange,
+		penwidth=7,
+		pos="e,18327,536.44 17527,1037.2 17641,1002.9 17765,957.48 17871,899.44 18046,803.81 18218,646.11 18318,545.4",
+		style=solid];
+	"论比贝克莱的更进一步
+他不
+仅仅认
+为物质实体不存在更认为精神实体不存在。只承认知觉"	[color=aqua,
+		fillcolor=lightslategrey,
+		fontcolor="#800000",
+		fontsize=47,
+		height=3,
+		label="论比贝克莱的更进一步
+他不
+仅仅认
+为物质实体不存在更认为精神实体不存在。只承认知觉",
+		penwidth=6,
+		pos="19529,449.72",
+		shape=box,
+		style=filled,
+		width=15.986];
+	"一
+步他不仅仅
+认为物质实体不
+存在更认为精
+神实体不存在。
+只承认知觉的存在。他还以自己的不可" -> "论比贝克莱的更进一步
+他不
+仅仅认
+为物质实体不存在更认为精神实体不存在。只承认知觉"	[arrowhead=vee,
+		arrowsize=1.5,
+		color=darkturquoise,
+		penwidth=12,
+		pos="e,19426,557.91 17527,1099.9 17974,1067.5 18695,1001.6 18944,899.44 19128,823.79 19305,674.25 19415,568.63",
+		style=solid];
+	"。只承认知觉的存在。他
+还以自己的
+不可知论和怀疑论认为不存在统
+一"	[color=chocolate,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#800080",
+		fontsize=51,
+		height=4.7791,
+		label="。只承认知觉的存在。他
+还以自己的
+不可知论和怀疑论认为不存在统
+一",
+		penwidth=0,
+		peripheries=3,
+		pos="20647,449.72",
+		shape=ellipse,
+		style=filled,
+		width=14.58];
+	"和
+个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主
+义
+的争论。在18世纪时" -> "。只承认知觉的存在。他
+还以自己的
+不可知论和怀疑论认为不存在统
+一"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=darkblue,
+		penwidth=7,
+		pos="e,20789,615.62 25214,1112.6 23758,1093.5 21546,1041.2 21181,899.44 21033,841.72 20896,724.7 20798,624.63",
+		style=solid];
+	"客观实在也不能
+存在于人心。大卫休谟
+的
+理论比贝克莱的更
+进一步他不仅仅认为物质实"	[color=antiquewhite,
+		fillcolor=lightskyblue,
+		fontcolor="#808000",
+		fontsize=59,
+		height=8.0848,
+		label="客观实在也不能
+存在于人心。大卫休谟
+的
+理论比贝克莱的更
+进一步他不仅仅认为物质实",
+		penwidth=6,
+		pos="21826,449.72",
+		shape=invhouse,
+		style=filled,
+		width=17.675];
+	"和
+个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主
+义
+的争论。在18世纪时" -> "客观实在也不能
+存在于人心。大卫休谟
+的
+理论比贝克莱的更
+进一步他不仅仅认为物质实"	[arrowhead=normal,
+		arrowsize=2,
+		color=beige,
+		penwidth=8,
+		pos="e,22092,685.34 25236,1087.7 24152,1051.4 22728,987.91 22471,899.44 22342,854.92 22215,776.48 22108,697.5",
+		style=bold];
+	"不能存在
+于
+人心。大卫休谟的理论比贝克莱的更进一步他不仅仅认为
+物质
+实体不存"	[color=aquamarine,
+		fillcolor=lightgray,
+		fontcolor="#B8860B",
+		fontsize=48,
+		height=10.724,
+		label="不能存在
+于
+人心。大卫休谟的理论比贝克莱的更进一步他不仅仅认为
+物质
+实体不存",
+		penwidth=5,
+		pos="24201,449.72",
+		shape=triangle,
+		style=filled,
+		width=47.808];
+	"和
+个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主
+义
+的争论。在18世纪时" -> "不能存在
+于
+人心。大卫休谟的理论比贝克莱的更进一步他不仅仅认为
+物质
+实体不存"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=coral,
+		penwidth=12,
+		pos="e,24814,629.73 25928,955.22 25594,857.45 25172,734.18 24828,633.96",
+		style=dotted];
+	"二元论
+和斯宾诺莎之
+实体双重性。洛克发展了经验
+论他不
+认同笛卡尔的“天赋观"	[color=darkorchid,
+		fillcolor=lightcyan,
+		fontcolor="#2F4F4F",
+		fontsize=60,
+		height=6.6389,
+		label="二元论
+和斯宾诺莎之
+实体双重性。洛克发展了经验
+论他不
+认同笛卡尔的“天赋观",
+		penwidth=1,
+		peripheries=1,
+		pos="26504,449.72",
+		shape=ellipse,
+		style=filled,
+		width=15.655];
+	"和
+个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主
+义
+的争论。在18世纪时" -> "二元论
+和斯宾诺莎之
+实体双重性。洛克发展了经验
+论他不
+认同笛卡尔的“天赋观"	[arrowhead=normal,
+		arrowsize=1,
+		color=dimgray,
+		penwidth=7,
+		pos="e,26504,688.86 26504,935.17 26504,862.07 26504,777.31 26504,699.32",
+		style=solid];
+	"在统一
+性和普遍
+性的东西认定多样性和
+个别性才是最高原理。经验
+论与唯理论的争论
+也包
+含了唯物主义与"	[color=darkslategray,
+		fillcolor=lightpink,
+		fontcolor="#556B2F",
+		fontsize=43,
+		height=4.6806,
+		label="在统一
+性和普遍
+性的东西认定多样性和
+个别性才是最高原理。经验
+论与唯理论的争论
+也包
+含了唯物主义与",
+		penwidth=8,
+		pos="27351,449.72",
+		shape=box,
+		style=filled,
+		width=7.3611];
+	"和
+个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主
+义
+的争论。在18世纪时" -> "在统一
+性和普遍
+性的东西认定多样性和
+个别性才是最高原理。经验
+论与唯理论的争论
+也包
+含了唯物主义与"	[arrowhead=invodot,
+		arrowsize=1,
+		color=coral,
+		penwidth=11,
+		pos="e,27282,618.24 27007,950.21 27032,934.6 27055,917.71 27077,899.44 27162,828.57 27228,724.6 27273,634.58",
+		style=solid];
+	论。在18世纪时，法国的拉美特利公开宣布唯物主义是唯一的，而百科全	[color=deepskyblue,
+		fillcolor=lightsalmon,
+		fontcolor="#8B008B",
+		fontsize=50,
+		height=1.5296,
+		label=论。在18世纪时，法国的拉美特利公开宣布唯物主义是唯一的，而百科全,
+		penwidth=4,
+		pos="29059,449.72",
+		shape=invhouse,
+		style=filled,
+		width=39.574];
+	"和
+个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主
+义
+的争论。在18世纪时" -> 论。在18世纪时，法国的拉美特利公开宣布唯物主义是唯一的，而百科全	[arrowhead=normal,
+		arrowsize=2,
+		color=darkblue,
+		penwidth=10,
+		pos="e,28935,494.38 27300,975.36 27409,951.76 27520,926.23 27625,899.44 28104,777 28660,589.9 28916,500.99",
+		style=tapered];
+	"第
+一位
+的。不过他基本认同笛卡尔的二元论
+。贝克莱
+发展了洛克的哲学理"	[color=darkslategrey,
+		fillcolor=lightblue,
+		fontcolor="#E9967A",
+		fontsize=52,
+		height=5.9773,
+		label="第
+一位
+的。不过他基本认同笛卡尔的二元论
+。贝克莱
+发展了洛克的哲学理",
+		penwidth=6,
+		peripheries=3,
+		pos="31107,449.72",
+		shape=ellipse,
+		style=filled,
+		width=16.82];
+	"知的知觉之外什么也没有。他非
+常不赞" -> "第
+一位
+的。不过他基本认同笛卡尔的二元论
+。贝克莱
+发展了洛克的哲学理"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=beige,
+		penwidth=9,
+		pos="e,31271,657.28 31582,1051.8 31511,961.7 31386,802.91 31281,671.16",
+		style=solid];
+	"认知觉的存
+在。他还以
+自己的不可知论和怀疑论认为不存在
+统一性和普遍
+性的东西认定
+多样
+性和个别性"	[color=lightgreen,
+		fillcolor=lightcoral,
+		fontcolor="#B8860B",
+		fontsize=54,
+		height=5.8472,
+		label="认知觉的存
+在。他还以
+自己的不可知论和怀疑论认为不存在
+统一性和普遍
+性的东西认定
+多样
+性和个别性",
+		penwidth=4,
+		pos="32171,449.72",
+		shape=box,
+		style=filled,
+		width=12.236];
+	"知的知觉之外什么也没有。他非
+常不赞" -> "认知觉的存
+在。他还以
+自己的不可知论和怀疑论认为不存在
+统一性和普遍
+性的东西认定
+多样
+性和个别性"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=dimgrey,
+		penwidth=11,
+		pos="e,32005,660.57 31696,1051.8 31767,962.43 31891,805.5 31994,674.39",
+		style=solid];
+	"第一位
+的。不过他基本认同笛卡尔的二
+元论。
+贝克莱发展了洛克的哲学理
+论提出了“存在就"	[color=blueviolet,
+		fillcolor=lightgreen,
+		fontcolor="#E9967A",
+		fontsize=54,
+		height=8.4167,
+		label="第一位
+的。不过他基本认同笛卡尔的二
+元论。
+贝克莱发展了洛克的哲学理
+论提出了“存在就",
+		penwidth=8,
+		pos="33403,449.72",
+		shape=diamond,
+		style=filled,
+		width=21.472];
+	"知的知觉之外什么也没有。他非
+常不赞" -> "第一位
+的。不过他基本认同笛卡尔的二
+元论。
+贝克莱发展了洛克的哲学理
+论提出了“存在就"	[arrowhead=curve,
+		arrowsize=1.75,
+		color=aliceblue,
+		penwidth=11,
+		pos="e,33118,641.26 31956,1075.7 32152,1040.2 32406,983.27 32620,899.44 32787,834.12 32962,737.39 33103,650.45",
+		style=solid];
+	"和谐”才共存一体
+，即存在于神
+之中。“前定和谐”调
+和了笛卡尔之二元论和斯"	[color=blueviolet,
+		fillcolor=lightseagreen,
+		fontcolor="#9932CC",
+		fontsize=46,
+		height=2.9444,
+		label="和谐”才共存一体
+，即存在于神
+之中。“前定和谐”调
+和了笛卡尔之二元论和斯",
+		penwidth=0,
+		pos="34454,449.72",
+		shape=box,
+		style=filled,
+		width=7.2222];
+	们都认为机械主义才 -> "和谐”才共存一体
+，即存在于神
+之中。“前定和谐”调
+和了笛卡尔之二元论和斯"	[arrowhead=open,
+		arrowsize=1.25,
+		color=darkturquoise,
+		penwidth=11,
+		pos="e,34500,555.99 34968,1073.9 34894,1034.1 34794,972.91 34723,899.44 34628,801.41 34552,664.13 34506,567.29",
+		style=solid];
+	美特利公开宣布唯物	[color=darkslateblue,
+		fillcolor=lightslategrey,
+		fontcolor="#A9A9A9",
+		fontsize=51,
+		height=1.2571,
+		label=美特利公开宣布唯物,
+		penwidth=3,
+		peripheries=1,
+		pos="35069,449.72",
+		shape=ellipse,
+		style=filled,
+		width=9.3495];
+	们都认为机械主义才 -> 美特利公开宣布唯物	[arrowhead=normal,
+		arrowsize=1,
+		color=darkturquoise,
+		penwidth=12,
+		pos="e,35069,495.02 35069,1072.1 35069,947.93 35069,632.64 35069,505.3",
+		style=solid];
+	"子”，且互相没有
+关
+系，而是
+由于“前定和谐”才共存一体，即"	[color=darkgrey,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#E9967A",
+		fontsize=48,
+		height=4.5434,
+		label="子”，且互相没有
+关
+系，而是
+由于“前定和谐”才共存一体，即",
+		penwidth=7,
+		peripheries=3,
+		pos="35907,449.72",
+		shape=ellipse,
+		width=13.422];
+	们都认为机械主义才 -> "子”，且互相没有
+关
+系，而是
+由于“前定和谐”才共存一体，即"	[arrowhead=normal,
+		arrowsize=1,
+		color=deepskyblue,
+		penwidth=8,
+		pos="e,35752,604.68 35155,1073.3 35227,1030.2 35330,964.78 35415,899.44 35530,810.59 35651,700.66 35744,611.85",
+		style=bold];
+	"互相没有关系，而
+是由于“前定"	[color=chartreuse,
+		fillcolor=lightpink,
+		fontcolor="#006400",
+		fontsize=54,
+		height=1.75,
+		label="互相没有关系，而
+是由于“前定",
+		penwidth=0,
+		pos="36633,449.72",
+		shape=box,
+		style=filled,
+		width=6.2361];
+	们都认为机械主义才 -> "互相没有关系，而
+是由于“前定"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=deeppink,
+		penwidth=12,
+		pos="e,36619,513.07 35417,1099.8 35757,1070.6 36246,1010.6 36399,899.44 36523,809.11 36587,632.79 36615,530.12",
+		style=solid];
+	"维护笛卡尔的学说并反
+驳约翰·洛克的理论。与笛
+卡尔不同的是"	[color=deepskyblue,
+		fillcolor=lightpink,
+		fontcolor="#BDB76B",
+		fontsize=45,
+		height=4.3889,
+		label="维护笛卡尔的学说并反
+驳约翰·洛克的理论。与笛
+卡尔不同的是",
+		penwidth=8,
+		pos="37400,449.72",
+		shape=diamond,
+		style=filled,
+		width=14.556];
+	"存
+在就是被感知”。他认为除了感知的主
+题和被感知的知觉之外什" -> "维护笛卡尔的学说并反
+驳约翰·洛克的理论。与笛
+卡尔不同的是"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=darkblue,
+		penwidth=7,
+		pos="e,37536,566.93 38089,1037.9 37952,921.31 37706,711.59 37548,576.9",
+		style=tapered];
+	"含了唯物主义与唯心
+主义的争论。在18世纪
+时，法
+国"	[color=cornsilk,
+		fillcolor=lightsalmon,
+		fontcolor="#800080",
+		fontsize=47,
+		height=3,
+		label="含了唯物主义与唯心
+主义的争论。在18世纪
+时，法
+国",
+		penwidth=0,
+		pos="38189,449.72",
+		shape=box,
+		style=filled,
+		width=6.8611];
+	"存
+在就是被感知”。他认为除了感知的主
+题和被感知的知觉之外什" -> "含了唯物主义与唯心
+主义的争论。在18世纪
+时，法
+国"	[arrowhead=halfopen,
+		arrowsize=2,
+		color=floralwhite,
+		penwidth=8,
+		pos="e,38189,557.83 38189,1037.9 38189,921.61 38189,712.7 38189,577.97",
+		style=solid];
+	"提出白板
+说他强调人们从感觉中抽
+象出
+普遍的概念认为感觉中的个别东
+西才"	[color=darkorange,
+		fillcolor=lightblue,
+		fontcolor="#8B0000",
+		fontsize=56,
+		height=8.8333,
+		label="提出白板
+说他强调人们从感觉中抽
+象出
+普遍的概念认为感觉中的个别东
+西才",
+		penwidth=0,
+		pos="39258,449.72",
+		shape=trapezium,
+		style=filled,
+		width=22.333];
+	"存
+在就是被感知”。他认为除了感知的主
+题和被感知的知觉之外什" -> "提出白板
+说他强调人们从感觉中抽
+象出
+普遍的概念认为感觉中的个别东
+西才"	[arrowhead=normal,
+		arrowsize=1,
+		color=darkviolet,
+		penwidth=8,
+		pos="e,38780,751.69 38325,1037.9 38439,966.42 38608,859.94 38771,757.2",
+		style=solid];
+	"他不认同笛卡尔的
+“天赋观念”提出白
+板说他强调
+人们从感觉中抽象出普遍的"	[color=darkcyan,
+		fillcolor=white,
+		fontcolor="#8B008B",
+		fontsize=52,
+		height=4.6355,
+		label="他不认同笛卡尔的
+“天赋观念”提出白
+板说他强调
+人们从感觉中抽象出普遍的",
+		penwidth=4,
+		peripheries=1,
+		pos="40531,449.72",
+		shape=ellipse,
+		style=filled,
+		width=12.532];
+	"驳约翰·洛克
+的理论。与笛卡尔不同的是，他认为万物的实体是“单子”，且互相没有关" -> "他不认同笛卡尔的
+“天赋观念”提出白
+板说他强调
+人们从感觉中抽象出普遍的"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=darkred,
+		penwidth=10,
+		pos="e,40389,608.06 39967,1073.4 40052,979.15 40241,771.14 40376,621.45",
+		style=solid];
+}

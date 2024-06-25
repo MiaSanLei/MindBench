@@ -1,0 +1,154 @@
+strict digraph "" {
+	graph [bb="0,0,9600.6,3022.9",
+		bgcolor=transparent,
+		labeljust=l,
+		overlap=false,
+		sep="+25,25"
+	];
+	node [fontname="ZCOOL QingKe HuangYou",
+		label="\N"
+	];
+	"有大片湿地和滩涂，
+是候鸟重要的栖息地和上海重要的生态屏障。由于地处东南"	[color=bisque,
+		fillcolor=lightslategray,
+		fontcolor="#008080",
+		fontsize=60,
+		height=2.9721,
+		label="有大片湿地和滩涂，
+是候鸟重要的栖息地和上海重要的生态屏障。由于地处东南",
+		penwidth=2,
+		peripheries=3,
+		pos="3674.5,1505.2",
+		shape=ellipse,
+		style=filled,
+		width=31.197];
+	"于西太平洋台风行经路线上，每年夏
+天和初秋时节常
+会
+有来自
+太平洋上的热带气旋"	[color=darkblue,
+		fillcolor=lightpink,
+		fontcolor="#8B008B",
+		fontsize=58,
+		height=9.1111,
+		label="于西太平洋台风行经路线上，每年夏
+天和初秋时节常
+会
+有来自
+太平洋上的热带气旋",
+		penwidth=8,
+		pos="7042.9,1501",
+		shape=trapezium,
+		style=filled,
+		width=26.139];
+	"有大片湿地和滩涂，
+是候鸟重要的栖息地和上海重要的生态屏障。由于地处东南" -> "于西太平洋台风行经路线上，每年夏
+天和初秋时节常
+会
+有来自
+太平洋上的热带气旋"	[arrowhead=invodot,
+		arrowsize=2,
+		color=azure,
+		penwidth=11,
+		pos="e,6297.9,1501.9 4797.6,1503.8 5277.9,1503.2 5826.9,1502.5 6261.8,1502",
+		style=bold];
+	"市]]和[[黄山市
+]]等境内拥有若干[[飞地]"	[color=blanchedalmond,
+		fillcolor=lightblue,
+		fontcolor="#8B008B",
+		fontsize=44,
+		height=1.4444,
+		label="市]]和[[黄山市
+]]等境内拥有若干[[飞地]",
+		penwidth=2,
+		pos="237.5,1505.2",
+		shape=box,
+		style=filled,
+		width=6.5972];
+	"有大片湿地和滩涂，
+是候鸟重要的栖息地和上海重要的生态屏障。由于地处东南" -> "市]]和[[黄山市
+]]等境内拥有若干[[飞地]"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=firebrick,
+		penwidth=10,
+		pos="e,475.35,1505.2 2551.2,1505.2 1816.7,1505.2 916.78,1505.2 487.9,1505.2",
+		style=solid];
+	"热带气旋过境或影响，造成大风、高潮及暴雨。随着
+经济发展及外"	[color=cornflowerblue,
+		fillcolor=lightgrey,
+		fontcolor="#E9967A",
+		fontsize=43,
+		height=2.4764,
+		label="热带气旋过境或影响，造成大风、高潮及暴雨。随着
+经济发展及外",
+		penwidth=7,
+		pos="6285.4,89.151",
+		shape=invhouse,
+		style=filled,
+		width=24.279];
+	"于西太平洋台风行经路线上，每年夏
+天和初秋时节常
+会
+有来自
+太平洋上的热带气旋" -> "热带气旋过境或影响，造成大风、高潮及暴雨。随着
+经济发展及外"	[arrowhead=normal,
+		arrowsize=1,
+		color=burlywood,
+		penwidth=12,
+		pos="e,6324.3,161.59 6866.8,1172.7 6690.5,844.04 6431.2,360.75 6329,170.43",
+		style=dashed];
+	"海已
+不再有的行政区划。市中心区的行政区
+划则几"	[color=aqua,
+		fillcolor=lightslategray,
+		fontcolor="#000000",
+		fontsize=58,
+		height=4.3602,
+		label="海已
+不再有的行政区划。市中心区的行政区
+划则几",
+		penwidth=4,
+		peripheries=1,
+		pos="8817.4,1610.3",
+		shape=polygon,
+		sides=7,
+		style=filled,
+		width=21.757];
+	"于西太平洋台风行经路线上，每年夏
+天和初秋时节常
+会
+有来自
+太平洋上的热带气旋" -> "海已
+不再有的行政区划。市中心区的行政区
+划则几"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=chocolate,
+		penwidth=10,
+		pos="e,8077.8,1564.8 7761.8,1545.3 7861.8,1551.4 7964.7,1557.8 8065.2,1564",
+		style=solid];
+	"]和[[黄山市]]等境内拥有若干[[飞地
+]]"	[color=forestgreen,
+		fillcolor=lightcyan,
+		fontcolor="#BDB76B",
+		fontsize=59,
+		height=2.8217,
+		label="]和[[黄山市]]等境内拥有若干[[飞地
+]]",
+		penwidth=4,
+		peripheries=2,
+		pos="6285.4,2921.3",
+		shape=ellipse,
+		style=filled,
+		width=17.828];
+	"于西太平洋台风行经路线上，每年夏
+天和初秋时节常
+会
+有来自
+太平洋上的热带气旋" -> "]和[[黄山市]]等境内拥有若干[[飞地
+]]"	[arrowhead=vee,
+		arrowsize=1.25,
+		color=black,
+		penwidth=11,
+		pos="e,6339.5,2820 6868,1829.1 6700.4,2143.2 6457.1,2599.4 6345.5,2808.7",
+		style=dashed];
+}

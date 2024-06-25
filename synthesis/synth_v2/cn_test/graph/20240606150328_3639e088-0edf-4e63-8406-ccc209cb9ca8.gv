@@ -1,0 +1,165 @@
+strict digraph "" {
+	graph [bb="0,0,5334.1,512.49",
+		bgcolor=transparent,
+		colorscheme=purd4,
+		labeljust=r,
+		overlap=false,
+		rankdir=LR,
+		sep="+25,25"
+	];
+	node [fontname="Liu Jian Mao Cao",
+		label="\N"
+	];
+	"处理数据所有的方面可能会容易
+一些。Lisp就是一例支
+持这种"	[color=3,
+		colorscheme=purd4,
+		fillcolor=4,
+		fontcolor="#9932CC",
+		fontsize=60,
+		height=4.1573,
+		label="处理数据所有的方面可能会容易
+一些。Lisp就是一例支
+持这种",
+		penwidth=0,
+		peripheries=2,
+		pos="609.99,240.43",
+		shape=ellipse,
+		style=filled,
+		width=16.944];
+	"是那么明显了。中央处
+理器有时
+有一组微
+指令控"	[color=4,
+		colorscheme=purd4,
+		fillcolor=1,
+		fontcolor="#808000",
+		fontsize=41,
+		height=5.2222,
+		label="是那么明显了。中央处
+理器有时
+有一组微
+指令控",
+		penwidth=3,
+		pos="1685,240.43",
+		shape=trapezium,
+		style=filled,
+		width=11.917];
+	"处理数据所有的方面可能会容易
+一些。Lisp就是一例支
+持这种" -> "是那么明显了。中央处
+理器有时
+有一组微
+指令控"	[arrowhead=normal,
+		arrowsize=1,
+		color=darksalmon,
+		penwidth=6,
+		pos="e,1345,240.43 1220,240.43 1259,240.43 1297.5,240.43 1334.6,240.43",
+		style=solid];
+	"及跟人
+工智能相关的其它一些问题进一"	[color=4,
+		colorscheme=purd4,
+		fillcolor=2,
+		fontcolor="#00008B",
+		fontsize=44,
+		height=1.4444,
+		label="及跟人
+工智能相关的其它一些问题进一",
+		penwidth=4,
+		pos="2468,240.43",
+		shape=box,
+		style=filled,
+		width=8.8333];
+	"是那么明显了。中央处
+理器有时
+有一组微
+指令控" -> "及跟人
+工智能相关的其它一些问题进一"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=burlywood,
+		penwidth=8,
+		pos="e,2149.8,240.43 2024.8,240.43 2062.1,240.43 2100,240.43 2137.2,240.43",
+		style=bold];
+	"替。这个例子以
+及跟人工智能相关的其它一些问题进一步考验程序和数据的区别。算法指解决某个问"	[color=4,
+		colorscheme=purd4,
+		fillcolor=1,
+		fontcolor="#556B2F",
+		fontsize=43,
+		height=2.2797,
+		label="替。这个例子以
+及跟人工智能相关的其它一些问题进一步考验程序和数据的区别。算法指解决某个问",
+		penwidth=3,
+		peripheries=2,
+		pos="4078,430.43",
+		shape=polygon,
+		sides=8,
+		style=filled,
+		width=34.085];
+	"及跟人
+工智能相关的其它一些问题进一" -> "替。这个例子以
+及跟人工智能相关的其它一些问题进一步考验程序和数据的区别。算法指解决某个问"	[arrowhead=normal,
+		arrowsize=1,
+		color=darkslategray,
+		penwidth=12,
+		pos="e,3097.1,378.53 2628.6,292.55 2688.7,310.18 2757.9,328.23 2822,339.43 2907.7,354.39 2997.1,366.9 3087,377.36",
+		style=dotted];
+	面。让一个程序去	[color=3,
+		colorscheme=purd4,
+		fillcolor=1,
+		fontcolor="#008B8B",
+		fontsize=50,
+		height=0.875,
+		label=面。让一个程序去,
+		penwidth=3,
+		pos="4078,298.43",
+		shape=box,
+		style=filled,
+		width=5.8194];
+	"及跟人
+工智能相关的其它一些问题进一" -> 面。让一个程序去	[arrowhead=normal,
+		arrowsize=1,
+		color=beige,
+		penwidth=6,
+		pos="e,3868.5,292.6 2786,255.93 2798.2,256.45 2810.2,256.95 2822,257.43 3185.2,272.1 3607.7,285.06 3858.2,292.3",
+		style=solid];
+	这种编程模式的程序语	[color=3,
+		colorscheme=purd4,
+		fillcolor=2,
+		fontcolor="#008080",
+		fontsize=52,
+		height=1.8056,
+		label=这种编程模式的程序语,
+		penwidth=1,
+		pos="4078,183.43",
+		shape=diamond,
+		style=filled,
+		width=14.833];
+	"及跟人
+工智能相关的其它一些问题进一" -> 这种编程模式的程序语	[arrowhead=normal,
+		arrowsize=1.25,
+		color=coral,
+		penwidth=8,
+		pos="e,3664,198.07 2786.2,229.18 3033.6,220.41 3379.6,208.15 3651.1,198.52",
+		style=dashed];
+	支持这种编程模式的程序语言。在神经网络裡储存的权重是一种数据。正是这些权重	[color=4,
+		colorscheme=purd4,
+		fillcolor=2,
+		fontcolor="#8B008B",
+		fontsize=47,
+		height=1.4007,
+		label=支持这种编程模式的程序语言。在神经网络裡储存的权重是一种数据。正是这些权重,
+		penwidth=0,
+		peripheries=3,
+		pos="4078,50.426",
+		shape=ellipse,
+		style=filled,
+		width=34.89];
+	"及跟人
+工智能相关的其它一些问题进一" -> 支持这种编程模式的程序语言。在神经网络裡储存的权重是一种数据。正是这些权重	[arrowhead=normal,
+		arrowsize=1.75,
+		color=darkmagenta,
+		penwidth=11,
+		pos="e,3014.5,77.287 2582,188.3 2650,159.54 2739.2,126.31 2822,109.43 2878.9,97.823 2937.5,87.995 2996.9,79.699",
+		style=solid];
+}
