@@ -1,0 +1,1583 @@
+{
+    "annotations": [
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "处理数据所有的方面可能会容易\n一些。Lisp就是一例支\n持这种",
+                            "node-1": [
+                                {
+                                    "text": "是那么明显了。中央处\n理器有时\n有一组微\n指令控",
+                                    "node-2": [
+                                        {
+                                            "text": "及跟人\n工智能相关的其它一些问题进一",
+                                            "node-3": [
+                                                {
+                                                    "text": "替。这个例子以\n及跟人工智能相关的其它一些问题进一步考验程序和数据的区别。算法指解决某个问"
+                                                },
+                                                {
+                                                    "text": "面。让一个程序去"
+                                                },
+                                                {
+                                                    "text": "这种编程模式的程序语"
+                                                },
+                                                {
+                                                    "text": "支持这种编程模式的程序语言。在神经网络裡储存的权重是一种数据。正是这些权重"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150328_3639e088-0edf-4e63-8406-ccc209cb9ca8.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "ic forms. Organolithium compounds, ",
+                            "node-1": [
+                                {
+                                    "text": "with magnesium, which plays an ",
+                                    "node-2": [
+                                        {
+                                            "text": "s t\nhat melt at l\no\nw temperatures, and tend to for",
+                                            "node-3": [
+                                                {
+                                                    "text": "with the structur\ne where R is the\n organic \ng",
+                                                    "node-4": [
+                                                        {
+                                                            "text": ". Organolithium compounds are electr\nically no"
+                                                        },
+                                                        {
+                                                            "text": "n organolithium \ncompound i\ns methyllithium (), \nwhi"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "ositive natu\nre of lithium puts",
+                                    "node-2": [
+                                        {
+                                            "text": "and ketones by rea\nction w\nith metal carbon\nyls. T"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": " bases and nucle",
+                                    "node-2": [
+                                        {
+                                            "text": "roup. As the elect\nropositive n",
+                                            "node-3": [
+                                                {
+                                                    "text": "tive nature of lithium puts most of ",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "dehydes and ketone\ns by reac"
+                                                        },
+                                                        {
+                                                            "text": "esium, \nwhich plays an "
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150328_69016fc1-a349-4934-b41e-c4a2c747e8f4.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "of \"Baker ",
+                            "node-1": [
+                                {
+                                    "text": "isenfranchisement"
+                                },
+                                {
+                                    "text": "llenges.",
+                                    "node-2": [
+                                        {
+                                            "text": "disenfranchi\nsement and segrega",
+                                            "node-3": [
+                                                {
+                                                    "text": "ears. Other changes were ma\nde to imp"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "ral domination, \"a mi\nnority of about 25% ",
+                                            "node-3": [
+                                                {
+                                                    "text": " census. This benefited ",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "ional redistricting based\n on the d"
+                                                        },
+                                                        {
+                                                            "text": "n underrepresen"
+                                                        },
+                                                        {
+                                                            "text": " the fir"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "the congressional redistricting base"
+                                                },
+                                                {
+                                                    "text": "ed to press in t",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "re made to impl"
+                                                        },
+                                                        {
+                                                            "text": "e throu\ngh the civil rig"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "en underrepresented for mo\nre th\nan sixty ye\nars",
+                                    "node-2": [
+                                        {
+                                            "text": "nderrepresented for more th"
+                                        },
+                                        {
+                                            "text": " disenfr\nanchisement and segregation",
+                                            "node-3": [
+                                                {
+                                                    "text": " on populat\nion rather than geographic counties.",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "at because of rural "
+                                                        },
+                                                        {
+                                                            "text": "er v. \nCarr\" and \"Reynolds v. Sims\" ,"
+                                                        },
+                                                        {
+                                                            "text": "s to end disenfran\nchisement and seg"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "he legislature completed the con\ngressional redis",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "tion is in majori"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "he total state population is in majority con",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "istr\nicts.African Ameri\ncans\n continued to p"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150142_2299a943-2e58-4e85-8ee0-c7e882f575e9.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "indow\n系統配合GNO",
+                            "node-1": [
+                                {
+                                    "text": "形化\n使用者\n介面與時並進\n例如Windows在每次\n新版本上市時就會將其",
+                                    "node-2": [
+                                        {
+                                            "text": "那些操作\n系\n统制訂的行為描述，轉譯為可讓裝置瞭解\n的自訂操作手法。",
+                                            "node-3": [
+                                                {
+                                                    "text": "形用户界面。\n許多操作系统允許使用者安"
+                                                },
+                                                {
+                                                    "text": "來改變其圖形化使用者介面\n甚至根本只能改變諸如選單風格或顏色"
+                                                },
+                                                {
+                                                    "text": "的中斷處理常式。設計驅動程式的主要目的在於操作抽象化，任何硬體模組，\n即使是同一類"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "S的GUI也在Mac OS",
+                                            "node-3": [
+                                                {
+                                                    "text": "商推出的較新模組\n通常更",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "的裝置，在硬體\n設計面上也有巨大差\n異。廠商推出的較新模組",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "O\nS的GUI也\n在\nMac OS X上市時\n出現重大轉變。所謂的\n驅動程式時所需的中斷處理常式。設計驅"
+                                                                },
+                                                                {
+                                                                    "text": "新模組通常更可靠更有效率，控制方\n法也會有所\n不同。電腦與\n其操作系统每每不能預期"
+                                                                },
+                                                                {
+                                                                    "text": "的Unix與Unix衍生系統通常會安裝X Window系統\n配\n合G\nNOME\n或KDE\n桌面環境。\n而某些"
+                                                                },
+                                                                {
+                                                                    "text": "部分的操作系统\n都包含图形"
+                                                                },
+                                                                {
+                                                                    "text": "式。設\n計驅動程式的主要目的在於操\n作抽\n象化，任何硬體模組"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "目的在於操作抽象化，任何硬體模組，\n即使\n是\n同一類的裝\n置，在硬體設計面上也有\n巨大差異。廠商推出的較"
+                                                },
+                                                {
+                                                    "text": "會主動制訂每種裝置該有的操作方式，而驅\n動\n程式功能\n則是將那\n些操作系统制訂的行為",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "用者介面與時並進\n例如\nWindows在每次\n新版本上市時就會將其\n圖"
+                                                        },
+                                                        {
+                                                            "text": "變異之處，因此無法知道其操作方法。",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "常會安裝X Window系統配合GNOME或KDE"
+                                                                },
+                                                                {
+                                                                    "text": "合GN\nOME或KDE\n桌面環境。而某些操作系统就沒"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "作方法。為解決\n此問題操作系统通常會主動\n制訂每種裝",
+                                            "node-3": [
+                                                {
+                                                    "text": "的在於操作抽象化，任何硬體模組，即使是同一類的裝置，在硬體設\n計面上也有巨大差異。廠商推\n出的較",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "市時\n就會將其圖形\n化使用者介面改頭換面而Mac OS的GUI也在Mac",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "安裝或創造任何他們喜歡的图形\n用户界面。大部分\n的Unix與Un"
+                                                                },
+                                                                {
+                                                                    "text": "GUI也在M"
+                                                                },
+                                                                {
+                                                                    "text": "操作方法。為解決"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "會安裝X ",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "這麼彈性的圖\n形化使用者介面例如\nWindows。\n這類的操作系统只能透過外加的程式來改變其圖形"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "解的\n自訂操作手法。\n理論\n上適合的驅動程式一旦安裝，",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "KDE桌面環境。而某些操作系统就沒有這麼彈性的圖形化使用者介\n面例如Windows。這類的操作系统只"
+                                                                },
+                                                                {
+                                                                    "text": "i\nndow系統配合GN\nOME或KD\nE桌面環"
+                                                                },
+                                                                {
+                                                                    "text": "配置等部分。圖形\n化使用者介面與時並進例如W\nindo"
+                                                                },
+                                                                {
+                                                                    "text": "制\n訂的行為\n描述，轉譯為可讓裝\n置\n瞭解的自訂操作手法。理\n論上適合的驅動程式一旦安裝\n，"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "x\n衍生系統通常會安\n裝X Window系統配合GNO"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150328_9b70efd6-0a43-4f82-a437-ff5685178a2b.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "ion of his theor",
+                            "node-1": [
+                                {
+                                    "text": "nspirati\non for many n"
+                                },
+                                {
+                                    "text": "ved a\ndulati\non and publicity. In the\n period be",
+                                    "node-2": [
+                                        {
+                                            "text": "pular q",
+                                            "node-3": [
+                                                {
+                                                    "text": "relativity \nin 1919. Despit"
+                                                },
+                                                {
+                                                    "text": "cognized",
+                                                    "node-4": [
+                                                        {
+                                                            "text": " distinctive hairstyle have be"
+                                                        },
+                                                        {
+                                                            "text": "nt-minded p"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "ith the confirmation o",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "e and di\nstinctive hairstyle have been w\nidel\ny co",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "stein has been t\nhe subject"
+                                                                },
+                                                                {
+                                                                    "text": "novels films plays and works of mu\nsic."
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "le have been wid",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": " that "
+                                                                },
+                                                                {
+                                                                    "text": " became one"
+                                                                },
+                                                                {
+                                                                    "text": "icenses \nthe use of his name "
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "s been the subject \nof or inspi\nr\nation for ma",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "favorite model for dep\niction"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150142_3c3a7eef-5daf-4208-965a-b4c70d7ede34.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "有大片湿地和滩涂，\n是候鸟重要的栖息地和上海重要的生态屏障。由于地处东南",
+                            "node-1": [
+                                {
+                                    "text": "于西太平洋台风行经路线上，每年夏\n天和初秋时节常\n会\n有来自\n太平洋上的热带气旋",
+                                    "node-2": [
+                                        {
+                                            "text": "热带气旋过境或影响，造成大风、高潮及暴雨。随着\n经济发展及外"
+                                        },
+                                        {
+                                            "text": "海已\n不再有的行政区划。市中心区的行政区\n划则几"
+                                        },
+                                        {
+                                            "text": "]和[[黄山市]]等境内拥有若干[[飞地\n]]"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "市]]和[[黄山市\n]]等境内拥有若干[[飞地]"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150328_3c62f2c9-9eae-4702-a12b-921de0ea4a36.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "也為\n孫謁見李鴻\n章之事寫推薦信。王韜\n有一朋友在李鴻章幕下當文案，王韜就寫信介紹\n孫到天津，孫就到天\n津去",
+                            "node-1": [
+                                {
+                                    "text": "自上海經日\n本赴檀香山，在華僑中宣傳革命。\n1894年11月24日孫\n在\n檀香山成立\n中國",
+                                    "node-2": [
+                                        {
+                                            "text": "10月，孫自上海經日本赴檀香山，在華僑中\n宣傳革命。1894年11月24\n日孫在檀\n香",
+                                            "node-3": [
+                                                {
+                                                    "text": "與同窗\n在香港\n成立興中會總機關並修訂旋又偕同\n陸皓東"
+                                                },
+                                                {
+                                                    "text": "團體興中會。提出政綱\n。1895年1月孫"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "在香港短暫逗留後"
+                                        },
+                                        {
+                                            "text": "觀應，結果鄭觀\n應也為孫謁見李鴻章之事寫推薦信。王\n韜\n有一朋友在李鴻章幕下當文案，王韜就",
+                                            "node-3": [
+                                                {
+                                                    "text": "案，王韜就寫信介紹孫到天"
+                                                },
+                                                {
+                                                    "text": "電報局領班生陸\n皓東結伴同行。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "爆發。李鴻章拒絕與\n孫面談，請\n願書後來刊載於在189\n4",
+                                    "node-2": [
+                                        {
+                                            "text": "李鴻章\n幕下當文案，王韜就寫信介紹孫到",
+                                            "node-3": [
+                                                {
+                                                    "text": "推薦信。王韜有一朋友在李鴻章\n幕下當文案"
+                                                },
+                                                {
+                                                    "text": "同行。6月\n13日，盛宙懷鑒於\n魏恆\n情面而接見孫，並致函其堂兄盛"
+                                                },
+                                                {
+                                                    "text": "萬國公報》。孫和陸皓東離開天津，在香港短暫逗留後，孫於夏末乘船前往夏威夷。10月，孫自上海經日本赴"
+                                                },
+                                                {
+                                                    "text": "10月，孫自上海經日\n本赴檀香山，在華僑中宣傳革命。1894\n年11月24日孫在檀香\n山成立中"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150142_28c6aa1a-a298-4147-8652-3f3991839177.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "onditions Brandl\ni and Houston had pr",
+                            "node-1": [
+                                {
+                                    "text": "hogens from ",
+                                    "node-2": [
+                                        {
+                                            "text": "e east were reported under brok",
+                                            "node-3": [
+                                                {
+                                                    "text": "rs then pas",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "ried photog\nraphic equipment, and the ",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "ithin ten minutes by flotatio"
+                                                                },
+                                                                {
+                                                                    "text": "ssance aircraft flyin\ng to the o"
+                                                                },
+                                                                {
+                                                                    "text": "nd Houston had predicted.During splas"
+                                                                },
+                                                                {
+                                                                    "text": "de down but was righted within ten m"
+                                                                },
+                                                                {
+                                                                    "text": "ions B"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "h seas and winds at from the eas",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": " and winds at from"
+                                                                },
+                                                                {
+                                                                    "text": " reported the c"
+                                                                },
+                                                                {
+                                                                    "text": "th seas and\n winds at from the east were"
+                                                                },
+                                                                {
+                                                                    "text": "ity\n of at the reco\nvery site. \nReconnaissance aircr"
+                                                                },
+                                                                {
+                                                                    "text": "er broken clouds at with v"
+                                                                },
+                                                                {
+                                                                    "text": "lying to the original splashdown location "
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "event it from dr",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "d recovery equipment.\n The third car"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "text": "the recovery site",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": " lunar surface \nwas cons"
+                                                                },
+                                                                {
+                                                                    "text": "t extraction.The divers then pa"
+                                                                },
+                                                                {
+                                                                    "text": "on bags activated by the astronaut\ns. A dive"
+                                                                },
+                                                                {
+                                                                    "text": "ginal splashdown location reporte"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150142_3aecf155-c144-4243-9c33-1a7466a7be11.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "论。与笛卡尔不同的是，他认为\n万物的实体是“单子”，且互相",
+                            "node-1": [
+                                {
+                                    "text": "为其既无客观实在也不能存在于人心。大卫休\n谟的理论比贝克莱的更进一步他不仅仅认为物质实体不存在更"
+                                },
+                                {
+                                    "text": "贝克莱的更进一步他不仅仅认\n为物质\n实体不存在更认为\n精\n神实体不存在\n。只承认知\n觉的存在。他",
+                                    "node-2": [
+                                        {
+                                            "text": "的学说并反驳约翰·\n洛克的理论。与笛",
+                                            "node-3": [
+                                                {
+                                                    "text": "唯一实体的两种属\n性。莱布尼茨作为唯理\n论者坚定\n地维护笛"
+                                                },
+                                                {
+                                                    "text": "以自己的不可知论和怀疑论认\n为不存在统一性和普遍性的东西认定多样",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "发\n展了洛克的\n哲学理论\n提出了“存在就是被感知”"
+                                                        },
+                                                        {
+                                                            "text": "争论。在18世纪\n时，法国的拉美特利"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "存在更认为精神实体不",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "论认为不存在统一性和\n普遍"
+                                                        },
+                                                        {
+                                                            "text": "在统一性和普遍性的东西认定多\n样性\n和个别性\n才是最高原理"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "。洛克发展了经验论\n他不认同笛卡尔的“天赋观念”提\n出白板说他强调人们从感觉",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "实在也不能存在于人心。大卫休谟的理论"
+                                                        },
+                                                        {
+                                                            "text": "之实体双重性。"
+                                                        },
+                                                        {
+                                                            "text": "更进一步他\n不仅仅认为物"
+                                                        },
+                                                        {
+                                                            "text": "唯物主义与唯心主义的\n争论。在18世纪\n时，法国的拉美特利\n公开宣布"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "论也包含了唯物主义与\n唯心主义的争论。在1\n8世纪时",
+                                            "node-3": [
+                                                {
+                                                    "text": "承认神的\n存在\n。另外伏尔泰，孟德斯鸠和其他百科\n全书派的学\n者都有涉及政治和",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "了洛克的哲学理论提出了“\n存在就是被感知”。他"
+                                                        },
+                                                        {
+                                                            "text": "念”提出白板说他强调人们从"
+                                                        },
+                                                        {
+                                                            "text": "在就是被感知"
+                                                        },
+                                                        {
+                                                            "text": "笛卡尔不同的是\n，\n他认为万物的实\n体是“单子”，且互相\n没有关系，而是由于"
+                                                        },
+                                                        {
+                                                            "text": "体不\n存在。只承认知觉的存在。他还以自己的不可知\n论和怀疑论认\n为\n不存在统一性和普遍性的东西认定多"
+                                                        },
+                                                        {
+                                                            "text": "性和个\n别性才是\n最高原理\n。经验论与唯理论的争论也包含了唯物主义\n与唯心主"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "一步\n他不仅仅认为物质实体不存"
+                                                },
+                                                {
+                                                    "text": "们从感觉中抽象出普\n遍的概念认为感觉\n中的个别东西才是第一位的。不过他基\n本认同笛卡尔的二"
+                                                },
+                                                {
+                                                    "text": "一\n步他不仅仅\n认为物质实体不\n存在更认为精\n神实体不存在。\n只承认知觉的存在。他还以自己的不可",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "认神的存在。另外伏\n尔泰，孟德斯鸠和其他百科全书派的学\n者都有涉\n及政治\n和伦理领域"
+                                                        },
+                                                        {
+                                                            "text": "的主编德尼·狄德罗也拒绝承认神的\n存在\n。另外伏\n尔\n泰，孟德斯鸠和其他百科全书派的学者都有涉及政治和伦理"
+                                                        },
+                                                        {
+                                                            "text": "“单子”\n，且互相没有关"
+                                                        },
+                                                        {
+                                                            "text": "维护笛卡尔的\n学说\n并\n反驳约翰·洛克的理论。与笛卡尔不同"
+                                                        },
+                                                        {
+                                                            "text": "且互相没有关系，而是由于“前定和谐”\n才共存一体，即存在于神之中。“前定和谐”调和\n了笛卡尔之"
+                                                        },
+                                                        {
+                                                            "text": "论比贝克莱的更进一步\n他不\n仅仅认\n为物质实体不存在更认为精神实体不存在。只承认知觉"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "展了经验论他不认同笛卡尔的\n“天赋\n观念”提\n出白板说他强调人们从"
+                                        },
+                                        {
+                                            "text": "在18世纪时，法国的拉美特利\n公\n开宣布\n唯物",
+                                            "node-3": [
+                                                {
+                                                    "text": "和\n个别性才是最高原理。经验论与唯理论的争论也包含了唯物主义与唯心主\n义\n的争论。在18世纪时",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "。只承认知觉的存在。他\n还以自己的\n不可知论和怀疑论认为不存在统\n一"
+                                                        },
+                                                        {
+                                                            "text": "客观实在也不能\n存在于人心。大卫休谟\n的\n理论比贝克莱的更\n进一步他不仅仅认为物质实"
+                                                        },
+                                                        {
+                                                            "text": "不能存在\n于\n人心。大卫休谟的理论比贝克莱的更进一步他不仅仅认为\n物质\n实体不存"
+                                                        },
+                                                        {
+                                                            "text": "二元论\n和斯宾诺莎之\n实体双重性。洛克发展了经验\n论他不\n认同笛卡尔的“天赋观"
+                                                        },
+                                                        {
+                                                            "text": "在统一\n性和普遍\n性的东西认定多样性和\n个别性才是最高原理。经验\n论与唯理论的争论\n也包\n含了唯物主义与"
+                                                        },
+                                                        {
+                                                            "text": "论。在18世纪时，法国的拉美特利公开宣布唯物主义是唯一的，而百科全"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "知的知觉之外什么也没有。他非\n常不赞",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "第\n一位\n的。不过他基本认同笛卡尔的二元论\n。贝克莱\n发展了洛克的哲学理"
+                                                        },
+                                                        {
+                                                            "text": "认知觉的存\n在。他还以\n自己的不可知论和怀疑论认为不存在\n统一性和普遍\n性的东西认定\n多样\n性和个别性"
+                                                        },
+                                                        {
+                                                            "text": "第一位\n的。不过他基本认同笛卡尔的二\n元论。\n贝克莱发展了洛克的哲学理\n论提出了“存在就"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "们都认为机械主义才",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "和谐”才共存一体\n，即存在于神\n之中。“前定和谐”调\n和了笛卡尔之二元论和斯"
+                                                        },
+                                                        {
+                                                            "text": "美特利公开宣布唯物"
+                                                        },
+                                                        {
+                                                            "text": "子”，且互相没有\n关\n系，而是\n由于“前定和谐”才共存一体，即"
+                                                        },
+                                                        {
+                                                            "text": "互相没有关系，而\n是由于“前定"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "科全书派的学者都有涉及政治和伦理\n领",
+                                    "node-2": [
+                                        {
+                                            "text": "不存在更认为精神实体不存\n在。只承认知觉的存在。他还以自己\n的不可知论和怀疑论认为\n不存在",
+                                            "node-3": [
+                                                {
+                                                    "text": "存\n在就是被感知”。他认为除了感知的主\n题和被感知的知觉之外什",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "维护笛卡尔的学说并反\n驳约翰·洛克的理论。与笛\n卡尔不同的是"
+                                                        },
+                                                        {
+                                                            "text": "含了唯物主义与唯心\n主义的争论。在18世纪\n时，法\n国"
+                                                        },
+                                                        {
+                                                            "text": "提出白板\n说他强调人们从感觉中抽\n象出\n普遍的概念认为感觉中的个别东\n西才"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "驳约翰·洛克\n的理论。与笛卡尔不同的是，他认为万物的实体是“单子”，且互相没有关",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "他不认同笛卡尔的\n“天赋观念”提出白\n板说他强调\n人们从感觉中抽象出普遍的"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150142_92059b71-ab11-421f-b7d0-a52dac6461a9.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": ", except for\n decorative usage for whic",
+                            "node-1": [
+                                {
+                                    "text": "ry, alb\neit not as an official wr"
+                                },
+                                {
+                                    "text": "et, \nexcept for decora",
+                                    "node-2": [
+                                        {
+                                            "text": "lder Fut\nhark gave ris",
+                                            "node-3": [
+                                                {
+                                                    "text": "he late Middle \nAges. I",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "riting system of the Hun\ngari"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150142_6603baff-2ec5-4031-a1b5-799a23a5c7b6.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "社会学讲师。1909年，德国社会学",
+                            "node-1": [
+                                {
+                                    "text": "。1892年，芝",
+                                    "node-2": [
+                                        {
+                                            "text": "伯共同\n成立，随后，韦伯又"
+                                        },
+                                        {
+                                            "text": "这里也是英国社会学杂志\n的创刊地\n。1907年起，\n英国第一位社会学教授\n伦纳"
+                                        },
+                                        {
+                                            "text": "此同时\n，美国在社会学方\n面也有长足的发展。美国社会学家于1\n87\n5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "chung）。与此同时，美国在社会学方面",
+                                    "node-2": [
+                                        {
+                                            "text": "元素”（Elements of Socio\nlogy）课"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150142_439b9b7e-3fec-4e5b-993f-4a2d592f1a7a.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "興中會。\n2月21日糾集孫故交與同窗",
+                            "node-1": [
+                                {
+                                    "text": "李鴻章，\n主張仿效\n西方，\n發展工農業，改革教\n育和選拔人才。提出革新\n政治主張\n，被拒絕。未被李鴻章"
+                                },
+                                {
+                                    "text": "辦法，回到上海。孫上書李鴻章，主張仿\n效西方，發展工農業，改革教\n育和\n選拔人\n才。提出革新政治主張",
+                                    "node-2": [
+                                        {
+                                            "text": "遇鄭觀應，結果鄭觀應也為孫謁\n見李鴻章之事寫推薦信。王\n韜有一朋\n友在李鴻章幕下\n當",
+                                            "node-3": [
+                                                {
+                                                    "text": "過，後\n來李鴻章說打仗完以後再\n見，孫知\n道沒有",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "4日孫在檀香山成立中國有史以來第一個現代革命團體興中會。提出政綱。1895年1月孫與鄧蔭南"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "歷北京、武漢，\n觀察形勢。7月25日"
+                                        },
+                                        {
+                                            "text": "盛宙懷推薦信後，孫\n在上海巧遇鄭觀應，結果鄭觀應也\n為孫謁見李鴻章之事\n寫推薦信。王韜有一朋友",
+                                            "node-3": [
+                                                {
+                                                    "text": "體興中會。提出政\n綱。1895年1月孫與鄧\n蔭南等同志返回香\n港籌謀革命與陸皓東鄭士良陳\n少白等"
+                                                },
+                                                {
+                                                    "text": "育和選拔人才。提出革新政治主張，\n被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "李鴻章，主張仿\n效西方，發\n展工農業，改革教\n育和選拔人才"
+                                                        },
+                                                        {
+                                                            "text": "上海經日本赴檀香山，在華僑中宣傳革命。18\n94\n年11月\n24日\n孫在檀香山成立\n中國有史以來\n第"
+                                                        },
+                                                        {
+                                                            "text": "行。6月13日，\n盛宙懷鑒於魏恆情面而接見孫，並致\n函\n其堂兄盛宣懷。在得到盛宙懷推\n薦信後，孫在"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "朋\n友在李鴻章幕下當文案，王韜就寫信介紹孫到天津，孫\n就\n到天津去見文案；軍書\n旁午，文案把孫",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "赴檀香山，在華僑中宣傳革\n命。1894"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "主張，被拒絕。未被李鴻章接見，僅獲取「農學會籌款護照」。旋遊歷北京、\n武漢，觀察形勢。7月2",
+                                    "node-2": [
+                                        {
+                                            "text": "訂旋又偕同陸皓東",
+                                            "node-3": [
+                                                {
+                                                    "text": "應，結果鄭觀應也為孫謁見李鴻章之事寫推薦信。王韜有一朋友在李鴻章幕下當文案，王"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150142_b1e355f0-1ca1-4e94-85c9-d9c5af1a8266.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "way \nthat t\nhe animals speak and interact, ",
+                            "node-1": [
+                                {
+                                    "text": "re very concer\nned with the purs\nuit\n of truth in wr"
+                                },
+                                {
+                                    "text": "orks of Swiftian Satire. F\nurth",
+                                    "node-2": [
+                                        {
+                                            "text": "deceive and confuse. For this reason, he",
+                                            "node-3": [
+                                                {
+                                                    "text": "mals on the farm, such ",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "mitted",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "s careful, in \"Anima\nl Far",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "similar to those in \"Ani"
+                                                                        },
+                                                                        {
+                                                                            "text": "ture for humanity; he seems to "
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": " communicating in a way that wa\ns strai",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "riting. Orwell was com"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "rsuit of t\nruth in wr\niting. Orwell \nwas committe",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "s in an unb\niased and un"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150142_caa61067-e350-414c-a2f2-ca5460b96bad.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "the Greek sculptor Leochar",
+                            "node-1": [
+                                {
+                                    "text": "e i\ns a marble scu\nlpture that was rediscovered",
+                                    "node-2": [
+                                        {
+                                            "text": "made between 350 and 325 BCE.The li"
+                                        },
+                                        {
+                                            "text": "f \nClassical Antiquity for "
+                                        },
+                                        {
+                                            "text": "s in the museum at Sousse. T"
+                                        },
+                                        {
+                                            "text": "ugh now even a"
+                                        },
+                                        {
+                                            "text": "asing conventi"
+                                        },
+                                        {
+                                            "text": "odern reception"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150328_c0b4c3f1-b48a-4686-a110-1d418843933a.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "的戰爭，中國古代運動至今多已失傳\n，\n然而如拔河、",
+                            "node-1": [
+                                {
+                                    "text": "及祖先崇拜等原始宗教信仰祭\n神祀祖自商朝为中国的国\n家宗教祖"
+                                },
+                                {
+                                    "text": "運動時有人受傷而\n下令禁絕。明清之際中\n国體育活動仍有發展\n。然而，部分活動經過清末至民",
+                                    "node-2": [
+                                        {
+                                            "text": "中國武術俗稱中國功夫意"
+                                        },
+                                        {
+                                            "text": "用刀劍等的技巧也有\n中\n國人不單把武術作為打鬥技巧同時也作為一種健體強身和養\n生"
+                                        },
+                                        {
+                                            "text": "。中\n國人的信仰以\n儒教祖先信仰道教佛教和各種中華民間信\n仰為主。由於道"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "把武術作為打\n鬥技巧同時也作為一種健體"
+                                },
+                                {
+                                    "text": "球這兩種，此兩者在唐代傳到日\n本。宋真宗時，曾因相撲運",
+                                    "node-2": [
+                                        {
+                                            "text": "分活動經過清末至民初一連串的戰爭"
+                                        },
+                                        {
+                                            "text": "原始宗\n教信仰祭神祀祖自商朝\n为中国的国家宗教祖先神是人们祈\n求上帝的媒介。尧\n舜禹的臣\n子皋陶兴\n“五"
+                                        },
+                                        {
+                                            "text": "九德”亲“九族”。《尚書皋陶謨"
+                                        },
+                                        {
+                                            "text": "和養生的方法現在中國武術也作為電影的主題。\n中国\n上古存在上帝及祖先崇拜等原始宗教信仰祭神祀祖自商朝为"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150328_1f82d487-cc6d-48f5-b3de-f02b4d712d9d.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": " its history",
+                            "node-1": [
+                                {
+                                    "text": "vskaya who did "
+                                },
+                                {
+                                    "text": "or Du"
+                                },
+                                {
+                                    "text": "er worked as a co"
+                                },
+                                {
+                                    "text": "e Dubasov fami"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150328_5dbc6564-d98b-4431-af6e-1fd828973896.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": " to change through grow\nth and reorgani\nzat",
+                            "node-1": [
+                                {
+                                    "text": " adaptions includin\ng macro- and microstructural",
+                                    "node-2": [
+                                        {
+                                            "text": " but also ",
+                                            "node-3": [
+                                                {
+                                                    "text": "While scienti\nsts still know lit"
+                                                },
+                                                {
+                                                    "text": "smonauts after they "
+                                                },
+                                                {
+                                                    "text": "this study showed that s\npace "
+                                                },
+                                                {
+                                                    "text": "irst study to provide clear evi"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "t the effects of\n spac",
+                                            "node-3": [
+                                                {
+                                                    "text": "ich is the brain's\n ability to change "
+                                                },
+                                                {
+                                                    "text": " microstructural changes. While sc"
+                                                },
+                                                {
+                                                    "text": "cted on the brains of eigh\nt m"
+                                                },
+                                                {
+                                                    "text": "ted on the brains\n of eight male R"
+                                                },
+                                                {
+                                                    "text": "y showed that space travel can \nlead t"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "cosmonauts after the",
+                                            "node-3": [
+                                                {
+                                                    "text": "lity to change throu"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "IPT) concluded t\nhis after they obs",
+                                            "node-3": [
+                                                {
+                                                    "text": "s and Technology (MI\nPT) conclude\nd this after they"
+                                                },
+                                                {
+                                                    "text": "adaptions including macro- and mi"
+                                                },
+                                                {
+                                                    "text": " (MIPT) concluded this after they o\nbser"
+                                                },
+                                                {
+                                                    "text": "this after they observed that mi"
+                                                },
+                                                {
+                                                    "text": "ensorimotor neuroplastic\nity wh"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "ceflight on brai\nn struc",
+                                    "node-2": [
+                                        {
+                                            "text": "g stays aboard the Internatio\nnal Space Station\n sh",
+                                            "node-3": [
+                                                {
+                                                    "text": "s the brai\nn's ability to chang\ne\n through growt"
+                                                },
+                                                {
+                                                    "text": "Tech\nnology (MIPT) concluded this"
+                                                },
+                                                {
+                                                    "text": "n astronaut on\n the International"
+                                                },
+                                                {
+                                                    "text": "at mice expo"
+                                                },
+                                                {
+                                                    "text": "rnational Space Statio\nn showed that long-\ndurati\no"
+                                                },
+                                                {
+                                                    "text": "and reorganization.F"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "entist",
+                                            "node-3": [
+                                                {
+                                                    "text": "eorganization.\nFood\n and drink.An astronau\nt"
+                                                },
+                                                {
+                                                    "text": "r they return"
+                                                },
+                                                {
+                                                    "text": "ew motor skills but also slightl"
+                                                },
+                                                {
+                                                    "text": "It was the first st\nudy "
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": " can lead to new mot",
+                                            "node-3": [
+                                                {
+                                                    "text": "adaptions includ"
+                                                },
+                                                {
+                                                    "text": "n showed that l\nong-duration spa"
+                                                },
+                                                {
+                                                    "text": "and drink.An "
+                                                },
+                                                {
+                                                    "text": "es many physiological adaptio"
+                                                },
+                                                {
+                                                    "text": "s. While scien\ntists still \nknow li\nttle about "
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "s still \nknow little about ",
+                                            "node-3": [
+                                                {
+                                                    "text": "they returned\n from long st"
+                                                },
+                                                {
+                                                    "text": "l\nittle about the effects of"
+                                                },
+                                                {
+                                                    "text": "mal\ne Russian c\nosmo\nnauts after they returned fr"
+                                                },
+                                                {
+                                                    "text": "n and gamma radiation did not impact "
+                                                },
+                                                {
+                                                    "text": "n cosmonauts aft\ner they returned "
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": " physio",
+                                    "node-2": [
+                                        {
+                                            "text": "ile scientists still know little "
+                                        },
+                                        {
+                                            "text": " motor skills bu",
+                                            "node-3": [
+                                                {
+                                                    "text": "ensor\nimoto\nr neuroplasticity wh\nich is the b"
+                                                },
+                                                {
+                                                    "text": "o\nut mass of food per meal each"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "tronaut on the Interna",
+                                            "node-3": [
+                                                {
+                                                    "text": "kills b\nut also slightly weaker v"
+                                                },
+                                                {
+                                                    "text": "ts' intellectual capabilities.A 2"
+                                                },
+                                                {
+                                                    "text": "ral changes. Whil"
+                                                },
+                                                {
+                                                    "text": "scow Institute of P\nhysics and Techn"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": " Space Station showed that long-dur"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150328_492b7ecd-ca6a-4f37-88b5-80e35880477c.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "。最早\n的實物資料是何尊上的铭文（公元前1038\n年，周",
+                            "node-1": [
+                                {
+                                    "text": "出現了中外之分\n、敵我區隔這\n樣與現代相似\n的用法。魏、",
+                                    "node-2": [
+                                        {
+                                            "text": "等。南宋以後，意大利"
+                                        },
+                                        {
+                                            "text": "。梵文對中國的稱呼為Cina\n，希伯來文為Sininm，粟特文為Cynstn"
+                                        },
+                                        {
+                                            "text": "nae、Tzinitza，阿拉伯文為\nCyn、Sin、Th"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150142_e6d2bbbe-fe1b-4983-8027-40549fa8f1da.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "\"a\", and its variant \"an\", ",
+                            "node-1": [
+                                {
+                                    "text": "t \"an\", are indefini\nte article",
+                                    "node-2": [
+                                        {
+                                            "text": "by Egyptian hie",
+                                            "node-3": [
+                                                {
+                                                    "text": "lly fonts intended to be read"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "ants . In tu\nrn, the an",
+                                    "node-2": [
+                                        {
+                                            "text": "ed as a triangular h\nead with two horns ext",
+                                            "node-3": [
+                                                {
+                                                    "text": " fonts based\n on it, esp"
+                                                },
+                                                {
+                                                    "text": "gle, crossed in the middle b"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/en_test/img/20240606150328_88fd392e-f624-4646-9d10-61f342dbe0fc.jpg"
+        },
+        {
+            "ground_truth": {
+                "gt_parse": {
+                    "map": {
+                        "node-0": {
+                            "text": "辜會談後江澤民\n發表八點對台工作指",
+                            "node-1": [
+                                {
+                                    "text": "將\n中華民國總統李登輝稱作，",
+                                    "node-2": [
+                                        {
+                                            "text": "事演習，事態曾一度升級至迫使\n美國兩個航空母艦群進駐海峽，引发台海飛彈危",
+                                            "node-3": [
+                                                {
+                                                    "text": "俄罗斯总统\n普京簽訂有效20年的，確定了\n中俄\n兩"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "李登輝的兩國\n論不\n僅破壞汪道涵\n的原定訪台規劃，更進一步惡化\n兩岸局勢 。\n北京方面將中華民國總統李"
+                                },
+                                {
+                                    "text": "8年中\n華民國總統李\n登輝的兩國論不僅破壞\n汪道涵的原定訪台規劃，更進一\n步惡化兩岸局勢 。北京",
+                                    "node-2": [
+                                        {
+                                            "text": "使美國兩\n個航空母艦群進駐海峽，引发台\n海飛\n彈危機。1998",
+                                            "node-3": [
+                                                {
+                                                    "text": "001\n年底經過長期的艱苦談判中國終於加入世界貿易\n組織。1991\n年蘇聯解體之後，\n中國\n與俄羅",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "實兩岸政策的指導\n。然而19",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "。北\n京方面將中華民國總統李\n登輝稱作，並將希\n望寄托於他的繼任者：然而2000年中華民國",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "引发台海飛彈危機\n。1998年中華民國總\n統李登輝的兩國論不僅破壞汪道涵的原"
+                                                                        },
+                                                                        {
+                                                                            "text": "是新世紀中最重要的雙邊"
+                                                                        },
+                                                                        {
+                                                                            "text": "，兩國彼此間\n在許多國\n際問題上有著相近的立場\n與利益。2001年\n，江泽民與俄罗斯总统普京簽訂有效"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "入世界貿易組織。",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "體落\n實兩岸政策的指導。\n然而1994年千島湖事件對兩岸\n關係"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "text": "華民國總統李登輝\n稱作，並將希望寄\n托於他的繼任者：然\n而200\n0年中華\n民國\n實現政黨輪替，民主",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "大問題上聯\n手與美國為主導的西方國家正面衝突。19\n93年汪辜會談後江澤民發表八點對台工作指示，作為"
+                                                                        },
+                                                                        {
+                                                                            "text": "空母艦群進駐海峽\n，引发\n台海飛彈危機\n。1998年\n中華民國總統李登\n輝的兩國論不僅破壞汪道涵的原定訪台"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "工作指示，作為具體落實兩岸政策的指導。然而\n199\n4年千島\n湖事件對兩岸關係造成衝擊，1996年\n中",
+                                            "node-3": [
+                                                {
+                                                    "text": "與利益。2001年，江泽民與俄罗斯总统普京簽訂\n有效20年的",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "涵的\n原定訪台規劃，更進一\n步惡化兩岸局勢\n 。北"
+                                                        },
+                                                        {
+                                                            "text": "。2001年\n底經過長期的艱苦\n談判中國終於加入世界貿易組織。1991年蘇聯解\n體之後，\n中國與俄",
+                                                            "node-5": [
+                                                                {
+                                                                    "text": "一度升\n級至迫使美國兩個航空母艦群進駐海峽，\n引发台",
+                                                                    "node-6": [
+                                                                        {
+                                                                            "text": "民國總統李登輝訪美觸怒中华人民共和国政府，\n之後又在中华民国首次總統直選前夕在台灣海\n峽舉\n行軍"
+                                                                        },
+                                                                        {
+                                                                            "text": "年蘇聯解體之後，中國與俄羅斯的關\n係顯"
+                                                                        },
+                                                                        {
+                                                                            "text": "國兩個航空\n母艦群進駐海峽，引发台海飛彈危機。1998年中華民國總統李登輝的兩國論不僅破壞汪道涵的原"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "，中國與俄羅斯的關係顯著改善，兩國彼此間在許多國際問題上有著相近的立場與利益",
+                                                    "node-4": [
+                                                        {
+                                                            "text": "兩岸政策的指導。然而199\n4年千島湖"
+                                                        },
+                                                        {
+                                                            "text": "家都已經預見到中美\n關係將\n是新世紀中最重要的雙邊\n關係。2001年底經過長期的艱"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "場與利\n益。2001年，江泽民\n與俄罗斯总统普京簽訂\n有效20年的，確定了中俄兩國合作",
+                                            "node-3": [
+                                                {
+                                                    "text": "中俄兩國合作的原则。中俄边界谈判取得突破，消\n除了两国之间的障碍。然而由於\n兩國國力所限，不可能在一些"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "image": "synth_v2/cn_test/img/20240606150328_371e4b65-7cf1-4d99-b12e-791854a3c714.jpg"
+        }
+    ]
+}
