@@ -1,0 +1,184 @@
+{
+    "text": "How did I do today?",
+    "node": [
+        {
+            "text": "Business",
+            "node": [
+                {
+                    "text": "Good employee?",
+                    "node": [
+                        {
+                            "text": "Did I work smart?"
+                        },
+                        {
+                            "text": "Did I earn my pay?"
+                        },
+                        {
+                            "text": "Did I use my resources effectively?"
+                        },
+                        {
+                            "text": "Did I complain/gossip?"
+                        }
+                    ]
+                },
+                {
+                    "text": "Good leader?",
+                    "node": [
+                        {
+                            "text": "Was I fair?"
+                        },
+                        {
+                            "text": "Did I make a difference to someone?"
+                        },
+                        {
+                            "text": "Did I control my temper?"
+                        }
+                    ]
+                },
+                {
+                    "text": "Customer satisfaction?",
+                    "node": [
+                        {
+                            "text": "Did I meet anyone new?"
+                        },
+                        {
+                            "text": "Did I reach out to anyone?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Career",
+            "node": [
+                {
+                    "text": "Did I learn anything?",
+                    "node": [
+                        {
+                            "text": "It is MY development"
+                        }
+                    ]
+                },
+                {
+                    "text": "What is my next step?",
+                    "node": [
+                        {
+                            "text": "Move up or out"
+                        },
+                        {
+                            "text": "Have a resume"
+                        }
+                    ]
+                },
+                {
+                    "text": "Good network?",
+                    "node": [
+                        {
+                            "text": "Did I meet anyone new?"
+                        },
+                        {
+                            "text": "Did I reach out to anyone?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Family",
+            "node": [
+                {
+                    "text": "Good Christian?",
+                    "node": [
+                        {
+                            "text": "Did I pray?"
+                        },
+                        {
+                            "text": "Did I make a difference to anyone?"
+                        },
+                        {
+                            "text": "How many commandments did I break?"
+                        },
+                        {
+                            "text": "Did I complain or gossip?"
+                        }
+                    ]
+                },
+                {
+                    "text": "Good spouse?",
+                    "node": [
+                        {
+                            "text": "Did I express my feelings?"
+                        },
+                        {
+                            "text": "Did I do anything nice?"
+                        },
+                        {
+                            "text": "Did I say \"I love you.\"?"
+                        }
+                    ]
+                },
+                {
+                    "text": "Good parent?",
+                    "node": [
+                        {
+                            "text": "Did I talk with each of my children?"
+                        },
+                        {
+                            "text": "Did I tell them \"I love you.\"?"
+                        },
+                        {
+                            "text": "Was I patient?"
+                        },
+                        {
+                            "text": "Did I learn or teach anything?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Health",
+            "node": [
+                {
+                    "text": "Did I workout?",
+                    "node": [
+                        {
+                            "text": "3 days per week"
+                        },
+                        {
+                            "text": "Cardio, strength"
+                        }
+                    ]
+                },
+                {
+                    "text": "Did I eat right?",
+                    "node": [
+                        {
+                            "text": "Vegetables!"
+                        },
+                        {
+                            "text": "Fruit!"
+                        },
+                        {
+                            "text": "Avoid \"bad\" foods"
+                        }
+                    ]
+                },
+                {
+                    "text": "Am I stressed?",
+                    "node": [
+                        {
+                            "text": "Relax - sauna? Hot tub?"
+                        },
+                        {
+                            "text": "Swim"
+                        },
+                        {
+                            "text": "Meditate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

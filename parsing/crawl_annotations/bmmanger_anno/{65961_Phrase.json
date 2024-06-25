@@ -1,0 +1,61 @@
+{
+    "text": "Phrases = Group of related words that do not include a subject and verb",
+    "node": [
+        {
+            "text": "Noun Phrase = noun + modifier/s",
+            "node": [
+                {
+                    "text": "The long and winding road"
+                }
+            ]
+        },
+        {
+            "text": "Prepositional Phrase = a preposition + noun or pronoun",
+            "node": [
+                {
+                    "text": "outside the building"
+                }
+            ]
+        },
+        {
+            "text": "Appositive Phrase = renaming or amplifying a word immediately preceeding",
+            "node": [
+                {
+                    "text": "My favourite music, Gregorian chant, is playing."
+                }
+            ]
+        },
+        {
+            "text": "Particple Phrase = verbals ending in -ing or -ed + complements or modifiers, and acting as an ADJECTIVE.",
+            "node": [
+                {
+                    "text": "Working around the clock, the firefighters put out the fire"
+                }
+            ]
+        },
+        {
+            "text": "Gerund Phrase = verbals that end in -ing and that act as nouns",
+            "node": [
+                {
+                    "text": "Cramming for tests is not a good strategy"
+                }
+            ]
+        },
+        {
+            "text": "Infinitive Phrase = an infinitive + modifiers or complements. Functions as a noun/adjective/adverb",
+            "node": [
+                {
+                    "text": "To subsidize child care is very expensive"
+                }
+            ]
+        },
+        {
+            "text": "Absolute Phrase = Noun or Pronoun + a participle",
+            "node": [
+                {
+                    "text": "Their faces beaming, they collected the prize."
+                }
+            ]
+        }
+    ]
+}

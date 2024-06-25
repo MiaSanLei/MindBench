@@ -1,0 +1,551 @@
+{
+    "text": "Paolo 3.0\nWhat's next?",
+    "node": [
+        {
+            "text": "Professional career",
+            "node": [
+                {
+                    "text": "Corporation",
+                    "node": [
+                        {
+                            "text": "Pros",
+                            "node": [
+                                {
+                                    "text": "Stability"
+                                },
+                                {
+                                    "text": "Benefits"
+                                },
+                                {
+                                    "text": "Relocation / internal opportunities"
+                                },
+                                {
+                                    "text": "Resources"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Cons",
+                            "node": [
+                                {
+                                    "text": "Politics"
+                                },
+                                {
+                                    "text": "Working for somebody else"
+                                },
+                                {
+                                    "text": "Not all positions are interesting"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Candidates",
+                            "node": [
+                                {
+                                    "text": "YouTube"
+                                },
+                                {
+                                    "text": "Facebook"
+                                },
+                                {
+                                    "text": "Google"
+                                },
+                                {
+                                    "text": "Microsoft"
+                                },
+                                {
+                                    "text": "Amazon"
+                                },
+                                {
+                                    "text": "Apple"
+                                },
+                                {
+                                    "text": "Twitter"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Startup",
+                    "node": [
+                        {
+                            "text": "Pros",
+                            "node": [
+                                {
+                                    "text": "Exciting environment"
+                                },
+                                {
+                                    "text": "Cool products"
+                                },
+                                {
+                                    "text": "Stretching horizontal skills"
+                                },
+                                {
+                                    "text": "Financial potential"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Cons",
+                            "node": [
+                                {
+                                    "text": "Difficult work / life balance"
+                                },
+                                {
+                                    "text": "Limited resources"
+                                },
+                                {
+                                    "text": "Focus restricted to few products / services"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Candidates (see separate list)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Exploratory ideas",
+            "node": [
+                {
+                    "text": "Relocate ",
+                    "node": [
+                        {
+                            "text": "Places of interest",
+                            "node": [
+                                {
+                                    "text": "APAC: Singapore"
+                                },
+                                {
+                                    "text": "Europe: Munich"
+                                },
+                                {
+                                    "text": "US: California / East Coast"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Length: ~2 years"
+                        },
+                        {
+                            "text": "Work for multi-national or sizable / reputable local company"
+                        },
+                        {
+                            "text": "Priority is on quality of life,family, cultural enrichment and travel opportunities"
+                        }
+                    ]
+                },
+                {
+                    "text": "Change industry",
+                    "node": [
+                        {
+                            "text": "Travel",
+                            "node": [
+                                {
+                                    "text": "Global role in a leading edge company"
+                                },
+                                {
+                                    "text": "Must have travel perks"
+                                },
+                                {
+                                    "text": "Alternative: work in attractive location"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Back to school",
+                    "node": [
+                        {
+                            "text": "Enhance practical skills"
+                        },
+                        {
+                            "text": "Filmography, Final Cut, photography"
+                        }
+                    ]
+                },
+                {
+                    "text": "Sabbatical",
+                    "node": [
+                        {
+                            "text": "Requirements",
+                            "node": [
+                                {
+                                    "text": "2-3 months experience in unpaid \"advisory volunteer role\""
+                                },
+                                {
+                                    "text": "Extremely strong learning experience"
+                                },
+                                {
+                                    "text": "Visibility and networking opportunity"
+                                },
+                                {
+                                    "text": "Potential opportunity to continue working there"
+                                },
+                                {
+                                    "text": "High coolness factor"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "High Tech",
+                            "node": [
+                                {
+                                    "text": "Online news site",
+                                    "node": [
+                                        {
+                                            "text": "Robert Scoble"
+                                        },
+                                        {
+                                            "text": "Mashable"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Startup",
+                                    "node": [
+                                        {
+                                            "text": "Social Media",
+                                            "node": [
+                                                {
+                                                    "text": "(see separate list)"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Online video",
+                                            "node": [
+                                                {
+                                                    "text": "LiveStream"
+                                                },
+                                                {
+                                                    "text": "UStream"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Mobile",
+                                            "node": [
+                                                {
+                                                    "text": "(see separate list)"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Geo-location",
+                                            "node": [
+                                                {
+                                                    "text": "GroundSpeak"
+                                                },
+                                                {
+                                                    "text": "Foursquare"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Augmented Reality",
+                                            "node": [
+                                                {
+                                                    "text": "Metaio"
+                                                },
+                                                {
+                                                    "text": "Layar"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Corporations",
+                                    "node": [
+                                        {
+                                            "text": "Apple"
+                                        },
+                                        {
+                                            "text": "Facebook"
+                                        },
+                                        {
+                                            "text": "Google"
+                                        },
+                                        {
+                                            "text": "YouTube"
+                                        },
+                                        {
+                                            "text": "Twitter"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Others",
+                            "node": [
+                                {
+                                    "text": "Education",
+                                    "node": [
+                                        {
+                                            "text": "Small, agile and well funded organization "
+                                        },
+                                        {
+                                            "text": "Experience the field"
+                                        },
+                                        {
+                                            "text": "Social media / videographer role"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Environment",
+                                    "node": [
+                                        {
+                                            "text": "Leading startup in alternative energy"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Government",
+                                    "node": [
+                                        {
+                                            "text": "Obama's social campaign team"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Entrepreneurial path",
+            "node": [
+                {
+                    "text": "External Consultant",
+                    "node": [
+                        {
+                            "text": "Pros",
+                            "node": [
+                                {
+                                    "text": "Freedom"
+                                },
+                                {
+                                    "text": "Low overhead"
+                                },
+                                {
+                                    "text": "Diversified experiences"
+                                },
+                                {
+                                    "text": "Virtual partnerships with best complementary consultants on the market"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Cons",
+                            "node": [
+                                {
+                                    "text": "Scalability limited by personal time and resources"
+                                },
+                                {
+                                    "text": "Great partners hard to find"
+                                },
+                                {
+                                    "text": "Requires high energy to stay competitive"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Microsoft Vendor",
+                    "node": [
+                        {
+                            "text": "Pros",
+                            "node": [
+                                {
+                                    "text": "Vast personal network"
+                                },
+                                {
+                                    "text": "High reputation"
+                                },
+                                {
+                                    "text": "Local"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Cons",
+                            "node": [
+                                {
+                                    "text": "Too long with same company"
+                                },
+                                {
+                                    "text": "Requires high energy to stay competitive"
+                                },
+                                {
+                                    "text": "Cool and remunerative projects are hard to find"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Small Business",
+                    "node": [
+                        {
+                            "text": "Pro",
+                            "node": [
+                                {
+                                    "text": "Scalable"
+                                },
+                                {
+                                    "text": "Can take on bigger projects"
+                                },
+                                {
+                                    "text": "Ability to delegate tasks"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Cons",
+                            "node": [
+                                {
+                                    "text": "Overhead"
+                                },
+                                {
+                                    "text": "May take long time for business to take off"
+                                },
+                                {
+                                    "text": "May have to accept many un-fun projects just to sustain business"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "About me",
+            "node": [
+                {
+                    "text": "Like",
+                    "node": [
+                        {
+                            "text": "Family / Social / People"
+                        },
+                        {
+                            "text": "Learn / Explore / Discover"
+                        },
+                        {
+                            "text": "Technology / Innovation"
+                        },
+                        {
+                            "text": "Travel"
+                        },
+                        {
+                            "text": "Sun"
+                        },
+                        {
+                            "text": "Autonomy / Ownership"
+                        },
+                        {
+                            "text": "Positive purpose"
+                        },
+                        {
+                            "text": "Recognition"
+                        },
+                        {
+                            "text": "Feeling healthy"
+                        },
+                        {
+                            "text": "Creativity / Curiosity"
+                        }
+                    ]
+                },
+                {
+                    "text": "Don't like",
+                    "node": [
+                        {
+                            "text": "Process"
+                        },
+                        {
+                            "text": "Unchallenging tasks"
+                        },
+                        {
+                            "text": "Be too comfortable"
+                        },
+                        {
+                            "text": "Micro-management"
+                        },
+                        {
+                            "text": "No growth / learning / discovery opportunities"
+                        },
+                        {
+                            "text": "Social confinement"
+                        },
+                        {
+                            "text": "Feeling sick"
+                        },
+                        {
+                            "text": "Negativity"
+                        }
+                    ]
+                },
+                {
+                    "text": "My sentence",
+                    "node": [
+                        {
+                            "text": "I use my skills, creativity and passion to make the world a better place and live a purposeful life"
+                        }
+                    ]
+                },
+                {
+                    "text": "Values",
+                    "node": [
+                        {
+                            "text": "Trust"
+                        },
+                        {
+                            "text": "Transparency"
+                        },
+                        {
+                            "text": "Commitment"
+                        },
+                        {
+                            "text": "Honesty"
+                        }
+                    ]
+                },
+                {
+                    "text": "Strenghts",
+                    "node": [
+                        {
+                            "text": "Passion"
+                        },
+                        {
+                            "text": "Outgoing personality"
+                        },
+                        {
+                            "text": "Global / digital marketing experience"
+                        },
+                        {
+                            "text": "Motivated lifelong learner"
+                        },
+                        {
+                            "text": "Risk taker"
+                        },
+                        {
+                            "text": "Team player"
+                        },
+                        {
+                            "text": "Highly creative"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
