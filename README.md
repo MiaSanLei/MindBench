@@ -13,6 +13,7 @@ Lei Chen, Feng Yan, Yujie Zhong, Shaoxiang Chen, Zequn Jie†, Lin Ma†
 
 ## Release
 
+- [2024/6/25] We have released the code of model evaluation, data synthesis and data parsing.
 - [2024/6/24] The structured labels of synthetic and crawled datasets are [available](https://huggingface.co/datasets/MiaSanLei/MindBench)!
 
 ## MindBench Datasets
