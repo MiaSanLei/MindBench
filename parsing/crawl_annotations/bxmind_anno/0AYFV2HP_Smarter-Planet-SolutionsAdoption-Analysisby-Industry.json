@@ -1,0 +1,265 @@
+{
+    "text": "Smarter Planet Solutions\r\nAdoption Analysis\r\nby Industry",
+    "node": [
+        {
+            "text": "High Competition",
+            "node": [
+                {
+                    "text": "Smarter Solutions' Effect on \r\nCompetitiveness or Profitability is High",
+                    "node": [
+                        {
+                            "text": "Mature Solutions Emerging",
+                            "node": [
+                                {
+                                    "text": "Solutions are \r\nFeasible to Implement",
+                                    "node": [
+                                        {
+                                            "text": "Communications",
+                                            "node": [
+                                                {
+                                                    "text": "Big Data Analytics\r\n(Geo Fencing, Network Analytics)"
+                                                },
+                                                {
+                                                    "text": "Social Business"
+                                                },
+                                                {
+                                                    "text": "Cloud Services and Elastic Computing Provider \r\nfor Telcos"
+                                                },
+                                                {
+                                                    "text": "Telecommunications operators are in a good position to invent new business models.\r\nThey can be the communication layer of all industries similar to an Enterprise Service Bus, \r\ncapitalize and ",
+                                                    "relation": [
+                                                        "Cloud Services and Elastic Computing Provider \r\nfor Telcos",
+                                                        "Big Data Analytics\r\n(Geo Fencing, Network Analytics)",
+                                                        "Social Business"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Banking",
+                                            "node": [
+                                                {
+                                                    "text": "Anti Money Laundering, Anti-Fraud"
+                                                },
+                                                {
+                                                    "text": "Social Business, Advanced Customer Insight"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Retail",
+                                            "node": [
+                                                {
+                                                    "text": "Retail Analytics"
+                                                },
+                                                {
+                                                    "text": "Social Media and Advanced Customer Insight"
+                                                },
+                                                {
+                                                    "text": "Reputation and Brand Analysis"
+                                                },
+                                                {
+                                                    "text": "Price Optimization"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Challenge:\r\nSolutions are Complex to Implement",
+                                    "node": [
+                                        {
+                                            "text": "Private Healthcare",
+                                            "node": [
+                                                {
+                                                    "text": "IBM Watson for Healthcare"
+                                                },
+                                                {
+                                                    "text": "Connected Home Health"
+                                                },
+                                                {
+                                                    "text": "Personalized Care (Proteomics, Genomics, etc)"
+                                                },
+                                                {
+                                                    "text": "Regulation, privacy rules and lack of public health records repositories \r\nhave made information sharing solutions harder to implement. \r\n\r\nAs for expert systems such as IBM Watson for Healthcare, the issue stems from\r\nsheer complexity of the solution:\r\n- Making the hospitals to adapt, cleanse their data\r\n- Making Watson highly accurate in operations consistently\r\n- Establishing the solution to scale lower or higher easily",
+                                                    "relation": [
+                                                        "IBM Watson for Healthcare",
+                                                        "Personalized Care (Proteomics, Genomics, etc)",
+                                                        "Connected Home Health"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Challenge: \r\nNo Mature Solutions Exist",
+                            "node": [
+                                {
+                                    "text": "Electronics",
+                                    "node": [
+                                        {
+                                            "text": "Inventory Optimization"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Challenge:\r\nRegulatory Controls",
+                            "node": [
+                                {
+                                    "text": "Insurance",
+                                    "node": [
+                                        {
+                                            "text": "Anti-Fraud Solutions"
+                                        },
+                                        {
+                                            "text": "Advanced Customer Insight"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Smarter Solutions' Effect on\r\nCompetitiveness or Profitability is Low",
+                    "node": [
+                        {
+                            "text": "Food",
+                            "node": [
+                                {
+                                    "text": "Food Traceability & Sensors"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Media",
+                            "node": [
+                                {
+                                    "text": "Insight Driven Marketing"
+                                },
+                                {
+                                    "text": "Media Analytics"
+                                },
+                                {
+                                    "text": "Personalized Buying Experience"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Challenge:\r\nLow or No Competition",
+            "node": [
+                {
+                    "text": "Transportation systems",
+                    "node": [
+                        {
+                            "text": "Video Analytics"
+                        },
+                        {
+                            "text": "Advanced Optimization"
+                        }
+                    ]
+                },
+                {
+                    "text": "Oil and gas",
+                    "node": [
+                        {
+                            "text": "Predictive Maintenance"
+                        },
+                        {
+                            "text": "Advanced Prediction and Analysis"
+                        }
+                    ]
+                },
+                {
+                    "text": "Private Energy & Utilities",
+                    "node": [
+                        {
+                            "text": "Smart Metering"
+                        },
+                        {
+                            "text": "Machine to Machine Communications"
+                        },
+                        {
+                            "text": "Predictive Maintenance"
+                        },
+                        {
+                            "text": "Utilities do not face hard competition due to nature of the sector(residents services are highly dependent on location). \r\nIt is also not possible to increase sales and revenues by campaigns or other initiatives. \r\n\r\nThe use case for smarter solutions therefore are in creating cost savings in this sector. \r\nSolutions like smarter metering can prove to be feasible quickly at places where the energy prices are naturally very high (ie: Hawaii),",
+                            "relation": [
+                                "Predictive Maintenance",
+                                "Smart Metering",
+                                "Machine to Machine Communications"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Challenge:\r\nPrincipal-Agency Problem",
+            "node": [
+                {
+                    "text": "Government",
+                    "node": [
+                        {
+                            "text": "Buildings"
+                        },
+                        {
+                            "text": "Education"
+                        },
+                        {
+                            "text": "Public Healthcare"
+                        },
+                        {
+                            "text": "Smarter Care"
+                        },
+                        {
+                            "text": "Cities"
+                        },
+                        {
+                            "text": "Energy"
+                        },
+                        {
+                            "text": "Rail"
+                        },
+                        {
+                            "text": "Public safety"
+                        },
+                        {
+                            "text": "Traffic"
+                        },
+                        {
+                            "text": "Water"
+                        },
+                        {
+                            "text": "Mature Solutions Exist Such as:\r\n- Intelligent Operations Center\r\n- Mayors Dashboard\r\n- Smart Metering for Utilities\r\n\r\nHowever Adoption is Challenged \r\ndue to Principal-Agency Problem.",
+                            "relation": [
+                                "Smarter Care",
+                                "Energy",
+                                "Rail",
+                                "Water",
+                                "Education",
+                                "Buildings",
+                                "Public Healthcare",
+                                "Cities",
+                                "Traffic",
+                                "Public safety"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Author:\r\nErman Akdogan"
+        }
+    ]
+}

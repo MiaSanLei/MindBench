@@ -1,0 +1,1392 @@
+{
+    "text": "Dashboards",
+    "node": [
+        {
+            "text": "Choosing metrics",
+            "node": [
+                {
+                    "text": "Develop ROI framework",
+                    "node": [
+                        {
+                            "text": "Calculation",
+                            "node": [
+                                {
+                                    "text": "Formula",
+                                    "node": [
+                                        {
+                                            "text": "Apply NPV calcs from data training"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Apply to all activities"
+                                },
+                                {
+                                    "text": "Must be based on PROFIT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Measure activity ROI",
+                            "node": [
+                                {
+                                    "text": "Stand alone"
+                                },
+                                {
+                                    "text": "Multilevel, includes larger audience base, new channels"
+                                },
+                                {
+                                    "text": "Aggregate, multiple initiatives combined"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Funnel management",
+                    "node": [
+                        {
+                            "text": "Leakage",
+                            "node": [
+                                {
+                                    "text": "Typical causes",
+                                    "node": [
+                                        {
+                                            "text": "Too many leads for sales"
+                                        },
+                                        {
+                                            "text": "Wrong targets, low close rates"
+                                        },
+                                        {
+                                            "text": "Lack of alignment sales/mktg on value prop"
+                                        },
+                                        {
+                                            "text": "Sales not working leads"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Integrated funnel",
+                            "node": [
+                                {
+                                    "text": "Analyse progress",
+                                    "node": [
+                                        {
+                                            "text": "Which progressions have max overall impact?"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Process",
+                            "node": [
+                                {
+                                    "text": "Map stages by segment",
+                                    "node": [
+                                        {
+                                            "text": "Theorise funnell structure",
+                                            "node": [
+                                                {
+                                                    "text": "Into meaningful stages of customer progression"
+                                                },
+                                                {
+                                                    "text": "From customer and company perspective"
+                                                },
+                                                {
+                                                    "text": "Map marketing activities to funnell steps"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Define key assessment points in the funnell",
+                                    "node": [
+                                        {
+                                            "text": "E.g. Activities which affect conversion",
+                                            "node": [
+                                                {
+                                                    "text": "E.g. Sample users 5x more likely to buy after using sample"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Key conversion / profit improvement opportunities"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Track progression through the funnell",
+                                    "node": [
+                                        {
+                                            "text": "Database analysis"
+                                        },
+                                        {
+                                            "text": "Qualitative research"
+                                        },
+                                        {
+                                            "text": "Panel studies"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Establish linkage patterns\n",
+                                    "node": [
+                                        {
+                                            "text": "Use anecdotal observations if necessary"
+                                        },
+                                        {
+                                            "text": "Use data where possible"
+                                        },
+                                        {
+                                            "text": "How do changes at one stage affect later stages?",
+                                            "node": [
+                                                {
+                                                    "text": "What financial results?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Monitor and validate projections",
+                                    "node": [
+                                        {
+                                            "text": "Measure",
+                                            "node": [
+                                                {
+                                                    "text": "Progression rates and projected progression"
+                                                },
+                                                {
+                                                    "text": "Expected profits"
+                                                },
+                                                {
+                                                    "text": "Cost per progression"
+                                                },
+                                                {
+                                                    "text": "Frequency of leakage rates by reason"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Refocus activities",
+                            "node": [
+                                {
+                                    "text": "Eliminate the wrong targets"
+                                },
+                                {
+                                    "text": "Increase efforts on unconverted good targets"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Measurement hierarchy",
+                    "node": [
+                        {
+                            "text": "What, when, which methodology, at what cost, do we measure?",
+                            "node": [
+                                {
+                                    "text": "What has biggest impact?"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Use test vs control if poss",
+                            "node": [
+                                {
+                                    "text": "Or",
+                                    "node": [
+                                        {
+                                            "text": "Marketing mix modelling"
+                                        },
+                                        {
+                                            "text": "Agent based modelling"
+                                        },
+                                        {
+                                            "text": "Research surveys"
+                                        },
+                                        {
+                                            "text": "Panel studies"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Then risk assess",
+                    "node": []
+                }
+            ]
+        },
+        {
+            "text": "Types of metrics",
+            "node": [
+                {
+                    "text": "Value/volume ratio",
+                    "node": [
+                        {
+                            "text": "Your share of margin / your total market share"
+                        },
+                        {
+                            "text": "To identify over discounting "
+                        }
+                    ]
+                },
+                {
+                    "text": "Marketing cost per unit",
+                    "node": [
+                        {
+                            "text": "Total marketing expense / units sold"
+                        }
+                    ]
+                },
+                {
+                    "text": "Marketing mix productivity",
+                    "node": [
+                        {
+                            "text": "Correlating comms mix to volume"
+                        }
+                    ]
+                },
+                {
+                    "text": "Return on important initiatives",
+                    "node": [
+                        {
+                            "text": "E.g. Website update"
+                        },
+                        {
+                            "text": "Demonstrates yr commitment to That project "
+                        }
+                    ]
+                },
+                {
+                    "text": "Program / non program ratio",
+                    "node": [
+                        {
+                            "text": "£ spent on campaigns vs overheads"
+                        }
+                    ]
+                },
+                {
+                    "text": "Program / payroll ratio",
+                    "node": [
+                        {
+                            "text": "£campaign vs £salary"
+                        }
+                    ]
+                },
+                {
+                    "text": "Customer metrics",
+                    "node": [
+                        {
+                            "text": "Active customer counts",
+                            "node": [
+                                {
+                                    "text": "Purchase with agreed regularity\n"
+                                },
+                                {
+                                    "text": "Consider segmenting by profitability"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Segment mobility",
+                            "node": [
+                                {
+                                    "text": "Which custs buy multiple products?"
+                                },
+                                {
+                                    "text": "RFM"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Share of customer",
+                            "node": [
+                                {
+                                    "text": "Custs annual spend in yr cat / spend with you"
+                                },
+                                {
+                                    "text": "Consider panel studies, surveys for estimates"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Loyalty - repurchase, referral"
+                        },
+                        {
+                            "text": "Customer experience",
+                            "node": [
+                                {
+                                    "text": "Satisfaction",
+                                    "node": [
+                                        {
+                                            "text": "Use predictive questions",
+                                            "node": [
+                                                {
+                                                    "text": "E.g. How likely are you to recommend...in next yr"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Quality perception"
+                                },
+                                {
+                                    "text": "Order cycle completion",
+                                    "node": [
+                                        {
+                                            "text": "Order rec'd--> prod with cust"
+                                        },
+                                        {
+                                            "text": "Correlate to satisfaction"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Involvement / engagement levels",
+                                    "node": [
+                                        {
+                                            "text": "Responses to surveys"
+                                        },
+                                        {
+                                            "text": "Testimonials"
+                                        },
+                                        {
+                                            "text": "Comment cards"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Repurchase intentions",
+                                    "node": [
+                                        {
+                                            "text": "How much"
+                                        },
+                                        {
+                                            "text": "How soon"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Compliments / complaints",
+                                    "node": [
+                                        {
+                                            "text": "Call centres, websites"
+                                        },
+                                        {
+                                            "text": "Nature, frequency, magnitude"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Resolution turnaround times"
+                                },
+                                {
+                                    "text": "Return on Customer ",
+                                    "node": [
+                                        {
+                                            "text": "Estimate of lifetime value"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Use these for BRIDGE data reports\n"
+                        }
+                    ]
+                },
+                {
+                    "text": "Brand",
+                    "node": [
+                        {
+                            "text": "Product performance"
+                        },
+                        {
+                            "text": "Convenience and accessibility"
+                        },
+                        {
+                            "text": "Brand Personality"
+                        },
+                        {
+                            "text": "Pricing and value"
+                        },
+                        {
+                            "text": "Equity",
+                            "node": []
+                        },
+                        {
+                            "text": "Measure",
+                            "node": [
+                                {
+                                    "text": "Customer and prospect perceptions",
+                                    "node": [
+                                        {
+                                            "text": "of most meaningful attributes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Perspectives of other important constituencies"
+                                },
+                                {
+                                    "text": "Brand value"
+                                },
+                                {
+                                    "text": "Above, for acquired brands"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Less obvious metrics",
+                    "node": [
+                        {
+                            "text": "Channel management",
+                            "node": [
+                                {
+                                    "text": "Coverage"
+                                },
+                                {
+                                    "text": "Relationship"
+                                },
+                                {
+                                    "text": "Relative sales Performance"
+                                },
+                                {
+                                    "text": "Perceptions of marketing",
+                                    "node": [
+                                        {
+                                            "text": "i.e. what do they think of your messages?"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Stock levels"
+                                },
+                                {
+                                    "text": "Margin levels / power"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Organisational effectiveness"
+                        },
+                        {
+                            "text": "Innovation / NPIs"
+                        },
+                        {
+                            "text": "Environmental metrics",
+                            "node": [
+                                {
+                                    "text": "Market Growth"
+                                },
+                                {
+                                    "text": "Competitive health"
+                                },
+                                {
+                                    "text": "Trends and demographics"
+                                },
+                                {
+                                    "text": "Geopolitics"
+                                },
+                                {
+                                    "text": "Media mentions"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Planning your dashboard",
+            "node": [
+                {
+                    "text": "Choose your questions",
+                    "node": [
+                        {
+                            "text": "Overcoming lack of data",
+                            "node": [
+                                {
+                                    "text": "Fishbone exercise",
+                                    "node": [
+                                        {
+                                            "text": "Brainstorm all contributing factors"
+                                        },
+                                        {
+                                            "text": "Analyse recurrent issues / appearances"
+                                        },
+                                        {
+                                            "text": "Involve other departments"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Set out a plan to improve measurement"
+                        },
+                        {
+                            "text": "Frame the right questions"
+                        },
+                        {
+                            "text": "Involve key influencers"
+                        }
+                    ]
+                },
+                {
+                    "text": "Identify the drivers"
+                }
+            ]
+        },
+        {
+            "text": "Questions / actions",
+            "node": [
+                {
+                    "text": "Set up Market research to measure",
+                    "node": [
+                        {
+                            "text": "Awareness, perceptions"
+                        },
+                        {
+                            "text": "Purchase intentions"
+                        },
+                        {
+                            "text": "Share of market"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The role of the dashboard",
+            "node": [
+                {
+                    "text": "General advice",
+                    "node": [
+                        {
+                            "text": "Don't let metrics become objectives"
+                        },
+                        {
+                            "text": "Reward truth",
+                            "node": [
+                                {
+                                    "text": "include bad news"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Don't let IT control the agenda"
+                        },
+                        {
+                            "text": "Respect the analysts"
+                        }
+                    ]
+                },
+                {
+                    "text": "Integrate",
+                    "node": [
+                        {
+                            "text": "Be cross functional "
+                        }
+                    ]
+                },
+                {
+                    "text": "Plan",
+                    "node": [
+                        {
+                            "text": "Define success"
+                        },
+                        {
+                            "text": "Organise business resources"
+                        },
+                        {
+                            "text": "Organise structure, skills, tools"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Visual reports",
+            "node": [
+                {
+                    "text": "Brain aware",
+                    "node": [
+                        {
+                            "text": "Bright colours"
+                        },
+                        {
+                            "text": "Symmetrical shapes"
+                        }
+                    ]
+                },
+                {
+                    "text": "Cognitive load",
+                    "node": [
+                        {
+                            "text": "Needs",
+                            "node": [
+                                {
+                                    "text": "be easy to use"
+                                },
+                                {
+                                    "text": "Be understood"
+                                },
+                                {
+                                    "text": "be quick"
+                                },
+                                {
+                                    "text": "be remembered"
+                                },
+                                {
+                                    "text": "be appealing"
+                                },
+                                {
+                                    "text": "be illuminating"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Principles",
+                    "node": [
+                        {
+                            "text": "General design",
+                            "node": [
+                                {
+                                    "text": "Changes in size/ brightness attract attention"
+                                },
+                                {
+                                    "text": "Use shapes/colours to associate"
+                                },
+                                {
+                                    "text": "Warm=foreground\nCold = background"
+                                },
+                                {
+                                    "text": "Keep values out of plot area"
+                                },
+                                {
+                                    "text": "Control the spatial separation of elements"
+                                },
+                                {
+                                    "text": "Choose scales for clarity",
+                                    "node": [
+                                        {
+                                            "text": "avoid the blob",
+                                            "node": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Answer Q \"Compared to What?\""
+                                },
+                                {
+                                    "text": "Place elements in height order",
+                                    "node": []
+                                },
+                                {
+                                    "text": "Use appealing aspect ratios",
+                                    "node": []
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Preparation",
+                            "node": [
+                                {
+                                    "text": "Consider the audience",
+                                    "node": [
+                                        {
+                                            "text": "senior = high level"
+                                        },
+                                        {
+                                            "text": "technical knowledge?"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Keep dash light, as few metrics as possible"
+                                },
+                                {
+                                    "text": "Build a range of dashes - for varying audiences/detail"
+                                },
+                                {
+                                    "text": "Look and feel",
+                                    "node": [
+                                        {
+                                            "text": "<10 elements per page"
+                                        },
+                                        {
+                                            "text": "<3 graphical devices per page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Refresh data regularly",
+                                    "node": [
+                                        {
+                                            "text": "Correlate to business needs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Choose the right channel for delivery"
+                                },
+                                {
+                                    "text": "Roll out to viewers",
+                                    "node": [
+                                        {
+                                            "text": "Think change management"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Software/format",
+                    "node": [
+                        {
+                            "text": "choices",
+                            "node": [
+                                {
+                                    "text": "paper printouts"
+                                },
+                                {
+                                    "text": "electronic files",
+                                    "node": [
+                                        {
+                                            "text": "ppt"
+                                        },
+                                        {
+                                            "text": "excel"
+                                        },
+                                        {
+                                            "text": "word"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "web-based portal"
+                                },
+                                {
+                                    "text": "intranet / enterprise application"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Xcesius"
+                        },
+                        {
+                            "text": "Chart FX"
+                        },
+                        {
+                            "text": "ADVIZOR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Planning",
+            "node": [
+                {
+                    "text": "Basic construction",
+                    "node": [
+                        {
+                            "text": "Primary goals",
+                            "node": [
+                                {
+                                    "text": "Diagnostic insight"
+                                },
+                                {
+                                    "text": "Predictive foresight"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Benefits",
+                            "node": [
+                                {
+                                    "text": "Align",
+                                    "node": [
+                                        {
+                                            "text": "Mktg to other departments"
+                                        },
+                                        {
+                                            "text": "Spend and profit"
+                                        },
+                                        {
+                                            "text": "To company objectives"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Demonstrate",
+                                    "node": [
+                                        {
+                                            "text": "Objectivity"
+                                        },
+                                        {
+                                            "text": "Transparency"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Promote accountability"
+                                },
+                                {
+                                    "text": "Create learning org"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "",
+                            "node": [
+                                {
+                                    "text": "Brand and customer asset",
+                                    "node": [
+                                        {
+                                            "text": "Track value of these and marketing's contribution"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Skills",
+                                    "node": [
+                                        {
+                                            "text": "Measure skills of mktg team"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Processes",
+                                    "node": [
+                                        {
+                                            "text": "Execution of essential processes e.g. IPP"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Diagnostic",
+                                    "node": [
+                                        {
+                                            "text": "Compare prior forecasts to actual results "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Effectiveness",
+                                    "node": [
+                                        {
+                                            "text": "Should have broad appeal "
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Typical metrics",
+                            "node": [
+                                {
+                                    "text": "Objectives"
+                                },
+                                {
+                                    "text": "Costs"
+                                },
+                                {
+                                    "text": "Npv projections"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Aligning dashboard",
+                    "node": [
+                        {
+                            "text": "Compare",
+                            "node": [
+                                {
+                                    "text": "Backwards looking has limited use"
+                                },
+                                {
+                                    "text": "Current results vs forecast"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Strategy mapping",
+                            "node": [
+                                {
+                                    "text": "Typical strategies",
+                                    "node": [
+                                        {
+                                            "text": "Product/service leadership"
+                                        },
+                                        {
+                                            "text": "Niche domination"
+                                        },
+                                        {
+                                            "text": "Customer convenience",
+                                            "node": [
+                                                {
+                                                    "text": "E.g. Bundling"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Low cost position"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Value proposition",
+                                    "node": [
+                                        {
+                                            "text": "Key to success"
+                                        },
+                                        {
+                                            "text": "Motivates customer"
+                                        },
+                                        {
+                                            "text": "Often relies on",
+                                            "node": [
+                                                {
+                                                    "text": "Product development"
+                                                },
+                                                {
+                                                    "text": "Customer service"
+                                                },
+                                                {
+                                                    "text": "Regulatory / social issues management"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "",
+                                    "node": [
+                                        {
+                                            "text": "How would we fill in the boxes for GE?"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Evaluate metrics based on role of mktg",
+                            "node": [
+                                {
+                                    "text": "Marketing services",
+                                    "node": [
+                                        {
+                                            "text": "Media buying"
+                                        },
+                                        {
+                                            "text": "Advertising\n"
+                                        },
+                                        {
+                                            "text": "Vendor coordination"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Advisory role, multiple Business units",
+                                    "node": [
+                                        {
+                                            "text": "Brand developments"
+                                        },
+                                        {
+                                            "text": "Best practice sharing"
+                                        },
+                                        {
+                                            "text": "Training / education"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Growth driver",
+                                    "node": [
+                                        {
+                                            "text": "Brand strategy"
+                                        },
+                                        {
+                                            "text": "Customer touch point management\n"
+                                        },
+                                        {
+                                            "text": "Product development"
+                                        },
+                                        {
+                                            "text": "Customer value dev"
+                                        },
+                                        {
+                                            "text": "Accountability / ROI"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Resource mapping",
+                            "node": [
+                                {
+                                    "text": "Map out goals vs objectives vs tactics ",
+                                    "node": [
+                                        {
+                                            "text": "To gain clarity"
+                                        },
+                                        {
+                                            "text": "Priorities metrics with most impact on objectives"
+                                        },
+                                        {
+                                            "text": "Show how your tactics contribute to objectives",
+                                            "node": [
+                                                {
+                                                    "text": "MAP planning"
+                                                },
+                                                {
+                                                    "text": "Clarify when campaigns appear to contribute to multiple objectives"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Test causal relationships",
+                                            "node": [
+                                                {
+                                                    "text": "Panel studies of custs and prospects"
+                                                },
+                                                {
+                                                    "text": "Continual surveys"
+                                                },
+                                                {
+                                                    "text": "Econometric models of customer behaviors "
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Improve forecasting",
+                                            "node": [
+                                                {
+                                                    "text": "Be specific about forecasted items"
+                                                },
+                                                {
+                                                    "text": "Be structured",
+                                                    "node": [
+                                                        {
+                                                            "text": "Map out all inputs into forecasting process"
+                                                        },
+                                                        {
+                                                            "text": "Describing relationship between causal factors"
+                                                        },
+                                                        {
+                                                            "text": "Note assumptions and calculations"
+                                                        },
+                                                        {
+                                                            "text": "Record accuracy of results over time"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Find causal factors",
+                                                    "node": [
+                                                        {
+                                                            "text": "Convene internal experts, suppliers, channel partners, leading academics"
+                                                        },
+                                                        {
+                                                            "text": "Ask what makes sales go up or down"
+                                                        },
+                                                        {
+                                                            "text": "Translate responses into factors which can be measured"
+                                                        },
+                                                        {
+                                                            "text": "Use statistics & test causal relationships",
+                                                            "node": [
+                                                                {
+                                                                    "text": "To overcome personal bias"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Tips",
+                                                    "node": [
+                                                        {
+                                                            "text": "Use statistic consultant to forecast from historical data"
+                                                        },
+                                                        {
+                                                            "text": "PC based tools can crunch numbers"
+                                                        },
+                                                        {
+                                                            "text": "Select quality metrics over quantity if data"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Response Modelling",
+                    "node": [
+                        {
+                            "text": "P163"
+                        },
+                        {
+                            "text": "Tribal wisdom",
+                            "node": [
+                                {
+                                    "text": "Use company experience"
+                                },
+                                {
+                                    "text": "Map changes Vs effects\nInput Vs output"
+                                },
+                                {
+                                    "text": "Aggregated best guess"
+                                },
+                                {
+                                    "text": "Run thru software",
+                                    "node": [
+                                        {
+                                            "text": "Identify biggest influences"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Then test on consumers"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Software",
+                            "node": [
+                                {
+                                    "text": "Crystal ball"
+                                },
+                                {
+                                    "text": "@risk"
+                                },
+                                {
+                                    "text": "XLSim"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Ladder of insight",
+                    "node": [
+                        {
+                            "text": "Sales tracking, test markets, market research",
+                            "node": [
+                                {
+                                    "text": "Results tabulated by product / market / region / channel, reported monthly"
+                                },
+                                {
+                                    "text": "Compare test markets to control markets"
+                                },
+                                {
+                                    "text": "Market research to measure",
+                                    "node": [
+                                        {
+                                            "text": "Awareness, perceptions"
+                                        },
+                                        {
+                                            "text": "Purchase intentions"
+                                        },
+                                        {
+                                            "text": "Share of market"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Program and campaign effectiveness",
+                            "node": [
+                                {
+                                    "text": "Compared to other channels for growth"
+                                },
+                                {
+                                    "text": "Secure buy in from finance on agreed metrics"
+                                },
+                                {
+                                    "text": "Chart market research on awareness, brand, intentions",
+                                    "node": [
+                                        {
+                                            "text": "Map and correlate to sales and margins"
+                                        },
+                                        {
+                                            "text": "Manually overlay significant events",
+                                            "node": [
+                                                {
+                                                    "text": "Competitor moves"
+                                                },
+                                                {
+                                                    "text": "Industry seasons"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Optimizing resource allocation",
+                            "node": [
+                                {
+                                    "text": "Monthly review"
+                                },
+                                {
+                                    "text": "Allocate budget based on forecast returns"
+                                },
+                                {
+                                    "text": "Work with accounting to allocate overheads to campaigns"
+                                },
+                                {
+                                    "text": "Forecasts",
+                                    "node": [
+                                        {
+                                            "text": "Use risk assessments to adjust forecasts"
+                                        },
+                                        {
+                                            "text": "Have peer reviews to add realism"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Look for relationships between campaigns"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Asset validation",
+                            "node": [
+                                {
+                                    "text": "Measuring",
+                                    "node": [
+                                        {
+                                            "text": "Brand"
+                                        },
+                                        {
+                                            "text": "Perception"
+                                        },
+                                        {
+                                            "text": "Attitudes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Correlate measured value to purchase likelihood"
+                                },
+                                {
+                                    "text": "Adds layer of perspective"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Measurement integration",
+                            "node": [
+                                {
+                                    "text": "Balances & measures short and long term returns",
+                                    "node": [
+                                        {
+                                            "text": "Financial efficiency",
+                                            "node": [
+                                                {
+                                                    "text": "ROI"
+                                                },
+                                                {
+                                                    "text": "NPV"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Strategic effectiveness",
+                                            "node": [
+                                                {
+                                                    "text": "Market share"
+                                                },
+                                                {
+                                                    "text": "Customer retention"
+                                                },
+                                                {
+                                                    "text": "Satisfaction"
+                                                },
+                                                {
+                                                    "text": "Employee satisfaction"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Howto",
+                                            "node": [
+                                                {
+                                                    "text": "Focus on a few top level objectives",
+                                                    "node": [
+                                                        {
+                                                            "text": "SMART"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "text": "Align all activities to top objectives"
+                                                },
+                                                {
+                                                    "text": "Compensate accordingly "
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Questions to ask",
+                            "node": [
+                                {
+                                    "text": "What are your true objectives?",
+                                    "node": [
+                                        {
+                                            "text": "Quantify cost/return"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "How broad is the commitment to improvement?"
+                                },
+                                {
+                                    "text": "Have you got the skills?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

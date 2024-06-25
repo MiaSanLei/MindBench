@@ -1,0 +1,2014 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="text/css" http-equiv="Content-Style-Type">
+<title>jQuery API</title>
+</head>
+<body>
+<h1 align="center" class="root">
+<a name="6dcfejvtllnvi1qe0l0r6nac2c">jQuery API</a>
+</h1>
+<h2 class="topic">
+<a name="4fl7bk8fundulej5eefvfkal5h">Ajax</a>
+</h2>
+<h3 class="topic">
+<a name="47db3dupm7iff27rroldt7qhr0">&nbsp;Global Ajax Event Handlers</a>
+</h3>
+<h3 class="topic">
+<a name="74evsj65hr4d9j5v783vde0bet">&nbsp;&nbsp;.ajaxComplete()</a>
+</h3>
+<h3 class="topic">
+<a name="6ttegi1bkl9c41t45kg47e90mc">&nbsp;&nbsp;&nbsp;Register a handler to be called when Ajax requests complete. This is an AjaxEvent.</a>
+</h3>
+<h3 class="topic">
+<a name="1aorkb5g4bldb1ficls1sl3q49">&nbsp;&nbsp;.ajaxError()</a>
+</h3>
+<h3 class="topic">
+<a name="49j26094kle1juvk6jrpa41cs2">&nbsp;&nbsp;&nbsp;Register a handler to be called when Ajax requests complete with an error. This is an Ajax Event.</a>
+</h3>
+<h3 class="topic">
+<a name="1q8fc4l81ho039mbej4sllnccf">&nbsp;&nbsp;.ajaxSend()</a>
+</h3>
+<h3 class="topic">
+<a name="44o42c467n2p0bb89ffle7do5u">&nbsp;&nbsp;&nbsp;Attach a function to be executed before an Ajax request is sent. This is an Ajax Event.</a>
+</h3>
+<h3 class="topic">
+<a name="1e0pcd2n3oguvvr701didnc4kr">&nbsp;&nbsp;.ajaxStart()</a>
+</h3>
+<h3 class="topic">
+<a name="06t293p17l0ajd6f1hhpoofdo4">&nbsp;&nbsp;&nbsp;Register a handler to be called when the first Ajax request begins. This is an Ajax Event.</a>
+</h3>
+<h3 class="topic">
+<a name="2u3q07fmeu2ldbvn7o2msa2i0s">&nbsp;&nbsp;.ajaxStop()</a>
+</h3>
+<h3 class="topic">
+<a name="499mr3gmp7obgukdnp8cgm434k">&nbsp;&nbsp;&nbsp;Register a handler to be called when all Ajax requests have completed. This is an Ajax Event.</a>
+</h3>
+<h3 class="topic">
+<a name="334ffjgf37c5uq4541aan2uc7s">&nbsp;&nbsp;.ajaxSuccess()</a>
+</h3>
+<h3 class="topic">
+<a name="67gcaq8ouen27dl3naa8sb4rq1">&nbsp;&nbsp;&nbsp;Attach a function to be executed whenever an Ajax request completes successfully. This is an Ajax Event.</a>
+</h3>
+<h3 class="topic">
+<a name="0mokm27qn6l19afnhfejl9hh53">&nbsp;Low-Level Interface</a>
+</h3>
+<h3 class="topic">
+<a name="5mvjp8l8974ebs9f8p5j2b1m6v">&nbsp;&nbsp;jQuery.ajax()</a>
+</h3>
+<h3 class="topic">
+<a name="4hbf02v2am9th0ult9oockmd13">&nbsp;&nbsp;&nbsp;Perform an asynchronous HTTP (Ajax) request.</a>
+</h3>
+<h3 class="topic">
+<a name="4ijbip6mdr19pglhsvu48v8ol8">&nbsp;&nbsp;jQuery.ajaxPrefilter()</a>
+</h3>
+<h3 class="topic">
+<a name="1cev5qfup15ef5mb25ugk7j245">&nbsp;&nbsp;&nbsp;Handle custom Ajax options or modify existing options before each request is sent and before they are processed by $.ajax().</a>
+</h3>
+<h3 class="topic">
+<a name="6i7vahk45d5t7koi6hcmmju82d">&nbsp;&nbsp;jQuery.ajaxSetup()</a>
+</h3>
+<h3 class="topic">
+<a name="40e1c4oq3o97f4nbonbt2eno4t">&nbsp;&nbsp;&nbsp;Set default values for future Ajax requests. Its use is not recommended.</a>
+</h3>
+<h3 class="topic">
+<a name="1hbstk930bso06n2apapi59vl3">&nbsp;&nbsp;jQuery.ajaxTransport()</a>
+</h3>
+<h3 class="topic">
+<a name="36v06bmd4s4lau5oiu1rdcsgur">&nbsp;&nbsp;&nbsp;Creates an object that handles the actual transmission of Ajax data.</a>
+</h3>
+<h3 class="topic">
+<a name="55hejq3k90svloj31p8h2c1g0m">&nbsp;Shorthand Methods</a>
+</h3>
+<h3 class="topic">
+<a name="7okuocg11jaj05v32j26boc0fg">&nbsp;&nbsp;.load()</a>
+</h3>
+<h3 class="topic">
+<a name="3a124409e22ovgc7lb96das3i5">&nbsp;&nbsp;&nbsp;Load data from the server and place the returned HTML into the matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="4ei1rslfclk9d48gquf1knlb2p">&nbsp;&nbsp;jQuery.get()</a>
+</h3>
+<h3 class="topic">
+<a name="7ob0r3o3507gmo9p77frpbf545">&nbsp;&nbsp;&nbsp;Load data from the server using a HTTP GET request.</a>
+</h3>
+<h3 class="topic">
+<a name="61pc80f110lba570dg8ltuf90m">&nbsp;&nbsp;jQuery.getJSON()</a>
+</h3>
+<h3 class="topic">
+<a name="07q53ioismm43e6s6kbodb4ehj">&nbsp;&nbsp;&nbsp;Load JSON-encoded data from the server using a GET HTTP request.</a>
+</h3>
+<h3 class="topic">
+<a name="3a1dsshfc2qvc8nci1uoub0e0m">&nbsp;&nbsp;jQuery.getScript()</a>
+</h3>
+<h3 class="topic">
+<a name="4h4gh0hq7r01ck8jkftgfo0rfj">&nbsp;&nbsp;&nbsp;Load a JavaScript file from the server using a GET HTTP request, then execute it.</a>
+</h3>
+<h3 class="topic">
+<a name="53568se3ofsrfish9gghbiolpg">&nbsp;&nbsp;jQuery.post()</a>
+</h3>
+<h3 class="topic">
+<a name="6fuv9lga7jflsgi4n4j96u4v32">&nbsp;&nbsp;&nbsp;Load data from the server using a HTTP POST request.</a>
+</h3>
+<h2 class="topic">
+<a name="64n1sekngbptdbrec60etvhm5h">Attributes</a>
+</h2>
+<h3 class="topic">
+<a name="1pdsot53tppgft4qt26ookc3ej">&nbsp;Forms ~ Manipulation ~ General Attributes</a>
+</h3>
+<h3 class="topic">
+<a name="36iem8tjg05lrvhcj47a9semua">&nbsp;&nbsp;.val()</a>
+</h3>
+<h3 class="topic">
+<a name="49nsqaponnbvqo2depaicpd78d">&nbsp;&nbsp;&nbsp;Get the current value of the first element in the set of matched elements or set the value of every matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="33djktfhgb2c1u41ccql731cj8">&nbsp;Manipulation</a>
+</h3>
+<h3 class="topic">
+<a name="5onmh5a9oit8v3d0vl0m90m89t">&nbsp;&nbsp;Class Attribute ~ CSS</a>
+</h3>
+<h3 class="topic">
+<a name="6jbr9bpq9bb0qrliah3ac7vpqi">&nbsp;&nbsp;&nbsp;.addClass()</a>
+</h3>
+<h3 class="topic">
+<a name="7vdrplh8rno8255cu5ppkflb3l">&nbsp;&nbsp;&nbsp;&nbsp;Adds the specified class(es) to each of the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="0ffpdsk7kkapfg6q7j6pf8fls6">&nbsp;&nbsp;&nbsp;.hasClass()</a>
+</h3>
+<h3 class="topic">
+<a name="6nj1v8pmfi7pfnevj052kqaek2">&nbsp;&nbsp;&nbsp;&nbsp;Determine whether any of the matched elements are assigned the given class.</a>
+</h3>
+<h3 class="topic">
+<a name="5gcnsdd27q3r6npb2fib6msmhg">&nbsp;&nbsp;&nbsp;.removeClass()</a>
+</h3>
+<h3 class="topic">
+<a name="7oa3med4fp0368a1vg0sh0qvf6">&nbsp;&nbsp;&nbsp;&nbsp;Remove a single class, multiple classes, or all classes from each element in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="4gp671t3f83tcifl83nh984162">&nbsp;&nbsp;&nbsp;.toggleClass()</a>
+</h3>
+<h3 class="topic">
+<a name="2shnkp1jfs6qoprqr05vfrrii1">&nbsp;&nbsp;&nbsp;&nbsp;Add or remove one or more classes from each element in the set of matched elements, depending on either the class's presence or the value of the switch argument.</a>
+</h3>
+<h3 class="topic">
+<a name="670kmo1koa85s4b8ncrmd06unt">&nbsp;&nbsp;DOM Insertion ~ Inside</a>
+</h3>
+<h3 class="topic">
+<a name="1smgg0rl5oq5pi2knl8smq46s0">&nbsp;&nbsp;&nbsp;.html()</a>
+</h3>
+<h3 class="topic">
+<a name="5elq2dcfc1eb1lepgbq29vilno">&nbsp;&nbsp;&nbsp;&nbsp;Get the HTML contents of the first element in the set of matched elements or set the HTML contents of every matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="0h5hr8uas5ln2r5v5r0udd26k6">&nbsp;&nbsp;General Attributes</a>
+</h3>
+<h3 class="topic">
+<a name="6u40kq9s9em11hs5mf5tk01ara">&nbsp;&nbsp;&nbsp;.attr()</a>
+</h3>
+<h3 class="topic">
+<a name="4jte4dp5l4ls82ulvbsbpm0j25">&nbsp;&nbsp;&nbsp;&nbsp;Get the value of an attribute for the first element in the set of matched elements or set one or more attributes for every matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="1h2698ol0af42pmm613e41i2ek">&nbsp;&nbsp;&nbsp;.prop()</a>
+</h3>
+<h3 class="topic">
+<a name="5s15rkk6slqshrn1p0192j4hr5">&nbsp;&nbsp;&nbsp;&nbsp;Get the value of a property for the first element in the set of matched elements or set one or more properties for every matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="5v3jh542rdnas0v5sneif7maq4">&nbsp;&nbsp;&nbsp;.removeAttr()</a>
+</h3>
+<h3 class="topic">
+<a name="659njbnvav8i3revk2mrds80nf">&nbsp;&nbsp;&nbsp;&nbsp;Remove an attribute from each element in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="71b1olfur35thfk358oicm4auk">&nbsp;&nbsp;&nbsp;.removeProp()</a>
+</h3>
+<h3 class="topic">
+<a name="17nt8ath795kec61m90h2gaed7">&nbsp;&nbsp;&nbsp;&nbsp;Remove a property for the set of matched elements.</a>
+</h3>
+<h2 class="topic">
+<a name="1gscdsqifv6dhhvm625qiduj0t">CSS</a>
+</h2>
+<h3 class="topic">
+<a name="4q6mar8cq2qbms1l17s171rn04">&nbsp;CSS ~ Dimensions ~ Manipulation ~ Style Properties</a>
+</h3>
+<h3 class="topic">
+<a name="46e5a1uml21henq23f0knainhq">&nbsp;&nbsp;.height()</a>
+</h3>
+<h3 class="topic">
+<a name="0pt75vcjvkapcd15otno24987g">&nbsp;&nbsp;&nbsp;Get the current computed height for the first element in the set of matched elements or set the height of every matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="7rs7t43kqjk6q5dc4btfhulb90">&nbsp;&nbsp;.innerHeight()</a>
+</h3>
+<h3 class="topic">
+<a name="6r05fp0nimjrl562975ipor6dq">&nbsp;&nbsp;&nbsp;Get the current computed height for the first element in the set of matched elements, including padding but not border.</a>
+</h3>
+<h3 class="topic">
+<a name="78pbre768dlmtint2kjuo1b3it">&nbsp;&nbsp;.innerWidth()</a>
+</h3>
+<h3 class="topic">
+<a name="2p51jubp6p22kelv2le3krnrfi">&nbsp;&nbsp;&nbsp;Get the current computed width for the first element in the set of matched elements, including padding but not border.</a>
+</h3>
+<h3 class="topic">
+<a name="771abbrk8cc72bq6mdq31aut45">&nbsp;&nbsp;.outerHeight()</a>
+</h3>
+<h3 class="topic">
+<a name="2e2l64h9qrba7nes6cnlp0r6gi">&nbsp;&nbsp;&nbsp;.outerHeight()</a>
+</h3>
+<h3 class="topic">
+<a name="0b14i62373h6e7dshpva235rlb">&nbsp;&nbsp;.outerWidth()</a>
+</h3>
+<h3 class="topic">
+<a name="0m2hn5q565quqda2imgafrd91r">&nbsp;&nbsp;&nbsp;Get the current computed width for the first element in the set of matched elements, including padding and border.</a>
+</h3>
+<h3 class="topic">
+<a name="0eena0jc4kv5irttokij25p00p">&nbsp;&nbsp;.width()</a>
+</h3>
+<h3 class="topic">
+<a name="1dtsajfjogq7aau6o1190b5i9g">&nbsp;&nbsp;&nbsp;Get the current computed width for the first element in the set of matched elements or set the width of every matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="7h0lrjijvdju3gunc3qdr48dk8">&nbsp;CSS ~ Manipulation ~ Style Properties</a>
+</h3>
+<h3 class="topic">
+<a name="4v86s731ntdkfa8fkie1dguueh">&nbsp;&nbsp;.css()</a>
+</h3>
+<h3 class="topic">
+<a name="5ugfg4vf1e38ohn27rlns3m0go">&nbsp;&nbsp;&nbsp;Get the value of a style property for the first element in the set of matched elements or set one or more CSS properties for every matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="4odd6h1biik0no6vgagnm2t237">&nbsp;Offset ~ Manipulation ~ Style Properties</a>
+</h3>
+<h3 class="topic">
+<a name="5spatku3dqblkd5b4cqvkeccvs">&nbsp;&nbsp;.offset()</a>
+</h3>
+<h3 class="topic">
+<a name="3v54tbfvcubp3luf3n3soqn2hf">&nbsp;&nbsp;&nbsp;Get the current coordinates of the first element, or set the coordinates of every element, in the set of matched elements, relative to the document.</a>
+</h3>
+<h3 class="topic">
+<a name="3mbcrmr5ivvps6dnde1sggkruu">&nbsp;&nbsp;.position()</a>
+</h3>
+<h3 class="topic">
+<a name="7t4cfqqps8cjcoeftki6iifkrl">&nbsp;&nbsp;&nbsp;Get the current coordinates of the first element in the set of matched elements, relative to the offset parent.</a>
+</h3>
+<h3 class="topic">
+<a name="5jt8re7rlel00kg6hngb05nthc">&nbsp;&nbsp;.scrollLeft()</a>
+</h3>
+<h3 class="topic">
+<a name="7sfumes88skv98theh1g3i2i1l">&nbsp;&nbsp;&nbsp;Get the current horizontal position of the scroll bar for the first element in the set of matched elements or set the horizontal position of the scroll bar for every matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="3uu44bhq26q2a2gojfhki56imh">&nbsp;&nbsp;.scrollTop()</a>
+</h3>
+<h3 class="topic">
+<a name="54dpsht80ufkhk94gudhabq32l">&nbsp;&nbsp;&nbsp;Get the current vertical position of the scroll bar for the first element in the set of matched elements or set the vertical position of the scroll bar for every matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="0u7mg5l695i8gvhgaifrkfg6oc">&nbsp;jQuery.cssHooks</a>
+</h3>
+<h3 class="topic">
+<a name="2vnnflj6arfdiblvul2r3pnvf1">&nbsp;&nbsp;Hook directly into jQuery to override how particular CSS properties are retrieved or set, normalize CSS property naming, or create custom properties.</a>
+</h3>
+<h2 class="topic">
+<a name="0uft8k2m7opacugp7d2flrd4rj">Callbacks Object</a>
+</h2>
+<h3 class="topic">
+<a name="6lcndjm0nm0ilk43jit7ga80f1">&nbsp;callbacks.add()</a>
+</h3>
+<h3 class="topic">
+<a name="25rkaf7e3bc656n970r942hr2g">&nbsp;&nbsp;Add a callback or a collection of callbacks to a callback list.</a>
+</h3>
+<h3 class="topic">
+<a name="7g3nn9c3tohvh6mt51atctkbkn">&nbsp;callbacks.disable()</a>
+</h3>
+<h3 class="topic">
+<a name="4ug55i93rroid3060bm9euio6q">&nbsp;&nbsp;Disable a callback list from doing anything more.</a>
+</h3>
+<h3 class="topic">
+<a name="6pss3audb3jgvghbv16soifgr4">&nbsp;callbacks.disabled()</a>
+</h3>
+<h3 class="topic">
+<a name="3g584t1se2jkk2h9ik1736es86">&nbsp;&nbsp;Determine if the callbacks list has been disabled.</a>
+</h3>
+<h3 class="topic">
+<a name="7ok5mvoa80cegig4dtt6i2vscf">&nbsp;callbacks.empty()</a>
+</h3>
+<h3 class="topic">
+<a name="26nbgncd6cmtq8b4kuldhb4tvl">&nbsp;&nbsp;Remove all of the callbacks from a list.</a>
+</h3>
+<h3 class="topic">
+<a name="7miqpc1o1e6frhtl5cosni30cs">&nbsp;callbacks.fire()</a>
+</h3>
+<h3 class="topic">
+<a name="78osteprb030bbh3un4h64j4pe">&nbsp;&nbsp;Call all of the callbacks with the given arguments</a>
+</h3>
+<h3 class="topic">
+<a name="5t1mhfd43mh3v7k9sv2m884h8d">&nbsp;callbacks.fireWith()</a>
+</h3>
+<h3 class="topic">
+<a name="2u5oglnsep9qk73jhj2nhurppc">&nbsp;&nbsp;Call all callbacks in a list with the given context and arguments.</a>
+</h3>
+<h3 class="topic">
+<a name="3mr4tmdbclqbn0qg91rn1g6p5c">&nbsp;callbacks.fired()</a>
+</h3>
+<h3 class="topic">
+<a name="7jjih6ml3furkq43c90b174c7q">&nbsp;&nbsp;Determine if the callbacks have already been called at least once.</a>
+</h3>
+<h3 class="topic">
+<a name="49t6nebr6hu7juir1dd02kssln">&nbsp;callbacks.has()</a>
+</h3>
+<h3 class="topic">
+<a name="1e4ulr2r48dj07pamef33on9ej">&nbsp;&nbsp;Determine whether a supplied callback is in a list</a>
+</h3>
+<h3 class="topic">
+<a name="4vr5c10gi8css5q7ct9fad6pkc">&nbsp;callbacks.lock()</a>
+</h3>
+<h3 class="topic">
+<a name="6qqhjctjgbnfan1c61h879se0m">&nbsp;&nbsp;Lock a callback list in its current state.</a>
+</h3>
+<h3 class="topic">
+<a name="52g74vpp9s778fpuhu6bma0ndk">&nbsp;callbacks.locked()</a>
+</h3>
+<h3 class="topic">
+<a name="7v64juqjlfmr2itqdc0fr8u8nf">&nbsp;&nbsp;Determine if the callbacks list has been locked.</a>
+</h3>
+<h3 class="topic">
+<a name="5rgn5bki3bhdqpbt4gr552kcb9">&nbsp;callbacks.remove()</a>
+</h3>
+<h3 class="topic">
+<a name="75rr6880q8a47qfr2krcd9jhkd">&nbsp;&nbsp;Remove a callback or a collection of callbacks from a callback list.</a>
+</h3>
+<h3 class="topic">
+<a name="2ispla48imte7jmjouu4m1tpvi">&nbsp;jQuery.Callbacks()</a>
+</h3>
+<h3 class="topic">
+<a name="0n42qocfoq40vgqc88nlc15qej">&nbsp;&nbsp;A multi-purpose callbacks list object that provides a powerful way to manage callback lists.</a>
+</h3>
+<h2 class="topic">
+<a name="0gi07bqpsna2fjtdk1pk739sbp">Core</a>
+</h2>
+<h3 class="topic">
+<a name="2tdolm96h92o4d26mjmb74aem1">&nbsp;Deferred Object</a>
+</h3>
+<h3 class="topic">
+<a name="70te0t2j1gq6piuiob42mvog9b">&nbsp;&nbsp;jQuery.when()</a>
+</h3>
+<h3 class="topic">
+<a name="600pfp7ps8e8vq836o8nb3sd8n">&nbsp;&nbsp;&nbsp;Provides a way to execute callback functions based on one or more objects, usually Deferred objects that represent asynchronous events.</a>
+</h3>
+<h3 class="topic">
+<a name="78do8tohup15ttvd8a4g3r4deb">&nbsp;Miscellaneous ~ Setup Methods</a>
+</h3>
+<h3 class="topic">
+<a name="48fbe7of5asbo7ctubkg89kkni">&nbsp;&nbsp;jQuery.noConflict()</a>
+</h3>
+<h3 class="topic">
+<a name="4j5aivm32i7as60d5tu9c0ejok">&nbsp;&nbsp;&nbsp;Relinquish jQuery's control of the $ variable.</a>
+</h3>
+<h3 class="topic">
+<a name="207u5vlrler3vnjqkjk5c5b3ql">&nbsp;jQuery()</a>
+</h3>
+<h3 class="topic">
+<a name="4abjg1p3th2ku03auvtoevjhru">&nbsp;&nbsp;Return a collection of matched elements either found in the DOM based on passed argument(s) or created by passing an HTML string.</a>
+</h3>
+<h3 class="topic">
+<a name="5g7ont34dn2k5hq8oeiv59uhv5">&nbsp;jQuery.holdReady()</a>
+</h3>
+<h3 class="topic">
+<a name="5lvp2eo1tm8qolbd74f0a9rtid">&nbsp;&nbsp;Holds or releases the execution of jQuery's ready event.</a>
+</h3>
+<h2 class="topic">
+<a name="71cpncrupjd23ha7flgv2aipae">Data</a>
+</h2>
+<h3 class="topic">
+<a name="1uatdthq8kl392pceebgsv5180">&nbsp;Data ~ Miscellaneous ~ Data Storage</a>
+</h3>
+<h3 class="topic">
+<a name="0r79d6qg9jjp34u8ne0vhn9p0m">&nbsp;&nbsp;.data()</a>
+</h3>
+<h3 class="topic">
+<a name="4dh3eipq6a63g9fm5dlb4r10k0">&nbsp;&nbsp;&nbsp;Store arbitrary data associated with the matched elements or return the value at the named data store for the first element in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="79bpujvdtjlffvvmlons2a99mk">&nbsp;&nbsp;jQuery.hasData()</a>
+</h3>
+<h3 class="topic">
+<a name="2c47jovurbihjuehu2t911kf5g">&nbsp;&nbsp;&nbsp;Determine whether an element has any jQuery data associated with it.</a>
+</h3>
+<h3 class="topic">
+<a name="0j61mm1svi0imp8nc3jl24n887">&nbsp;Data ~ Utilities</a>
+</h3>
+<h3 class="topic">
+<a name="33lgk6kljjiuqqq4i2rpgcju1g">&nbsp;&nbsp;.removeData()</a>
+</h3>
+<h3 class="topic">
+<a name="529jfrvilt5hbbufj20bvrumgk">&nbsp;&nbsp;&nbsp;Remove a previously-stored piece of data.</a>
+</h3>
+<h3 class="topic">
+<a name="7s80fg6rkj2u2rmkm37kg84vs0">&nbsp;&nbsp;jQuery.data()</a>
+</h3>
+<h3 class="topic">
+<a name="6v4t1hcke0eocn78fcfn9mhf8r">&nbsp;&nbsp;&nbsp;Store arbitrary data associated with the specified element and/or return the value that was set.</a>
+</h3>
+<h3 class="topic">
+<a name="3v2985lu05p3020e2a4qvg2t6a">&nbsp;&nbsp;jQuery.dequeue()</a>
+</h3>
+<h3 class="topic">
+<a name="2jj7fr7n6lvl5duhnst2f8qfld">&nbsp;&nbsp;&nbsp;Execute the next function on the queue for the matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="4m0240dqmrk5m2u6fr4mtst1oa">&nbsp;&nbsp;jQuery.queue()</a>
+</h3>
+<h3 class="topic">
+<a name="67dhq940appqun97khu1tiemcg">&nbsp;&nbsp;&nbsp;Show or manipulate the queue of functions to be executed on the matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="194sfq8tqd1067h0jg378ggvqs">&nbsp;jQuery.removeData()</a>
+</h3>
+<h3 class="topic">
+<a name="24u9fl55bj8g6eblerc73r0n12">&nbsp;&nbsp;Remove a previously-stored piece of data.</a>
+</h3>
+<h2 class="topic">
+<a name="32dp09m5gak4csmhll9bu3g2cn">Deferred Object</a>
+</h2>
+<h3 class="topic">
+<a name="0jhp40pb3ejrq21qb4p0gvb3o5">&nbsp;deferred.always()</a>
+</h3>
+<h3 class="topic">
+<a name="5938qkeus8s1ijp3v2g9ti2rke">&nbsp;&nbsp;Add handlers to be called when the Deferred object is either resolved or rejected.</a>
+</h3>
+<h3 class="topic">
+<a name="5s91521702ocv5jcj15tie39ou">&nbsp;deferred.done()</a>
+</h3>
+<h3 class="topic">
+<a name="58biqcf72m99ohjqr1vv58q3ks">&nbsp;&nbsp;Add handlers to be called when the Deferred object is resolved.</a>
+</h3>
+<h3 class="topic">
+<a name="0abuk6nul67fgfvu952unl74gt">&nbsp;deferred.fail()</a>
+</h3>
+<h3 class="topic">
+<a name="27s4r0bb39ckbv8nujfeji5ea7">&nbsp;&nbsp;Add handlers to be called when the Deferred object is rejected.</a>
+</h3>
+<h3 class="topic">
+<a name="05q818t6v2c99s91lstteun50e">&nbsp;deferred.notify()</a>
+</h3>
+<h3 class="topic">
+<a name="5gc57b28jecgfpuucno472tkpf">&nbsp;&nbsp;Call the progressCallbacks on a Deferred object with the given args.</a>
+</h3>
+<h3 class="topic">
+<a name="7muo7if4sropb9gbd3l46djftg">&nbsp;deferred.notifyWith()</a>
+</h3>
+<h3 class="topic">
+<a name="2b6c0kpcgnga3iimntdku7elcd">&nbsp;&nbsp;Call the progressCallbacks on a Deferred object with the given context and args.</a>
+</h3>
+<h3 class="topic">
+<a name="360vd3ae37nq4qroda5mcqtd4e">&nbsp;deferred.progress()</a>
+</h3>
+<h3 class="topic">
+<a name="62qsknekbh26gebi8ks2ngt7fg">&nbsp;&nbsp;Add handlers to be called when the Deferred object generates progress notifications.</a>
+</h3>
+<h3 class="topic">
+<a name="0um60047mq6mdn9h7rpgg2vg8m">&nbsp;deferred.promise()</a>
+</h3>
+<h3 class="topic">
+<a name="7uhjd20d1d895m6hp4fshhs40k">&nbsp;&nbsp;Return a Deferred's Promise object.</a>
+</h3>
+<h3 class="topic">
+<a name="18kpv3m76olbvpsd9tv801ujhf">&nbsp;deferred.reject()</a>
+</h3>
+<h3 class="topic">
+<a name="17rn24rkfkj3r785u3paarh5n1">&nbsp;&nbsp;Reject a Deferred object and call any failCallbacks with the given args.</a>
+</h3>
+<h3 class="topic">
+<a name="6b5hpiuhf4bthhnov1rja178g4">&nbsp;deferred.rejectWith()</a>
+</h3>
+<h3 class="topic">
+<a name="565qiopmto3chiilcnsl1alpo7">&nbsp;&nbsp;Reject a Deferred object and call any failCallbacks with the given context and args.</a>
+</h3>
+<h3 class="topic">
+<a name="4hltnkprjgo96hpmcnhtt49u0c">&nbsp;deferred.resolve()</a>
+</h3>
+<h3 class="topic">
+<a name="15aip5mi816a8t80dohek4hads">&nbsp;&nbsp;Resolve a Deferred object and call any doneCallbacks with the given args.</a>
+</h3>
+<h3 class="topic">
+<a name="239n4krbhf0mlh74ms387ljqrv">&nbsp;deferred.resolveWith()</a>
+</h3>
+<h3 class="topic">
+<a name="4d3g8gik1t75ig85djkm1k4pk8">&nbsp;&nbsp;Resolve a Deferred object and call any doneCallbacks with the given context and args.</a>
+</h3>
+<h3 class="topic">
+<a name="7ad1nc2m31toob21llfjo3kd5u">&nbsp;deferred.state()</a>
+</h3>
+<h3 class="topic">
+<a name="06sd5teoojpncop31nt78mulhp">&nbsp;&nbsp;Determine the current state of a Deferred object.</a>
+</h3>
+<h3 class="topic">
+<a name="6f770cq0h6rb9uffc99qsu9f36">&nbsp;deferred.then()</a>
+</h3>
+<h3 class="topic">
+<a name="7p3r76se5hoda7mv33737a3uqp">&nbsp;&nbsp;Add handlers to be called when the Deferred object is resolved, rejected, or still in progress.</a>
+</h3>
+<h3 class="topic">
+<a name="3rbfo6006du30ebn16r94341om">&nbsp;jQuery.Deferred()</a>
+</h3>
+<h3 class="topic">
+<a name="0guhhubh8rrrpi87tmm3rn54m8">&nbsp;&nbsp;A constructor function that returns a chainable utility object with methods to register multiple callbacks into callback queues, invoke callback queues, and relay the success or failure state of any synchronous or asynchronous...</a>
+</h3>
+<h2 class="topic">
+<a name="4bu93p59kiave3b8bgvk7b0cld">Effects</a>
+</h2>
+<h3 class="topic">
+<a name="3rm68tje24vlevkf9unqv7hmqu">&nbsp;Basics</a>
+</h3>
+<h3 class="topic">
+<a name="5kcvtj8mn5a9lp6un3mea9u4f9">&nbsp;&nbsp;.fadeToggle()</a>
+</h3>
+<h3 class="topic">
+<a name="4ejne74fol0sgcpfk6ms90ge2k">&nbsp;&nbsp;&nbsp;Display or hide the matched elements by animating their opacity.</a>
+</h3>
+<h3 class="topic">
+<a name="36s7n9jjksjin1k4hvl28udgm2">&nbsp;&nbsp;.hide()</a>
+</h3>
+<h3 class="topic">
+<a name="0u0jfj389eji413r02heu8ceef">&nbsp;&nbsp;&nbsp;Hide the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="4rckch227q9c8un53gjo9m4enl">&nbsp;&nbsp;.show()</a>
+</h3>
+<h3 class="topic">
+<a name="26a4hld10dqtbgg5gippkocur5">&nbsp;&nbsp;&nbsp;Display the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="4cd89umj491p4mhenu09jko0fa">&nbsp;Browser Events</a>
+</h3>
+<h3 class="topic">
+<a name="2u57tn3it15ri367vst43ls19d">&nbsp;&nbsp;.slideUp()</a>
+</h3>
+<h3 class="topic">
+<a name="5icp9s27ria50j3l40t4cgqi6a">&nbsp;&nbsp;&nbsp;Hide the matched elements with a sliding motion.</a>
+</h3>
+<h3 class="topic">
+<a name="00v6uif74uf6hl731q5j0vjh8f">&nbsp;Custom</a>
+</h3>
+<h3 class="topic">
+<a name="65c2n8chu7bphihnnpqrrgg31o">&nbsp;&nbsp;.animate()</a>
+</h3>
+<h3 class="topic">
+<a name="03gn5v6n6acktmh515nc2qn8pl">&nbsp;&nbsp;&nbsp;Perform a custom animation of a set of CSS properties.</a>
+</h3>
+<h3 class="topic">
+<a name="5vfsefjiemdpg6r3gn346n4kes">&nbsp;&nbsp;.delay()</a>
+</h3>
+<h3 class="topic">
+<a name="42f99bpc2ecffbac05a20vg7qi">&nbsp;&nbsp;&nbsp;Set a timer to delay execution of subsequent items in the queue.</a>
+</h3>
+<h3 class="topic">
+<a name="6pjb0krqbplnh64pallekhes9n">&nbsp;&nbsp;.finish()</a>
+</h3>
+<h3 class="topic">
+<a name="6mvrd1uv880jtbkb46qsgmt3v2">&nbsp;&nbsp;&nbsp;Stop the currently-running animation, remove all queued animations, and complete all animations for the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="4cp4sj0b356f5aff83tdbjcuj0">&nbsp;&nbsp;.toggle()</a>
+</h3>
+<h3 class="topic">
+<a name="4m7uarnq6npptjedkjb48mrpd9">&nbsp;&nbsp;&nbsp;Display or hide the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="4guckmsm3oufd1rn1ijfj4fa50">&nbsp;&nbsp;Data ~ Utilities</a>
+</h3>
+<h3 class="topic">
+<a name="4t09me4lnggooitrchp70fm4vn">&nbsp;&nbsp;&nbsp;.clearQueue()</a>
+</h3>
+<h3 class="topic">
+<a name="70c0aegs8ejg0ebvs1v5gd7r0n">&nbsp;&nbsp;&nbsp;&nbsp;Remove from the queue all items that have not yet been run.</a>
+</h3>
+<h3 class="topic">
+<a name="036rdnqr18ss4u1so3k3d9bvs2">&nbsp;&nbsp;&nbsp;.dequeue()</a>
+</h3>
+<h3 class="topic">
+<a name="5j95oq1faddi6m2smisga3r3en">&nbsp;&nbsp;&nbsp;&nbsp;Execute the next function on the queue for the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="11g25123qaq4tcvvkbbp6fo1nj">&nbsp;&nbsp;&nbsp;.stop()</a>
+</h3>
+<h3 class="topic">
+<a name="42co5g5g3nvkc355uuaq7pdl0v">&nbsp;&nbsp;&nbsp;&nbsp;Stop the currently-running animation on the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="4gpulhkp32u68rlp2mbt1ga7qd">&nbsp;&nbsp;Properties ~ Properties of the Global jQuery...</a>
+</h3>
+<h3 class="topic">
+<a name="08g2gbcg1p03i3hv5km6f6tmdd">&nbsp;&nbsp;&nbsp;Properties ~ Properties of the Global jQuery Object</a>
+</h3>
+<h3 class="topic">
+<a name="63c8af6png5t0vusm50hprd5n2">&nbsp;&nbsp;&nbsp;.queue()</a>
+</h3>
+<h3 class="topic">
+<a name="7njrih5b93hrgfmibga0oft6n4">&nbsp;&nbsp;&nbsp;&nbsp;Show or manipulate the queue of functions to be executed on the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="57vmdorm5tp2m90v0n033kjuvu">&nbsp;&nbsp;&nbsp;jQuery.fx.interval</a>
+</h3>
+<h3 class="topic">
+<a name="0f8jmk9lann73jsft996390b2d">&nbsp;&nbsp;&nbsp;&nbsp;The rate (in milliseconds) at which animations fire.</a>
+</h3>
+<h3 class="topic">
+<a name="5c6spn30tvvb2ml2mq7n7git7j">&nbsp;Fading</a>
+</h3>
+<h3 class="topic">
+<a name="62sbkpee926stdmckug2b9n7pv">&nbsp;&nbsp;.fadeIn()</a>
+</h3>
+<h3 class="topic">
+<a name="6pt00iafg747djv4hm2fj9hrf5">&nbsp;&nbsp;&nbsp;Display the matched elements by fading them to opaque.</a>
+</h3>
+<h3 class="topic">
+<a name="1stds0ejgqk70a9ft369ed1fei">&nbsp;&nbsp;.fadeOut()</a>
+</h3>
+<h3 class="topic">
+<a name="3pvnkoq6u609ufulrg4elelpe2">&nbsp;&nbsp;&nbsp;Hide the matched elements by fading them to transparent.</a>
+</h3>
+<h3 class="topic">
+<a name="73544e9iku56vahlgu48b1jgrl">&nbsp;&nbsp;.promise()</a>
+</h3>
+<h3 class="topic">
+<a name="0j0oqvssks37bdovdpins16oul">&nbsp;&nbsp;&nbsp;Return a Promise object to observe when all actions of a certain type bound to the collection, queued or not, have finished.</a>
+</h3>
+<h3 class="topic">
+<a name="33auin9895bi8jljq620vminn2">&nbsp;&nbsp;jQuery.fx.off</a>
+</h3>
+<h3 class="topic">
+<a name="3iov2snln91fnkf514jvmhkfka">&nbsp;&nbsp;&nbsp;Globally disable all animations.</a>
+</h3>
+<h3 class="topic">
+<a name="53l38um24ci6iuktkbdebor1mg">&nbsp;Sliding</a>
+</h3>
+<h3 class="topic">
+<a name="4tpb6ha78tbepf0adtm7jcdger">&nbsp;&nbsp;.fadeTo()</a>
+</h3>
+<h3 class="topic">
+<a name="6cbpcngt363058i8cvkccfo8k9">&nbsp;&nbsp;&nbsp;Adjust the opacity of the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="6vtg3a6n048o3sjmu3s5vn1792">&nbsp;&nbsp;.slideDown()</a>
+</h3>
+<h3 class="topic">
+<a name="28asnnn6ig25i2he94qg0q925k">&nbsp;&nbsp;&nbsp;Display the matched elements with a sliding motion.</a>
+</h3>
+<h3 class="topic">
+<a name="5vtto03posrthg4p8eaabd2aq9">&nbsp;&nbsp;.slideToggle()</a>
+</h3>
+<h3 class="topic">
+<a name="5vjd62ms1tvt7hhjg1mv7brig1">&nbsp;&nbsp;&nbsp;Display or hide the matched elements with a sliding motion.</a>
+</h3>
+<h2 class="topic">
+<a name="08169l0lf3aq90tbsbn14da3cu">Events</a>
+</h2>
+<h3 class="topic">
+<a name="0rua9j0am71e4en9ik1su9nns3">&nbsp;Ajax ~ Helper Functions</a>
+</h3>
+<h3 class="topic">
+<a name="61e90luu13faeppofb9fp6e6e3">&nbsp;&nbsp;.mouseup()</a>
+</h3>
+<h3 class="topic">
+<a name="45disvsfbvvthn0k0evp4nf6f1">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'mouseup' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="1lvfj0aq28cgcpqsjclcokf73l">&nbsp;Browser Events</a>
+</h3>
+<h3 class="topic">
+<a name="35v4mvinhutq3rlb9gu4okcstl">&nbsp;&nbsp;.resize()</a>
+</h3>
+<h3 class="topic">
+<a name="7bih9ecu5cckuk6dm8i7hd3shc">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'resize' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="34uc7aj0jkivb1j25g3pooacdq">&nbsp;Document Loading</a>
+</h3>
+<h3 class="topic">
+<a name="5eso4fkfn93m2furibcggtgsmc">&nbsp;&nbsp;.scroll()</a>
+</h3>
+<h3 class="topic">
+<a name="3cm4cotnrofbu1t7vrnf3gmlt1">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'scroll' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="46rccph3p7pb383n8btt66nan5">&nbsp;Event Handler Attachment</a>
+</h3>
+<h3 class="topic">
+<a name="562qhl7qepjok9le12ccntirdg">&nbsp;&nbsp;.bind()</a>
+</h3>
+<h3 class="topic">
+<a name="5r69tdmvrfos4bnk24rs0atsi7">&nbsp;&nbsp;&nbsp;Attach a handler to an event for the elements.</a>
+</h3>
+<h3 class="topic">
+<a name="3q4a9n4ldd2349tc57arjec8s2">&nbsp;&nbsp;.delegate()</a>
+</h3>
+<h3 class="topic">
+<a name="6o1vgp4p7o91kdsdenpgda8lmq">&nbsp;&nbsp;&nbsp;Attach a handler to one or more events for all elements that match the selector, now or in the future, based on a specific set of root elements.</a>
+</h3>
+<h3 class="topic">
+<a name="4hg1i8i67021cnp2ffihlfees8">&nbsp;&nbsp;.off()</a>
+</h3>
+<h3 class="topic">
+<a name="54h8ki7kro8bklna7dserg5jns">&nbsp;&nbsp;&nbsp;Remove an event handler.</a>
+</h3>
+<h3 class="topic">
+<a name="6l30kf6q46v6lc6uqothrmckhb">&nbsp;&nbsp;.on()</a>
+</h3>
+<h3 class="topic">
+<a name="1a7ss0b83mgo7u50e4fsq01j7d">&nbsp;&nbsp;&nbsp;Attach an event handler function for one or more events to the selected elements.</a>
+</h3>
+<h3 class="topic">
+<a name="3fju66de1bqofkc1nkg05fitd5">&nbsp;&nbsp;.one()</a>
+</h3>
+<h3 class="topic">
+<a name="5irlichocm31um9qkl8smi88nh">&nbsp;&nbsp;&nbsp;Attach a handler to an event for the elements. The handler is executed at most once per element.</a>
+</h3>
+<h3 class="topic">
+<a name="674jlabfp2m321bvn4ehgqr57k">&nbsp;&nbsp;.ready()</a>
+</h3>
+<h3 class="topic">
+<a name="65n9js5qvdmc4h7q59jq01edpl">&nbsp;&nbsp;&nbsp;Specify a function to execute when the DOM is fully loaded.</a>
+</h3>
+<h3 class="topic">
+<a name="46kl8oiselhpao37j1kjs8lf41">&nbsp;&nbsp;.trigger()</a>
+</h3>
+<h3 class="topic">
+<a name="1bbv5takifgk460rsaf15794dj">&nbsp;&nbsp;&nbsp;Execute all handlers and behaviors attached to the matched elements for the given event type.</a>
+</h3>
+<h3 class="topic">
+<a name="4mjagem0ol5i11n6apkq674c2q">&nbsp;&nbsp;.triggerHandler()</a>
+</h3>
+<h3 class="topic">
+<a name="7f2vhffrct36ovosirsbk9bdk9">&nbsp;&nbsp;&nbsp;Execute all handlers attached to an element for an event.</a>
+</h3>
+<h3 class="topic">
+<a name="10h6c47qr9bg4b89e0g8dusk0n">&nbsp;&nbsp;.unbind()</a>
+</h3>
+<h3 class="topic">
+<a name="2pgovlvjorg3gdfsqmqbrmgnc7">&nbsp;&nbsp;&nbsp;Remove a previously-attached event handler from the elements.</a>
+</h3>
+<h3 class="topic">
+<a name="4cibtf3nb35dslq4jqpvgg0mei">&nbsp;&nbsp;&nbsp;Utilities</a>
+</h3>
+<h3 class="topic">
+<a name="7h5ur86jdqk2ji64bd1p9jntfe">&nbsp;&nbsp;&nbsp;&nbsp;.undelegate()</a>
+</h3>
+<h3 class="topic">
+<a name="440ijorjf9leumhkvf4hdvfrm0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remove a handler from the event for all elements which match the current selector, based upon a specific set of root elements.</a>
+</h3>
+<h3 class="topic">
+<a name="421rclhvj9opdl06087cdop055">&nbsp;Event Object</a>
+</h3>
+<h3 class="topic">
+<a name="7gt30bdss9fio6b4q33d3jf2an">&nbsp;&nbsp;event.currentTarget</a>
+</h3>
+<h3 class="topic">
+<a name="0k400mpdbabkf135fkcaldngqe">&nbsp;&nbsp;&nbsp;The current DOM element within the event bubbling phase.</a>
+</h3>
+<h3 class="topic">
+<a name="7qinajjge9vtg28gpb86ggv9oe">&nbsp;&nbsp;event.data</a>
+</h3>
+<h3 class="topic">
+<a name="7gurbct1srsk858obdh6f7ni0i">&nbsp;&nbsp;&nbsp;An optional object of data passed to an event method when the current executing handler is bound.</a>
+</h3>
+<h3 class="topic">
+<a name="0a7o48prbl93arhabenmj8hn97">&nbsp;&nbsp;event.isDefaultPrevented()</a>
+</h3>
+<h3 class="topic">
+<a name="4v95gffiua32l4rdab2va5tco9">&nbsp;&nbsp;&nbsp;Returns whether event.preventDefault() was ever called on this event object.</a>
+</h3>
+<h3 class="topic">
+<a name="6aft0uirfin5fn2t09hja37e0f">&nbsp;&nbsp;event.isImmediatePropagationStopped()</a>
+</h3>
+<h3 class="topic">
+<a name="7aga8vs5068ngmmdqr6hkejrsa">&nbsp;&nbsp;&nbsp;Returns whether event.stopImmediatePropagation() was ever called on this event object.</a>
+</h3>
+<h3 class="topic">
+<a name="12uph9qtcabjeu2hnhgvjvmr9p">&nbsp;&nbsp;event.isPropagationStopped()</a>
+</h3>
+<h3 class="topic">
+<a name="6pa5huce7ar8i5u36ibmss1bms">&nbsp;&nbsp;&nbsp;Returns whether event.stopPropagation() was ever called on this event object.</a>
+</h3>
+<h3 class="topic">
+<a name="1sp1v42um0slotfijvmbef8qch">&nbsp;&nbsp;event.metaKey</a>
+</h3>
+<h3 class="topic">
+<a name="5n75md0ivj5t8hppvcp9h9ne00">&nbsp;&nbsp;&nbsp;Indicates whether the META key was pressed when the event fired.</a>
+</h3>
+<h3 class="topic">
+<a name="40749vcccueib6dg40d7oina73">&nbsp;&nbsp;event.namespace</a>
+</h3>
+<h3 class="topic">
+<a name="0c4bv4r96ceged265fe10h35cr">&nbsp;&nbsp;&nbsp;The namespace specified when the event was triggered.</a>
+</h3>
+<h3 class="topic">
+<a name="4o755e74040a8dq3f4fih7fpmi">&nbsp;&nbsp;event.pageX</a>
+</h3>
+<h3 class="topic">
+<a name="51sr3j5ll0rumev866mlpmm19j">&nbsp;&nbsp;&nbsp;The mouse position relative to the left edge of the document.</a>
+</h3>
+<h3 class="topic">
+<a name="3cugu8hinrgihcvjojamm4fa9t">&nbsp;&nbsp;event.pageY</a>
+</h3>
+<h3 class="topic">
+<a name="3vsvt95dj91972ifck4tan9kq0">&nbsp;&nbsp;&nbsp;The mouse position relative to the top edge of the document.</a>
+</h3>
+<h3 class="topic">
+<a name="16c8tq4lg3peagoqfej867a51e">&nbsp;&nbsp;event.preventDefault()</a>
+</h3>
+<h3 class="topic">
+<a name="7fj3qdamq0glt6quano624ft6m">&nbsp;&nbsp;&nbsp;If this method is called, the default action of the event will not be triggered.</a>
+</h3>
+<h3 class="topic">
+<a name="1eqsbrbq310hgqb4j42801565h">&nbsp;&nbsp;event.relatedTarget</a>
+</h3>
+<h3 class="topic">
+<a name="3q2dm0c65djinevfruire23vuh">&nbsp;&nbsp;&nbsp;The other DOM element involved in the event, if any.</a>
+</h3>
+<h3 class="topic">
+<a name="1eihr7qtjl0g9emqtrj02jks9l">&nbsp;&nbsp;event.result</a>
+</h3>
+<h3 class="topic">
+<a name="79kchsj0vnaeshsq8ru5tj3u6m">&nbsp;&nbsp;&nbsp;The last value returned by an event handler that was triggered by this event, unless the value was undefined.</a>
+</h3>
+<h3 class="topic">
+<a name="0eaogtcco36p2n12jievbe3vi4">&nbsp;&nbsp;event.stopImmediatePropagation()</a>
+</h3>
+<h3 class="topic">
+<a name="25bcfa6s3mie0apirp6mv6arsp">&nbsp;&nbsp;&nbsp;Keeps the rest of the handlers from being executed and prevents the event from bubbling up the DOM tree.</a>
+</h3>
+<h3 class="topic">
+<a name="7oslfdj5k78f1g62mefhpafqm6">&nbsp;&nbsp;event.stopPropagation()</a>
+</h3>
+<h3 class="topic">
+<a name="6njpcnhtevh9moij6t3d13vsp6">&nbsp;&nbsp;&nbsp;Prevents the event from bubbling up the DOM tree, preventing any parent handlers from being notified of the event.</a>
+</h3>
+<h3 class="topic">
+<a name="2kl574eks6eccrf704hcaq498m">&nbsp;&nbsp;event.target</a>
+</h3>
+<h3 class="topic">
+<a name="18n056opsp8vreerj027i9vlpk">&nbsp;&nbsp;&nbsp;The DOM element that initiated the event.</a>
+</h3>
+<h3 class="topic">
+<a name="6c6547knuqn10tp6ghhsuj5ecj">&nbsp;&nbsp;event.timeStamp</a>
+</h3>
+<h3 class="topic">
+<a name="01clg8mmo7fvsjfp7oq30pkk5d">&nbsp;&nbsp;&nbsp;The difference in milliseconds between the time the browser created the event and January 1, 1970.</a>
+</h3>
+<h3 class="topic">
+<a name="29pkv75ro5eung44pb22jd2qse">&nbsp;&nbsp;event.type</a>
+</h3>
+<h3 class="topic">
+<a name="3bcv4en9ethjgil74vgkqk9ofo">&nbsp;&nbsp;&nbsp;Describes the nature of the event.</a>
+</h3>
+<h3 class="topic">
+<a name="7j2kks0uc2v9avrmerp16u6ect">&nbsp;&nbsp;event.which</a>
+</h3>
+<h3 class="topic">
+<a name="5f2msiamrfkn1r1l4s0rf827m1">&nbsp;&nbsp;&nbsp;For key or mouse events, this property indicates the specific key or button that was pressed.</a>
+</h3>
+<h3 class="topic">
+<a name="1jg9m5lc8gklutn6m1v9no78m9">&nbsp;&nbsp;jQuery.proxy()</a>
+</h3>
+<h3 class="topic">
+<a name="2mtbv59knu7fofkafovqddlh99">&nbsp;&nbsp;&nbsp;Takes a function and returns a new one that will always have a particular context.</a>
+</h3>
+<h3 class="topic">
+<a name="5juh6a72o8ppuetpnedm55fi16">&nbsp;Form Events</a>
+</h3>
+<h3 class="topic">
+<a name="192i70f7gdjmknl9gc261kca5t">&nbsp;&nbsp;Forms</a>
+</h3>
+<h3 class="topic">
+<a name="2r9hg2kft9aqksghfh9hdlspli">&nbsp;&nbsp;&nbsp;.blur()</a>
+</h3>
+<h3 class="topic">
+<a name="1h0rcc75dcnjqu3ki08vsvtq48">&nbsp;&nbsp;&nbsp;&nbsp;Bind an event handler to the 'blur' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="2lug2v4fr9u8bjghbr9rerv64s">&nbsp;&nbsp;&nbsp;.change()</a>
+</h3>
+<h3 class="topic">
+<a name="5n0uigvj6b73021hn2cac4s418">&nbsp;&nbsp;&nbsp;&nbsp;Bind an event handler to the 'change' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="0aejh42ga64fv532dirl7pquaj">&nbsp;&nbsp;&nbsp;.focus()</a>
+</h3>
+<h3 class="topic">
+<a name="24ohoi164ahv0med98r8u62sln">&nbsp;&nbsp;&nbsp;&nbsp;Bind an event handler to the 'focus' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="12vtf4ueoltb5m7n1168mu34ff">&nbsp;&nbsp;&nbsp;.focusin()</a>
+</h3>
+<h3 class="topic">
+<a name="52rd89t3c7h7g2h12iio1h8qnh">&nbsp;&nbsp;&nbsp;&nbsp;Bind an event handler to the 'focusin' event.</a>
+</h3>
+<h3 class="topic">
+<a name="470kmkaoei599fufifh0qgu7mu">&nbsp;&nbsp;&nbsp;.select()</a>
+</h3>
+<h3 class="topic">
+<a name="6oe582509gr0119l7mo95cbpvd">&nbsp;&nbsp;&nbsp;&nbsp;Bind an event handler to the 'select' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="31of6n4a7hoi5fdtvltdh189v6">&nbsp;&nbsp;event.delegateTarget</a>
+</h3>
+<h3 class="topic">
+<a name="1gnthlj20it20hm5ba7un29l23">&nbsp;&nbsp;&nbsp;The element where the currently-called jQuery event handler was attached.</a>
+</h3>
+<h3 class="topic">
+<a name="0pq4eqqhlcbvblj9748jq1crv5">&nbsp;Keyboard Events</a>
+</h3>
+<h3 class="topic">
+<a name="1jk38f9u99sus6s5ahgc607hs8">&nbsp;&nbsp;.keydown()</a>
+</h3>
+<h3 class="topic">
+<a name="2pmfi2hbiltb5nkhrvitikccn2">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'keydown' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="5a4kgt2ppivtg814ak0u0i44jc">&nbsp;&nbsp;.keypress()</a>
+</h3>
+<h3 class="topic">
+<a name="0addk5h5t6q3cuimn5l5qaneqe">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'keypress' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="4v4icvpa7moeo00h7pg9kgc87a">&nbsp;&nbsp;&nbsp;Mouse Events</a>
+</h3>
+<h3 class="topic">
+<a name="2k0k2pat8fsdo7dnlrfoevhjcr">&nbsp;&nbsp;&nbsp;&nbsp;.keyup()</a>
+</h3>
+<h3 class="topic">
+<a name="2poonodk50qlpu1tcri1hc69il">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bind an event handler to the 'keyup' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="515f49rv87udl38q4raqf5fo3m">&nbsp;&nbsp;.submit()</a>
+</h3>
+<h3 class="topic">
+<a name="32306jsd8amu7l13khh14subhg">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'submit' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="4pmc83892v4fbn6d1255p3sbqh">&nbsp;Mouse Events</a>
+</h3>
+<h3 class="topic">
+<a name="43ji5t0r0br2lc48jbkgtt2r8p">&nbsp;&nbsp;.click()</a>
+</h3>
+<h3 class="topic">
+<a name="155sp5u84bthss8ddaopcjl88c">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'click' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="66r2uu8iecqflee1iunean3ta0">&nbsp;&nbsp;.dblclick()</a>
+</h3>
+<h3 class="topic">
+<a name="3gfge20pfpqibfi9532d6s4vvb">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'dblclick' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="3istrifoojsfvavn6f53pijdh8">&nbsp;&nbsp;.focusout()</a>
+</h3>
+<h3 class="topic">
+<a name="70ak3pta2urnc234cg1q6gc110">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'focusout' JavaScript event.</a>
+</h3>
+<h3 class="topic">
+<a name="0h0vemn3cogblkp906lophblla">&nbsp;&nbsp;.hover()</a>
+</h3>
+<h3 class="topic">
+<a name="10s8ghbng6k5n8vrtbi6as1dso">&nbsp;&nbsp;&nbsp;Bind one or two handlers to the matched elements, to be executed when the mouse pointer enters and leaves the elements.</a>
+</h3>
+<h3 class="topic">
+<a name="3d59okln2f9l62tj7sbtprums3">&nbsp;&nbsp;.mousedown()</a>
+</h3>
+<h3 class="topic">
+<a name="0p8h310f155ant5apa04h07an6">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'mousedown' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="4dh2nef9tu180gegapu87fcb6q">&nbsp;&nbsp;.mouseenter()</a>
+</h3>
+<h3 class="topic">
+<a name="7j5aorce14fbebqdp8asp0ku2q">&nbsp;&nbsp;&nbsp;Bind an event handler to be fired when the mouse enters an element, or trigger that handler on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="5r5gfsm0a9u5tcgvcbu2gpeoca">&nbsp;&nbsp;.mouseleave()</a>
+</h3>
+<h3 class="topic">
+<a name="0ocaujd1nlonc606pk7o0gmall">&nbsp;&nbsp;&nbsp;Bind an event handler to be fired when the mouse leaves an element, or trigger that handler on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="41grteug423gfq56obmo5m9qh3">&nbsp;&nbsp;.mousemove()</a>
+</h3>
+<h3 class="topic">
+<a name="1gc6hpc6r2crhgo1c45c6g9p09">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'mousemove' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="56v537hu3s6tpgaolu6pkcp2v4">&nbsp;&nbsp;.mouseout()</a>
+</h3>
+<h3 class="topic">
+<a name="15rgu78b2qfip57me9l48oqqld">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'mouseout' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h3 class="topic">
+<a name="1ldpvqnvoqbc4q6ljtt0ac6b15">&nbsp;&nbsp;.mouseover()</a>
+</h3>
+<h3 class="topic">
+<a name="10af67obi595v09gtd8k6qeuqg">&nbsp;&nbsp;&nbsp;Bind an event handler to the 'mouseover' JavaScript event, or trigger that event on an element.</a>
+</h3>
+<h2 class="topic">
+<a name="3vp9ihi15a0v598339396rlo63">Utilities</a>
+</h2>
+<h3 class="topic">
+<a name="5bpsk1cr9ugeuj4ja9rkkjubom">&nbsp;jQuery.contains()</a>
+</h3>
+<h3 class="topic">
+<a name="2rr4skjf6o0tr0lrloe8u0n3ov">&nbsp;&nbsp;Check to see if a DOM element is a descendant of another DOM element.</a>
+</h3>
+<h3 class="topic">
+<a name="6nhc1jvksuo04lmb6ckaso5a9k">&nbsp;jQuery.each()</a>
+</h3>
+<h3 class="topic">
+<a name="3e3v07ciikspdge8o37aks0pg0">&nbsp;&nbsp;A generic iterator function, which can be used to seamlessly iterate over both objects and arrays. Arrays and array-like objects with a length property (such as a function's arguments object) are iterated by numeric index, from 0 to l...</a>
+</h3>
+<h3 class="topic">
+<a name="441k2q2o236b0pp3djigoi0q09">&nbsp;jQuery.extend()</a>
+</h3>
+<h3 class="topic">
+<a name="7ett8misemu2epkaoph2chd2bt">&nbsp;&nbsp;Merge the contents of two or more objects together into the first object.</a>
+</h3>
+<h3 class="topic">
+<a name="1c52d0c59gmskntae79dmi1vdi">&nbsp;jQuery.fn.extend()</a>
+</h3>
+<h3 class="topic">
+<a name="0abq4cl2e0u3otfi7nov5q8ssk">&nbsp;&nbsp;Merge the contents of an object onto the jQuery prototype to provide new jQuery instance methods.</a>
+</h3>
+<h3 class="topic">
+<a name="4nve7a7ve69v61n8f7l7in8f51">&nbsp;jQuery.globalEval()</a>
+</h3>
+<h3 class="topic">
+<a name="55m5e1e5lseh7i3u6hba0nk6v4">&nbsp;&nbsp;Execute some JavaScript code globally.</a>
+</h3>
+<h3 class="topic">
+<a name="2d1imp0rkc510aaai8o1rrcsvm">&nbsp;jQuery.grep()</a>
+</h3>
+<h3 class="topic">
+<a name="382vjui3t3mf2ch95gv4rouor5">&nbsp;&nbsp;Finds the elements of an array which satisfy a filter function. The original array is not affected.</a>
+</h3>
+<h3 class="topic">
+<a name="0m2cu1lv633cborqnb8h06vb17">&nbsp;jQuery.inArray()</a>
+</h3>
+<h3 class="topic">
+<a name="1r70s2vadmabv5qc32malb6vok">&nbsp;&nbsp;Search for a specified value within an array and return its index (or -1 if not found).</a>
+</h3>
+<h3 class="topic">
+<a name="7thjrkgve0ju6o90vraqeul2jk">&nbsp;jQuery.isArray()</a>
+</h3>
+<h3 class="topic">
+<a name="28p5o26lvfpm4b50m473c63nen">&nbsp;&nbsp;Determine whether the argument is an array.</a>
+</h3>
+<h3 class="topic">
+<a name="2a9e4d61hkt597l9i194lgb0ak">&nbsp;jQuery.isEmptyObject()</a>
+</h3>
+<h3 class="topic">
+<a name="7n3fes5k2cihudc6djbruopo1i">&nbsp;&nbsp;Check to see if an object is empty (contains no enumerable properties).</a>
+</h3>
+<h3 class="topic">
+<a name="460e1a3r3v87fa28mb8f3fol6m">&nbsp;jQuery.isFunction()</a>
+</h3>
+<h3 class="topic">
+<a name="7hlkafi216r2khm6kpkeb72t31">&nbsp;&nbsp;Determine if the argument passed is a Javascript function object.</a>
+</h3>
+<h3 class="topic">
+<a name="3prvi4hgo4i436jtdapm6k1v1e">&nbsp;jQuery.isNumeric()</a>
+</h3>
+<h3 class="topic">
+<a name="11n4ehed3p2ech6nl71hgmas5p">&nbsp;&nbsp;Determines whether its argument is a number.</a>
+</h3>
+<h3 class="topic">
+<a name="1e1khiuobi3n8oamn2hvdk1ink">&nbsp;jQuery.isPlainObject()</a>
+</h3>
+<h3 class="topic">
+<a name="5doea5ji9r83qot1lempcqfk3e">&nbsp;&nbsp;Check to see if an object is a plain object (created using '{}' or 'new Object').</a>
+</h3>
+<h3 class="topic">
+<a name="7d9ql3dmonfime7mrcs973vsu3">&nbsp;jQuery.isWindow()</a>
+</h3>
+<h3 class="topic">
+<a name="0163c8evdaogq9q2ktqav2vgon">&nbsp;&nbsp;Determine whether the argument is a window.</a>
+</h3>
+<h3 class="topic">
+<a name="1vhfoi31hjn26beobguj1hsoq9">&nbsp;jQuery.isXMLDoc()</a>
+</h3>
+<h3 class="topic">
+<a name="63pgrvagsp2eb92ht1vk58124d">&nbsp;&nbsp;Check to see if a DOM node is within an XML document (or is an XML document).</a>
+</h3>
+<h3 class="topic">
+<a name="7dbg51bti2lmen0gkhk1b37q7g">&nbsp;jQuery.makeArray()</a>
+</h3>
+<h3 class="topic">
+<a name="6ucgk6qkm3032vn47f4nu74a07">&nbsp;&nbsp;Convert an array-like object into a true JavaScript array.</a>
+</h3>
+<h3 class="topic">
+<a name="00kerds0ajim0bukja7pj15clj">&nbsp;jQuery.map()</a>
+</h3>
+<h3 class="topic">
+<a name="3r9ttt67grp6uqqg1cdm8gpusa">&nbsp;&nbsp;Translate all items in an array or object to new array of items.</a>
+</h3>
+<h3 class="topic">
+<a name="60201f5eqfpd4pft980a764964">&nbsp;jQuery.merge()</a>
+</h3>
+<h3 class="topic">
+<a name="0202d82n0qpv1bdhjpn424k18k">&nbsp;&nbsp;Merge the contents of two arrays together into the first array.</a>
+</h3>
+<h3 class="topic">
+<a name="5onlfjiuiko6pieb2dnemanv8j">&nbsp;jQuery.noop()</a>
+</h3>
+<h3 class="topic">
+<a name="0tir2qi0gi1dt6je9asraf2a88">&nbsp;&nbsp;An empty function.</a>
+</h3>
+<h3 class="topic">
+<a name="5gml5ipkvr58ue19cd0feidknh">&nbsp;jQuery.now()</a>
+</h3>
+<h3 class="topic">
+<a name="5kdld4ih3q5u3ldp8nomum6bms">&nbsp;&nbsp;Return a number representing the current time.</a>
+</h3>
+<h3 class="topic">
+<a name="5hh1od16tfbcg7bk6v5pv8tmhq">&nbsp;jQuery.parseHTML()</a>
+</h3>
+<h3 class="topic">
+<a name="7hlobn75q2g4rksncqc6umh4o2">&nbsp;&nbsp;Parses a string into an array of DOM nodes.</a>
+</h3>
+<h3 class="topic">
+<a name="04rd88vpvor1mt9pt3hkmes5mu">&nbsp;jQuery.parseJSON()</a>
+</h3>
+<h3 class="topic">
+<a name="1trplflc11cga652h96o806gk2">&nbsp;&nbsp;Takes a well-formed JSON string and returns the resulting JavaScript object.</a>
+</h3>
+<h3 class="topic">
+<a name="1iulq0i2ug42e321nlq71n5hdd">&nbsp;jQuery.parseXML()</a>
+</h3>
+<h3 class="topic">
+<a name="1vdivsh175j9ou6est8kpjs36i">&nbsp;&nbsp;Parses a string into an XML document.</a>
+</h3>
+<h3 class="topic">
+<a name="04age5177ckdifmcotl5gjkbds">&nbsp;jQuery.trim()</a>
+</h3>
+<h3 class="topic">
+<a name="738n96ai637d665doj97ifs0em">&nbsp;&nbsp;Remove the whitespace from the beginning and end of a string.</a>
+</h3>
+<h3 class="topic">
+<a name="4371piss8luj6u8tpdr9i29fe0">&nbsp;jQuery.type()</a>
+</h3>
+<h3 class="topic">
+<a name="2gcg4nosl7b07r3i3rccft768r">&nbsp;&nbsp;Determine the internal JavaScript [[Class]] of an object.</a>
+</h3>
+<h3 class="topic">
+<a name="7o6t66n7bg4qftpplpf9jq2vi2">&nbsp;jQuery.unique()</a>
+</h3>
+<h3 class="topic">
+<a name="7fbj7m3dk5bc9tvke21cgs5bdh">&nbsp;&nbsp;Sorts an array of DOM elements, in place, with the duplicates removed. Note that this only works on arrays of DOM elements, not strings or numbers.</a>
+</h3>
+<h2 class="topic">
+<a name="1hjjqoo1kihs65g5p6f5fikb4r">Traversing</a>
+</h2>
+<h3 class="topic">
+<a name="2adkbconfsqqgkohi1p1tbnnvd">&nbsp;.siblings()</a>
+</h3>
+<h3 class="topic">
+<a name="6patujedutojilblmtpcoecvce">&nbsp;&nbsp;Get the siblings of each element in the set of matched elements, optionally filtered by a selector.</a>
+</h3>
+<h3 class="topic">
+<a name="259lnea5nhqiqctphjntb1d82a">&nbsp;Filtering</a>
+</h3>
+<h3 class="topic">
+<a name="7taqmhccm6a2qrp63l3q9s5uvi">&nbsp;&nbsp;.eq()</a>
+</h3>
+<h3 class="topic">
+<a name="7g2800lt5u9i0k87u84nhn4gb6">&nbsp;&nbsp;&nbsp;Reduce the set of matched elements to the one at the specified index.</a>
+</h3>
+<h3 class="topic">
+<a name="0l82p2kv74a88j2o0uoca1epnd">&nbsp;&nbsp;.filter()</a>
+</h3>
+<h3 class="topic">
+<a name="75b9nj2749km0mu94n7t6aqk5e">&nbsp;&nbsp;&nbsp;Reduce the set of matched elements to those that match the selector or pass the function's test.</a>
+</h3>
+<h3 class="topic">
+<a name="6s941qfmtq8ffp5m202u0jg9mv">&nbsp;&nbsp;.first()</a>
+</h3>
+<h3 class="topic">
+<a name="7r37adht4535il1nb4m3vgdblh">&nbsp;&nbsp;&nbsp;Reduce the set of matched elements to the first in the set.</a>
+</h3>
+<h3 class="topic">
+<a name="29pcjbel070pqg6q5ssnj4h253">&nbsp;&nbsp;.has()</a>
+</h3>
+<h3 class="topic">
+<a name="2d5m0ka7qfk6hihspgk6lfcc7t">&nbsp;&nbsp;&nbsp;Reduce the set of matched elements to those that have a descendant that matches the selector or DOM element.</a>
+</h3>
+<h3 class="topic">
+<a name="4mpet3qaojthge4fga2u8ge2ef">&nbsp;&nbsp;.is()</a>
+</h3>
+<h3 class="topic">
+<a name="1jta74d0phachnfodbhcsfhnt8">&nbsp;&nbsp;&nbsp;Check the current matched set of elements against a selector, element, or jQuery object and return true if at least one of these elements matches the given arguments.</a>
+</h3>
+<h3 class="topic">
+<a name="1rib0qdp82m5ut4pq4u07q3dst">&nbsp;&nbsp;.last()</a>
+</h3>
+<h3 class="topic">
+<a name="27lokqshbt6oq001gg1nc5pf72">&nbsp;&nbsp;&nbsp;Reduce the set of matched elements to the final one in the set.</a>
+</h3>
+<h3 class="topic">
+<a name="7j6op2ci16corr7logc8m7vart">&nbsp;&nbsp;.map()</a>
+</h3>
+<h3 class="topic">
+<a name="31duifnimlh9js5c2uc7r1k8g4">&nbsp;&nbsp;&nbsp;Pass each element in the current matched set through a function, producing a new jQuery object containing the return values.</a>
+</h3>
+<h3 class="topic">
+<a name="5l676vmm28agjaevbg53r1h3j2">&nbsp;&nbsp;.slice()</a>
+</h3>
+<h3 class="topic">
+<a name="4q9d7uvds1gc3vuco1d0vptevu">&nbsp;&nbsp;&nbsp;Reduce the set of matched elements to a subset specified by a range of indices.</a>
+</h3>
+<h3 class="topic">
+<a name="5rt8q9amvvq1i0skriniss4e2f">&nbsp;Miscellaneous Traversing</a>
+</h3>
+<h3 class="topic">
+<a name="2b34903s5qeoq3ht6daag9e29e">&nbsp;&nbsp;.add()</a>
+</h3>
+<h3 class="topic">
+<a name="3u995aflfs0t2oiquab01nspm2">&nbsp;&nbsp;&nbsp;Add elements to the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="0duv5f577ug3m2su3hc13cqvmq">&nbsp;&nbsp;.addBack()</a>
+</h3>
+<h3 class="topic">
+<a name="5m976pf32tn15vk12diagciufj">&nbsp;&nbsp;&nbsp;Add the previous set of elements on the stack to the current set, optionally filtered by a selector.</a>
+</h3>
+<h3 class="topic">
+<a name="5qrdofe7qtji1e4u1r8efekbvr">&nbsp;&nbsp;.contents()</a>
+</h3>
+<h3 class="topic">
+<a name="2ug50t117psma835qd8mf72lgc">&nbsp;&nbsp;&nbsp;Get the children of each element in the set of matched elements, including text and comment nodes.</a>
+</h3>
+<h3 class="topic">
+<a name="3a4rt2e7ma5d59bsaf2lal05o3">&nbsp;&nbsp;.not()</a>
+</h3>
+<h3 class="topic">
+<a name="5dn8bd60tkfo3o1pf1r14lujud">&nbsp;&nbsp;&nbsp;Remove elements from the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="3n5o3juvbcv9tsgbpsvdce9r66">&nbsp;Tree Traversal</a>
+</h3>
+<h3 class="topic">
+<a name="0tfsaip3ebufu9e2o934o6ia28">&nbsp;&nbsp;.children()</a>
+</h3>
+<h3 class="topic">
+<a name="3oqd8d8ovelqcjnovfqnae34e8">&nbsp;&nbsp;&nbsp;Get the children of each element in the set of matched elements, optionally filtered by a selector.</a>
+</h3>
+<h3 class="topic">
+<a name="36l07pbpp9ot0qf45m50ei6b4v">&nbsp;&nbsp;.closest()</a>
+</h3>
+<h3 class="topic">
+<a name="281ndp0d6dmbaf2b8qkkrqi43l">&nbsp;&nbsp;&nbsp;For each element in the set, get the first element that matches the selector by testing the element itself and traversing up through its ancestors in the DOM tree.</a>
+</h3>
+<h3 class="topic">
+<a name="43u3aee5tk1iad4te19ggaslfl">&nbsp;&nbsp;.end()</a>
+</h3>
+<h3 class="topic">
+<a name="7vfflh9559hkuijd7af8m90c12">&nbsp;&nbsp;&nbsp;End the most recent filtering operation in the current chain and return the set of matched elements to its previous state.</a>
+</h3>
+<h3 class="topic">
+<a name="5bg5lrcokqrs27ghlni21oh3ns">&nbsp;&nbsp;.find()</a>
+</h3>
+<h3 class="topic">
+<a name="7muv1ogqknmj06bb1m4ahb37eo">&nbsp;&nbsp;&nbsp;Get the descendants of each element in the current set of matched elements, filtered by a selector, jQuery object, or element.</a>
+</h3>
+<h3 class="topic">
+<a name="2ogq6a4it8pfgjma4jgrb5q06f">&nbsp;&nbsp;.next()</a>
+</h3>
+<h3 class="topic">
+<a name="6744gh3mbdpkqmdro1r32br91n">&nbsp;&nbsp;&nbsp;Get the immediately following sibling of each element in the set of matched elements. If a selector is provided, it retrieves the next sibling only if it matches that selector.</a>
+</h3>
+<h3 class="topic">
+<a name="22n5icr6kk585vnqiokbidcug0">&nbsp;&nbsp;.nextAll()</a>
+</h3>
+<h3 class="topic">
+<a name="2au9ua0i0nco32q23cn40sl0nv">&nbsp;&nbsp;&nbsp;Get all following siblings of each element in the set of matched elements, optionally filtered by a selector.</a>
+</h3>
+<h3 class="topic">
+<a name="34umcfgkahenedi64kuat6jr8k">&nbsp;&nbsp;.nextUntil()</a>
+</h3>
+<h3 class="topic">
+<a name="4o98atsmn13sovmgo1os2i2i8f">&nbsp;&nbsp;&nbsp;Get all following siblings of each element up to but not including the element matched by the selector, DOM node, or jQuery object passed.</a>
+</h3>
+<h3 class="topic">
+<a name="7lom733e2rh45je1lr6qjijte8">&nbsp;&nbsp;.parent()</a>
+</h3>
+<h3 class="topic">
+<a name="0bgir1ntec9qn53gjfjqu14lf3">&nbsp;&nbsp;&nbsp;Get the parent of each element in the current set of matched elements, optionally filtered by a selector.</a>
+</h3>
+<h3 class="topic">
+<a name="3furs1uk8cs8hrbobligqpevmp">&nbsp;&nbsp;.parents()</a>
+</h3>
+<h3 class="topic">
+<a name="1q01596fmu1htv11509das8mv1">&nbsp;&nbsp;&nbsp;Get the ancestors of each element in the current set of matched elements, optionally filtered by a selector.</a>
+</h3>
+<h3 class="topic">
+<a name="4a4ak51ov6om139h69dgq70upn">&nbsp;&nbsp;.parentsUntil()</a>
+</h3>
+<h3 class="topic">
+<a name="00n4k6b6rco77tgvpkq8u002nv">&nbsp;&nbsp;&nbsp;Get the ancestors of each element in the current set of matched elements, up to but not including the element matched by the selector, DOM node, or jQuery object.</a>
+</h3>
+<h3 class="topic">
+<a name="218qfhasvacvstdg172annvb6k">&nbsp;&nbsp;.prev()</a>
+</h3>
+<h3 class="topic">
+<a name="3mq0oh1bri3h3kpab5a0f0ce4g">&nbsp;&nbsp;&nbsp;Get the immediately preceding sibling of each element in the set of matched elements, optionally filtered by a selector.</a>
+</h3>
+<h3 class="topic">
+<a name="6b9lmd8hf1vhsvnt2vc3pmqvrm">&nbsp;&nbsp;.prevAll()</a>
+</h3>
+<h3 class="topic">
+<a name="7j42iloo6ugntcm2acrjkllca9">&nbsp;&nbsp;&nbsp;Get all preceding siblings of each element in the set of matched elements, optionally filtered by a selector.</a>
+</h3>
+<h3 class="topic">
+<a name="52kn2dnnlgohq4b63oeu79001s">&nbsp;&nbsp;.prevUntil()</a>
+</h3>
+<h3 class="topic">
+<a name="0ipn0v5kv003chfj46fj49h465">&nbsp;&nbsp;&nbsp;Get all preceding siblings of each element up to but not including the element matched by the selector, DOM node, or jQuery object.</a>
+</h3>
+<h2 class="topic">
+<a name="3aigsgurn814ecnq65khp9u6ga">Selectors</a>
+</h2>
+<h3 class="topic">
+<a name="5pgdf024vj9s9526b7h51l0e9t">&nbsp;Attribute</a>
+</h3>
+<h3 class="topic">
+<a name="75lk0c8mv2p072b06mfckgbov3">&nbsp;&nbsp;"Attribute Contains Prefix Selector [name|=""va...</a>
+</h3>
+<h3 class="topic">
+<a name="708mfilltsi5c9im39dur1bvbh">&nbsp;&nbsp;&nbsp;Selects elements that have the specified attribute with a value either equal to a given string or starting with that string followed by a hyphen...</a>
+</h3>
+<h3 class="topic">
+<a name="03n7io3pf9djvb4cne2o80ceni">&nbsp;&nbsp;"Attribute Contains Selector [name*=""value""]"...</a>
+</h3>
+<h3 class="topic">
+<a name="7a1loriehe0rvr7l9easpsq3s2">&nbsp;&nbsp;&nbsp;Selects elements that have the specified attribute with a value containing the a given substring.</a>
+</h3>
+<h3 class="topic">
+<a name="260dp6fo00l8jhaei19e4vipsk">&nbsp;&nbsp;"Attribute Contains Word Selector [name~=""valu...</a>
+</h3>
+<h3 class="topic">
+<a name="343rdg6rfe6v9rk3pvqochereb">&nbsp;&nbsp;&nbsp;Selects elements that have the specified attribute with a value containing a given word, delimited by spaces.</a>
+</h3>
+<h3 class="topic">
+<a name="0l2n0d1au3utnqi52420v0u3jl">&nbsp;&nbsp;"Attribute Ends With Selector [name$=""value""]...</a>
+</h3>
+<h3 class="topic">
+<a name="1eraork6n00l08kddcigkvv952">&nbsp;&nbsp;&nbsp;Selects elements that have the specified attribute with a value ending exactly with a given string. The comparison is case sensitive.</a>
+</h3>
+<h3 class="topic">
+<a name="09nbfrsrao0vdiqfm5c1e5scil">&nbsp;&nbsp;"Attribute Equals Selector [name=""value""]"</a>
+</h3>
+<h3 class="topic">
+<a name="03gu7k82f99t2066mmsso7apnu">&nbsp;&nbsp;&nbsp;Selects elements that have the specified attribute with a value exactly equal to a certain value.</a>
+</h3>
+<h3 class="topic">
+<a name="7sqmv3f2dosfhq794tvd827st3">&nbsp;&nbsp;"Attribute Starts With Selector [name^=""value"...</a>
+</h3>
+<h3 class="topic">
+<a name="6q9bvtkf7avp9ke2lb58ufdnr7">&nbsp;&nbsp;&nbsp;Selects elements that have the specified attribute with a value beginning exactly with a given string.</a>
+</h3>
+<h3 class="topic">
+<a name="06unfjd9801n04pe1h833ovmgl">&nbsp;&nbsp;Has Attribute Selector [name]</a>
+</h3>
+<h3 class="topic">
+<a name="7cndqsbugf7a2rdn9qked5pfcq">&nbsp;&nbsp;&nbsp;Selects elements that have the specified attribute, with any value.</a>
+</h3>
+<h3 class="topic">
+<a name="40rfa7h9m00vgaiuqmdmnplhno">&nbsp;&nbsp;Selectors ~ jQuery Extensions</a>
+</h3>
+<h3 class="topic">
+<a name="5ke26o7i11i2qv219e6fbaueb0">&nbsp;&nbsp;&nbsp;"Multiple Attribute Selector [name=""value""][n...</a>
+</h3>
+<h3 class="topic">
+<a name="032pullcibc3p7n4sqkcpt0p4h">&nbsp;&nbsp;&nbsp;&nbsp;Matches elements that match all of the specified attribute filters.</a>
+</h3>
+<h3 class="topic">
+<a name="7ahu3juqmi2i6dl7h0aivf8h4i">&nbsp;Basic</a>
+</h3>
+<h3 class="topic">
+<a name="39h444ab084bnc6lnj9f0i2ggf">&nbsp;&nbsp;"Attribute Not Equal Selector [name!=""value""]...</a>
+</h3>
+<h3 class="topic">
+<a name="46c0825pgfe9up2vn141ffrfbj">&nbsp;&nbsp;&nbsp;Select elements that either don't have the specified attribute, or do have the specified attribute but not with a certain value.</a>
+</h3>
+<h3 class="topic">
+<a name="6a0av5velvobks3nmdoc3rcrn4">&nbsp;&nbsp;All Selector ('*')</a>
+</h3>
+<h3 class="topic">
+<a name="62r53m0vqjtkr7ehcldg23jg6a">&nbsp;&nbsp;&nbsp;Selects all elements.</a>
+</h3>
+<h3 class="topic">
+<a name="3vou2o0gffg71vg5k4dvobhdcd">&nbsp;&nbsp;Class Selector ('.class')</a>
+</h3>
+<h3 class="topic">
+<a name="0m6c71rffhc0aisrlt50u881ba">&nbsp;&nbsp;&nbsp;Selects all elements with the given class.</a>
+</h3>
+<h3 class="topic">
+<a name="114ks99pgm7jg2fj9liilimq8o">&nbsp;&nbsp;Element Selector ('element')</a>
+</h3>
+<h3 class="topic">
+<a name="1teia7cora566pcn93jfafgmom">&nbsp;&nbsp;&nbsp;Selects all elements with the given tag name.</a>
+</h3>
+<h3 class="topic">
+<a name="4a06ofe3gama2l3g85jaib9gfi">&nbsp;&nbsp;ID Selector ('#id')</a>
+</h3>
+<h3 class="topic">
+<a name="1e0kolitlo0qkd2sl74jcrqbvl">&nbsp;&nbsp;&nbsp;Selects a single element with the given id attribute.</a>
+</h3>
+<h3 class="topic">
+<a name="6idagnknhv8iarbddqiu46vkmj">&nbsp;Basic Filter</a>
+</h3>
+<h3 class="topic">
+<a name="137psf0f52u7uju5vkj6btea7h">&nbsp;&nbsp;:lang Selector</a>
+</h3>
+<h3 class="topic">
+<a name="2i4sq0bep04amdavm4912bq468">&nbsp;&nbsp;&nbsp;Selects all elements of the specified language.</a>
+</h3>
+<h3 class="topic">
+<a name="4luuccue89sn6o3jgkdueffn61">&nbsp;&nbsp;:not() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="548lh1iiartnmn44t5po2h8s5f">&nbsp;&nbsp;&nbsp;Selects all elements that do not match the given selector.</a>
+</h3>
+<h3 class="topic">
+<a name="1s3buiicpqjcdnihnh6qqkp5c3">&nbsp;&nbsp;:root Selector</a>
+</h3>
+<h3 class="topic">
+<a name="50lgdairpfq7v8r75troscu4dq">&nbsp;&nbsp;&nbsp;Selects the element that is the root of the document.</a>
+</h3>
+<h3 class="topic">
+<a name="0j5snbabht7vrkeptc6vml4a0c">&nbsp;&nbsp;Multiple Selector ('selector1, selector2, s...</a>
+</h3>
+<h3 class="topic">
+<a name="2vlcjvlke01np6f1bv7m5fv25g">&nbsp;&nbsp;&nbsp;Selects the combined results of all the specified selectors.</a>
+</h3>
+<h3 class="topic">
+<a name="2htvugorp529a4qov72iaa7pr9">&nbsp;&nbsp;Selectors ~ Form</a>
+</h3>
+<h3 class="topic">
+<a name="1qh7cp0l36usoo12o1l3k3lcgk">&nbsp;&nbsp;&nbsp;:target Selector</a>
+</h3>
+<h3 class="topic">
+<a name="3fqjpb4v310g9inhv8q0qsb89p">&nbsp;&nbsp;&nbsp;&nbsp;Selects the target element indicated by the fragment identifier of the document's URI.</a>
+</h3>
+<h3 class="topic">
+<a name="6a2lqlk77qd6j9njnohhvmo7r8">&nbsp;&nbsp;Selectors ~ jQuery Extensions</a>
+</h3>
+<h3 class="topic">
+<a name="18l3s026gb8cjc52d7kmffndu0">&nbsp;&nbsp;&nbsp;:animated Selector</a>
+</h3>
+<h3 class="topic">
+<a name="7971j91419m2fbfo0l6quq85p5">&nbsp;&nbsp;&nbsp;&nbsp;Select all elements that are in the progress of an animation at the time the selector is run.</a>
+</h3>
+<h3 class="topic">
+<a name="3j2haquj9nn7p3875qerdhei7o">&nbsp;&nbsp;&nbsp;:eq() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="5fg8r0qku5rp1hflm5896uiahn">&nbsp;&nbsp;&nbsp;&nbsp;Select the element at index n within the matched set.</a>
+</h3>
+<h3 class="topic">
+<a name="4b6fgb2mi6glae2u99rkt4gqnm">&nbsp;&nbsp;&nbsp;:even Selector</a>
+</h3>
+<h3 class="topic">
+<a name="3mnd3goj0hkic3klanikf0amg0">&nbsp;&nbsp;&nbsp;&nbsp;Selects even elements, zero-indexed. See also odd.</a>
+</h3>
+<h3 class="topic">
+<a name="763u0qhhpjcblmme181p3uh0j2">&nbsp;&nbsp;&nbsp;:first Selector</a>
+</h3>
+<h3 class="topic">
+<a name="6led98r7gkhd5u59k32ddlhkhn">&nbsp;&nbsp;&nbsp;&nbsp;Selects the first matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="20gjn1gm760iab55td3n851a71">&nbsp;&nbsp;&nbsp;:focus Selector</a>
+</h3>
+<h3 class="topic">
+<a name="57iikd9c79mbg11hirrdpqgf9f">&nbsp;&nbsp;&nbsp;&nbsp;Selects element if it is currently focused.</a>
+</h3>
+<h3 class="topic">
+<a name="4g5ephu4s0dkptf4fkbnhae758">&nbsp;&nbsp;&nbsp;:gt() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="05tsts298evbrgas4ppk9f19ab">&nbsp;&nbsp;&nbsp;&nbsp;Select all elements at an index greater than index within the matched set.</a>
+</h3>
+<h3 class="topic">
+<a name="0hi5r6kf5e5gsjpquurj4r1mss">&nbsp;&nbsp;&nbsp;:header Selector</a>
+</h3>
+<h3 class="topic">
+<a name="26phkf3otijmq44d2khoi2vrdu">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements that are headers, like h1, h2, h3 and so on.</a>
+</h3>
+<h3 class="topic">
+<a name="1qe24pamfpjhuo2ghs809pof5s">&nbsp;&nbsp;&nbsp;:last Selector</a>
+</h3>
+<h3 class="topic">
+<a name="05fq2eu40c9m5oh10qbnc3lmee">&nbsp;&nbsp;&nbsp;&nbsp;Selects the last matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="64air4abgl21gog87lg66df9t6">&nbsp;&nbsp;&nbsp;:lt() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="0qtontu3t1m3ttfh3ecmd8rcpm">&nbsp;&nbsp;&nbsp;&nbsp;Select all elements at an index less than index within the matched set.</a>
+</h3>
+<h3 class="topic">
+<a name="5a59b9fg9gu187020q9l1dso48">&nbsp;Child Filter</a>
+</h3>
+<h3 class="topic">
+<a name="4u5pn691kscnt74mt8d0bhevbg">&nbsp;&nbsp;:first-child Selector</a>
+</h3>
+<h3 class="topic">
+<a name="13pqkbmli6qkbpr1umvi10gp67">&nbsp;&nbsp;&nbsp;Selects all elements that are the first child of their parent.</a>
+</h3>
+<h3 class="topic">
+<a name="7a15vrqmgsdk8dhg1os8ugpdni">&nbsp;&nbsp;:first-of-type Selector</a>
+</h3>
+<h3 class="topic">
+<a name="59jdotqsjbhqeqqha8frc5mm14">&nbsp;&nbsp;&nbsp;Selects all elements that are the first among siblings of the same element name.</a>
+</h3>
+<h3 class="topic">
+<a name="4oi9ukhc411tqsn3qk0srrfedf">&nbsp;&nbsp;:last-child Selector</a>
+</h3>
+<h3 class="topic">
+<a name="7lvvbqbmp03vu8651qio8ln59r">&nbsp;&nbsp;&nbsp;Selects all elements that are the last child of their parent.</a>
+</h3>
+<h3 class="topic">
+<a name="40mf1erre06ejkp5808dpkfbj3">&nbsp;&nbsp;:last-of-type Selector</a>
+</h3>
+<h3 class="topic">
+<a name="7v0u6fl5d2m07400639cudcf4j">&nbsp;&nbsp;&nbsp;Selects all elements that are the last among siblings of the same element name.</a>
+</h3>
+<h3 class="topic">
+<a name="5rns5ihdlh595ppo421ufa223u">&nbsp;&nbsp;:nth-child() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="02u4nctphnevfk8nu9f2hrkq53">&nbsp;&nbsp;&nbsp;Selects all elements that are the nth-child of their parent.</a>
+</h3>
+<h3 class="topic">
+<a name="5309iq7s2utp8jpkpn9qj2v95j">&nbsp;&nbsp;:nth-last-child() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="3ln3vhmkk3hecj1oj9o7be4r45">&nbsp;&nbsp;&nbsp;Selects all elements that are the nth-child of their parent, counting from the last element to the first.</a>
+</h3>
+<h3 class="topic">
+<a name="6g9vcang2mqmneqc6bfqrb0rk6">&nbsp;&nbsp;:nth-last-of-type() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="0ilj5mf7uimvhud8q2eegecb1n">&nbsp;&nbsp;&nbsp;Selects all elements that are the nth-child of their parent, counting from the last element to the first.</a>
+</h3>
+<h3 class="topic">
+<a name="0riffu92vqn4gb0buleougja2f">&nbsp;&nbsp;:nth-of-type() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="6hv4h5nkbe774oced21k7en1cv">&nbsp;&nbsp;&nbsp;Selects all elements that are the nth child of their parent in relation to siblings with the same element name.</a>
+</h3>
+<h3 class="topic">
+<a name="4tc2dg5tmein9sb1urfbjh5dkp">&nbsp;&nbsp;:odd Selector</a>
+</h3>
+<h3 class="topic">
+<a name="7d7v8lgbnceman3gkqedn75j60">&nbsp;&nbsp;&nbsp;Selects odd elements, zero-indexed. See also even.</a>
+</h3>
+<h3 class="topic">
+<a name="5ggj6nrpebi3fqv0tmr6gmp36m">&nbsp;&nbsp;:only-child Selector</a>
+</h3>
+<h3 class="topic">
+<a name="6t3id1uejqkh3kju7o116ionm6">&nbsp;&nbsp;&nbsp;Selects all elements that are the only child of their parent.</a>
+</h3>
+<h3 class="topic">
+<a name="7ciebnmvtcgjl2q42qdebkla5v">&nbsp;Content Filter</a>
+</h3>
+<h3 class="topic">
+<a name="2rnsstbepjde1usfgv7drsahuq">&nbsp;&nbsp;:contains() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="1affum2a1vuho43j02igs4d87c">&nbsp;&nbsp;&nbsp;Select all elements that contain the specified text.</a>
+</h3>
+<h3 class="topic">
+<a name="2veqkh5dbee0ho5d646rtbfvnf">&nbsp;&nbsp;:only-of-type Selector</a>
+</h3>
+<h3 class="topic">
+<a name="431smd515leptiq6e7lgo2si3d">&nbsp;&nbsp;&nbsp;Selects all elements that have no siblings with the same element name.</a>
+</h3>
+<h3 class="topic">
+<a name="1486kckr8cs396agcopchhmbvh">&nbsp;&nbsp;Selectors ~ jQuery Extensions</a>
+</h3>
+<h3 class="topic">
+<a name="2hjq1g2unkir2n0akcu9mdcq3k">&nbsp;&nbsp;&nbsp;:empty Selector</a>
+</h3>
+<h3 class="topic">
+<a name="11bu3i6qe9sh93ha67npv777fp">&nbsp;&nbsp;&nbsp;&nbsp;Select all elements that have no children (including text nodes).</a>
+</h3>
+<h3 class="topic">
+<a name="1cfljakbf44qdso5avbgdeg2r0">&nbsp;&nbsp;&nbsp;:has() Selector</a>
+</h3>
+<h3 class="topic">
+<a name="0gs0t9qrcd2l8tr5ba1nc8474f">&nbsp;&nbsp;&nbsp;&nbsp;Selects elements which contain at least one element that matches the specified selector.</a>
+</h3>
+<h3 class="topic">
+<a name="7dj75gq1600rok3ophvair2mtc">&nbsp;Filtering</a>
+</h3>
+<h3 class="topic">
+<a name="7a6en1ovtrqrpn9cehrsvhh5o2">&nbsp;&nbsp;:visible Selector</a>
+</h3>
+<h3 class="topic">
+<a name="5e1aart8j6c1v157fsnitvc5ku">&nbsp;&nbsp;&nbsp;Selects all elements that are visible.</a>
+</h3>
+<h3 class="topic">
+<a name="77n9ebbos1lu0ltb5p5o0e0bb7">&nbsp;Form</a>
+</h3>
+<h3 class="topic">
+<a name="67jml2vrl9ardrunq2p55c165h">&nbsp;&nbsp;:checked Selector</a>
+</h3>
+<h3 class="topic">
+<a name="41akn4k7paif43qkj2bejj6qec">&nbsp;&nbsp;&nbsp;Matches all elements that are checked or selected.</a>
+</h3>
+<h3 class="topic">
+<a name="6hd7c3q2sv53l0gqnqmhuiot0r">&nbsp;&nbsp;:disabled Selector</a>
+</h3>
+<h3 class="topic">
+<a name="3huiblttr83olf56497c1ekvl8">&nbsp;&nbsp;&nbsp;Selects all elements that are disabled.</a>
+</h3>
+<h3 class="topic">
+<a name="55bloisnvep07v0b6ta71jt977">&nbsp;&nbsp;:parent Selector</a>
+</h3>
+<h3 class="topic">
+<a name="5g500b2sdep1oppc2ab8f2fb4v">&nbsp;&nbsp;&nbsp;Select all elements that that have at least one child node (either an element or text).</a>
+</h3>
+<h3 class="topic">
+<a name="2sq2qtn3p3t40bcmolsn3qujs4">&nbsp;&nbsp;Selectors ~ jQuery Extensions</a>
+</h3>
+<h3 class="topic">
+<a name="3nmdjnfkbl17d9s4v1dp3ip8ol">&nbsp;&nbsp;&nbsp;:button Selector</a>
+</h3>
+<h3 class="topic">
+<a name="2g27v0f0ftf0kdpuqktlsbq865">&nbsp;&nbsp;&nbsp;&nbsp;Selects all button elements and elements of type button.</a>
+</h3>
+<h3 class="topic">
+<a name="1u2pb5f7cle7ipj5if9852g39m">&nbsp;&nbsp;&nbsp;:checkbox Selector</a>
+</h3>
+<h3 class="topic">
+<a name="0pv2k10m5uj7m26taer01fmc5c">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements of type checkbox.</a>
+</h3>
+<h3 class="topic">
+<a name="5v485756cfn3o6qu7bngr0c831">&nbsp;&nbsp;&nbsp;:enabled Selector</a>
+</h3>
+<h3 class="topic">
+<a name="4hej77iujr0lbop8ch939212c5">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements that are enabled.</a>
+</h3>
+<h3 class="topic">
+<a name="7jhbn1rin0nmh3msmb6jajui19">&nbsp;&nbsp;&nbsp;:file Selector</a>
+</h3>
+<h3 class="topic">
+<a name="6f3qr0n33dtbilhnecpiatod12">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements of type file.</a>
+</h3>
+<h3 class="topic">
+<a name="0je592ctihfqfmbhoq2orqnpie">&nbsp;&nbsp;&nbsp;:image Selector</a>
+</h3>
+<h3 class="topic">
+<a name="1eos8nmsq07a50g5ri54sa3qhv">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements of type image.</a>
+</h3>
+<h3 class="topic">
+<a name="4nutiqk8a5vkh8mlag1rjkm8j7">&nbsp;&nbsp;&nbsp;:input Selector</a>
+</h3>
+<h3 class="topic">
+<a name="260rud8l33dkc5pntvink7chra">&nbsp;&nbsp;&nbsp;&nbsp;Selects all input, textarea, select and button elements.</a>
+</h3>
+<h3 class="topic">
+<a name="1pq5tf948a49kot929sep25jgq">&nbsp;&nbsp;&nbsp;:password Selector</a>
+</h3>
+<h3 class="topic">
+<a name="7hpit2f52onao5eu9ehk9cn7n2">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements of type password.</a>
+</h3>
+<h3 class="topic">
+<a name="7iq24e5ihbh43p1ti9fujfqoha">&nbsp;&nbsp;&nbsp;:radio Selector</a>
+</h3>
+<h3 class="topic">
+<a name="26uh2i3lo5o7hjhqi02phk0nir">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements of type radio.</a>
+</h3>
+<h3 class="topic">
+<a name="7rf7rbg4lu96ff2lut7884g3d4">&nbsp;&nbsp;&nbsp;:reset Selector</a>
+</h3>
+<h3 class="topic">
+<a name="50pm8po104lac822dqjv47s1ck">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements of type reset.</a>
+</h3>
+<h3 class="topic">
+<a name="6chuinhrdhlq257bsvkludljno">&nbsp;&nbsp;&nbsp;:selected Selector</a>
+</h3>
+<h3 class="topic">
+<a name="4nmaelcfvfn7sv941lqlng7ch2">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements that are selected.</a>
+</h3>
+<h3 class="topic">
+<a name="0vkp1h2893shb9djf79qscld6t">&nbsp;&nbsp;&nbsp;:submit Selector</a>
+</h3>
+<h3 class="topic">
+<a name="05il349rdmb3m90b151j1v0fno">&nbsp;&nbsp;&nbsp;&nbsp;Selects all elements of type submit.</a>
+</h3>
+<h3 class="topic">
+<a name="7dm3f0hcl8j24tmvam9v83m896">&nbsp;Hierarchy</a>
+</h3>
+<h3 class="topic">
+<a name="02hvek3cndhjcpf2hh59pttu3b">&nbsp;&nbsp;:text Selector</a>
+</h3>
+<h3 class="topic">
+<a name="3fiiun3pd4i9k895a9ig92sa84">&nbsp;&nbsp;&nbsp;Selects all elements of type text.</a>
+</h3>
+<h3 class="topic">
+<a name="77ea11at8ptf5okqvv4llqjper">&nbsp;&nbsp;Child Selector ('parent &gt; child')</a>
+</h3>
+<h3 class="topic">
+<a name="0umlu4eg4l74ij211j5o5ku1is">&nbsp;&nbsp;&nbsp;Selects all direct child elements specified by 'child' of elements specified by 'parent'.</a>
+</h3>
+<h3 class="topic">
+<a name="2dbd1fqmg3v4jijciogfbk781e">&nbsp;&nbsp;Descendant Selector ('ancestor descendant')</a>
+</h3>
+<h3 class="topic">
+<a name="5igtn8p2322fdc9ouj4a3sj70n">&nbsp;&nbsp;&nbsp;Selects all elements that are descendants of a given ancestor.</a>
+</h3>
+<h3 class="topic">
+<a name="0e7ft43h870m27estpdcj8bi63">&nbsp;&nbsp;Next Adjacent Selector ('prev + next')</a>
+</h3>
+<h3 class="topic">
+<a name="15450c1gdg6mk5r22rgia1a5d7">&nbsp;&nbsp;&nbsp;Selects all next elements matching 'next' that are immediately preceded by a sibling 'prev'.</a>
+</h3>
+<h3 class="topic">
+<a name="21dnuoenb6e5ib61i18g2fk1l0">&nbsp;jQuery Extensions ~ Selectors ~ Visibility Filter</a>
+</h3>
+<h3 class="topic">
+<a name="5gorgogc1fld9lr43appvch28r">&nbsp;&nbsp;:hidden Selector</a>
+</h3>
+<h3 class="topic">
+<a name="218m0dc1ciefgm0587s9fb9971">&nbsp;&nbsp;&nbsp;Selects all elements that are hidden.</a>
+</h3>
+<h3 class="topic">
+<a name="6bfmpqcmv8pg1mdt7pp79m9ic8">&nbsp;&nbsp;Next Siblings Selector ('prev ~ siblings')</a>
+</h3>
+<h3 class="topic">
+<a name="57jr38tos08ttjrauknlghndua">&nbsp;&nbsp;&nbsp;Selects all sibling elements that follow after the 'prev' element, have the same parent, and match the filtering 'siblings' selector.</a>
+</h3>
+<h2 class="topic">
+<a name="42s80ivc5k8d9qnntuo29ekiir">Properties</a>
+</h2>
+<h3 class="topic">
+<a name="3plrpom2ptuuj0ifeha6ohcvld">&nbsp;Attribute</a>
+</h3>
+<h3 class="topic">
+<a name="1u8j44s0dbkrtqti30ur0lcgc1">&nbsp;&nbsp;jQuery.support</a>
+</h3>
+<h3 class="topic">
+<a name="3m6fcs57o2fgdpdo1h1o2eft1j">&nbsp;&nbsp;&nbsp;A collection of properties that represent the presence of different browser features or bugs. Primarily intended for jQuery's internal use; specific properties may be removed when they are no longer needed internally to improve page star...</a>
+</h3>
+<h3 class="topic">
+<a name="2rsm2kdtf7tcahhlboo7slqrrf">&nbsp;Properties of the Global jQuery Object ~ Utilities</a>
+</h3>
+<h3 class="topic">
+<a name="413lvlo3kjb02kibkvtamrnmrn">&nbsp;&nbsp;.length</a>
+</h3>
+<h3 class="topic">
+<a name="2g5etv9jsmn2v2499890sf25kj">&nbsp;&nbsp;&nbsp;The number of elements in the jQuery object.</a>
+</h3>
+<h2 class="topic">
+<a name="1nhd148dtc3teheg6vcb9e7ier">Offset ~ Properties of jQuery Object Instances</a>
+</h2>
+<h3 class="topic">
+<a name="7svtf5n4ip8uhp5gmdgj8a69d0">&nbsp;.offsetParent()</a>
+</h3>
+<h3 class="topic">
+<a name="5n2us6h5b2vaiju6qbe7t5n49p">&nbsp;&nbsp;Get the closest ancestor element that is positioned.</a>
+</h3>
+<h2 class="topic">
+<a name="5h77vr2b5fv44kq7ekkaoc1bst">Miscellaneous</a>
+</h2>
+<h3 class="topic">
+<a name="4clis27c91jlrq6rqur96rdli6">&nbsp;Collection Manipulation ~ Traversing</a>
+</h3>
+<h3 class="topic">
+<a name="51n37a6qos2gaqgh6aatb867ae">&nbsp;&nbsp;jQuery.param()</a>
+</h3>
+<h3 class="topic">
+<a name="2ira2sstini1r76qvmprsb959f">&nbsp;&nbsp;&nbsp;Create a serialized representation of an array or object, suitable for use in a URL query string or Ajax request.</a>
+</h3>
+<h3 class="topic">
+<a name="041ne9t81n1iurrsqcfoordnif">&nbsp;DOM Element Methods</a>
+</h3>
+<h3 class="topic">
+<a name="504so57qpgl2a6c7g565b3cj76">&nbsp;&nbsp;.each()</a>
+</h3>
+<h3 class="topic">
+<a name="0i974be3vpc6tutnc2o26tu0im">&nbsp;&nbsp;&nbsp;Iterate over a jQuery object, executing a function for each matched element.</a>
+</h3>
+<h3 class="topic">
+<a name="6dag4mttc9hvpvppnl4ha5r1b0">&nbsp;&nbsp;.get()</a>
+</h3>
+<h3 class="topic">
+<a name="26ftoguffkou4dmk4q8vsb4qth">&nbsp;&nbsp;&nbsp;Retrieve the DOM elements matched by the jQuery object.</a>
+</h3>
+<h3 class="topic">
+<a name="3ltajhne814jsvhh9sucfu4fm0">&nbsp;&nbsp;.index()</a>
+</h3>
+<h3 class="topic">
+<a name="2na8pnjs5703k6ah74e4vu3cna">&nbsp;&nbsp;&nbsp;Search for a given element from among the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="3ep6kv172alkt5krm3k0ie5e7m">&nbsp;Traversing ~ Tree Traversal</a>
+</h3>
+<h3 class="topic">
+<a name="1vglln4b6elshasqmjglneg8v1">&nbsp;&nbsp;.toArray()</a>
+</h3>
+<h3 class="topic">
+<a name="6jn8t2egrqh3i64ldqng8b1mfq">&nbsp;&nbsp;&nbsp;Retrieve all the DOM elements contained in the jQuery set, as an array.</a>
+</h3>
+<h2 class="topic">
+<a name="3hb5c591bumg71id24gqgnppn0">Manipulation</a>
+</h2>
+<h3 class="topic">
+<a name="1pvguqa7mp3n7l528rcje47pr2">&nbsp;DOM Insertion, Around</a>
+</h3>
+<h3 class="topic">
+<a name="0h972opktf18j8n742ajve30o9">&nbsp;&nbsp;.clone()</a>
+</h3>
+<h3 class="topic">
+<a name="6h5vkupv77rs342d7g0ugttjvb">&nbsp;&nbsp;&nbsp;Create a deep copy of the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="0ir3o0gp9t82ml77mbpbpjs718">&nbsp;&nbsp;.wrap()</a>
+</h3>
+<h3 class="topic">
+<a name="5kanmt1josnkbode082kr282gf">&nbsp;&nbsp;&nbsp;Wrap an HTML structure around each element in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="2rdm4kcrier320328cm4vblol9">&nbsp;&nbsp;.wrapAll()</a>
+</h3>
+<h3 class="topic">
+<a name="7dd1emqr3gk0ut2pis8jr7b3l1">&nbsp;&nbsp;&nbsp;Wrap an HTML structure around all elements in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="0lvgs8qpa1e9c6dcmp2bdq7h8s">&nbsp;&nbsp;Collection Manipulation ~ Forms ~ Ajax Helper...</a>
+</h3>
+<h3 class="topic">
+<a name="6470aijqdql0iha7kcddvkcl55">&nbsp;&nbsp;&nbsp;Collection Manipulation ~ Forms ~ Ajax Helper Functions</a>
+</h3>
+<h3 class="topic">
+<a name="4mpf3elb821qaqfiqhnvuk1hdv">&nbsp;&nbsp;&nbsp;.replaceWith()</a>
+</h3>
+<h3 class="topic">
+<a name="74m91c5bujoe1bd26ur1tnl5v5">&nbsp;&nbsp;&nbsp;&nbsp;Replace each element in the set of matched elements with the provided new content and return the set of elements that was removed.</a>
+</h3>
+<h3 class="topic">
+<a name="70mtph5mejlibht4pbcb283nns">&nbsp;&nbsp;Manipulation ~ DOM Removal</a>
+</h3>
+<h3 class="topic">
+<a name="6mpocunguirarc28fb4vf5q04r">&nbsp;&nbsp;&nbsp;.wrapInner()</a>
+</h3>
+<h3 class="topic">
+<a name="4mviqc4di0ln1qamdrjkjd7up0">&nbsp;&nbsp;&nbsp;&nbsp;Wrap an HTML structure around the content of each element in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="7ocbevfcjuh5an8rm01f5jiesl">&nbsp;DOM Insertion, Inside</a>
+</h3>
+<h3 class="topic">
+<a name="2ibng7nq85bf5fqkhibh9a8upb">&nbsp;&nbsp;.append()</a>
+</h3>
+<h3 class="topic">
+<a name="03lkq08gil0mtr3udvjk85c0jb">&nbsp;&nbsp;&nbsp;Insert content, specified by the parameter, to the end of each element in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="7cmmbo0ltm6582e9fa96poj6ng">&nbsp;&nbsp;.appendTo()</a>
+</h3>
+<h3 class="topic">
+<a name="7ipbirmtuf4acphi5nc2t8e59v">&nbsp;&nbsp;&nbsp;Insert every element in the set of matched elements to the end of the target.</a>
+</h3>
+<h3 class="topic">
+<a name="3uhbvvq986f38m7u35ens0ohve">&nbsp;&nbsp;.prepend()</a>
+</h3>
+<h3 class="topic">
+<a name="7s9973r5th19r8kqnlr4ag3e6d">&nbsp;&nbsp;&nbsp;Insert content, specified by the parameter, to the beginning of each element in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="2viususe0t9si391tn646nr29t">&nbsp;&nbsp;.prependTo()</a>
+</h3>
+<h3 class="topic">
+<a name="4sncfsm9irse12i29tqmni2ggl">&nbsp;&nbsp;&nbsp;Insert every element in the set of matched elements to the beginning of the target.</a>
+</h3>
+<h3 class="topic">
+<a name="1ac6hv3d766nelibi8jgfbsvvd">&nbsp;&nbsp;.unwrap()</a>
+</h3>
+<h3 class="topic">
+<a name="487dgadq8mdqnlau54qha4dhs6">&nbsp;&nbsp;&nbsp;Remove the parents of the set of matched elements from the DOM, leaving the matched elements in their place.</a>
+</h3>
+<h3 class="topic">
+<a name="5nohc8q03100dt9v05cud1jrak">&nbsp;DOM Insertion, Outside</a>
+</h3>
+<h3 class="topic">
+<a name="5s16nqjpjaj0fj0hiidk99jjvb">&nbsp;&nbsp;.after()</a>
+</h3>
+<h3 class="topic">
+<a name="10gtt9jfvd89vudgvkosmgsnh7">&nbsp;&nbsp;&nbsp;Insert content, specified by the parameter, after each element in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="3g2n6nsoj805k1lip0i8qu29be">&nbsp;&nbsp;.before()</a>
+</h3>
+<h3 class="topic">
+<a name="5ssmscdm5165c109p3lv21vo2q">&nbsp;&nbsp;&nbsp;Insert content, specified by the parameter, before each element in the set of matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="0shpkofofre8rb8e951l5l7ebe">&nbsp;&nbsp;.insertAfter()</a>
+</h3>
+<h3 class="topic">
+<a name="164qh7srslud017b03ki6qej9b">&nbsp;&nbsp;&nbsp;Insert every element in the set of matched elements after the target.</a>
+</h3>
+<h3 class="topic">
+<a name="3qecpd4a1t9t5u1bgql4gm34oo">&nbsp;&nbsp;.text()</a>
+</h3>
+<h3 class="topic">
+<a name="1n4oqp9q1jdauv1ih9tfpq6be8">&nbsp;&nbsp;&nbsp;Get the combined text contents of each element in the set of matched elements, including their descendants, or set the text contents of the matched elements.</a>
+</h3>
+<h3 class="topic">
+<a name="424kkrafdvu7kbsgdhpf1ojoes">&nbsp;DOM Removal</a>
+</h3>
+<h3 class="topic">
+<a name="06tgrntqcbdibehvbaqmi8g9rq">&nbsp;&nbsp;.detach()</a>
+</h3>
+<h3 class="topic">
+<a name="3fugtecp700gfb04u1g5vii4q5">&nbsp;&nbsp;&nbsp;Remove the set of matched elements from the DOM.</a>
+</h3>
+<h3 class="topic">
+<a name="7e6l918m4vertnnkb3b670s2qd">&nbsp;&nbsp;.empty()</a>
+</h3>
+<h3 class="topic">
+<a name="5om0eim8oqpe7lco317rgki2u8">&nbsp;&nbsp;&nbsp;Remove all child nodes of the set of matched elements from the DOM.</a>
+</h3>
+<h3 class="topic">
+<a name="471bm0em5jpin6pt30b3e06r4b">&nbsp;&nbsp;.insertBefore()</a>
+</h3>
+<h3 class="topic">
+<a name="0n7dofifihbikp33f3pmrn2pkf">&nbsp;&nbsp;&nbsp;Insert every element in the set of matched elements before the target.</a>
+</h3>
+<h3 class="topic">
+<a name="5a93892jt02b0rkhtc5vuhnkko">&nbsp;DOM Replacement</a>
+</h3>
+<h3 class="topic">
+<a name="452gfq1ep5qta86eti7k6nbl2p">&nbsp;&nbsp;.remove()</a>
+</h3>
+<h3 class="topic">
+<a name="3h6u9grop1augqhrhteuebuv7n">&nbsp;&nbsp;&nbsp;Remove the set of matched elements from the DOM.</a>
+</h3>
+<h3 class="topic">
+<a name="1rto6d7ni2gqhool0kn8okb1n7">&nbsp;&nbsp;.replaceAll()</a>
+</h3>
+<h3 class="topic">
+<a name="1k2qunntp6ie3banmh1qkdpek6">&nbsp;&nbsp;&nbsp;Replace each target element with the set of matched elements.</a>
+</h3>
+<h2 class="topic">
+<a name="7t0eksr4resq0fhqvqo3jkef5s">Internals</a>
+</h2>
+<h3 class="topic">
+<a name="1keshvt22hi2f0rcts3ceb0673">&nbsp;jQuery.error()</a>
+</h3>
+<h3 class="topic">
+<a name="6vhje98nte1usdlvon65bcbvsm">&nbsp;&nbsp;Takes a string and throws an exception containing it.</a>
+</h3>
+<h3 class="topic">
+<a name="3hl51t9mpouctdd12l71tf3eg4">&nbsp;&nbsp;Copying</a>
+</h3>
+<h3 class="topic">
+<a name="51s2do3dqs281lovv9ru19j5nn">&nbsp;&nbsp;&nbsp;.jquery</a>
+</h3>
+<h3 class="topic">
+<a name="7934gkk7m851o2vc0stnuen5lp">&nbsp;&nbsp;&nbsp;&nbsp;A string containing the jQuery version number.</a>
+</h3>
+<h3 class="topic">
+<a name="0a8nuq8ce6d17f3otb5m4vu1ov">&nbsp;&nbsp;Properties of jQuery Object Instances</a>
+</h3>
+<h3 class="topic">
+<a name="46jrvlb1b91p6ak2t0tlfk30rf">&nbsp;&nbsp;&nbsp;.pushStack()</a>
+</h3>
+<h3 class="topic">
+<a name="150h4838k67kmkhpf0d7437h27">&nbsp;&nbsp;&nbsp;&nbsp;Add a collection of DOM elements onto the jQuery stack.</a>
+</h3>
+<h2 class="topic">
+<a name="3ls2u2iqit41g6pje2bqmomufo">Forms</a>
+</h2>
+<h3 class="topic">
+<a name="48kb4ablqh7f9j4gvcpgtoput1">&nbsp;.serializeArray()</a>
+</h3>
+<h3 class="topic">
+<a name="7hu1hnp3lksolp5u3pd488nmnn">&nbsp;&nbsp;Encode a set of form elements as an array of names and values.</a>
+</h3>
+<h3 class="topic">
+<a name="09iem6u6u6lkviqg8oq4d81t8l">&nbsp;Ajax ~ Helper Functions</a>
+</h3>
+<h3 class="topic">
+<a name="3gehb6rvqf9qv8du7iotd1ffrr">&nbsp;&nbsp;.serialize()</a>
+</h3>
+<h3 class="topic">
+<a name="4ad75bmbqfbkp8a6g1jtj9us5e">&nbsp;&nbsp;&nbsp;Encode a set of form elements as a string for submission.</a>
+</h3>
+</body>
+</html>

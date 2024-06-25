@@ -1,0 +1,122 @@
+{
+    "text": "C*CANI - GOAL - ID - VALUES\r\nZiel - Identität - Werte - ",
+    "node": [
+        {
+            "text": "DESIRE",
+            "node": [
+                {
+                    "text": "CAPTURE",
+                    "node": [
+                        {
+                            "text": "JOURNAL - TAGEBUCH - CHRONIK"
+                        },
+                        {
+                            "text": "LLL",
+                            "node": [
+                                {
+                                    "text": "LESSON"
+                                },
+                                {
+                                    "text": "LOVE"
+                                },
+                                {
+                                    "text": "LIFE",
+                                    "node": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "DECIDE",
+            "node": [
+                {
+                    "text": "CREATE RPM PLAN",
+                    "node": [
+                        {
+                            "text": "RESULT"
+                        },
+                        {
+                            "text": "PURPOSE"
+                        },
+                        {
+                            "text": "MAP",
+                            "node": [
+                                {
+                                    "text": "MASSIV ACTION PLAN"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "COMMIT & SCHEDULE"
+                }
+            ]
+        },
+        {
+            "text": "DECLARE",
+            "node": [
+                {
+                    "text": "CAN - I CAN TATION - INCANTATION",
+                    "node": [
+                        {
+                            "text": "PRAYER"
+                        },
+                        {
+                            "text": "NOW I AM THE VOICE"
+                        },
+                        {
+                            "text": "I COMMAND NOW MY SUBCOUNSCIOUS"
+                        },
+                        {
+                            "text": "GODS RICHES CIRCULATES"
+                        }
+                    ]
+                },
+                {
+                    "text": "QUESTION",
+                    "node": [
+                        {
+                            "text": "HOW CAN I BE, DO & GIVE THE BEST",
+                            "node": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "DEVOTE",
+            "node": [
+                {
+                    "text": "COMPLETE & ACHIEVE",
+                    "node": [
+                        {
+                            "text": "MORNINGROUTINE"
+                        },
+                        {
+                            "text": "EVENINGROUTINE"
+                        },
+                        {
+                            "text": "MAP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "DEVELOP",
+            "node": []
+        },
+        {
+            "text": "DELIVER",
+            "node": [
+                {
+                    "text": "CELEBRATE"
+                }
+            ]
+        }
+    ]
+}

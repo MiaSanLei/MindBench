@@ -1,0 +1,59 @@
+{
+    "text": "Projet programmation cycle 2",
+    "node": [
+        {
+            "text": "Coder les déplacements d'un robot",
+            "node": [
+                {
+                    "text": "Beebot"
+                },
+                {
+                    "text": "BlueBot"
+                }
+            ]
+        },
+        {
+            "text": " Créer une histoire avec Scratch Junior",
+            "node": [
+                {
+                    "text": " Junior"
+                }
+            ]
+        },
+        {
+            "text": "Créer un jeu de programmation sous forme de parcours",
+            "node": [
+                {
+                    "text": "Ozobot"
+                }
+            ]
+        },
+        {
+            "text": "Activités branchées",
+            "node": [
+                {
+                    "text": "BeeBot : le jeu"
+                },
+                {
+                    "text": "Apprendre Scratch Jr avec un parcours"
+                },
+                {
+                    "text": "Découvrir la programmation avec Ozobot"
+                }
+            ]
+        },
+        {
+            "text": "Activités débranchées",
+            "node": [
+                {
+                    "text": "Coder un déplacement dans un labyrinthe",
+                    "node": [
+                        {
+                            "text": "Jouer à \"Robot idiot\""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

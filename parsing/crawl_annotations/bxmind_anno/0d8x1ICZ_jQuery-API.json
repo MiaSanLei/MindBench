@@ -1,0 +1,2754 @@
+{
+    "text": "jQuery API",
+    "node": [
+        {
+            "text": "Ajax",
+            "node": [
+                {
+                    "text": "Global Ajax Event Handlers",
+                    "node": [
+                        {
+                            "text": ".ajaxComplete()",
+                            "node": [
+                                {
+                                    "text": "Register a handler to be called when Ajax requests complete. This is an AjaxEvent."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".ajaxError()",
+                            "node": [
+                                {
+                                    "text": "Register a handler to be called when Ajax requests complete with an error. This is an Ajax Event."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".ajaxSend()",
+                            "node": [
+                                {
+                                    "text": "Attach a function to be executed before an Ajax request is sent. This is an Ajax Event."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".ajaxStart()",
+                            "node": [
+                                {
+                                    "text": "Register a handler to be called when the first Ajax request begins. This is an Ajax Event."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".ajaxStop()",
+                            "node": [
+                                {
+                                    "text": "Register a handler to be called when all Ajax requests have completed. This is an Ajax Event."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".ajaxSuccess()",
+                            "node": [
+                                {
+                                    "text": "Attach a function to be executed whenever an Ajax request completes successfully. This is an Ajax Event."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Low-Level Interface",
+                    "node": [
+                        {
+                            "text": "jQuery.ajax()",
+                            "node": [
+                                {
+                                    "text": "Perform an asynchronous HTTP (Ajax) request."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.ajaxPrefilter()",
+                            "node": [
+                                {
+                                    "text": "Handle custom Ajax options or modify existing options before each request is sent and before they are processed by $.ajax()."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.ajaxSetup()",
+                            "node": [
+                                {
+                                    "text": "Set default values for future Ajax requests. Its use is not recommended."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.ajaxTransport()",
+                            "node": [
+                                {
+                                    "text": "Creates an object that handles the actual transmission of Ajax data."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Shorthand Methods",
+                    "node": [
+                        {
+                            "text": ".load()",
+                            "node": [
+                                {
+                                    "text": "Load data from the server and place the returned HTML into the matched element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.get()",
+                            "node": [
+                                {
+                                    "text": "Load data from the server using a HTTP GET request."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.getJSON()",
+                            "node": [
+                                {
+                                    "text": "Load JSON-encoded data from the server using a GET HTTP request."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.getScript()",
+                            "node": [
+                                {
+                                    "text": "Load a JavaScript file from the server using a GET HTTP request, then execute it."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.post()",
+                            "node": [
+                                {
+                                    "text": "Load data from the server using a HTTP POST request."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Attributes",
+            "node": [
+                {
+                    "text": "Forms ~ Manipulation ~ General Attributes",
+                    "node": [
+                        {
+                            "text": ".val()",
+                            "node": [
+                                {
+                                    "text": "Get the current value of the first element in the set of matched elements or set the value of every matched element."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Manipulation",
+                    "node": [
+                        {
+                            "text": "Class Attribute ~ CSS",
+                            "node": [
+                                {
+                                    "text": ".addClass()",
+                                    "node": [
+                                        {
+                                            "text": "Adds the specified class(es) to each of the set of matched elements."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".hasClass()",
+                                    "node": [
+                                        {
+                                            "text": "Determine whether any of the matched elements are assigned the given class."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".removeClass()",
+                                    "node": [
+                                        {
+                                            "text": "Remove a single class, multiple classes, or all classes from each element in the set of matched elements."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".toggleClass()",
+                                    "node": [
+                                        {
+                                            "text": "Add or remove one or more classes from each element in the set of matched elements, depending on either the class's presence or the value of the switch argument."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "DOM Insertion ~ Inside",
+                            "node": [
+                                {
+                                    "text": ".html()",
+                                    "node": [
+                                        {
+                                            "text": "Get the HTML contents of the first element in the set of matched elements or set the HTML contents of every matched element."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "General Attributes",
+                            "node": [
+                                {
+                                    "text": ".attr()",
+                                    "node": [
+                                        {
+                                            "text": "Get the value of an attribute for the first element in the set of matched elements or set one or more attributes for every matched element."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".prop()",
+                                    "node": [
+                                        {
+                                            "text": "Get the value of a property for the first element in the set of matched elements or set one or more properties for every matched element."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".removeAttr()",
+                                    "node": [
+                                        {
+                                            "text": "Remove an attribute from each element in the set of matched elements."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".removeProp()",
+                                    "node": [
+                                        {
+                                            "text": "Remove a property for the set of matched elements."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "CSS",
+            "node": [
+                {
+                    "text": "CSS ~ Dimensions ~ Manipulation ~ Style Properties",
+                    "node": [
+                        {
+                            "text": ".height()",
+                            "node": [
+                                {
+                                    "text": "Get the current computed height for the first element in the set of matched elements or set the height of every matched element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".innerHeight()",
+                            "node": [
+                                {
+                                    "text": "Get the current computed height for the first element in the set of matched elements, including padding but not border."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".innerWidth()",
+                            "node": [
+                                {
+                                    "text": "Get the current computed width for the first element in the set of matched elements, including padding but not border."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".outerHeight()",
+                            "node": [
+                                {
+                                    "text": ".outerHeight()"
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".outerWidth()",
+                            "node": [
+                                {
+                                    "text": "Get the current computed width for the first element in the set of matched elements, including padding and border."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".width()",
+                            "node": [
+                                {
+                                    "text": "Get the current computed width for the first element in the set of matched elements or set the width of every matched element."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "CSS ~ Manipulation ~ Style Properties",
+                    "node": [
+                        {
+                            "text": ".css()",
+                            "node": [
+                                {
+                                    "text": "Get the value of a style property for the first element in the set of matched elements or set one or more CSS properties for every matched element."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Offset ~ Manipulation ~ Style Properties",
+                    "node": [
+                        {
+                            "text": ".offset()",
+                            "node": [
+                                {
+                                    "text": "Get the current coordinates of the first element, or set the coordinates of every element, in the set of matched elements, relative to the document."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".position()",
+                            "node": [
+                                {
+                                    "text": "Get the current coordinates of the first element in the set of matched elements, relative to the offset parent."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".scrollLeft()",
+                            "node": [
+                                {
+                                    "text": "Get the current horizontal position of the scroll bar for the first element in the set of matched elements or set the horizontal position of the scroll bar for every matched element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".scrollTop()",
+                            "node": [
+                                {
+                                    "text": "Get the current vertical position of the scroll bar for the first element in the set of matched elements or set the vertical position of the scroll bar for every matched element."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.cssHooks",
+                    "node": [
+                        {
+                            "text": "Hook directly into jQuery to override how particular CSS properties are retrieved or set, normalize CSS property naming, or create custom properties."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Callbacks Object",
+            "node": [
+                {
+                    "text": "callbacks.add()",
+                    "node": [
+                        {
+                            "text": "Add a callback or a collection of callbacks to a callback list."
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.disable()",
+                    "node": [
+                        {
+                            "text": "Disable a callback list from doing anything more."
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.disabled()",
+                    "node": [
+                        {
+                            "text": "Determine if the callbacks list has been disabled."
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.empty()",
+                    "node": [
+                        {
+                            "text": "Remove all of the callbacks from a list."
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.fire()",
+                    "node": [
+                        {
+                            "text": "Call all of the callbacks with the given arguments"
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.fireWith()",
+                    "node": [
+                        {
+                            "text": "Call all callbacks in a list with the given context and arguments."
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.fired()",
+                    "node": [
+                        {
+                            "text": "Determine if the callbacks have already been called at least once."
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.has()",
+                    "node": [
+                        {
+                            "text": "Determine whether a supplied callback is in a list"
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.lock()",
+                    "node": [
+                        {
+                            "text": "Lock a callback list in its current state."
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.locked()",
+                    "node": [
+                        {
+                            "text": "Determine if the callbacks list has been locked."
+                        }
+                    ]
+                },
+                {
+                    "text": "callbacks.remove()",
+                    "node": [
+                        {
+                            "text": "Remove a callback or a collection of callbacks from a callback list."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.Callbacks()",
+                    "node": [
+                        {
+                            "text": "A multi-purpose callbacks list object that provides a powerful way to manage callback lists."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Core",
+            "node": [
+                {
+                    "text": "Deferred Object",
+                    "node": [
+                        {
+                            "text": "jQuery.when()",
+                            "node": [
+                                {
+                                    "text": "Provides a way to execute callback functions based on one or more objects, usually Deferred objects that represent asynchronous events."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Miscellaneous ~ Setup Methods",
+                    "node": [
+                        {
+                            "text": "jQuery.noConflict()",
+                            "node": [
+                                {
+                                    "text": "Relinquish jQuery's control of the $ variable."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery()",
+                    "node": [
+                        {
+                            "text": "Return a collection of matched elements either found in the DOM based on passed argument(s) or created by passing an HTML string."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.holdReady()",
+                    "node": [
+                        {
+                            "text": "Holds or releases the execution of jQuery's ready event."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Data",
+            "node": [
+                {
+                    "text": "Data ~ Miscellaneous ~ Data Storage",
+                    "node": [
+                        {
+                            "text": ".data()",
+                            "node": [
+                                {
+                                    "text": "Store arbitrary data associated with the matched elements or return the value at the named data store for the first element in the set of matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.hasData()",
+                            "node": [
+                                {
+                                    "text": "Determine whether an element has any jQuery data associated with it."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Data ~ Utilities",
+                    "node": [
+                        {
+                            "text": ".removeData()",
+                            "node": [
+                                {
+                                    "text": "Remove a previously-stored piece of data."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.data()",
+                            "node": [
+                                {
+                                    "text": "Store arbitrary data associated with the specified element and/or return the value that was set."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.dequeue()",
+                            "node": [
+                                {
+                                    "text": "Execute the next function on the queue for the matched element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.queue()",
+                            "node": [
+                                {
+                                    "text": "Show or manipulate the queue of functions to be executed on the matched element."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.removeData()",
+                    "node": [
+                        {
+                            "text": "Remove a previously-stored piece of data."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Deferred Object",
+            "node": [
+                {
+                    "text": "deferred.always()",
+                    "node": [
+                        {
+                            "text": "Add handlers to be called when the Deferred object is either resolved or rejected."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.done()",
+                    "node": [
+                        {
+                            "text": "Add handlers to be called when the Deferred object is resolved."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.fail()",
+                    "node": [
+                        {
+                            "text": "Add handlers to be called when the Deferred object is rejected."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.notify()",
+                    "node": [
+                        {
+                            "text": "Call the progressCallbacks on a Deferred object with the given args."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.notifyWith()",
+                    "node": [
+                        {
+                            "text": "Call the progressCallbacks on a Deferred object with the given context and args."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.progress()",
+                    "node": [
+                        {
+                            "text": "Add handlers to be called when the Deferred object generates progress notifications."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.promise()",
+                    "node": [
+                        {
+                            "text": "Return a Deferred's Promise object."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.reject()",
+                    "node": [
+                        {
+                            "text": "Reject a Deferred object and call any failCallbacks with the given args."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.rejectWith()",
+                    "node": [
+                        {
+                            "text": "Reject a Deferred object and call any failCallbacks with the given context and args."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.resolve()",
+                    "node": [
+                        {
+                            "text": "Resolve a Deferred object and call any doneCallbacks with the given args."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.resolveWith()",
+                    "node": [
+                        {
+                            "text": "Resolve a Deferred object and call any doneCallbacks with the given context and args."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.state()",
+                    "node": [
+                        {
+                            "text": "Determine the current state of a Deferred object."
+                        }
+                    ]
+                },
+                {
+                    "text": "deferred.then()",
+                    "node": [
+                        {
+                            "text": "Add handlers to be called when the Deferred object is resolved, rejected, or still in progress."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.Deferred()",
+                    "node": [
+                        {
+                            "text": "A constructor function that returns a chainable utility object with methods to register multiple callbacks into callback queues, invoke callback queues, and relay the success or failure state of any synchronous or asynchronous..."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Effects",
+            "node": [
+                {
+                    "text": "Basics",
+                    "node": [
+                        {
+                            "text": ".fadeToggle()",
+                            "node": [
+                                {
+                                    "text": "Display or hide the matched elements by animating their opacity."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".hide()",
+                            "node": [
+                                {
+                                    "text": "Hide the matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".show()",
+                            "node": [
+                                {
+                                    "text": "Display the matched elements."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Browser Events",
+                    "node": [
+                        {
+                            "text": ".slideUp()",
+                            "node": [
+                                {
+                                    "text": "Hide the matched elements with a sliding motion."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Custom",
+                    "node": [
+                        {
+                            "text": ".animate()",
+                            "node": [
+                                {
+                                    "text": "Perform a custom animation of a set of CSS properties."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".delay()",
+                            "node": [
+                                {
+                                    "text": "Set a timer to delay execution of subsequent items in the queue."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".finish()",
+                            "node": [
+                                {
+                                    "text": "Stop the currently-running animation, remove all queued animations, and complete all animations for the matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".toggle()",
+                            "node": [
+                                {
+                                    "text": "Display or hide the matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Data ~ Utilities",
+                            "node": [
+                                {
+                                    "text": ".clearQueue()",
+                                    "node": [
+                                        {
+                                            "text": "Remove from the queue all items that have not yet been run."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".dequeue()",
+                                    "node": [
+                                        {
+                                            "text": "Execute the next function on the queue for the matched elements."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".stop()",
+                                    "node": [
+                                        {
+                                            "text": "Stop the currently-running animation on the matched elements."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Properties ~ Properties of the Global jQuery...",
+                            "node": [
+                                {
+                                    "text": "Properties ~ Properties of the Global jQuery Object"
+                                },
+                                {
+                                    "text": ".queue()",
+                                    "node": [
+                                        {
+                                            "text": "Show or manipulate the queue of functions to be executed on the matched elements."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "jQuery.fx.interval",
+                                    "node": [
+                                        {
+                                            "text": "The rate (in milliseconds) at which animations fire."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Fading",
+                    "node": [
+                        {
+                            "text": ".fadeIn()",
+                            "node": [
+                                {
+                                    "text": "Display the matched elements by fading them to opaque."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".fadeOut()",
+                            "node": [
+                                {
+                                    "text": "Hide the matched elements by fading them to transparent."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".promise()",
+                            "node": [
+                                {
+                                    "text": "Return a Promise object to observe when all actions of a certain type bound to the collection, queued or not, have finished."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.fx.off",
+                            "node": [
+                                {
+                                    "text": "Globally disable all animations."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Sliding",
+                    "node": [
+                        {
+                            "text": ".fadeTo()",
+                            "node": [
+                                {
+                                    "text": "Adjust the opacity of the matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".slideDown()",
+                            "node": [
+                                {
+                                    "text": "Display the matched elements with a sliding motion."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".slideToggle()",
+                            "node": [
+                                {
+                                    "text": "Display or hide the matched elements with a sliding motion."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Events",
+            "node": [
+                {
+                    "text": "Ajax ~ Helper Functions",
+                    "node": [
+                        {
+                            "text": ".mouseup()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'mouseup' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Browser Events",
+                    "node": [
+                        {
+                            "text": ".resize()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'resize' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Document Loading",
+                    "node": [
+                        {
+                            "text": ".scroll()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'scroll' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Event Handler Attachment",
+                    "node": [
+                        {
+                            "text": ".bind()",
+                            "node": [
+                                {
+                                    "text": "Attach a handler to an event for the elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".delegate()",
+                            "node": [
+                                {
+                                    "text": "Attach a handler to one or more events for all elements that match the selector, now or in the future, based on a specific set of root elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".off()",
+                            "node": [
+                                {
+                                    "text": "Remove an event handler."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".on()",
+                            "node": [
+                                {
+                                    "text": "Attach an event handler function for one or more events to the selected elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".one()",
+                            "node": [
+                                {
+                                    "text": "Attach a handler to an event for the elements. The handler is executed at most once per element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".ready()",
+                            "node": [
+                                {
+                                    "text": "Specify a function to execute when the DOM is fully loaded."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".trigger()",
+                            "node": [
+                                {
+                                    "text": "Execute all handlers and behaviors attached to the matched elements for the given event type."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".triggerHandler()",
+                            "node": [
+                                {
+                                    "text": "Execute all handlers attached to an element for an event."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".unbind()",
+                            "node": [
+                                {
+                                    "text": "Remove a previously-attached event handler from the elements."
+                                },
+                                {
+                                    "text": "Utilities",
+                                    "node": [
+                                        {
+                                            "text": ".undelegate()",
+                                            "node": [
+                                                {
+                                                    "text": "Remove a handler from the event for all elements which match the current selector, based upon a specific set of root elements."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Event Object",
+                    "node": [
+                        {
+                            "text": "event.currentTarget",
+                            "node": [
+                                {
+                                    "text": "The current DOM element within the event bubbling phase."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.data",
+                            "node": [
+                                {
+                                    "text": "An optional object of data passed to an event method when the current executing handler is bound."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.isDefaultPrevented()",
+                            "node": [
+                                {
+                                    "text": "Returns whether event.preventDefault() was ever called on this event object."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.isImmediatePropagationStopped()",
+                            "node": [
+                                {
+                                    "text": "Returns whether event.stopImmediatePropagation() was ever called on this event object."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.isPropagationStopped()",
+                            "node": [
+                                {
+                                    "text": "Returns whether event.stopPropagation() was ever called on this event object."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.metaKey",
+                            "node": [
+                                {
+                                    "text": "Indicates whether the META key was pressed when the event fired."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.namespace",
+                            "node": [
+                                {
+                                    "text": "The namespace specified when the event was triggered."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.pageX",
+                            "node": [
+                                {
+                                    "text": "The mouse position relative to the left edge of the document."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.pageY",
+                            "node": [
+                                {
+                                    "text": "The mouse position relative to the top edge of the document."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.preventDefault()",
+                            "node": [
+                                {
+                                    "text": "If this method is called, the default action of the event will not be triggered."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.relatedTarget",
+                            "node": [
+                                {
+                                    "text": "The other DOM element involved in the event, if any."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.result",
+                            "node": [
+                                {
+                                    "text": "The last value returned by an event handler that was triggered by this event, unless the value was undefined."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.stopImmediatePropagation()",
+                            "node": [
+                                {
+                                    "text": "Keeps the rest of the handlers from being executed and prevents the event from bubbling up the DOM tree."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.stopPropagation()",
+                            "node": [
+                                {
+                                    "text": "Prevents the event from bubbling up the DOM tree, preventing any parent handlers from being notified of the event."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.target",
+                            "node": [
+                                {
+                                    "text": "The DOM element that initiated the event."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.timeStamp",
+                            "node": [
+                                {
+                                    "text": "The difference in milliseconds between the time the browser created the event and January 1, 1970."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.type",
+                            "node": [
+                                {
+                                    "text": "Describes the nature of the event."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.which",
+                            "node": [
+                                {
+                                    "text": "For key or mouse events, this property indicates the specific key or button that was pressed."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "jQuery.proxy()",
+                            "node": [
+                                {
+                                    "text": "Takes a function and returns a new one that will always have a particular context."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Form Events",
+                    "node": [
+                        {
+                            "text": "Forms",
+                            "node": [
+                                {
+                                    "text": ".blur()",
+                                    "node": [
+                                        {
+                                            "text": "Bind an event handler to the 'blur' JavaScript event, or trigger that event on an element."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".change()",
+                                    "node": [
+                                        {
+                                            "text": "Bind an event handler to the 'change' JavaScript event, or trigger that event on an element."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".focus()",
+                                    "node": [
+                                        {
+                                            "text": "Bind an event handler to the 'focus' JavaScript event, or trigger that event on an element."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".focusin()",
+                                    "node": [
+                                        {
+                                            "text": "Bind an event handler to the 'focusin' event."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ".select()",
+                                    "node": [
+                                        {
+                                            "text": "Bind an event handler to the 'select' JavaScript event, or trigger that event on an element."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event.delegateTarget",
+                            "node": [
+                                {
+                                    "text": "The element where the currently-called jQuery event handler was attached."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Keyboard Events",
+                    "node": [
+                        {
+                            "text": ".keydown()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'keydown' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".keypress()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'keypress' JavaScript event, or trigger that event on an element."
+                                },
+                                {
+                                    "text": "Mouse Events",
+                                    "node": [
+                                        {
+                                            "text": ".keyup()",
+                                            "node": [
+                                                {
+                                                    "text": "Bind an event handler to the 'keyup' JavaScript event, or trigger that event on an element."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".submit()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'submit' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Mouse Events",
+                    "node": [
+                        {
+                            "text": ".click()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'click' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".dblclick()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'dblclick' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".focusout()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'focusout' JavaScript event."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".hover()",
+                            "node": [
+                                {
+                                    "text": "Bind one or two handlers to the matched elements, to be executed when the mouse pointer enters and leaves the elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".mousedown()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'mousedown' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".mouseenter()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to be fired when the mouse enters an element, or trigger that handler on an element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".mouseleave()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to be fired when the mouse leaves an element, or trigger that handler on an element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".mousemove()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'mousemove' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".mouseout()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'mouseout' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".mouseover()",
+                            "node": [
+                                {
+                                    "text": "Bind an event handler to the 'mouseover' JavaScript event, or trigger that event on an element."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Utilities",
+            "node": [
+                {
+                    "text": "jQuery.contains()",
+                    "node": [
+                        {
+                            "text": "Check to see if a DOM element is a descendant of another DOM element."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.each()",
+                    "node": [
+                        {
+                            "text": "A generic iterator function, which can be used to seamlessly iterate over both objects and arrays. Arrays and array-like objects with a length property (such as a function's arguments object) are iterated by numeric index, from 0 to l..."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.extend()",
+                    "node": [
+                        {
+                            "text": "Merge the contents of two or more objects together into the first object."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.fn.extend()",
+                    "node": [
+                        {
+                            "text": "Merge the contents of an object onto the jQuery prototype to provide new jQuery instance methods."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.globalEval()",
+                    "node": [
+                        {
+                            "text": "Execute some JavaScript code globally."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.grep()",
+                    "node": [
+                        {
+                            "text": "Finds the elements of an array which satisfy a filter function. The original array is not affected."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.inArray()",
+                    "node": [
+                        {
+                            "text": "Search for a specified value within an array and return its index (or -1 if not found)."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.isArray()",
+                    "node": [
+                        {
+                            "text": "Determine whether the argument is an array."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.isEmptyObject()",
+                    "node": [
+                        {
+                            "text": "Check to see if an object is empty (contains no enumerable properties)."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.isFunction()",
+                    "node": [
+                        {
+                            "text": "Determine if the argument passed is a Javascript function object."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.isNumeric()",
+                    "node": [
+                        {
+                            "text": "Determines whether its argument is a number."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.isPlainObject()",
+                    "node": [
+                        {
+                            "text": "Check to see if an object is a plain object (created using '{}' or 'new Object')."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.isWindow()",
+                    "node": [
+                        {
+                            "text": "Determine whether the argument is a window."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.isXMLDoc()",
+                    "node": [
+                        {
+                            "text": "Check to see if a DOM node is within an XML document (or is an XML document)."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.makeArray()",
+                    "node": [
+                        {
+                            "text": "Convert an array-like object into a true JavaScript array."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.map()",
+                    "node": [
+                        {
+                            "text": "Translate all items in an array or object to new array of items."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.merge()",
+                    "node": [
+                        {
+                            "text": "Merge the contents of two arrays together into the first array."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.noop()",
+                    "node": [
+                        {
+                            "text": "An empty function."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.now()",
+                    "node": [
+                        {
+                            "text": "Return a number representing the current time."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.parseHTML()",
+                    "node": [
+                        {
+                            "text": "Parses a string into an array of DOM nodes."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.parseJSON()",
+                    "node": [
+                        {
+                            "text": "Takes a well-formed JSON string and returns the resulting JavaScript object."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.parseXML()",
+                    "node": [
+                        {
+                            "text": "Parses a string into an XML document."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.trim()",
+                    "node": [
+                        {
+                            "text": "Remove the whitespace from the beginning and end of a string."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.type()",
+                    "node": [
+                        {
+                            "text": "Determine the internal JavaScript [[Class]] of an object."
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery.unique()",
+                    "node": [
+                        {
+                            "text": "Sorts an array of DOM elements, in place, with the duplicates removed. Note that this only works on arrays of DOM elements, not strings or numbers."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Traversing",
+            "node": [
+                {
+                    "text": ".siblings()",
+                    "node": [
+                        {
+                            "text": "Get the siblings of each element in the set of matched elements, optionally filtered by a selector."
+                        }
+                    ]
+                },
+                {
+                    "text": "Filtering",
+                    "node": [
+                        {
+                            "text": ".eq()",
+                            "node": [
+                                {
+                                    "text": "Reduce the set of matched elements to the one at the specified index."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".filter()",
+                            "node": [
+                                {
+                                    "text": "Reduce the set of matched elements to those that match the selector or pass the function's test."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".first()",
+                            "node": [
+                                {
+                                    "text": "Reduce the set of matched elements to the first in the set."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".has()",
+                            "node": [
+                                {
+                                    "text": "Reduce the set of matched elements to those that have a descendant that matches the selector or DOM element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".is()",
+                            "node": [
+                                {
+                                    "text": "Check the current matched set of elements against a selector, element, or jQuery object and return true if at least one of these elements matches the given arguments."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".last()",
+                            "node": [
+                                {
+                                    "text": "Reduce the set of matched elements to the final one in the set."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".map()",
+                            "node": [
+                                {
+                                    "text": "Pass each element in the current matched set through a function, producing a new jQuery object containing the return values."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".slice()",
+                            "node": [
+                                {
+                                    "text": "Reduce the set of matched elements to a subset specified by a range of indices."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Miscellaneous Traversing",
+                    "node": [
+                        {
+                            "text": ".add()",
+                            "node": [
+                                {
+                                    "text": "Add elements to the set of matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".addBack()",
+                            "node": [
+                                {
+                                    "text": "Add the previous set of elements on the stack to the current set, optionally filtered by a selector."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".contents()",
+                            "node": [
+                                {
+                                    "text": "Get the children of each element in the set of matched elements, including text and comment nodes."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".not()",
+                            "node": [
+                                {
+                                    "text": "Remove elements from the set of matched elements."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Tree Traversal",
+                    "node": [
+                        {
+                            "text": ".children()",
+                            "node": [
+                                {
+                                    "text": "Get the children of each element in the set of matched elements, optionally filtered by a selector."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".closest()",
+                            "node": [
+                                {
+                                    "text": "For each element in the set, get the first element that matches the selector by testing the element itself and traversing up through its ancestors in the DOM tree."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".end()",
+                            "node": [
+                                {
+                                    "text": "End the most recent filtering operation in the current chain and return the set of matched elements to its previous state."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".find()",
+                            "node": [
+                                {
+                                    "text": "Get the descendants of each element in the current set of matched elements, filtered by a selector, jQuery object, or element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".next()",
+                            "node": [
+                                {
+                                    "text": "Get the immediately following sibling of each element in the set of matched elements. If a selector is provided, it retrieves the next sibling only if it matches that selector."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".nextAll()",
+                            "node": [
+                                {
+                                    "text": "Get all following siblings of each element in the set of matched elements, optionally filtered by a selector."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".nextUntil()",
+                            "node": [
+                                {
+                                    "text": "Get all following siblings of each element up to but not including the element matched by the selector, DOM node, or jQuery object passed."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".parent()",
+                            "node": [
+                                {
+                                    "text": "Get the parent of each element in the current set of matched elements, optionally filtered by a selector."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".parents()",
+                            "node": [
+                                {
+                                    "text": "Get the ancestors of each element in the current set of matched elements, optionally filtered by a selector."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".parentsUntil()",
+                            "node": [
+                                {
+                                    "text": "Get the ancestors of each element in the current set of matched elements, up to but not including the element matched by the selector, DOM node, or jQuery object."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".prev()",
+                            "node": [
+                                {
+                                    "text": "Get the immediately preceding sibling of each element in the set of matched elements, optionally filtered by a selector."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".prevAll()",
+                            "node": [
+                                {
+                                    "text": "Get all preceding siblings of each element in the set of matched elements, optionally filtered by a selector."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".prevUntil()",
+                            "node": [
+                                {
+                                    "text": "Get all preceding siblings of each element up to but not including the element matched by the selector, DOM node, or jQuery object."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Selectors",
+            "node": [
+                {
+                    "text": "Attribute",
+                    "node": [
+                        {
+                            "text": "\"Attribute Contains Prefix Selector [name|=\"\"va...",
+                            "node": [
+                                {
+                                    "text": "Selects elements that have the specified attribute with a value either equal to a given string or starting with that string followed by a hyphen..."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "\"Attribute Contains Selector [name*=\"\"value\"\"]\"...",
+                            "node": [
+                                {
+                                    "text": "Selects elements that have the specified attribute with a value containing the a given substring."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "\"Attribute Contains Word Selector [name~=\"\"valu...",
+                            "node": [
+                                {
+                                    "text": "Selects elements that have the specified attribute with a value containing a given word, delimited by spaces."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "\"Attribute Ends With Selector [name$=\"\"value\"\"]...",
+                            "node": [
+                                {
+                                    "text": "Selects elements that have the specified attribute with a value ending exactly with a given string. The comparison is case sensitive."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "\"Attribute Equals Selector [name=\"\"value\"\"]\"",
+                            "node": [
+                                {
+                                    "text": "Selects elements that have the specified attribute with a value exactly equal to a certain value."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "\"Attribute Starts With Selector [name^=\"\"value\"...",
+                            "node": [
+                                {
+                                    "text": "Selects elements that have the specified attribute with a value beginning exactly with a given string."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Has Attribute Selector [name]",
+                            "node": [
+                                {
+                                    "text": "Selects elements that have the specified attribute, with any value."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Selectors ~ jQuery Extensions",
+                            "node": [
+                                {
+                                    "text": "\"Multiple Attribute Selector [name=\"\"value\"\"][n...",
+                                    "node": [
+                                        {
+                                            "text": "Matches elements that match all of the specified attribute filters."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Basic",
+                    "node": [
+                        {
+                            "text": "\"Attribute Not Equal Selector [name!=\"\"value\"\"]...",
+                            "node": [
+                                {
+                                    "text": "Select elements that either don't have the specified attribute, or do have the specified attribute but not with a certain value."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "All Selector ('*')",
+                            "node": [
+                                {
+                                    "text": "Selects all elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Class Selector ('.class')",
+                            "node": [
+                                {
+                                    "text": "Selects all elements with the given class."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Element Selector ('element')",
+                            "node": [
+                                {
+                                    "text": "Selects all elements with the given tag name."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ID Selector ('#id')",
+                            "node": [
+                                {
+                                    "text": "Selects a single element with the given id attribute."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Basic Filter",
+                    "node": [
+                        {
+                            "text": ":lang Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements of the specified language."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":not() Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that do not match the given selector."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":root Selector",
+                            "node": [
+                                {
+                                    "text": "Selects the element that is the root of the document."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Multiple Selector ('selector1, selector2, s...",
+                            "node": [
+                                {
+                                    "text": "Selects the combined results of all the specified selectors."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Selectors ~ Form",
+                            "node": [
+                                {
+                                    "text": ":target Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects the target element indicated by the fragment identifier of the document's URI."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Selectors ~ jQuery Extensions",
+                            "node": [
+                                {
+                                    "text": ":animated Selector",
+                                    "node": [
+                                        {
+                                            "text": "Select all elements that are in the progress of an animation at the time the selector is run."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":eq() Selector",
+                                    "node": [
+                                        {
+                                            "text": "Select the element at index n within the matched set."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":even Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects even elements, zero-indexed. See also odd."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":first Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects the first matched element."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":focus Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects element if it is currently focused."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":gt() Selector",
+                                    "node": [
+                                        {
+                                            "text": "Select all elements at an index greater than index within the matched set."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":header Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements that are headers, like h1, h2, h3 and so on."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":last Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects the last matched element."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":lt() Selector",
+                                    "node": [
+                                        {
+                                            "text": "Select all elements at an index less than index within the matched set."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Child Filter",
+                    "node": [
+                        {
+                            "text": ":first-child Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are the first child of their parent."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":first-of-type Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are the first among siblings of the same element name."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":last-child Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are the last child of their parent."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":last-of-type Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are the last among siblings of the same element name."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":nth-child() Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are the nth-child of their parent."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":nth-last-child() Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are the nth-child of their parent, counting from the last element to the first."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":nth-last-of-type() Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are the nth-child of their parent, counting from the last element to the first."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":nth-of-type() Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are the nth child of their parent in relation to siblings with the same element name."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":odd Selector",
+                            "node": [
+                                {
+                                    "text": "Selects odd elements, zero-indexed. See also even."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":only-child Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are the only child of their parent."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Content Filter",
+                    "node": [
+                        {
+                            "text": ":contains() Selector",
+                            "node": [
+                                {
+                                    "text": "Select all elements that contain the specified text."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":only-of-type Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that have no siblings with the same element name."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Selectors ~ jQuery Extensions",
+                            "node": [
+                                {
+                                    "text": ":empty Selector",
+                                    "node": [
+                                        {
+                                            "text": "Select all elements that have no children (including text nodes)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":has() Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects elements which contain at least one element that matches the specified selector."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Filtering",
+                    "node": [
+                        {
+                            "text": ":visible Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are visible."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Form",
+                    "node": [
+                        {
+                            "text": ":checked Selector",
+                            "node": [
+                                {
+                                    "text": "Matches all elements that are checked or selected."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":disabled Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are disabled."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ":parent Selector",
+                            "node": [
+                                {
+                                    "text": "Select all elements that that have at least one child node (either an element or text)."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Selectors ~ jQuery Extensions",
+                            "node": [
+                                {
+                                    "text": ":button Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all button elements and elements of type button."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":checkbox Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements of type checkbox."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":enabled Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements that are enabled."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":file Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements of type file."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":image Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements of type image."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":input Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all input, textarea, select and button elements."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":password Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements of type password."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":radio Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements of type radio."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":reset Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements of type reset."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":selected Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements that are selected."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": ":submit Selector",
+                                    "node": [
+                                        {
+                                            "text": "Selects all elements of type submit."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Hierarchy",
+                    "node": [
+                        {
+                            "text": ":text Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements of type text."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Child Selector ('parent > child')",
+                            "node": [
+                                {
+                                    "text": "Selects all direct child elements specified by 'child' of elements specified by 'parent'."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Descendant Selector ('ancestor descendant')",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are descendants of a given ancestor."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Next Adjacent Selector ('prev + next')",
+                            "node": [
+                                {
+                                    "text": "Selects all next elements matching 'next' that are immediately preceded by a sibling 'prev'."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "jQuery Extensions ~ Selectors ~ Visibility Filter",
+                    "node": [
+                        {
+                            "text": ":hidden Selector",
+                            "node": [
+                                {
+                                    "text": "Selects all elements that are hidden."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Next Siblings Selector ('prev ~ siblings')",
+                            "node": [
+                                {
+                                    "text": "Selects all sibling elements that follow after the 'prev' element, have the same parent, and match the filtering 'siblings' selector."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Properties",
+            "node": [
+                {
+                    "text": "Attribute",
+                    "node": [
+                        {
+                            "text": "jQuery.support",
+                            "node": [
+                                {
+                                    "text": "A collection of properties that represent the presence of different browser features or bugs. Primarily intended for jQuery's internal use; specific properties may be removed when they are no longer needed internally to improve page star..."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Properties of the Global jQuery Object ~ Utilities",
+                    "node": [
+                        {
+                            "text": ".length",
+                            "node": [
+                                {
+                                    "text": "The number of elements in the jQuery object."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Offset ~ Properties of jQuery Object Instances",
+            "node": [
+                {
+                    "text": ".offsetParent()",
+                    "node": [
+                        {
+                            "text": "Get the closest ancestor element that is positioned."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Miscellaneous",
+            "node": [
+                {
+                    "text": "Collection Manipulation ~ Traversing",
+                    "node": [
+                        {
+                            "text": "jQuery.param()",
+                            "node": [
+                                {
+                                    "text": "Create a serialized representation of an array or object, suitable for use in a URL query string or Ajax request."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "DOM Element Methods",
+                    "node": [
+                        {
+                            "text": ".each()",
+                            "node": [
+                                {
+                                    "text": "Iterate over a jQuery object, executing a function for each matched element."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".get()",
+                            "node": [
+                                {
+                                    "text": "Retrieve the DOM elements matched by the jQuery object."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".index()",
+                            "node": [
+                                {
+                                    "text": "Search for a given element from among the matched elements."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Traversing ~ Tree Traversal",
+                    "node": [
+                        {
+                            "text": ".toArray()",
+                            "node": [
+                                {
+                                    "text": "Retrieve all the DOM elements contained in the jQuery set, as an array."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Manipulation",
+            "node": [
+                {
+                    "text": "DOM Insertion, Around",
+                    "node": [
+                        {
+                            "text": ".clone()",
+                            "node": [
+                                {
+                                    "text": "Create a deep copy of the set of matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".wrap()",
+                            "node": [
+                                {
+                                    "text": "Wrap an HTML structure around each element in the set of matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".wrapAll()",
+                            "node": [
+                                {
+                                    "text": "Wrap an HTML structure around all elements in the set of matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Collection Manipulation ~ Forms ~ Ajax Helper...",
+                            "node": [
+                                {
+                                    "text": "Collection Manipulation ~ Forms ~ Ajax Helper Functions"
+                                },
+                                {
+                                    "text": ".replaceWith()",
+                                    "node": [
+                                        {
+                                            "text": "Replace each element in the set of matched elements with the provided new content and return the set of elements that was removed."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Manipulation ~ DOM Removal",
+                            "node": [
+                                {
+                                    "text": ".wrapInner()",
+                                    "node": [
+                                        {
+                                            "text": "Wrap an HTML structure around the content of each element in the set of matched elements."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "DOM Insertion, Inside",
+                    "node": [
+                        {
+                            "text": ".append()",
+                            "node": [
+                                {
+                                    "text": "Insert content, specified by the parameter, to the end of each element in the set of matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".appendTo()",
+                            "node": [
+                                {
+                                    "text": "Insert every element in the set of matched elements to the end of the target."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".prepend()",
+                            "node": [
+                                {
+                                    "text": "Insert content, specified by the parameter, to the beginning of each element in the set of matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".prependTo()",
+                            "node": [
+                                {
+                                    "text": "Insert every element in the set of matched elements to the beginning of the target."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".unwrap()",
+                            "node": [
+                                {
+                                    "text": "Remove the parents of the set of matched elements from the DOM, leaving the matched elements in their place."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "DOM Insertion, Outside",
+                    "node": [
+                        {
+                            "text": ".after()",
+                            "node": [
+                                {
+                                    "text": "Insert content, specified by the parameter, after each element in the set of matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".before()",
+                            "node": [
+                                {
+                                    "text": "Insert content, specified by the parameter, before each element in the set of matched elements."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".insertAfter()",
+                            "node": [
+                                {
+                                    "text": "Insert every element in the set of matched elements after the target."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".text()",
+                            "node": [
+                                {
+                                    "text": "Get the combined text contents of each element in the set of matched elements, including their descendants, or set the text contents of the matched elements."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "DOM Removal",
+                    "node": [
+                        {
+                            "text": ".detach()",
+                            "node": [
+                                {
+                                    "text": "Remove the set of matched elements from the DOM."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".empty()",
+                            "node": [
+                                {
+                                    "text": "Remove all child nodes of the set of matched elements from the DOM."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".insertBefore()",
+                            "node": [
+                                {
+                                    "text": "Insert every element in the set of matched elements before the target."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "DOM Replacement",
+                    "node": [
+                        {
+                            "text": ".remove()",
+                            "node": [
+                                {
+                                    "text": "Remove the set of matched elements from the DOM."
+                                }
+                            ]
+                        },
+                        {
+                            "text": ".replaceAll()",
+                            "node": [
+                                {
+                                    "text": "Replace each target element with the set of matched elements."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Internals",
+            "node": [
+                {
+                    "text": "jQuery.error()",
+                    "node": [
+                        {
+                            "text": "Takes a string and throws an exception containing it."
+                        },
+                        {
+                            "text": "Copying",
+                            "node": [
+                                {
+                                    "text": ".jquery",
+                                    "node": [
+                                        {
+                                            "text": "A string containing the jQuery version number."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Properties of jQuery Object Instances",
+                            "node": [
+                                {
+                                    "text": ".pushStack()",
+                                    "node": [
+                                        {
+                                            "text": "Add a collection of DOM elements onto the jQuery stack."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Forms",
+            "node": [
+                {
+                    "text": ".serializeArray()",
+                    "node": [
+                        {
+                            "text": "Encode a set of form elements as an array of names and values."
+                        }
+                    ]
+                },
+                {
+                    "text": "Ajax ~ Helper Functions",
+                    "node": [
+                        {
+                            "text": ".serialize()",
+                            "node": [
+                                {
+                                    "text": "Encode a set of form elements as a string for submission."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
