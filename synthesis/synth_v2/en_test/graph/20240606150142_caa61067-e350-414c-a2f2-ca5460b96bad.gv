@@ -1,0 +1,268 @@
+strict digraph "" {
+	graph [bb="0,0,7074.9,633.22",
+		bgcolor=transparent,
+		labeljust=c,
+		overlap=false,
+		rankdir=RL,
+		sep="+25,25"
+	];
+	node [fontname=SELINCAH,
+		label="\N"
+	];
+	"way 
+that t
+he animals speak and interact, "	[color=azure,
+		fillcolor=lightseagreen,
+		fontcolor="#BDB76B",
+		fontsize=60,
+		height=4.2684,
+		label="way 
+that t
+he animals speak and interact, ",
+		penwidth=6,
+		peripheries=3,
+		pos="6471.5,390.22",
+		shape=ellipse,
+		style=filled,
+		width=16.761];
+	"re very concer
+ned with the purs
+uit
+ of truth in wr"	[color=blueviolet,
+		fillcolor=lightskyblue,
+		fontcolor="#000080",
+		fontsize=58,
+		height=3.6667,
+		label="re very concer
+ned with the purs
+uit
+ of truth in wr",
+		penwidth=8,
+		pos="5506.4,501.22",
+		shape=box,
+		style=filled,
+		width=6.3472];
+	"way 
+that t
+he animals speak and interact, " -> "re very concer
+ned with the purs
+uit
+ of truth in wr"	[arrowhead=diamond,
+		arrowsize=1,
+		penwidth=6,
+		pos="e,5735.1,474.98 5921.4,453.5 5860.5,460.52 5801.1,467.36 5747.2,473.58",
+		style=solid];
+	"orks of Swiftian Satire. F
+urth"	[color=darkred,
+		fillcolor=lightyellow,
+		fontcolor="#2F4F4F",
+		fontsize=40,
+		height=1.9967,
+		label="orks of Swiftian Satire. F
+urth",
+		penwidth=5,
+		peripheries=2,
+		pos="5506.4,279.22",
+		shape=ellipse,
+		style=filled,
+		width=9.0482];
+	"way 
+that t
+he animals speak and interact, " -> "orks of Swiftian Satire. F
+urth"	[arrowhead=none,
+		arrowsize=2,
+		penwidth=12,
+		pos="5921.4,326.94 5878.2,321.96 5835.8,317.07 5795.5,312.42",
+		style=solid];
+	"deceive and confuse. For this reason, he"	[color=lightgrey,
+		fillcolor=lightsteelblue,
+		fontcolor="#BDB76B",
+		fontsize=46,
+		height=1.3811,
+		label="deceive and confuse. For this reason, he",
+		penwidth=0,
+		peripheries=3,
+		pos="4537.7,279.22",
+		shape=ellipse,
+		style=filled,
+		width=16.859];
+	"orks of Swiftian Satire. F
+urth" -> "deceive and confuse. For this reason, he"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=12,
+		pos="e,5144.7,279.22 5180.5,279.22 5172.8,279.22 5165.1,279.22 5157.4,279.22",
+		style=solid];
+	"mals on the farm, such "	[color=darkseagreen,
+		fillcolor=lightblue,
+		fontcolor="#800000",
+		fontsize=60,
+		height=1.5646,
+		label="mals on the farm, such ",
+		penwidth=0,
+		peripheries=2,
+		pos="3440.4,397.22",
+		shape=ellipse,
+		style=filled,
+		width=12.623];
+	"deceive and confuse. For this reason, he" -> "mals on the farm, such "	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=8,
+		pos="e,3784.2,360.29 4169.7,318.76 4048.6,331.8 3914.3,346.28 3794.2,359.21",
+		style=tapered];
+	"rsuit of t
+ruth in wr
+iting. Orwell 
+was committe"	[color=lightcoral,
+		fillcolor=lightblue,
+		fontcolor="#2F4F4F",
+		fontsize=50,
+		height=4.4783,
+		label="rsuit of t
+ruth in wr
+iting. Orwell 
+was committe",
+		penwidth=8,
+		peripheries=1,
+		pos="3440.4,161.22",
+		shape=ellipse,
+		style=filled,
+		width=6.3443];
+	"deceive and confuse. For this reason, he" -> "rsuit of t
+ruth in wr
+iting. Orwell 
+was committe"	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=12,
+		pos="e,3666.4,185.46 4169.7,239.68 4007,222.15 3820.3,202.04 3676.7,186.57",
+		style=tapered];
+	mitted	[color=darkorchid,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#E9967A",
+		fontsize=57,
+		height=1.5057,
+		label=mitted,
+		penwidth=3,
+		peripheries=2,
+		pos="2565.3,397.22",
+		shape=ellipse,
+		style=filled,
+		width=3.4699];
+	"mals on the farm, such " -> mitted	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=12,
+		pos="e,2690.5,397.22 2985.9,397.22 2882.7,397.22 2780.8,397.22 2703.2,397.22",
+		style=solid];
+	"s in an unb
+iased and un"	[color=aliceblue,
+		fillcolor=lightgrey,
+		fontcolor="#800080",
+		fontsize=45,
+		height=4.2426,
+		label="s in an unb
+iased and un",
+		penwidth=0,
+		pos="2565.3,161.22",
+		shape=invtriangle,
+		style=filled,
+		width=10.685];
+	"rsuit of t
+ruth in wr
+iting. Orwell 
+was committe" -> "s in an unb
+iased and un"	[arrowhead=invdot,
+		arrowsize=2,
+		penwidth=7,
+		pos="e,2822.2,161.22 3212,161.22 3103.9,161.22 2973.5,161.22 2858.2,161.22",
+		style=solid];
+	"s careful, in \"Anima
+l Far"	[color=coral,
+		fillcolor=lightskyblue,
+		fontcolor="#000080",
+		fontsize=48,
+		height=1.5833,
+		label="s careful, in \"Anima
+l Far",
+		penwidth=6,
+		pos="1548.3,485.22",
+		shape=box,
+		style=filled,
+		width=5.9861];
+	mitted -> "s careful, in \"Anima
+l Far"	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=7,
+		pos="e,1764.3,466.58 2442.6,407.77 2277.8,422.06 1980.4,447.84 1774.3,465.71",
+		style=dotted];
+	" communicating in a way that wa
+s strai"	[color=dimgrey,
+		fillcolor=lightgray,
+		fontcolor="#808000",
+		fontsize=56,
+		height=2.8149,
+		label=" communicating in a way that wa
+s strai",
+		penwidth=2,
+		peripheries=3,
+		pos="1548.3,309.22",
+		shape=ellipse,
+		style=filled,
+		width=16.564];
+	mitted -> " communicating in a way that wa
+s strai"	[arrowhead=normal,
+		arrowsize=1.75,
+		penwidth=7,
+		pos="e,2080,355.23 2442.6,386.67 2354.2,379 2227.7,368.03 2097.5,356.75",
+		style=solid];
+	"similar to those in \"Ani"	[color=cornflowerblue,
+		fillcolor=lightsteelblue,
+		fontcolor="#008B8B",
+		fontsize=45,
+		height=1.6111,
+		label="similar to those in \"Ani",
+		penwidth=7,
+		pos="458,545.22",
+		shape=diamond,
+		style=filled,
+		width=12.722];
+	"s careful, in \"Anima
+l Far" -> "similar to those in \"Ani"	[arrowhead=normal,
+		arrowsize=2,
+		penwidth=8,
+		pos="e,777.42,527.67 1332.6,497.06 1180.1,505.47 972.19,516.93 797.47,526.56",
+		style=tapered];
+	"ture for humanity; he seems to "	[color=darkgoldenrod,
+		fillcolor=lightslategrey,
+		fontcolor="#008B8B",
+		fontsize=40,
+		height=0.72222,
+		label="ture for humanity; he seems to ",
+		penwidth=3,
+		pos="458,443.22",
+		shape=box,
+		style=filled,
+		width=7.9583];
+	"s careful, in \"Anima
+l Far" -> "ture for humanity; he seems to "	[arrowhead=box,
+		arrowsize=1,
+		penwidth=9,
+		pos="e,744.63,454.24 1332.6,476.94 1167.4,470.56 937.27,461.68 754.66,454.63",
+		style=dotted];
+	"riting. Orwell was com"	[color=darkmagenta,
+		fillcolor=lightblue,
+		fontcolor="#000000",
+		fontsize=45,
+		height=1.3614,
+		label="riting. Orwell was com",
+		penwidth=7,
+		peripheries=3,
+		pos="458,309.22",
+		shape=ellipse,
+		style=filled,
+		width=9.1593];
+	" communicating in a way that wa
+s strai" -> "riting. Orwell was com"	[arrowhead=empty,
+		arrowsize=1.75,
+		penwidth=8,
+		pos="e,787.94,309.22 951.81,309.22 901.9,309.22 852.56,309.22 805.51,309.22",
+		style=dashed];
+}

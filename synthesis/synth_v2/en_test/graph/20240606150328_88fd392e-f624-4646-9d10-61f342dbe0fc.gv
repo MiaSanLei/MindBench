@@ -1,0 +1,155 @@
+strict digraph "" {
+	graph [bb="0,0,4625.9,1190",
+		bgcolor=transparent,
+		labeljust=c,
+		overlap=false,
+		sep="+25,25"
+	];
+	node [fontname="Copilme Light Bold italic",
+		label="\N"
+	];
+	"\"a\", and its variant \"an\", "	[color=lightcoral,
+		fillcolor=lightgray,
+		fontcolor="#000080",
+		fontsize=60,
+		height=1.7895,
+		label="\"a\", and its variant \"an\", ",
+		penwidth=7,
+		peripheries=2,
+		pos="2088.1,565.83",
+		shape=polygon,
+		sides=6,
+		style=filled,
+		width=14.938];
+	"t \"an\", are indefini
+te article"	[color=dimgray,
+		fillcolor=lightslategray,
+		fontcolor="#800000",
+		fontsize=60,
+		height=2.7499,
+		label="t \"an\", are indefini
+te article",
+		penwidth=8,
+		peripheries=1,
+		pos="3099.7,565.83",
+		shape=ellipse,
+		style=filled,
+		width=9.3299];
+	"\"a\", and its variant \"an\", " -> "t \"an\", are indefini
+te article"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=10,
+		pos="e,2763.7,565.83 2625.7,565.83 2667.3,565.83 2708.6,565.83 2748.5,565.83",
+		style=dashed];
+	"ants . In tu
+rn, the an"	[color=burlywood,
+		fillcolor=lightskyblue,
+		fontcolor="#BDB76B",
+		fontsize=55,
+		height=2.5534,
+		label="ants . In tu
+rn, the an",
+		penwidth=1,
+		peripheries=1,
+		pos="1307.9,565.83",
+		shape=ellipse,
+		style=filled,
+		width=5.3426];
+	"\"a\", and its variant \"an\", " -> "ants . In tu
+rn, the an"	[arrowhead=inv,
+		arrowsize=1.75,
+		penwidth=10,
+		pos="e,1500.5,565.83 1550.4,565.83 1539.5,565.83 1528.6,565.83 1518.1,565.83",
+		style=tapered];
+	"by Egyptian hie"	[color=darkolivegreen,
+		fillcolor=lightcyan,
+		fontcolor="#B8860B",
+		fontsize=59,
+		height=1.0139,
+		label="by Egyptian hie",
+		penwidth=3,
+		pos="3703.2,565.83",
+		shape=box,
+		style=filled,
+		width=5.9028];
+	"t \"an\", are indefini
+te article" -> "by Egyptian hie"	[arrowhead=diamond,
+		arrowsize=2,
+		penwidth=10,
+		pos="e,3490.7,565.83 3435.9,565.83 3446.1,565.83 3456.4,565.83 3466.5,565.83",
+		style=solid];
+	"ed as a triangular h
+ead with two horns ext"	[color=lightcyan,
+		fillcolor=lightskyblue,
+		fontcolor="#A9A9A9",
+		fontsize=43,
+		height=1.4167,
+		label="ed as a triangular h
+ead with two horns ext",
+		penwidth=4,
+		pos="259,565.83",
+		shape=box,
+		style=filled,
+		width=6.2222];
+	"ants . In tu
+rn, the an" -> "ed as a triangular h
+ead with two horns ext"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=9,
+		pos="e,483.39,565.83 1115.5,565.83 940.95,565.83 683.06,565.83 495.89,565.83",
+		style=tapered];
+	"lly fonts intended to be read"	[color=darkmagenta,
+		fillcolor=lightpink,
+		fontcolor="#000000",
+		fontsize=51,
+		height=0.88889,
+		label="lly fonts intended to be read",
+		penwidth=7,
+		pos="4298.4,565.83",
+		shape=box,
+		style=filled,
+		width=9.0972];
+	"by Egyptian hie" -> "lly fonts intended to be read"	[arrowhead=invempty,
+		arrowsize=1.5,
+		penwidth=6,
+		pos="e,3970.8,565.83 3916,565.83 3929,565.83 3942.3,565.83 3955.7,565.83",
+		style=dotted];
+	" fonts based
+ on it, esp"	[color=darkgrey,
+		fillcolor=lightcyan,
+		fontcolor="#E9967A",
+		fontsize=45,
+		height=2.3435,
+		label=" fonts based
+ on it, esp",
+		penwidth=1,
+		peripheries=3,
+		pos="259,1105.7",
+		shape=ellipse,
+		style=filled,
+		width=5.4666];
+	"ed as a triangular h
+ead with two horns ext" -> " fonts based
+ on it, esp"	[arrowhead=inv,
+		arrowsize=1,
+		penwidth=12,
+		pos="e,259,1020.9 259,617.1 259,707.41 259,896.12 259,1010.8",
+		style=bold];
+	"gle, crossed in the middle b"	[color=darkgreen,
+		fillcolor=lightskyblue,
+		fontcolor="#000000",
+		fontsize=40,
+		height=0.72222,
+		label="gle, crossed in the middle b",
+		penwidth=8,
+		pos="259,26",
+		shape=box,
+		style=filled,
+		width=7.1944];
+	"ed as a triangular h
+ead with two horns ext" -> "gle, crossed in the middle b"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=10,
+		pos="e,259,52.04 259,514.56 259,407.97 259,164.3 259,67.12",
+		style=solid];
+}

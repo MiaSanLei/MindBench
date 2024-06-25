@@ -1,0 +1,307 @@
+strict digraph "" {
+	graph [bb="0,0,8832.1,6478.5",
+		bgcolor=transparent,
+		colorscheme=greens7,
+		labeljust=r,
+		overlap=false,
+		sep="+25,25"
+	];
+	node [fontname="URW Gothic Bold italic",
+		label="\N"
+	];
+	"ic forms. Organolithium compounds, "	[color=5,
+		colorscheme=greens7,
+		fillcolor=2,
+		fontcolor="#000000",
+		fontsize=60,
+		height=1.5646,
+		label="ic forms. Organolithium compounds, ",
+		penwidth=8,
+		peripheries=2,
+		pos="3601,3253.5",
+		shape=ellipse,
+		width=21.344];
+	"with magnesium, which plays an "	[color=6,
+		colorscheme=greens7,
+		fillcolor=1,
+		fontcolor="#8B0000",
+		fontsize=60,
+		height=1.0278,
+		label="with magnesium, which plays an ",
+		penwidth=1,
+		pos="4899.6,3253.5",
+		shape=box,
+		style=filled,
+		width=13.319];
+	"ic forms. Organolithium compounds, " -> "with magnesium, which plays an "	[arrowhead=normal,
+		arrowsize=1,
+		color=cornflowerblue,
+		penwidth=7,
+		pos="e,4420.1,3253.5 4369.5,3253.5 4383.1,3253.5 4396.5,3253.5 4409.9,3253.5",
+		style=solid];
+	"ositive natu
+re of lithium puts"	[color=5,
+		colorscheme=greens7,
+		fillcolor=4,
+		fontcolor="#2F4F4F",
+		fontsize=46,
+		height=2.3828,
+		label="ositive natu
+re of lithium puts",
+		penwidth=8,
+		peripheries=3,
+		pos="2521.4,5878.9",
+		shape=ellipse,
+		style=filled,
+		width=7.8236];
+	"ic forms. Organolithium compounds, " -> "ositive natu
+re of lithium puts"	[arrowhead=normal,
+		arrowsize=2,
+		color=aquamarine,
+		penwidth=11,
+		pos="e,2556.5,5793.5 3577.8,3309.9 3441.6,3641.1 2744.8,5335.4 2564.2,5774.7",
+		style=solid];
+	" bases and nucle"	[color=6,
+		colorscheme=greens7,
+		fillcolor=4,
+		fontcolor="#800000",
+		fontsize=50,
+		height=1.3485,
+		label=" bases and nucle",
+		penwidth=1,
+		peripheries=2,
+		pos="2500.9,2255.7",
+		shape=ellipse,
+		style=filled,
+		width=8.4];
+	"ic forms. Organolithium compounds, " -> " bases and nucle"	[arrowhead=invdot,
+		arrowsize=2,
+		color=blanchedalmond,
+		penwidth=10,
+		pos="e,2553.7,2303.6 3538.7,3197 3350.8,3026.5 2789.5,2517.4 2580.5,2327.9",
+		style=bold];
+	"s t
+hat melt at l
+o
+w temperatures, and tend to for"	[color=3,
+		colorscheme=greens7,
+		fillcolor=7,
+		fontcolor="#800000",
+		fontsize=43,
+		height=7.6996,
+		label="s t
+hat melt at l
+o
+w temperatures, and tend to for",
+		penwidth=3,
+		pos="6361.2,3253.5",
+		shape=triangle,
+		style=filled,
+		width=25.888];
+	"with magnesium, which plays an " -> "s t
+hat melt at l
+o
+w temperatures, and tend to for"	[arrowhead=tee,
+		arrowsize=1,
+		color=bisque,
+		penwidth=11,
+		pos="e,5739.6,3253.5 5379.2,3253.5 5492.7,3253.5 5615.3,3253.5 5734.3,3253.5",
+		style=tapered];
+	"and ketones by rea
+ction w
+ith metal carbon
+yls. T"	[color=4,
+		colorscheme=greens7,
+		fillcolor=2,
+		fontcolor="#BDB76B",
+		fontsize=55,
+		height=3.5,
+		label="and ketones by rea
+ction w
+ith metal carbon
+yls. T",
+		penwidth=1,
+		pos="2300.2,6352.5",
+		shape=box,
+		style=filled,
+		width=7.1667];
+	"ositive natu
+re of lithium puts" -> "and ketones by rea
+ction w
+ith metal carbon
+yls. T"	[arrowhead=normal,
+		arrowsize=2,
+		color=blueviolet,
+		penwidth=11,
+		pos="e,2359.1,6226.4 2481.7,5963.8 2450,6031.6 2405,6128.1 2367.7,6208",
+		style=solid];
+	"roup. As the elect
+ropositive n"	[color=7,
+		colorscheme=greens7,
+		fillcolor=4,
+		fontcolor="#2F4F4F",
+		fontsize=54,
+		height=2.6971,
+		label="roup. As the elect
+ropositive n",
+		penwidth=3,
+		peripheries=3,
+		pos="2058.4,1863.6",
+		shape=ellipse,
+		style=filled,
+		width=9.4146];
+	" bases and nucle" -> "roup. As the elect
+ropositive n"	[arrowhead=normal,
+		arrowsize=1,
+		color=darkgreen,
+		penwidth=10,
+		pos="e,2163,1956.2 2446.7,2207.6 2378.3,2147 2259,2041.3 2170.6,1963",
+		style=solid];
+	"with the structur
+e where R is the
+ organic 
+g"	[color=7,
+		colorscheme=greens7,
+		fillcolor=3,
+		fontcolor="#B8860B",
+		fontsize=42,
+		height=3.9935,
+		label="with the structur
+e where R is the
+ organic 
+g",
+		penwidth=6,
+		peripheries=3,
+		pos="8309.4,3253.5",
+		shape=ellipse,
+		style=filled,
+		width=7.0379];
+	"s t
+hat melt at l
+o
+w temperatures, and tend to for" -> "with the structur
+e where R is the
+ organic 
+g"	[arrowhead=invdot,
+		arrowsize=1.5,
+		color=darkgrey,
+		penwidth=9,
+		pos="e,8056,3253.5 6982.6,3253.5 7334.2,3253.5 7756.7,3253.5 8028.9,3253.5",
+		style=dashed];
+	"tive nature of lithium puts most of "	[color=3,
+		colorscheme=greens7,
+		fillcolor=3,
+		fontcolor="#008B8B",
+		fontsize=59,
+		height=1.545,
+		label="tive nature of lithium puts most of ",
+		penwidth=5,
+		peripheries=2,
+		pos="889.26,835.74",
+		shape=ellipse,
+		width=19.458];
+	"roup. As the elect
+ropositive n" -> "tive nature of lithium puts most of "	[arrowhead=halfopen,
+		arrowsize=1.25,
+		color=gainsboro,
+		penwidth=6,
+		pos="e,952.36,891.21 1953.4,1771.2 1719.7,1565.8 1161.6,1075.1 961.88,899.58",
+		style=solid];
+	". Organolithium compounds are electr
+ically no"	[color=5,
+		colorscheme=greens7,
+		fillcolor=2,
+		fontcolor="#8B008B",
+		fontsize=56,
+		height=1.8333,
+		label=". Organolithium compounds are electr
+ically no",
+		penwidth=5,
+		pos="8314.6,2532.1",
+		shape=box,
+		style=filled,
+		width=14.375];
+	"with the structur
+e where R is the
+ organic 
+g" -> ". Organolithium compounds are electr
+ically no"	[arrowhead=vee,
+		arrowsize=2,
+		color=darkorchid,
+		penwidth=10,
+		pos="e,8314.2,2598.1 8310.5,3109.7 8311.5,2962.8 8313.1,2739.6 8314,2618.2",
+		style=solid];
+	"n organolithium 
+compound i
+s methyllithium (), 
+whi"	[color=7,
+		colorscheme=greens7,
+		fillcolor=2,
+		fontcolor="#BDB76B",
+		fontsize=58,
+		height=5.4077,
+		label="n organolithium 
+compound i
+s methyllithium (), 
+whi",
+		penwidth=3,
+		peripheries=3,
+		pos="8312.5,3974.9",
+		shape=ellipse,
+		style=filled,
+		width=10.573];
+	"with the structur
+e where R is the
+ organic 
+g" -> "n organolithium 
+compound i
+s methyllithium (), 
+whi"	[arrowhead=none,
+		arrowsize=1.75,
+		color=burlywood,
+		penwidth=7,
+		pos="8310,3397.3 8310.5,3507.1 8311.2,3659.4 8311.7,3780.1",
+		style=solid];
+	"dehydes and ketone
+s by reac"	[color=3,
+		colorscheme=greens7,
+		fillcolor=3,
+		fontcolor="#008000",
+		fontsize=53,
+		height=1.7222,
+		label="dehydes and ketone
+s by reac",
+		penwidth=3,
+		pos="262,1567.5",
+		shape=box,
+		style=filled,
+		width=7.2778];
+	"tive nature of lithium puts most of " -> "dehydes and ketone
+s by reac"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=antiquewhite,
+		penwidth=8,
+		pos="e,315.3,1505.3 841.6,891.34 729.83,1021.7 450.87,1347.2 325.17,1493.8",
+		style=dashed];
+	"esium, 
+which plays an "	[color=7,
+		colorscheme=greens7,
+		fillcolor=3,
+		fontcolor="#000080",
+		fontsize=44,
+		height=2.8889,
+		label="esium, 
+which plays an ",
+		penwidth=8,
+		pos="1506,104",
+		shape=diamond,
+		style=filled,
+		width=9.5278];
+	"tive nature of lithium puts most of " -> "esium, 
+which plays an "	[arrowhead=curve,
+		arrowsize=1.5,
+		color=deepskyblue,
+		penwidth=11,
+		pos="e,1435.9,187.11 936.12,780.14 1041,655.73 1295.5,353.69 1426,198.9",
+		style=dotted];
+}

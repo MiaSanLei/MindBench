@@ -1,0 +1,506 @@
+strict digraph "" {
+	graph [bb="0,0,4274,4172",
+		bgcolor=transparent,
+		labeljust=c,
+		overlap=false,
+		sep="+25,25"
+	];
+	node [fontname="Normal italic",
+		label="\N"
+	];
+	"of \"Baker "	[color=lightgray,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#006400",
+		fontsize=60,
+		height=2.0556,
+		label="of \"Baker ",
+		penwidth=0,
+		pos="2244.4,2100.4",
+		shape=invtrapezium,
+		style=filled,
+		width=7.3056];
+	isenfranchisement	[color=lightgrey,
+		fillcolor=lightcyan,
+		fontcolor="#008080",
+		fontsize=55,
+		height=1.3553,
+		label=isenfranchisement,
+		penwidth=6,
+		peripheries=1,
+		pos="3977.7,2140.6",
+		shape=ellipse,
+		style=filled,
+		width=8.2299];
+	"of \"Baker " -> isenfranchisement	[arrowhead=normal,
+		arrowsize=1.75,
+		color=dimgrey,
+		penwidth=7,
+		pos="e,3684,2133.8 2456.5,2105.3 2759.2,2112.3 3316.9,2125.3 3666.5,2133.4",
+		style=solid];
+	"llenges."	[color=lightyellow,
+		fillcolor=lightgreen,
+		fontcolor="#8B008B",
+		fontsize=47,
+		height=0.83333,
+		label="llenges.",
+		penwidth=2,
+		pos="2262.9,3698.4",
+		shape=box,
+		style=filled,
+		width=2.2361];
+	"of \"Baker " -> "llenges."	[arrowhead=invempty,
+		arrowsize=1,
+		color=cyan,
+		penwidth=10,
+		pos="e,2262.6,3668.3 2245.3,2174.5 2248.5,2455 2260,3445.9 2262.4,3658.2",
+		style=solid];
+	"en underrepresented for mo
+re th
+an sixty ye
+ars"	[color=dimgray,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#008080",
+		fontsize=52,
+		height=4.8577,
+		label="en underrepresented for mo
+re th
+an sixty ye
+ars",
+		penwidth=4,
+		peripheries=3,
+		pos="1272.4,895.35",
+		shape=ellipse,
+		style=filled,
+		width=11.909];
+	"of \"Baker " -> "en underrepresented for mo
+re th
+an sixty ye
+ars"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=chocolate,
+		penwidth=9,
+		pos="e,1406.6,1061.7 2184.7,2026.4 2033.6,1839 1632.7,1342 1416.1,1073.5",
+		style=solid];
+	"disenfranchi
+sement and segrega"	[color=blueviolet,
+		fillcolor=lightgrey,
+		fontcolor="#BDB76B",
+		fontsize=44,
+		height=1.4444,
+		label="disenfranchi
+sement and segrega",
+		penwidth=7,
+		pos="2575.1,3717",
+		shape=box,
+		style=filled,
+		width=5.0417];
+	"llenges." -> "disenfranchi
+sement and segrega"	[arrowhead=invodot,
+		arrowsize=2,
+		color=black,
+		penwidth=11,
+		pos="e,2393.4,3706.2 2343.7,3703.2 2348.1,3703.5 2352.6,3703.8 2357.1,3704",
+		style=tapered];
+	"ral domination, \"a mi
+nority of about 25% "	[color=darksalmon,
+		fillcolor=lightblue,
+		fontcolor="#800080",
+		fontsize=51,
+		height=3.3333,
+		label="ral domination, \"a mi
+nority of about 25% ",
+		penwidth=1,
+		pos="1619.9,3617.9",
+		shape=invtrapezium,
+		style=filled,
+		width=12.722];
+	"llenges." -> "ral domination, \"a mi
+nority of about 25% "	[arrowhead=halfopen,
+		arrowsize=1.25,
+		color=beige,
+		penwidth=6,
+		pos="e,2022.8,3668.4 2182.1,3688.3 2142.3,3683.3 2090.9,3676.9 2035.5,3670",
+		style=dotted];
+	"nderrepresented for more th"	[color=cornflowerblue,
+		fillcolor=lightsteelblue,
+		fontcolor="#8B008B",
+		fontsize=60,
+		height=1.4535,
+		label="nderrepresented for more th",
+		penwidth=4,
+		peripheries=1,
+		pos="487.2,1172.8",
+		shape=ellipse,
+		style=filled,
+		width=13.533];
+	"en underrepresented for mo
+re th
+an sixty ye
+ars" -> "nderrepresented for more th"	[arrowhead=none,
+		arrowsize=1,
+		color=darkslateblue,
+		penwidth=9,
+		pos="948.23,1009.9 836.95,1049.2 718.1,1091.2 628.94,1122.7",
+		style=tapered];
+	" disenfr
+anchisement and segregation"	[color=darkgrey,
+		fillcolor=lightyellow,
+		fontcolor="#BDB76B",
+		fontsize=57,
+		height=2.7431,
+		label=" disenfr
+anchisement and segregation",
+		penwidth=1,
+		peripheries=2,
+		pos="2177.8,569.95",
+		shape=ellipse,
+		style=filled,
+		width=13.526];
+	"en underrepresented for mo
+re th
+an sixty ye
+ars" -> " disenfr
+anchisement and segregation"	[arrowhead=empty,
+		arrowsize=2,
+		color=dodgerblue,
+		penwidth=12,
+		pos="e,1938.2,656.06 1594.2,779.71 1700.8,741.4 1817.9,699.28 1919.2,662.9",
+		style=solid];
+	"ears. Other changes were ma
+de to imp"	[color=coral,
+		fillcolor=lightcoral,
+		fontcolor="#9932CC",
+		fontsize=46,
+		height=1.5278,
+		label="ears. Other changes were ma
+de to imp",
+		penwidth=3,
+		pos="3084.4,3767.6",
+		shape=box,
+		style=filled,
+		width=7.7083];
+	"disenfranchi
+sement and segrega" -> "ears. Other changes were ma
+de to imp"	[arrowhead=inv,
+		arrowsize=1.5,
+		color=aliceblue,
+		penwidth=7,
+		pos="e,2806.7,3740 2756.8,3735 2768.3,3736.2 2779.9,3737.3 2791.7,3738.5",
+		style=solid];
+	" census. This benefited "	[color=darkslategrey,
+		fillcolor=lightgrey,
+		fontcolor="#FF8C00",
+		fontsize=54,
+		height=0.93056,
+		label=" census. This benefited ",
+		penwidth=0,
+		pos="1759.5,3981.7",
+		shape=box,
+		style=filled,
+		width=7.1667];
+	"ral domination, \"a mi
+nority of about 25% " -> " census. This benefited "	[arrowhead=normal,
+		arrowsize=1.25,
+		color=darkviolet,
+		penwidth=9,
+		pos="e,1746.6,3948.1 1666,3738 1692.1,3806 1723.1,3886.9 1742.1,3936.3",
+		style=solid];
+	"the congressional redistricting base"	[color=darkolivegreen,
+		fillcolor=lightsalmon,
+		fontcolor="#9932CC",
+		fontsize=44,
+		height=1.3222,
+		label="the congressional redistricting base",
+		penwidth=4,
+		peripheries=3,
+		pos="649.14,3447.9",
+		shape=ellipse,
+		style=filled,
+		width=12.832];
+	"ral domination, \"a mi
+nority of about 25% " -> "the congressional redistricting base"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=darkorchid,
+		penwidth=12,
+		pos="e,883.47,3488.9 1301.4,3562.1 1170.4,3539.2 1021,3513 898.3,3491.5",
+		style=solid];
+	"ed to press in t"	[color=brown,
+		fillcolor=lightgrey,
+		fontcolor="#006400",
+		fontsize=60,
+		height=1.6757,
+		label="ed to press in t",
+		penwidth=5,
+		peripheries=3,
+		pos="1701.7,3173.5",
+		shape=ellipse,
+		style=filled,
+		width=7.4504];
+	"ral domination, \"a mi
+nority of about 25% " -> "ed to press in t"	[arrowhead=normal,
+		arrowsize=1,
+		color=darkgoldenrod,
+		penwidth=10,
+		pos="e,1690.6,3233.9 1642,3497.7 1657,3416.5 1676.2,3312.1 1688.7,3244.1",
+		style=bold];
+	" on populat
+ion rather than geographic counties."	[color=dimgray,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#B8860B",
+		fontsize=45,
+		height=3,
+		label=" on populat
+ion rather than geographic counties.",
+		penwidth=0,
+		pos="1668.4,303.33",
+		shape=trapezium,
+		style=filled,
+		width=18.889];
+	" disenfr
+anchisement and segregation" -> " on populat
+ion rather than geographic counties."	[arrowhead=none,
+		arrowsize=1.5,
+		color=blanchedalmond,
+		penwidth=10,
+		pos="2001.8,477.82 1960.9,456.45 1917.1,433.51 1875.1,411.52",
+		style=solid];
+	"he legislature completed the con
+gressional redis"	[color=chocolate,
+		fillcolor=white,
+		fontcolor="#8B0000",
+		fontsize=45,
+		height=1.5,
+		label="he legislature completed the con
+gressional redis",
+		penwidth=0,
+		pos="2700.3,367.18",
+		shape=box,
+		width=8.375];
+	" disenfr
+anchisement and segregation" -> "he legislature completed the con
+gressional redis"	[arrowhead=diamond,
+		arrowsize=1.75,
+		color=brown,
+		penwidth=11,
+		pos="e,2561,421.22 2403.5,482.34 2450,464.32 2497.9,445.7 2541.4,428.84",
+		style=solid];
+	"he total state population is in majority con"	[color=lightseagreen,
+		fillcolor=lightyellow,
+		fontcolor="#9932CC",
+		fontsize=51,
+		height=1.4793,
+		label="he total state population is in majority con",
+		penwidth=1,
+		peripheries=3,
+		pos="2384.4,772.13",
+		shape=ellipse,
+		style=filled,
+		width=17.586];
+	" disenfr
+anchisement and segregation" -> "he total state population is in majority con"	[arrowhead=empty,
+		arrowsize=1,
+		color=gainsboro,
+		penwidth=8,
+		pos="e,2330.1,718.96 2276.9,666.89 2292.5,682.17 2308.2,697.57 2322.7,711.7",
+		style=dotted];
+	"ional redistricting based
+ on the d"	[color=chocolate,
+		fillcolor=lightsteelblue,
+		fontcolor="#00008B",
+		fontsize=46,
+		height=1.5278,
+		label="ional redistricting based
+ on the d",
+		penwidth=0,
+		pos="1896.3,3843.1",
+		shape=box,
+		width=6.5139];
+	" census. This benefited " -> "ional redistricting based
+ on the d"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=crimson,
+		penwidth=9,
+		pos="e,1841.9,3898.2 1792.6,3948.1 1804.3,3936.3 1817.8,3922.6 1831.2,3909",
+		style=bold];
+	"n underrepresen"	[color=darkred,
+		fillcolor=lightpink,
+		fontcolor="#800080",
+		fontsize=48,
+		height=1.481,
+		label="n underrepresen",
+		penwidth=7,
+		peripheries=1,
+		pos="1776,4118.7",
+		shape=polygon,
+		sides=5,
+		style=filled,
+		width=7.9877];
+	" census. This benefited " -> "n underrepresen"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=blanchedalmond,
+		penwidth=10,
+		pos="e,1770.8,4075.6 1763.5,4015.2 1765.1,4028.1 1766.9,4043.4 1768.7,4058.1",
+		style=solid];
+	" the fir"	[color=blueviolet,
+		fillcolor=lightgray,
+		fontcolor="#800080",
+		fontsize=40,
+		height=1.2436,
+		label=" the fir",
+		penwidth=7,
+		peripheries=3,
+		pos="1354,3907.7",
+		shape=ellipse,
+		style=filled,
+		width=2.6185];
+	" census. This benefited " -> " the fir"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=darkorchid,
+		penwidth=12,
+		pos="e,1442,3923.8 1575.7,3948.2 1535,3940.8 1493.3,3933.1 1457.2,3926.6",
+		style=solid];
+	"re made to impl"	[color=blanchedalmond,
+		fillcolor=lightyellow,
+		fontcolor="#800080",
+		fontsize=55,
+		height=0.95833,
+		label="re made to impl",
+		penwidth=7,
+		pos="1428.2,3028.6",
+		shape=box,
+		style=filled,
+		width=5.0139];
+	"ed to press in t" -> "re made to impl"	[arrowhead=invdot,
+		arrowsize=1,
+		color=beige,
+		penwidth=12,
+		pos="e,1493.3,3063.1 1596.7,3117.9 1567.8,3102.5 1536.8,3086.1 1509.4,3071.6",
+		style=dashed];
+	"e throu
+gh the civil rig"	[color=darkcyan,
+		fillcolor=white,
+		fontcolor="#000000",
+		fontsize=49,
+		height=2.2785,
+		label="e throu
+gh the civil rig",
+		penwidth=8,
+		peripheries=1,
+		pos="2090.4,3365.9",
+		shape=ellipse,
+		style=filled,
+		width=5.9515];
+	"ed to press in t" -> "e throu
+gh the civil rig"	[arrowhead=normal,
+		arrowsize=1,
+		color=aquamarine,
+		penwidth=11,
+		pos="e,1959.2,3301 1812.8,3228.5 1855.6,3249.7 1905.1,3274.2 1950.3,3296.5",
+		style=dashed];
+	"at because of rural "	[color=lightskyblue,
+		fillcolor=lightcoral,
+		fontcolor="#800000",
+		fontsize=55,
+		height=0.95833,
+		label="at because of rural ",
+		penwidth=6,
+		pos="1351.7,497.8",
+		shape=box,
+		style=filled,
+		width=6.2361];
+	" on populat
+ion rather than geographic counties." -> "at because of rural "	[arrowhead=normal,
+		arrowsize=1.75,
+		color=aqua,
+		penwidth=10,
+		pos="e,1408,463.27 1492.5,411.37 1468,426.42 1444,441.13 1423,454.01",
+		style=solid];
+	"er v. 
+Carr\" and \"Reynolds v. Sims\" ,"	[color=aquamarine,
+		fillcolor=lightslategray,
+		fontcolor="#006400",
+		fontsize=57,
+		height=1.8611,
+		label="er v. 
+Carr\" and \"Reynolds v. Sims\" ,",
+		penwidth=5,
+		pos="1516.8,71.244",
+		shape=box,
+		style=filled,
+		width=10.056];
+	" on populat
+ion rather than geographic counties." -> "er v. 
+Carr\" and \"Reynolds v. Sims\" ,"	[arrowhead=vee,
+		arrowsize=1.25,
+		color=burlywood,
+		penwidth=8,
+		pos="e,1560.6,138.26 1597.7,195.1 1587.5,179.51 1577.2,163.72 1567.5,148.88",
+		style=solid];
+	"s to end disenfran
+chisement and seg"	[color=darkblue,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#B8860B",
+		fontsize=40,
+		height=1.9967,
+		label="s to end disenfran
+chisement and seg",
+		penwidth=6,
+		peripheries=2,
+		pos="2671.6,71.882",
+		shape=ellipse,
+		style=filled,
+		width=6.259];
+	" on populat
+ion rather than geographic counties." -> "s to end disenfran
+chisement and seg"	[arrowhead=normal,
+		arrowsize=1.75,
+		color=darkgreen,
+		penwidth=12,
+		pos="e,2488.9,114.03 2136.6,195.32 2254.6,168.09 2375.1,140.29 2471.8,117.99",
+		style=solid];
+	"tion is in majori"	[color=cornflowerblue,
+		fillcolor=lightslategrey,
+		fontcolor="#800080",
+		fontsize=55,
+		height=0.95833,
+		label="tion is in majori",
+		penwidth=2,
+		pos="3128.5,228.49",
+		shape=box,
+		style=filled,
+		width=5.125];
+	"he legislature completed the con
+gressional redis" -> "tion is in majori"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=burlywood,
+		penwidth=6,
+		pos="e,3021.8,263.06 2867.1,313.16 2914.7,297.73 2965.7,281.23 3009.8,266.94",
+		style=bold];
+	"istr
+icts.African Ameri
+cans
+ continued to p"	[color=burlywood,
+		fillcolor=lightcyan,
+		fontcolor="#000000",
+		fontsize=51,
+		height=4.668,
+		label="istr
+icts.African Ameri
+cans
+ continued to p",
+		penwidth=5,
+		peripheries=2,
+		pos="2384.4,1043.8",
+		shape=ellipse,
+		style=filled,
+		width=7.7518];
+	"he total state population is in majority con" -> "istr
+icts.African Ameri
+cans
+ continued to p"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=darkslategrey,
+		penwidth=6,
+		pos="e,2384.4,875.56 2384.4,825.48 2384.4,836.13 2384.4,847.88 2384.4,860.23",
+		style=solid];
+}

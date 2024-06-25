@@ -1,0 +1,175 @@
+strict digraph "" {
+	graph [bb="0,0,2594.1,1870.9",
+		bgcolor=transparent,
+		colorscheme=pastel19,
+		labeljust=r,
+		overlap=false
+	];
+	node [fontname="DejaVu Sans,DejaVu Sans Condensed",
+		label="\N"
+	];
+	"the Greek sculptor Leochar"	[color=6,
+		colorscheme=pastel19,
+		fillcolor=9,
+		fontcolor="#000080",
+		fontsize=60,
+		height=1.4535,
+		label="the Greek sculptor Leochar",
+		penwidth=2,
+		peripheries=1,
+		pos="520.43,848.89",
+		shape=ellipse,
+		style=filled,
+		width=14.456];
+	"e i
+s a marble scu
+lpture that was rediscovered"	[color=7,
+		colorscheme=pastel19,
+		fillcolor=8,
+		fontcolor="#008080",
+		fontsize=60,
+		height=2.8611,
+		label="e i
+s a marble scu
+lpture that was rediscovered",
+		penwidth=8,
+		pos="1430.5,917.14",
+		shape=box,
+		style=filled,
+		width=10.597];
+	"the Greek sculptor Leochar" -> "e i
+s a marble scu
+lpture that was rediscovered"	[arrowhead=halfopen,
+		arrowsize=1.5,
+		color=darkcyan,
+		penwidth=10,
+		pos="e,1048.6,888.5 937.82,880.19 969.7,882.58 1001.8,884.99 1033.6,887.37",
+		style=bold];
+	"made between 350 and 325 BCE.The li"	[color=7,
+		colorscheme=pastel19,
+		fillcolor=8,
+		fontcolor="#000000",
+		fontsize=47,
+		height=1.2896,
+		label="made between 350 and 325 BCE.The li",
+		penwidth=2,
+		peripheries=2,
+		pos="1698.5,46.426",
+		shape=ellipse,
+		style=filled,
+		width=16.532];
+	"e i
+s a marble scu
+lpture that was rediscovered" -> "made between 350 and 325 BCE.The li"	[arrowhead=none,
+		arrowsize=1,
+		color=darkolivegreen,
+		penwidth=6,
+		pos="1462.2,813.84 1520.6,624.41 1642.4,228.5 1684.1,93.045",
+		style=dotted];
+	"f 
+Classical Antiquity for "	[color=6,
+		colorscheme=pastel19,
+		fillcolor=7,
+		fontcolor="#8B008B",
+		fontsize=42,
+		height=1.3889,
+		label="f 
+Classical Antiquity for ",
+		penwidth=7,
+		pos="1553.6,1820.9",
+		shape=box,
+		style=filled,
+		width=5.9306];
+	"e i
+s a marble scu
+lpture that was rediscovered" -> "f 
+Classical Antiquity for "	[arrowhead=normal,
+		arrowsize=2,
+		color=bisque,
+		penwidth=11,
+		pos="e,1546.7,1770.7 1444.5,1020.4 1469.8,1206.2 1522.4,1592.4 1544,1750.8",
+		style=solid];
+	"s in the museum at Sousse. T"	[color=9,
+		colorscheme=pastel19,
+		fillcolor=8,
+		fontcolor="#800000",
+		fontsize=56,
+		height=0.97222,
+		label="s in the museum at Sousse. T",
+		penwidth=5,
+		pos="2213.6,1383.2",
+		shape=box,
+		style=filled,
+		width=10.569];
+	"e i
+s a marble scu
+lpture that was rediscovered" -> "s in the museum at Sousse. T"	[arrowhead=vee,
+		arrowsize=1,
+		color=darkgoldenrod,
+		penwidth=7,
+		pos="e,2154.4,1347.9 1603.8,1020.3 1774.3,1121.8 2026,1271.6 2145.7,1342.7",
+		style=solid];
+	"ugh now even a"	[color=7,
+		colorscheme=pastel19,
+		fillcolor=8,
+		fontcolor="#2F4F4F",
+		fontsize=58,
+		height=1.4142,
+		label="ugh now even a",
+		penwidth=1,
+		peripheries=1,
+		pos="804.97,1580.9",
+		shape=ellipse,
+		style=filled,
+		width=8.3478];
+	"e i
+s a marble scu
+lpture that was rediscovered" -> "ugh now even a"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=firebrick,
+		penwidth=6,
+		pos="e,852.68,1530.3 1333.1,1020.5 1201.3,1160.3 970.42,1405.3 863,1519.3",
+		style=dashed];
+	"asing conventi"	[color=9,
+		colorscheme=pastel19,
+		fillcolor=7,
+		fontcolor="#800080",
+		fontsize=52,
+		height=1.3878,
+		label="asing conventi",
+		penwidth=4,
+		peripheries=2,
+		pos="914.45,165.53",
+		shape=ellipse,
+		style=filled,
+		width=7.0054];
+	"e i
+s a marble scu
+lpture that was rediscovered" -> "asing conventi"	[arrowhead=invempty,
+		arrowsize=1.5,
+		color=blue,
+		penwidth=12,
+		pos="e,948.74,215.48 1359.5,813.81 1250.8,655.48 1046.3,357.61 957.48,228.2",
+		style=dotted];
+	"odern reception"	[color=9,
+		colorscheme=pastel19,
+		fillcolor=1,
+		fontcolor="#000000",
+		fontsize=46,
+		height=1.3811,
+		label="odern reception",
+		penwidth=2,
+		peripheries=3,
+		pos="2280.6,590.15",
+		shape=ellipse,
+		style=filled,
+		width=6.8022];
+	"e i
+s a marble scu
+lpture that was rediscovered" -> "odern reception"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=darkkhaki,
+		penwidth=7,
+		pos="e,2166.2,634.14 1698.3,814.13 1850.8,755.47 2034.7,684.73 2154.5,638.66",
+		style=tapered];
+}

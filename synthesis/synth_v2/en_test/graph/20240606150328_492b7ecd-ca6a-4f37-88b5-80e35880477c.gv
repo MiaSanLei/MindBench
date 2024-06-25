@@ -1,0 +1,1117 @@
+strict digraph "" {
+	graph [bb="0,0,5602.4,7024.3",
+		bgcolor=transparent,
+		labeljust=r,
+		overlap=false,
+		rankdir=LR,
+		sep="+25,25"
+	];
+	node [fontname="DejaVu Sans,DejaVu Sans Light",
+		label="\N"
+	];
+	" to change through grow
+th and reorgani
+zat"	[color=azure,
+		fillcolor=lightseagreen,
+		fontcolor="#000000",
+		fontsize=60,
+		height=2.8611,
+		label=" to change through grow
+th and reorgani
+zat",
+		penwidth=2,
+		pos="335.5,2916.3",
+		shape=box,
+		style=filled,
+		width=9.3194];
+	" adaptions includin
+g macro- and microstructural"	[color=blue,
+		fillcolor=lightyellow,
+		fontcolor="#800080",
+		fontsize=45,
+		height=4.2426,
+		label=" adaptions includin
+g macro- and microstructural",
+		penwidth=6,
+		pos="1552.7,5549.3",
+		shape=invtriangle,
+		style=filled,
+		width=23.492];
+	" to change through grow
+th and reorgani
+zat" -> " adaptions includin
+g macro- and microstructural"	[arrowhead=normal,
+		arrowsize=2,
+		penwidth=11,
+		pos="e,1489,5413.4 384.14,3019.5 571.3,3425 1256.9,4910.5 1480.6,5395.2",
+		style=solid];
+	"ceflight on brai
+n struc"	[color=deeppink,
+		fillcolor=lightpink,
+		fontcolor="#9932CC",
+		fontsize=56,
+		height=2.7038,
+		label="ceflight on brai
+n struc",
+		penwidth=4,
+		peripheries=2,
+		pos="1552.7,2916.3",
+		shape=ellipse,
+		style=filled,
+		width=7.8107];
+	" to change through grow
+th and reorgani
+zat" -> "ceflight on brai
+n struc"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=9,
+		pos="e,1271.2,2916.3 671.37,2916.3 855.42,2916.3 1081.6,2916.3 1258.6,2916.3",
+		style=bold];
+	" physio"	[color=darkgoldenrod,
+		fillcolor=lightseagreen,
+		fontcolor="#008080",
+		fontsize=60,
+		height=2.0556,
+		label=" physio",
+		penwidth=0,
+		pos="1552.7,702.3",
+		shape=trapezium,
+		style=filled,
+		width=5.7778];
+	" to change through grow
+th and reorgani
+zat" -> " physio"	[arrowhead=invodot,
+		arrowsize=1,
+		penwidth=12,
+		pos="e,1511,776.47 393.08,2813.2 599.23,2437.6 1308.3,1145.8 1502.3,792.34",
+		style=solid];
+	" but also "	[color=dimgray,
+		fillcolor=lightskyblue,
+		fontcolor="#008080",
+		fontsize=44,
+		height=0.77778,
+		label=" but also ",
+		penwidth=4,
+		pos="3099.5,6654.3",
+		shape=box,
+		style=filled,
+		width=2.7361];
+	" adaptions includin
+g macro- and microstructural" -> " but also "	[arrowhead=normal,
+		arrowsize=2,
+		penwidth=8,
+		pos="e,3059.3,6626.2 1660.8,5625.9 1963.3,5842.3 2816.7,6452.7 3042.9,6614.5",
+		style=bold];
+	"t the effects of
+ spac"	[color=lightgoldenrodyellow,
+		fillcolor=lightgrey,
+		fontcolor="#B8860B",
+		fontsize=51,
+		height=2.357,
+		label="t the effects of
+ spac",
+		penwidth=5,
+		peripheries=1,
+		pos="3099.5,5916.3",
+		shape=ellipse,
+		style=filled,
+		width=6.6979];
+	" adaptions includin
+g macro- and microstructural" -> "t the effects of
+ spac"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=9,
+		pos="e,2899.2,5868.9 1875.7,5625.8 2178.4,5697.7 2623.2,5803.4 2884.6,5865.5",
+		style=solid];
+	"cosmonauts after the"	[color=white,
+		fillcolor=lightcoral,
+		fontcolor="#800080",
+		fontsize=51,
+		height=1.5538,
+		label="cosmonauts after the",
+		penwidth=3,
+		pos="3099.5,5549.3",
+		shape=invhouse,
+		style=filled,
+		width=12.091];
+	" adaptions includin
+g macro- and microstructural" -> "cosmonauts after the"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=7,
+		pos="e,2664.3,5549.3 2116.9,5549.3 2292.9,5549.3 2484.7,5549.3 2651.6,5549.3",
+		style=bold];
+	"IPT) concluded t
+his after they obs"	[color=gainsboro,
+		fillcolor=lightgreen,
+		fontcolor="#808000",
+		fontsize=47,
+		height=2.1999,
+		label="IPT) concluded t
+his after they obs",
+		penwidth=0,
+		peripheries=1,
+		pos="3099.5,5229.3",
+		shape=ellipse,
+		width=7.3461];
+	" adaptions includin
+g macro- and microstructural" -> "IPT) concluded t
+his after they obs"	[arrowhead=invempty,
+		arrowsize=1.25,
+		penwidth=10,
+		pos="e,2881.5,5274.2 1873.3,5483.1 2170.3,5421.6 2605.2,5331.5 2869.1,5276.8",
+		style=solid];
+	"g stays aboard the Internatio
+nal Space Station
+ sh"	[color=darkkhaki,
+		fillcolor=lightslategrey,
+		fontcolor="#FF8C00",
+		fontsize=45,
+		height=3.2145,
+		label="g stays aboard the Internatio
+nal Space Station
+ sh",
+		penwidth=0,
+		peripheries=2,
+		pos="3099.5,3915.3",
+		shape=ellipse,
+		style=filled,
+		width=11.759];
+	"ceflight on brai
+n struc" -> "g stays aboard the Internatio
+nal Space Station
+ sh"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=7,
+		pos="e,2933.9,3808.8 1686.4,3002.1 1964.4,3181.9 2607.9,3598 2921,3800.5",
+		style=solid];
+	entist	[color=darkcyan,
+		fillcolor=lightgrey,
+		fontcolor="#800000",
+		fontsize=52,
+		height=0.90278,
+		label=entist,
+		penwidth=8,
+		pos="3099.5,3095.3",
+		shape=box,
+		style=filled,
+		width=1.9583];
+	"ceflight on brai
+n struc" -> entist	[arrowhead=open,
+		arrowsize=2,
+		penwidth=11,
+		pos="e,3028.8,3087.2 1819.7,2947.1 2173.6,2988.1 2781.2,3058.5 3008.9,3084.9",
+		style=solid];
+	" can lead to new mot"	[color=cadetblue,
+		fillcolor=lightcoral,
+		fontcolor="#A9A9A9",
+		fontsize=40,
+		height=0.72222,
+		label=" can lead to new mot",
+		penwidth=2,
+		pos="3099.5,2677.3",
+		shape=box,
+		style=filled,
+		width=5.4722];
+	"ceflight on brai
+n struc" -> " can lead to new mot"	[arrowhead=open,
+		arrowsize=1,
+		penwidth=12,
+		pos="e,2930.4,2703.3 1809.7,2876.7 2123.5,2828.1 2647.2,2747.1 2920.4,2704.9",
+		style=solid];
+	"s still 
+know little about "	[color=lightgray,
+		fillcolor=lightsteelblue,
+		fontcolor="#8B008B",
+		fontsize=60,
+		height=1.9444,
+		label="s still 
+know little about ",
+		penwidth=4,
+		pos="3099.5,1527.3",
+		shape=box,
+		style=filled,
+		width=6.4306];
+	"ceflight on brai
+n struc" -> "s still 
+know little about "	[arrowhead=curve,
+		arrowsize=1.25,
+		penwidth=11,
+		pos="e,3020.6,1597.4 1654.8,2825.4 1939.3,2569.6 2743.6,1846.4 3010.9,1606.1",
+		style=solid];
+	"ile scientists still know little "	[color=aquamarine,
+		fillcolor=lightsalmon,
+		fontcolor="#000000",
+		fontsize=46,
+		height=1.27,
+		label="ile scientists still know little ",
+		penwidth=6,
+		peripheries=2,
+		pos="3099.5,863.3",
+		shape=ellipse,
+		style=filled,
+		width=11.346];
+	" physio" -> "ile scientists still know little "	[arrowhead=normal,
+		arrowsize=2,
+		penwidth=9,
+		pos="e,2757.9,838.21 1705.8,722.64 1881.2,745.67 2178.3,783.34 2434.4,809.3 2532.7,819.26 2639.2,828.58 2737.7,836.58",
+		style=solid];
+	" motor skills bu"	[color=blueviolet,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#006400",
+		fontsize=55,
+		height=2.7106,
+		label=" motor skills bu",
+		penwidth=0,
+		pos="3099.5,702.3",
+		shape=triangle,
+		style=filled,
+		width=15.124];
+	" physio" -> " motor skills bu"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=12,
+		pos="e,2736.5,702.3 1717.6,702.3 1954.7,702.3 2400.3,702.3 2721.3,702.3",
+		style=tapered];
+	"tronaut on the Interna"	[color=lightcyan,
+		fillcolor=lightskyblue,
+		fontcolor="#9932CC",
+		fontsize=59,
+		height=1.545,
+		label="tronaut on the Interna",
+		penwidth=4,
+		peripheries=2,
+		pos="3099.5,392.3",
+		shape=ellipse,
+		width=11.562];
+	" physio" -> "tronaut on the Interna"	[arrowhead=box,
+		arrowsize=2,
+		penwidth=10,
+		pos="e,2867.9,438.57 1739.3,665.06 2016.1,609.5 2537.9,504.8 2848.2,442.52",
+		style=solid];
+	" Space Station showed that long-dur"	[color=darkorchid,
+		fillcolor=lightgray,
+		fontcolor="#800000",
+		fontsize=46,
+		height=1.4324,
+		label=" Space Station showed that long-dur",
+		penwidth=5,
+		pos="3099.5,267.3",
+		shape=invhouse,
+		style=filled,
+		width=18.476];
+	" physio" -> " Space Station showed that long-dur"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=11,
+		pos="e,2517.2,309.12 1690.1,628.26 1859.3,540.21 2159.2,396.49 2434.4,327.3 2456.6,321.71 2479.4,316.63 2502.4,312.01",
+		style=bold];
+	"While scienti
+sts still know lit"	[color=darkorchid,
+		fillcolor=lightblue,
+		fontcolor="#000000",
+		fontsize=59,
+		height=1.9167,
+		label="While scienti
+sts still know lit",
+		penwidth=7,
+		pos="4701.5,6955.3",
+		shape=box,
+		style=filled,
+		width=5.6111];
+	" but also " -> "While scienti
+sts still know lit"	[arrowhead=diamond,
+		arrowsize=1.25,
+		penwidth=6,
+		pos="e,4499.5,6950.6 3170.7,6682.4 3295.3,6731 3564.3,6830 3800.7,6877.3 4031.5,6923.5 4301,6942.3 4484.5,6950",
+		style=solid];
+	"smonauts after they "	[color=lightskyblue,
+		fillcolor=lightseagreen,
+		fontcolor="#800080",
+		fontsize=47,
+		height=1.4007,
+		label="smonauts after they ",
+		penwidth=7,
+		peripheries=3,
+		pos="4701.5,6818.3",
+		shape=ellipse,
+		style=filled,
+		width=8.8646];
+	" but also " -> "smonauts after they "	[arrowhead=normal,
+		arrowsize=2,
+		penwidth=11,
+		pos="e,4394.4,6804.6 3198.2,6671.6 3333.2,6694.9 3584.7,6736.1 3800.7,6759.3 3990.3,6779.7 4203.2,6794 4374.3,6803.5",
+		style=dashed];
+	"this study showed that s
+pace "	[color=cornflowerblue,
+		fillcolor=lightyellow,
+		fontcolor="#E9967A",
+		fontsize=40,
+		height=2.6667,
+		label="this study showed that s
+pace ",
+		penwidth=0,
+		pos="4701.5,6654.3",
+		shape=parallelogram,
+		style=filled,
+		width=13.017];
+	" but also " -> "this study showed that s
+pace "	[arrowhead=dot,
+		arrowsize=1.25,
+		penwidth=6,
+		pos="e,4328.4,6654.3 3198.2,6654.3 3415.6,6654.3 3949.4,6654.3 4318.4,6654.3",
+		style=solid];
+	"irst study to provide clear evi"	[color=bisque,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#FF8C00",
+		fontsize=52,
+		height=1.8056,
+		label="irst study to provide clear evi",
+		penwidth=2,
+		pos="4701.5,6475.3",
+		shape=diamond,
+		style=filled,
+		width=19];
+	" but also " -> "irst study to provide clear evi"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=9,
+		pos="e,4301.8,6502.3 3198.2,6637.5 3333.3,6614.8 3584.9,6574.3 3800.7,6549.3 3959.9,6530.8 4135.5,6515.3 4289,6503.3",
+		style=solid];
+	"ich is the brain's
+ ability to change "	[color=darkred,
+		fillcolor=lightgoldenrodyellow,
+		fontcolor="#556B2F",
+		fontsize=42,
+		height=1.3889,
+		label="ich is the brain's
+ ability to change ",
+		penwidth=2,
+		pos="4701.5,6342.3",
+		shape=box,
+		style=filled,
+		width=4.8611];
+	"t the effects of
+ spac" -> "ich is the brain's
+ ability to change "	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=10,
+		pos="e,4526.1,6352 3209.3,5991.9 3342.1,6079.6 3576.6,6220.3 3800.7,6283.3 4039,6350.3 4326.3,6357.1 4511.1,6352.4",
+		style=solid];
+	" microstructural changes. While sc"	[color=aliceblue,
+		fillcolor=lightslategrey,
+		fontcolor="#8B008B",
+		fontsize=43,
+		height=1.3585,
+		label=" microstructural changes. While sc",
+		penwidth=2,
+		peripheries=2,
+		pos="4701.5,6225.3",
+		shape=polygon,
+		sides=6,
+		style=filled,
+		width=16.119];
+	"t the effects of
+ spac" -> " microstructural changes. While sc"	[arrowhead=normal,
+		arrowsize=1.75,
+		penwidth=12,
+		pos="e,4176.8,6216.3 3248.6,5983.1 3388,6042.7 3604.1,6126.6 3800.7,6167.3 3915.6,6191.1 4040.3,6205.9 4159.3,6215",
+		style=solid];
+	"cted on the brains of eigh
+t m"	[color=lightgrey,
+		fillcolor=lightsalmon,
+		fontcolor="#556B2F",
+		fontsize=56,
+		height=3.6667,
+		label="cted on the brains of eigh
+t m",
+		penwidth=0,
+		pos="4701.5,6026.3",
+		shape=diamond,
+		style=filled,
+		width=18.389];
+	"t the effects of
+ spac" -> "cted on the brains of eigh
+t m"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=11,
+		pos="e,4208.8,5992.5 3336.6,5932.5 3561.2,5948 3906.5,5971.7 4193.4,5991.4",
+		style=solid];
+	"ted on the brains
+ of eight male R"	[color=lightcyan,
+		fillcolor=lightsteelblue,
+		fontcolor="#008B8B",
+		fontsize=59,
+		height=1.9167,
+		label="ted on the brains
+ of eight male R",
+		penwidth=8,
+		pos="4701.5,5807.3",
+		shape=box,
+		style=filled,
+		width=6.4306];
+	"t the effects of
+ spac" -> "ted on the brains
+ of eight male R"	[arrowhead=inv,
+		arrowsize=1.25,
+		penwidth=10,
+		pos="e,4470,5823 3336.6,5900.2 3637.1,5879.7 4153.6,5844.6 4457.5,5823.9",
+		style=dashed];
+	"y showed that space travel can 
+lead t"	[color=lightseagreen,
+		fillcolor=lightseagreen,
+		fontcolor="#000080",
+		fontsize=49,
+		height=1.6111,
+		label="y showed that space travel can 
+lead t",
+		penwidth=2,
+		pos="4701.5,5662.3",
+		shape=box,
+		style=filled,
+		width=9.875];
+	"t the effects of
+ spac" -> "y showed that space travel can 
+lead t"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=7,
+		pos="e,4345.8,5673.4 3278,5859 3418.3,5816.2 3620,5759.9 3800.7,5729.3 3974.5,5699.9 4169.3,5683.4 4333.1,5674.1",
+		style=dotted];
+	"lity to change throu"	[color=gainsboro,
+		fillcolor=lightyellow,
+		fontcolor="#808000",
+		fontsize=59,
+		height=1.0139,
+		label="lity to change throu",
+		penwidth=4,
+		pos="4701.5,5549.3",
+		shape=box,
+		style=filled,
+		width=7.2361];
+	"cosmonauts after the" -> "lity to change throu"	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=9,
+		pos="e,4440.9,5549.3 3534.6,5549.3 3820.5,5549.3 4185.9,5549.3 4430.8,5549.3",
+		style=solid];
+	"s and Technology (MI
+PT) conclude
+d this after they"	[color=lightseagreen,
+		fillcolor=lightslategray,
+		fontcolor="#A9A9A9",
+		fontsize=40,
+		height=1.9444,
+		label="s and Technology (MI
+PT) conclude
+d this after they",
+		penwidth=4,
+		pos="4701.5,5424.3",
+		shape=box,
+		style=filled,
+		width=5.625];
+	"IPT) concluded t
+his after they obs" -> "s and Technology (MI
+PT) conclude
+d this after they"	[arrowhead=box,
+		arrowsize=1.75,
+		penwidth=9,
+		pos="e,4499,5411 3324.9,5271 3462,5295.3 3641,5325.1 3800.7,5345.3 4032.3,5374.6 4298.8,5396.5 4481.4,5409.8",
+		style=solid];
+	"adaptions including macro- and mi"	[color=lightskyblue,
+		fillcolor=lightgrey,
+		fontcolor="#008080",
+		fontsize=57,
+		height=0.98611,
+		label="adaptions including macro- and mi",
+		penwidth=1,
+		pos="4701.5,5300.3",
+		shape=box,
+		style=filled,
+		width=12.458];
+	"IPT) concluded t
+his after they obs" -> "adaptions including macro- and mi"	[arrowhead=normal,
+		arrowsize=1.75,
+		penwidth=10,
+		pos="e,4252.7,5280.4 3361.2,5240.9 3597.2,5251.3 3950.5,5267 4234.9,5279.6",
+		style=tapered];
+	" (MIPT) concluded this after they o
+bser"	[color=darkmagenta,
+		fillcolor=lightgray,
+		fontcolor="#FF8C00",
+		fontsize=50,
+		height=2.4289,
+		label=" (MIPT) concluded this after they o
+bser",
+		penwidth=3,
+		peripheries=2,
+		pos="4701.5,5159.3",
+		shape=ellipse,
+		style=filled,
+		width=15.589];
+	"IPT) concluded t
+his after they obs" -> " (MIPT) concluded this after they o
+bser"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=7,
+		pos="e,4160.9,5182.9 3361.6,5217.9 3574.1,5208.6 3881.5,5195.1 4148.2,5183.5",
+		style=solid];
+	"this after they observed that mi"	[color=brown,
+		fillcolor=lightslategrey,
+		fontcolor="#000080",
+		fontsize=49,
+		height=0.86111,
+		label="this after they observed that mi",
+		penwidth=0,
+		pos="4701.5,5023.3",
+		shape=box,
+		style=filled,
+		width=9.5694];
+	"IPT) concluded t
+his after they obs" -> "this after they observed that mi"	[arrowhead=normal,
+		arrowsize=1.75,
+		penwidth=10,
+		pos="e,4356.8,5023.4 3290,5174.1 3429.8,5135.9 3625.5,5087.7 3800.7,5063.3 3976.9,5038.7 4174.3,5028.1 4339.1,5023.9",
+		style=solid];
+	"ensorimotor neuroplastic
+ity wh"	[color=darkslategray,
+		fillcolor=white,
+		fontcolor="#008B8B",
+		fontsize=56,
+		height=5.1854,
+		label="ensorimotor neuroplastic
+ity wh",
+		penwidth=2,
+		pos="4701.5,4787.3",
+		shape=triangle,
+		style=filled,
+		width=25.024];
+	"IPT) concluded t
+his after they obs" -> "ensorimotor neuroplastic
+ity wh"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=10,
+		pos="e,4327.5,4857.8 3261.1,5166.5 3401.8,5113 3612.7,5036.6 3800.7,4983.3 3966.8,4936.2 4152.9,4894 4312.6,4860.9",
+		style=solid];
+	"s the brai
+n's ability to chang
+e
+ through growt"	[color=darkslategrey,
+		fillcolor=lightslategrey,
+		fontcolor="#FF8C00",
+		fontsize=42,
+		height=3.9935,
+		label="s the brai
+n's ability to chang
+e
+ through growt",
+		penwidth=7,
+		peripheries=3,
+		pos="4701.5,4439.3",
+		shape=ellipse,
+		style=filled,
+		width=7.4504];
+	"g stays aboard the Internatio
+nal Space Station
+ sh" -> "s the brai
+n's ability to chang
+e
+ through growt"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=6,
+		pos="e,4436.2,4416.7 3265.3,4022 3403,4106.4 3607.4,4220.6 3800.7,4286.3 4002.4,4354.9 4240.5,4393.7 4421.1,4415",
+		style=solid];
+	"Tech
+nology (MIPT) concluded this"	[color=white,
+		fillcolor=lightpink,
+		fontcolor="#2F4F4F",
+		fontsize=42,
+		height=1.3889,
+		label="Tech
+nology (MIPT) concluded this",
+		penwidth=5,
+		pos="4701.5,4227.3",
+		shape=box,
+		style=filled,
+		width=7.875];
+	"g stays aboard the Internatio
+nal Space Station
+ sh" -> "Tech
+nology (MIPT) concluded this"	[arrowhead=none,
+		arrowsize=1.25,
+		penwidth=10,
+		pos="3322.5,4013.7 3457.9,4069.1 3636.1,4133.9 3800.7,4168.3 4004.4,4210.9 4239.2,4225.2 4417.9,4229",
+		style=solid];
+	"n astronaut on
+ the International"	[color=lightgray,
+		fillcolor=lightcoral,
+		fontcolor="#008000",
+		fontsize=50,
+		height=2.3177,
+		label="n astronaut on
+ the International",
+		penwidth=6,
+		peripheries=1,
+		pos="4701.5,4076.3",
+		shape=ellipse,
+		style=filled,
+		width=7.68];
+	"g stays aboard the Internatio
+nal Space Station
+ sh" -> "n astronaut on
+ the International"	[arrowhead=normal,
+		arrowsize=1.75,
+		penwidth=6,
+		pos="e,4439,4050 3497.1,3955.2 3784.4,3984.1 4165.8,4022.5 4421.5,4048.2",
+		style=solid];
+	"at mice expo"	[color=lightsalmon,
+		fillcolor=lightgreen,
+		fontcolor="#808000",
+		fontsize=47,
+		height=1.6667,
+		label="at mice expo",
+		penwidth=0,
+		pos="4701.5,3915.3",
+		shape=trapezium,
+		style=filled,
+		width=7.9722];
+	"g stays aboard the Internatio
+nal Space Station
+ sh" -> "at mice expo"	[arrowhead=normal,
+		arrowsize=1.75,
+		penwidth=9,
+		pos="e,4474.1,3915.3 3523,3915.3 3820.7,3915.3 4208.9,3915.3 4456.5,3915.3",
+		style=dotted];
+	"rnational Space Statio
+n showed that long-
+durati
+o"	[color=white,
+		fillcolor=lightpink,
+		fontcolor="#8B008B",
+		fontsize=52,
+		height=3.2778,
+		label="rnational Space Statio
+n showed that long-
+durati
+o",
+		penwidth=5,
+		pos="4701.5,3719.3",
+		shape=box,
+		style=filled,
+		width=7.3194];
+	"g stays aboard the Internatio
+nal Space Station
+ sh" -> "rnational Space Statio
+n showed that long-
+durati
+o"	[arrowhead=normal,
+		arrowsize=1.75,
+		penwidth=10,
+		pos="e,4437.8,3751.5 3486.1,3868.1 3774.1,3832.8 4161.1,3785.4 4420.1,3753.6",
+		style=solid];
+	"and reorganization.F"	[color=lightgrey,
+		fillcolor=lightskyblue,
+		fontcolor="#008080",
+		fontsize=52,
+		height=0.90278,
+		label="and reorganization.F",
+		penwidth=5,
+		pos="4701.5,3550.3",
+		shape=box,
+		style=filled,
+		width=6.8889];
+	"g stays aboard the Internatio
+nal Space Station
+ sh" -> "and reorganization.F"	[arrowhead=open,
+		arrowsize=1.75,
+		penwidth=7,
+		pos="e,4453.4,3536.6 3277.8,3810.2 3415.3,3734.5 3613.4,3638 3800.7,3592.3 4009.9,3541.2 4254.5,3532.9 4435.8,3536.2",
+		style=solid];
+	"eorganization.
+Food
+ and drink.An astronau
+t"	[color=fuchsia,
+		fillcolor=white,
+		fontcolor="#A9A9A9",
+		fontsize=45,
+		height=2.8889,
+		label="eorganization.
+Food
+ and drink.An astronau
+t",
+		penwidth=6,
+		pos="4701.5,3395.3",
+		shape=box,
+		style=filled,
+		width=6.5556];
+	entist -> "eorganization.
+Food
+ and drink.An astronau
+t"	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=10,
+		pos="e,4465.1,3374.6 3170.4,3117.3 3295.5,3156.1 3566.7,3236.6 3800.7,3282.3 4020.3,3325.2 4273.5,3355.3 4455.2,3373.6",
+		style=solid];
+	"r they return"	[color=burlywood,
+		fillcolor=lightgrey,
+		fontcolor="#00008B",
+		fontsize=55,
+		height=1.5775,
+		label="r they return",
+		penwidth=2,
+		peripheries=3,
+		pos="4701.5,3216.3",
+		shape=ellipse,
+		style=filled,
+		width=6.3505];
+	entist -> "r they return"	[arrowhead=none,
+		arrowsize=1.25,
+		penwidth=9,
+		pos="3170.1,3101 3295.9,3111.4 3569.7,3133.7 3800.7,3151.3 4033,3169 4299.1,3188.1 4481.4,3200.9",
+		style=solid];
+	"ew motor skills but also slightl"	[color=darkturquoise,
+		fillcolor=lightpink,
+		fontcolor="#008000",
+		fontsize=53,
+		height=1.2964,
+		label="ew motor skills but also slightl",
+		penwidth=1,
+		peripheries=1,
+		pos="4701.5,3095.3",
+		shape=ellipse,
+		style=filled,
+		width=14.122];
+	entist -> "ew motor skills but also slightl"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=7,
+		pos="e,4192.8,3095.3 3170.1,3095.3 3343.5,3095.3 3808,3095.3 4180.1,3095.3",
+		style=solid];
+	"It was the first st
+udy "	[color=gainsboro,
+		fillcolor=lightsalmon,
+		fontcolor="#808000",
+		fontsize=59,
+		height=1.9167,
+		label="It was the first st
+udy ",
+		penwidth=6,
+		pos="4701.5,2961.3",
+		shape=box,
+		style=filled,
+		width=6.1528];
+	entist -> "It was the first st
+udy "	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=8,
+		pos="e,4479.9,2979.8 3170.1,3089.5 3392.5,3070.8 4093.9,3012.1 4464.9,2981",
+		style=solid];
+	"adaptions includ"	[color=blueviolet,
+		fillcolor=lightcyan,
+		fontcolor="#008B8B",
+		fontsize=44,
+		height=0.77778,
+		label="adaptions includ",
+		penwidth=8,
+		pos="4701.5,2846.3",
+		shape=box,
+		style=filled,
+		width=4.7778];
+	" can lead to new mot" -> "adaptions includ"	[arrowhead=invempty,
+		arrowsize=2,
+		penwidth=12,
+		pos="e,4529.1,2846.6 3211.3,2703.4 3348.7,2734.5 3590.5,2785.3 3800.7,2809.3 4044,2837.1 4326.4,2844.7 4509,2846.5",
+		style=bold];
+	"n showed that l
+ong-duration spa"	[color=darkgoldenrod,
+		fillcolor=white,
+		fontcolor="#808000",
+		fontsize=54,
+		height=1.75,
+		label="n showed that l
+ong-duration spa",
+		penwidth=8,
+		pos="4701.5,2737.3",
+		shape=box,
+		style=filled,
+		width=5.9583];
+	" can lead to new mot" -> "n showed that l
+ong-duration spa"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=12,
+		pos="e,4486.8,2729.3 3296.7,2684.7 3594.5,2695.8 4159,2717 4473.8,2728.8",
+		style=dotted];
+	"and drink.An "	[color=black,
+		fillcolor=lightgrey,
+		fontcolor="#9932CC",
+		fontsize=43,
+		height=1.0803,
+		label="and drink.An ",
+		penwidth=6,
+		peripheries=1,
+		pos="4701.5,2617.3",
+		shape=ellipse,
+		style=filled,
+		width=5.4015];
+	" can lead to new mot" -> "and drink.An "	[arrowhead=vee,
+		arrowsize=1.5,
+		penwidth=7,
+		pos="e,4510.2,2624.4 3296.7,2669.9 3601.3,2658.5 4185.1,2636.6 4495.2,2625",
+		style=solid];
+	"es many physiological adaptio"	[color=dimgray,
+		fillcolor=lightgreen,
+		fontcolor="#00008B",
+		fontsize=60,
+		height=1.0278,
+		label="es many physiological adaptio",
+		penwidth=1,
+		pos="4701.5,2523.3",
+		shape=box,
+		width=11.486];
+	" can lead to new mot" -> "es many physiological adaptio"	[arrowhead=empty,
+		arrowsize=1.25,
+		penwidth=7,
+		pos="e,4288,2535.5 3241.1,2651.3 3382.1,2626.2 3605.7,2589.3 3800.7,2569.3 3955.2,2553.5 4125.1,2543 4275.4,2536.1",
+		style=solid];
+	"s. While scien
+tists still 
+know li
+ttle about "	[color=dodgerblue,
+		fillcolor=lightcyan,
+		fontcolor="#800080",
+		fontsize=55,
+		height=7,
+		label="s. While scien
+tists still 
+know li
+ttle about ",
+		penwidth=3,
+		pos="4701.5,2216.3",
+		shape=invtrapezium,
+		style=filled,
+		width=9.8333];
+	" can lead to new mot" -> "s. While scien
+tists still 
+know li
+ttle about "	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=6,
+		pos="e,4395.4,2304.2 3190.9,2651.3 3415.6,2586.5 4008.4,2415.7 4380.8,2308.4",
+		style=solid];
+	"they returned
+ from long st"	[color=darkgrey,
+		fillcolor=lightgreen,
+		fontcolor="#E9967A",
+		fontsize=46,
+		height=3.0556,
+		label="they returned
+ from long st",
+		penwidth=1,
+		pos="4701.5,1836.3",
+		shape=trapezium,
+		style=filled,
+		width=8.0556];
+	"s still 
+know little about " -> "they returned
+ from long st"	[arrowhead=normal,
+		arrowsize=2,
+		penwidth=7,
+		pos="e,4458.9,1813.2 3328.1,1597.3 3464.2,1637.1 3641.1,1685.2 3800.7,1717.3 4013.8,1760.1 4258.5,1791.3 4438.9,1811",
+		style=solid];
+	"l
+ittle about the effects of"	[color=crimson,
+		fillcolor=lightslategray,
+		fontcolor="#9932CC",
+		fontsize=41,
+		height=1.9249,
+		label="l
+ittle about the effects of",
+		penwidth=3,
+		peripheries=1,
+		pos="4701.5,1639.3",
+		shape=ellipse,
+		style=filled,
+		width=8.6424];
+	"s still 
+know little about " -> "l
+ittle about the effects of"	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=11,
+		pos="e,4404.5,1618.6 3331.1,1543.4 3611,1563 4084.2,1596.2 4394.5,1617.9",
+		style=solid];
+	"mal
+e Russian c
+osmo
+nauts after they returned fr"	[color=fuchsia,
+		fillcolor=lightsteelblue,
+		fontcolor="#E9967A",
+		fontsize=41,
+		height=3.8038,
+		label="mal
+e Russian c
+osmo
+nauts after they returned fr",
+		penwidth=3,
+		peripheries=2,
+		pos="4701.5,1415.3",
+		shape=ellipse,
+		style=filled,
+		width=9.8731];
+	"s still 
+know little about " -> "mal
+e Russian c
+osmo
+nauts after they returned fr"	[arrowhead=normal,
+		arrowsize=1.75,
+		penwidth=11,
+		pos="e,4351.5,1439.7 3331.1,1511.2 3593.3,1492.8 4025,1462.6 4333.6,1441",
+		style=solid];
+	"n and gamma radiation did not impact "	[color=cadetblue,
+		fillcolor=lightslategrey,
+		fontcolor="#000000",
+		fontsize=49,
+		height=0.86111,
+		label="n and gamma radiation did not impact ",
+		penwidth=3,
+		pos="4701.5,1229.3",
+		shape=box,
+		style=filled,
+		width=11.958];
+	"s still 
+know little about " -> "n and gamma radiation did not impact "	[arrowhead=diamond,
+		arrowsize=1.25,
+		penwidth=9,
+		pos="e,4271,1221.5 3249.2,1457.2 3388.3,1395.3 3603.7,1309 3800.7,1269.3 3947.2,1239.8 4109.8,1226.7 4256,1222",
+		style=solid];
+	"n cosmonauts aft
+er they returned "	[color=firebrick,
+		fillcolor=lightsalmon,
+		fontcolor="#008B8B",
+		fontsize=59,
+		height=1.9167,
+		label="n cosmonauts aft
+er they returned ",
+		penwidth=5,
+		pos="4701.5,1111.3",
+		shape=box,
+		style=filled,
+		width=6.5417];
+	"s still 
+know little about " -> "n cosmonauts aft
+er they returned "	[arrowhead=normal,
+		arrowsize=1.75,
+		penwidth=11,
+		pos="e,4465.7,1108.6 3212.8,1457.1 3347.1,1377.1 3581.2,1249.6 3800.7,1189.3 4013.9,1130.7 4265.2,1113 4448,1108.9",
+		style=solid];
+	"ensor
+imoto
+r neuroplasticity wh
+ich is the b"	[color=aqua,
+		fillcolor=lightseagreen,
+		fontcolor="#008080",
+		fontsize=45,
+		height=2.8889,
+		label="ensor
+imoto
+r neuroplasticity wh
+ich is the b",
+		penwidth=7,
+		pos="4701.5,920.3",
+		shape=box,
+		style=filled,
+		width=5.6111];
+	" motor skills bu" -> "ensor
+imoto
+r neuroplasticity wh
+ich is the b"	[arrowhead=tee,
+		arrowsize=1.5,
+		penwidth=11,
+		pos="e,4499.3,896.43 3329.7,738.08 3466.4,759.06 3643.3,785.62 3800.7,807.3 4037.2,839.88 4309.3,873.51 4491.8,895.52",
+		style=tapered];
+	"o
+ut mass of food per meal each"	[color=blueviolet,
+		fillcolor=lightsalmon,
+		fontcolor="#BDB76B",
+		fontsize=53,
+		height=2.6578,
+		label="o
+ut mass of food per meal each",
+		penwidth=0,
+		peripheries=3,
+		pos="4701.5,702.3",
+		shape=ellipse,
+		style=filled,
+		width=14.718];
+	" motor skills bu" -> "o
+ut mass of food per meal each"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=12,
+		pos="e,4171.4,702.3 3462.6,702.3 3668.1,702.3 3929.3,702.3 4158.7,702.3",
+		style=dashed];
+	"kills b
+ut also slightly weaker v"	[color=white,
+		fillcolor=lightseagreen,
+		fontcolor="#800080",
+		fontsize=45,
+		height=3,
+		label="kills b
+ut also slightly weaker v",
+		penwidth=8,
+		pos="4701.5,480.3",
+		shape=trapezium,
+		style=filled,
+		width=13.694];
+	"tronaut on the Interna" -> "kills b
+ut also slightly weaker v"	[arrowhead=normal,
+		arrowsize=1,
+		penwidth=12,
+		pos="e,4289.4,457.69 3484.8,413.43 3724.4,426.61 4032.9,443.58 4279.2,457.12",
+		style=solid];
+	"ts' intellectual capabilities.A 2"	[color=lightcoral,
+		fillcolor=lightslategray,
+		fontcolor="#000080",
+		fontsize=48,
+		height=1.4204,
+		label="ts' intellectual capabilities.A 2",
+		penwidth=0,
+		peripheries=3,
+		pos="4701.5,303.3",
+		shape=ellipse,
+		style=filled,
+		width=13.048];
+	"tronaut on the Interna" -> "ts' intellectual capabilities.A 2"	[arrowhead=normal,
+		arrowsize=1.5,
+		penwidth=9,
+		pos="e,4283,326.52 3484,370.96 3720,357.84 4023.1,340.98 4267.7,327.37",
+		style=dashed];
+	"ral changes. Whil"	[color=cadetblue,
+		fillcolor=lightyellow,
+		fontcolor="#FF8C00",
+		fontsize=48,
+		height=0.84722,
+		label="ral changes. Whil",
+		penwidth=2,
+		pos="4701.5,203.3",
+		shape=box,
+		style=filled,
+		width=5.4028];
+	"tronaut on the Interna" -> "ral changes. Whil"	[arrowhead=normal,
+		arrowsize=1.25,
+		penwidth=6,
+		pos="e,4506.9,188.47 3427.3,426.63 3543.4,422.8 3669,398.55 3764.7,328.3 3797.8,304.02 3767,266.71 3800.7,243.3 3908.8,168.19 4263.8,\
+174.56 4494.3,187.73",
+		style=dashed];
+	"scow Institute of P
+hysics and Techn"	[color=darkturquoise,
+		fillcolor=lightyellow,
+		fontcolor="#008080",
+		fontsize=41,
+		height=2.1471,
+		label="scow Institute of P
+hysics and Techn",
+		penwidth=0,
+		peripheries=3,
+		pos="4701.5,77.296",
+		shape=ellipse,
+		width=6.9987];
+	"tronaut on the Interna" -> "scow Institute of P
+hysics and Techn"	[arrowhead=normal,
+		arrowsize=2,
+		penwidth=12,
+		pos="e,4492.2,34.117 3366.6,435 3501.2,441.21 3658.3,422.63 3764.7,328.3 3820.5,278.79 3744.8,213.81 3800.7,164.3 3981.6,3.7897 4270.9,\
+5.0089 4472.4,31.401",
+		style=bold];
+}

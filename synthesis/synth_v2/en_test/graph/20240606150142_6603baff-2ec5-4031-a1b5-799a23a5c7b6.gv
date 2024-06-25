@@ -1,0 +1,128 @@
+strict digraph "" {
+	graph [bb="0,0,4573.6,305.56",
+		bgcolor=transparent,
+		labeljust=r,
+		overlap=false
+	];
+	node [fontname="Standard Symbols PS",
+		label="\N"
+	];
+	", except for
+ decorative usage for whic"	[color=bisque,
+		fillcolor=lightpink,
+		fontcolor="#006400",
+		fontsize=60,
+		height=1.9444,
+		label=", except for
+ decorative usage for whic",
+		penwidth=6,
+		pos="3636.7,125.65",
+		shape=box,
+		style=filled,
+		width=9.8611];
+	"ry, alb
+eit not as an official wr"	[color=darkorchid,
+		fillcolor=lightsteelblue,
+		fontcolor="#8B008B",
+		fontsize=52,
+		height=1.6944,
+		label="ry, alb
+eit not as an official wr",
+		penwidth=6,
+		pos="4307.6,230.09",
+		shape=box,
+		style=filled,
+		width=7.3889];
+	", except for
+ decorative usage for whic" -> "ry, alb
+eit not as an official wr"	[arrowhead=normal,
+		arrowsize=1.5,
+		color=forestgreen,
+		penwidth=9,
+		pos="e,4041.4,188.65 3991.8,180.93 4003.4,182.73 4014.9,184.53 4026.4,186.31",
+		style=tapered];
+	"et, 
+except for decora"	[color=darkgoldenrod,
+		fillcolor=lightpink,
+		fontcolor="#006400",
+		fontsize=60,
+		height=3.8889,
+		label="et, 
+except for decora",
+		penwidth=5,
+		pos="2796.6,140",
+		shape=diamond,
+		style=filled,
+		width=13.25];
+	", except for
+ decorative usage for whic" -> "et, 
+except for decora"	[arrowhead=open,
+		arrowsize=1.5,
+		color=chartreuse,
+		penwidth=11,
+		pos="e,3247.5,132.3 3281.6,131.72 3275.3,131.82 3269,131.93 3262.7,132.04",
+		style=solid];
+	"lder Fut
+hark gave ris"	[color=darkgoldenrod,
+		fillcolor=lightblue,
+		fontcolor="#BDB76B",
+		fontsize=52,
+		height=3.3889,
+		label="lder Fut
+hark gave ris",
+		penwidth=1,
+		pos="1916.5,183.56",
+		shape=invtrapezium,
+		width=8.7778];
+	"et, 
+except for decora" -> "lder Fut
+hark gave ris"	[arrowhead=open,
+		arrowsize=1.25,
+		color=blue,
+		penwidth=11,
+		pos="e,2160.4,171.49 2388.1,160.22 2314.8,163.85 2240.4,167.53 2173,170.87",
+		style=bold];
+	"he late Middle 
+Ages. I"	[color=lightyellow,
+		fillcolor=white,
+		fontcolor="#800000",
+		fontsize=56,
+		height=1.8333,
+		label="he late Middle 
+Ages. I",
+		penwidth=5,
+		pos="1077.2,219.27",
+		shape=box,
+		style=filled,
+		width=5.3472];
+	"lder Fut
+hark gave ris" -> "he late Middle 
+Ages. I"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=blue,
+		penwidth=9,
+		pos="e,1269.7,211.08 1660.1,194.47 1539,199.62 1396.3,205.69 1282.4,210.54",
+		style=dotted];
+	"riting system of the Hun
+gari"	[color=lightslategray,
+		fillcolor=lightgrey,
+		fontcolor="#800000",
+		fontsize=52,
+		height=2.3963,
+		label="riting system of the Hun
+gari",
+		penwidth=4,
+		peripheries=1,
+		pos="398.81,158.92",
+		shape=ellipse,
+		style=filled,
+		width=11.078];
+	"he late Middle 
+Ages. I" -> "riting system of the Hun
+gari"	[arrowhead=normal,
+		arrowsize=1.25,
+		color=deeppink,
+		penwidth=11,
+		pos="e,767.87,191.75 884.6,202.13 851.67,199.2 816.44,196.07 780.58,192.88",
+		style=solid];
+}
