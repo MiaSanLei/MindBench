@@ -1,6 +1,7 @@
 # MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Project Page](https://img.shields.io/badge/Project-Page-Green)](https://miasanlei.github.io/MindBench.github.io/)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-orange)](https://huggingface.co/datasets/MiaSanLei/MindBench)
 
 <div align="center">
