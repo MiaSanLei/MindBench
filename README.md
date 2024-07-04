@@ -1,6 +1,7 @@
 # MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![arXiv](https://img.shields.io/badge/arXiv-2407.02842-b31b1b.svg)](https://arxiv.org/abs/2407.02842)
 [![Project Page](https://img.shields.io/badge/Project-Page-Green)](https://miasanlei.github.io/MindBench.github.io/)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-orange)](https://huggingface.co/datasets/MiaSanLei/MindBench)
 
@@ -14,6 +15,7 @@ Lei Chen, Feng Yan, Yujie Zhong, Shaoxiang Chen, Zequn Jie†, Lin Ma†
 
 ## Release
 
+- [2024/7/2] Our paper entitled "MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis" has been released in arXiv [Link](https://arxiv.org/abs/2407.02842).
 - [2024/6/25] We have released the code of model evaluation, data synthesis and data parsing.
 - [2024/6/24] The structured labels of synthetic and crawled datasets are [available](https://huggingface.co/datasets/MiaSanLei/MindBench)!
 
@@ -23,7 +25,7 @@ Lei Chen, Feng Yan, Yujie Zhong, Shaoxiang Chen, Zequn Jie†, Lin Ma†
 
 We utilize the Graphviz tool to synthesize rich mind map data, encompassing five structured tasks with varying sample sizes: full parsing (200,000 samples), part parsing (40,000 samples), position-related parsing (40,000 samples), structured VQA (60,000 samples), and position-related VQA (60,000 samples).
 
-Download synthetic dataset from huggingface [MiaSanLei/MindBench](https://huggingface.co/datasets/MiaSanLei/MindBench). Training data (~518G) are split into 11 files, run following cmds to prepare training and test images.
+Download synthetic dataset from huggingface [MiaSanLei/MindBench](https://huggingface.co/datasets/MiaSanLei/MindBench). Training data (~587G) are split into 18 files, run following cmds to prepare training and test images.
 ```
 cat synth_v* > synth_train.tar.gz
 tar -zxvf synth_train.tar.gz
@@ -247,10 +249,11 @@ The final files used for training and test are `train.jsonl`, `bxmind_test_easy.
 ## Citation
 If you found this work useful, consider giving this repository a star and citing our paper as followed:
 ```
-@misc{
-      title={MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis}, 
-      author={Chen, Lei and Yan, Feng and Zhong, Yujie and Chen, Shaoxiang and Jie, Zequn and Ma, Lin},
-      year={2024}
+@article{chen2024mindbench,
+        title={MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis},
+        author={Chen, Lei and Yan, Feng and Zhong, Yujie and Chen, Shaoxiang and Jie, Zequn and Ma, Lin},
+        journal={arXiv preprint arXiv:2407.02842},
+        year={2024}
 }
 ```
 
