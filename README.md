@@ -15,6 +15,7 @@ Lei Chen, Feng Yan, Yujie Zhong, Shaoxiang Chen, Zequn Jie†, Lin Ma†
 
 ## Release
 
+- [2024/7/6] The rendered images and source files of synthetic datasets are [available](https://huggingface.co/datasets/MiaSanLei/MindBench)!
 - [2024/7/2] Our paper entitled "MindBench: A Comprehensive Benchmark for Mind Map Structure Recognition and Analysis" has been released in arXiv [Link](https://arxiv.org/abs/2407.02842).
 - [2024/6/25] We have released the code of model evaluation, data synthesis and data parsing.
 - [2024/6/24] The structured labels of synthetic and crawled datasets are [available](https://huggingface.co/datasets/MiaSanLei/MindBench)!
